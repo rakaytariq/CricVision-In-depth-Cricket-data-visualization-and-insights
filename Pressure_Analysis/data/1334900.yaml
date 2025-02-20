@@ -1,0 +1,1521 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-10-21'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Lions
+    by:
+      wickets: 7
+    method: D/L
+  overs: 20
+  players:
+    Warriors:
+    - LC Ngoepe
+    - WJ Lubbe
+    - MP Breetzke
+    - RS Second
+    - J Hermann
+    - S Qeshile
+    - B Swanepoel
+    - GA Stuurman
+    - K Molefe
+    - Z Abrahams
+    - Tsepo Ndwandwa
+    Lions:
+    - RD Rickelton
+    - CS Delport
+    - M Van Buuren
+    - DA Hendricks
+    - PWA Mulder
+    - Evan Jones
+    - MP Siboto
+    - T Bokako
+    - L Sipamla
+    - TM Maphaka
+    - M Manack
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Paleker: 634b11ac
+      A Steenkamp: 89c62cf5
+      B Swanepoel: 6e0a2209
+      CS Delport: afa78c3a
+      DA Hendricks: f66f5343
+      E Jones: fbfea9c2
+      GA Stuurman: d4d37c31
+      J Hermann: e87aeca2
+      K Molefe: f51c1a3b
+      L Sipamla: f892fcf9
+      LC Ngoepe: 51355a30
+      LH Matroos: 6fa18157
+      M Manack: 2cd3b457
+      M Van Buuren: 46e4a4e0
+      MP Breetzke: 35f173a0
+      MP Siboto: 9d50c7e1
+      PJ Vosloo: 93a6d2d0
+      PWA Mulder: c96f6ac5
+      RD Rickelton: e66732f8
+      RS Second: 13d0b3d6
+      S Qeshile: '94268960'
+      T Bokako: 032e4384
+      TM Maphaka: 595f565e
+      Tsepo Ndwandwa: be3ffb65
+      WJ Lubbe: 10f42013
+      Z Abrahams: 7eb7d5d4
+  teams:
+  - Warriors
+  - Lions
+  toss:
+    winner: Lions
+    decision: field
+  umpires:
+  - A Steenkamp
+  - A Paleker
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 0.2:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 0.3:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 0.4:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 0.5:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 0.6:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 1.1:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Ngoepe
+    - 1.2:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 1.3:
+        non_striker: LC Ngoepe
+        bowler: T Bokako
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WJ Lubbe
+    - 1.4:
+        non_striker: LC Ngoepe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 1.5:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 1.6:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 1.7:
+        non_striker: LC Ngoepe
+        bowler: T Bokako
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WJ Lubbe
+    - 2.1:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 2.2:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 2.3:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 2.4:
+        non_striker: LC Ngoepe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 2.5:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Ngoepe
+    - 2.6:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LC Ngoepe
+    - 3.1:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 3.2:
+        non_striker: LC Ngoepe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 3.3:
+        non_striker: LC Ngoepe
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WJ Lubbe
+    - 3.4:
+        non_striker: LC Ngoepe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 3.5:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 3.6:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 3.7:
+        non_striker: LC Ngoepe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 4.1:
+        non_striker: WJ Lubbe
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LC Ngoepe
+    - 4.2:
+        non_striker: LC Ngoepe
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 4.3:
+        non_striker: LC Ngoepe
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 4.4:
+        non_striker: WJ Lubbe
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 4.5:
+        non_striker: WJ Lubbe
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 4.6:
+        non_striker: WJ Lubbe
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 5.1:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Ngoepe
+    - 5.2:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 5.3:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 5.4:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 5.5:
+        non_striker: WJ Lubbe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 5.6:
+        non_striker: LC Ngoepe
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 6.1:
+        non_striker: WJ Lubbe
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Ngoepe
+    - 6.2:
+        non_striker: WJ Lubbe
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Ngoepe
+    - 6.3:
+        non_striker: WJ Lubbe
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+        wicket:
+          player_out: LC Ngoepe
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 6.4:
+        non_striker: WJ Lubbe
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 6.5:
+        non_striker: WJ Lubbe
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 6.6:
+        non_striker: MP Breetzke
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 7.1:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 7.2:
+        non_striker: MP Breetzke
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 7.3:
+        non_striker: MP Breetzke
+        bowler: T Bokako
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WJ Lubbe
+    - 7.4:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 7.5:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 7.6:
+        non_striker: WJ Lubbe
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 8.1:
+        non_striker: MP Breetzke
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 8.2:
+        non_striker: MP Breetzke
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 8.3:
+        non_striker: MP Breetzke
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.4:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 8.5:
+        non_striker: MP Breetzke
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.6:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 9.1:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+        wicket:
+          player_out: MP Breetzke
+          fielders:
+          - DA Hendricks
+          kind: caught
+    - 9.2:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 9.3:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 9.4:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Second
+    - 9.5:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 9.6:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 10.1:
+        non_striker: RS Second
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 10.2:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 10.3:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 10.4:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Second
+    - 10.5:
+        non_striker: RS Second
+        bowler: TM Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WJ Lubbe
+    - 10.6:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Second
+    - 11.1:
+        non_striker: RS Second
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 11.2:
+        non_striker: RS Second
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WJ Lubbe
+    - 11.3:
+        non_striker: RS Second
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 11.4:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 11.5:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Second
+    - 11.6:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Second
+    - 11.7:
+        non_striker: RS Second
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 11.8:
+        non_striker: RS Second
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 12.1:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Second
+    - 12.2:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+        wicket:
+          player_out: RS Second
+          kind: bowled
+    - 12.3:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 12.4:
+        non_striker: J Hermann
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 12.5:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Hermann
+    - 12.6:
+        non_striker: WJ Lubbe
+        bowler: TM Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 13.1:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Hermann
+    - 13.2:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 13.3:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 13.4:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 13.5:
+        non_striker: WJ Lubbe
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 13.6:
+        non_striker: J Hermann
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 13.7:
+        non_striker: J Hermann
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 14.1:
+        non_striker: J Hermann
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 14.2:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 14.3:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Hermann
+    - 14.4:
+        non_striker: WJ Lubbe
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 14.5:
+        non_striker: J Hermann
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 14.6:
+        non_striker: J Hermann
+        bowler: M Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 15.1:
+        non_striker: J Hermann
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 15.2:
+        non_striker: J Hermann
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+        wicket:
+          player_out: WJ Lubbe
+          fielders:
+          - L Sipamla
+          kind: caught
+    - 15.3:
+        non_striker: J Hermann
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 15.4:
+        non_striker: S Qeshile
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Hermann
+    - 15.5:
+        non_striker: S Qeshile
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 15.6:
+        non_striker: J Hermann
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 16.1:
+        non_striker: J Hermann
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 16.2:
+        non_striker: J Hermann
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 16.3:
+        non_striker: J Hermann
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+    - 16.4:
+        non_striker: J Hermann
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Qeshile
+    - 16.5:
+        non_striker: S Qeshile
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 16.6:
+        non_striker: S Qeshile
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+- 2nd innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        non_striker: CS Delport
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: CS Delport
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 0.4:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CS Delport
+    - 0.5:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 0.6:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 0.7:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Delport
+    - 0.8:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 1.1:
+        non_striker: CS Delport
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 1.2:
+        non_striker: CS Delport
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CS Delport
+    - 1.5:
+        non_striker: RD Rickelton
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 1.6:
+        non_striker: RD Rickelton
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CS Delport
+    - 2.1:
+        non_striker: CS Delport
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: CS Delport
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.3:
+        non_striker: RD Rickelton
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CS Delport
+    - 2.4:
+        non_striker: RD Rickelton
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - Tsepo Ndwandwa
+          kind: caught
+    - 2.5:
+        non_striker: RD Rickelton
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: WJ Lubbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Van Buuren
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Van Buuren
+    - 3.2:
+        non_striker: RD Rickelton
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 3.3:
+        non_striker: M Van Buuren
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: M Van Buuren
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 3.5:
+        non_striker: M Van Buuren
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 3.6:
+        non_striker: M Van Buuren
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.1:
+        non_striker: RD Rickelton
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 4.3:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          kind: lbw
+    - 4.4:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 4.5:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+        wicket:
+          player_out: DA Hendricks
+          fielders:
+          - K Molefe
+          kind: run out
+    - 4.6:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 5.1:
+        non_striker: M Van Buuren
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 5.2:
+        non_striker: PWA Mulder
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 5.3:
+        non_striker: M Van Buuren
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 5.4:
+        non_striker: PWA Mulder
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 5.5:
+        non_striker: M Van Buuren
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 5.6:
+        non_striker: M Van Buuren
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 6.1:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Van Buuren
+    - 6.2:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 6.3:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Van Buuren
+    - 6.4:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 6.5:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 6.6:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 7.1:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 7.2:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 7.3:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 7.4:
+        non_striker: PWA Mulder
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Van Buuren
+    - 7.5:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 7.6:
+        non_striker: PWA Mulder
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 8.1:
+        non_striker: PWA Mulder
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 8.2:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 8.3:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 8.4:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 8.5:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 8.6:
+        non_striker: M Van Buuren
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.1:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 9.2:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.3:
+        non_striker: PWA Mulder
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 9.4:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 9.5:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 9.6:
+        non_striker: M Van Buuren
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.1:
+        non_striker: M Van Buuren
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 10.2:
+        non_striker: M Van Buuren
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.3:
+        non_striker: PWA Mulder
+        bowler: Z Abrahams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren

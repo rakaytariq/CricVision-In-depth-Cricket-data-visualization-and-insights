@@ -1,0 +1,2142 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Women's Super Smash
+  dates:
+  - '2022-12-24'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 19
+  overs: 20
+  players:
+    Wellington:
+    - TMM Newton
+    - GE Plimmer
+    - RM Burns
+    - AC Kerr
+    - ML Green
+    - JM Kerr
+    - LM Kasperek
+    - CR King
+    - JT McFadyen
+    - XA Jetly
+    - MP Singh
+    Otago:
+    - SW Bates
+    - ON Gain
+    - PM Inglis
+    - KE Broadmore
+    - CG Blakely
+    - FC Leydon-Davis
+    - IR James
+    - EJ Carson
+    - EJ Black
+    - ME Loe
+    - SA Oldershaw
+  registry:
+    people:
+      AC Kerr: 7673c908
+      BF Bowden: efc0a862
+      CG Blakely: 8f999ed5
+      CR King: dd639a8c
+      EJ Black: 2817e17a
+      EJ Carson: 7693851c
+      FC Leydon-Davis: b91efad5
+      GE Plimmer: 575494db
+      IR James: 57bdbc16
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      K Pulley: 644bf4ad
+      KE Broadmore: 7c0055c1
+      KK Challa: 6f35da07
+      KS Jagannathan: 9bc8dcec
+      LM Kasperek: 9b73d523
+      ME Loe: 37f93dc8
+      ML Green: 865eae1f
+      MP Singh: 214115f5
+      ON Gain: '67913804'
+      PM Inglis: e4a71d18
+      RM Burns: 94fe4708
+      SA Oldershaw: 93b4f6f6
+      SW Bates: 89bbc67a
+      TMM Newton: 93fe473e
+      Tyron Davies: 6ec463f4
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Otago
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - BF Bowden
+  - Tyron Davies
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GE Plimmer
+        batsman: TMM Newton
+    - 0.2:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GE Plimmer
+    - 0.3:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 0.4:
+        non_striker: GE Plimmer
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 0.5:
+        non_striker: GE Plimmer
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 0.6:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 1.1:
+        non_striker: TMM Newton
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 1.2:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.3:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TMM Newton
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 1.5:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TMM Newton
+    - 1.6:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.7:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TMM Newton
+    - 1.8:
+        non_striker: GE Plimmer
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 2.1:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 2.2:
+        non_striker: GE Plimmer
+        bowler: EJ Black
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TMM Newton
+    - 2.3:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GE Plimmer
+    - 2.4:
+        non_striker: GE Plimmer
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 2.5:
+        non_striker: GE Plimmer
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 2.6:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - SW Bates
+          kind: caught
+    - 2.7:
+        non_striker: TMM Newton
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.1:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+        wicket:
+          player_out: TMM Newton
+          fielders:
+          - PM Inglis
+          kind: caught
+    - 3.2:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.3:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.4:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 3.5:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 3.6:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.1:
+        non_striker: AC Kerr
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RM Burns
+    - 4.2:
+        non_striker: RM Burns
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: RM Burns
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.4:
+        non_striker: RM Burns
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 4.5:
+        non_striker: RM Burns
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: AC Kerr
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 4.7:
+        non_striker: AC Kerr
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.1:
+        non_striker: RM Burns
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 6.1:
+        non_striker: RM Burns
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.2:
+        non_striker: RM Burns
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.3:
+        non_striker: RM Burns
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: RM Burns
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 6.5:
+        non_striker: RM Burns
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: RM Burns
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - PM Inglis
+          kind: stumped
+    - 7.3:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.4:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 7.5:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.2:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.3:
+        non_striker: AC Kerr
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 8.4:
+        non_striker: AC Kerr
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.5:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 9.1:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.6:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.5:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.2:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.5:
+        non_striker: ML Green
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.2:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.4:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.6:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.4:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.6:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.2:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.6:
+        non_striker: ML Green
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 15.2:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.5:
+        non_striker: ML Green
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 16.2:
+        non_striker: AC Kerr
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.3:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - PM Inglis
+          kind: stumped
+    - 16.5:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - PM Inglis
+          kind: caught
+    - 16.6:
+        non_striker: ML Green
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 17.1:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 17.2:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 17.3:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.4:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 17.5:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.6:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 18.1:
+        non_striker: LM Kasperek
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 18.2:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: LM Kasperek
+    - 18.3:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Kasperek
+    - 18.4:
+        non_striker: ML Green
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 18.5:
+        non_striker: LM Kasperek
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 18.6:
+        non_striker: LM Kasperek
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 19.1:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Kasperek
+    - 19.2:
+        non_striker: ML Green
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LM Kasperek
+    - 19.3:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 19.4:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 19.5:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 19.6:
+        non_striker: LM Kasperek
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.2:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.3:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.4:
+        bowler: MP Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.5:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.6:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 0.7:
+        non_striker: ON Gain
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ON Gain
+    - 1.2:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ON Gain
+    - 1.3:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 1.4:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 1.5:
+        non_striker: ON Gain
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.6:
+        non_striker: ON Gain
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 2.2:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+        wicket:
+          player_out: ON Gain
+          fielders:
+          - TMM Newton
+          kind: caught
+    - 2.3:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.4:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.5:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.6:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.1:
+        non_striker: PM Inglis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.2:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.3:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 3.4:
+        non_striker: PM Inglis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: PM Inglis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.6:
+        non_striker: PM Inglis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.1:
+        non_striker: PM Inglis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.2:
+        non_striker: PM Inglis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.3:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 4.4:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 4.5:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+        wicket:
+          player_out: PM Inglis
+          fielders:
+          - JT McFadyen
+          kind: stumped
+    - 4.6:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 5.1:
+        non_striker: KE Broadmore
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 5.2:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 5.3:
+        non_striker: KE Broadmore
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 5.4:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 5.5:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 5.6:
+        non_striker: KE Broadmore
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.1:
+        non_striker: KE Broadmore
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.2:
+        non_striker: KE Broadmore
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.3:
+        non_striker: SW Bates
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 6.4:
+        non_striker: SW Bates
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 6.5:
+        non_striker: SW Bates
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 6.6:
+        non_striker: SW Bates
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 7.1:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.2:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.3:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.4:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.5:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 7.6:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Broadmore
+    - 7.7:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.1:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.2:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.3:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.4:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.5:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 8.6:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 9.1:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.2:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 9.3:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 9.4:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 9.5:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 9.6:
+        non_striker: SW Bates
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 10.1:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 10.2:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 10.3:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 10.4:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.5:
+        non_striker: SW Bates
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 10.6:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 11.1:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 11.2:
+        non_striker: KE Broadmore
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 11.3:
+        non_striker: KE Broadmore
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.4:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 11.5:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.6:
+        non_striker: SW Bates
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 12.1:
+        non_striker: KE Broadmore
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.2:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 12.3:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 12.4:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 12.5:
+        non_striker: SW Bates
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 12.6:
+        non_striker: KE Broadmore
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.1:
+        non_striker: KE Broadmore
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 13.2:
+        non_striker: KE Broadmore
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 13.3:
+        non_striker: KE Broadmore
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 13.4:
+        non_striker: KE Broadmore
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 13.5:
+        non_striker: KE Broadmore
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 13.6:
+        non_striker: CG Blakely
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 14.1:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 14.2:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 14.3:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 14.4:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 14.5:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 14.6:
+        non_striker: KE Broadmore
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 15.1:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 15.2:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 15.3:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 15.4:
+        non_striker: KE Broadmore
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 15.5:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+        wicket:
+          player_out: KE Broadmore
+          fielders:
+          - JT McFadyen
+          kind: caught
+    - 15.6:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 16.1:
+        non_striker: FC Leydon-Davis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 16.2:
+        non_striker: CG Blakely
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 16.3:
+        non_striker: FC Leydon-Davis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 16.4:
+        non_striker: CG Blakely
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 16.5:
+        non_striker: CG Blakely
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+        wicket:
+          player_out: FC Leydon-Davis
+          fielders:
+          - TMM Newton
+          kind: caught
+    - 16.6:
+        non_striker: CG Blakely
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 17.1:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 17.2:
+        non_striker: IR James
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.3:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 17.4:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 17.5:
+        non_striker: CG Blakely
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 17.6:
+        non_striker: IR James
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 18.1:
+        non_striker: IR James
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 18.2:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 18.3:
+        non_striker: IR James
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 18.4:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 18.5:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          fielders:
+          - MP Singh
+          kind: caught
+    - 18.6:
+        non_striker: CG Blakely
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Carson
+    - 19.1:
+        non_striker: CG Blakely
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Carson
+    - 19.2:
+        non_striker: CG Blakely
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+        wicket:
+          player_out: EJ Carson
+          fielders:
+          - LM Kasperek
+          kind: caught
+    - 19.3:
+        non_striker: CG Blakely
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black
+    - 19.4:
+        non_striker: CG Blakely
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Black
+    - 19.5:
+        non_striker: CG Blakely
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Black
+    - 19.6:
+        non_striker: EJ Black
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+        wicket:
+          player_out: CG Blakely
+          fielders:
+          - JT McFadyen
+          kind: stumped

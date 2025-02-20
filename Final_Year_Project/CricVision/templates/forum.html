@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Forum</h1>
+    <div>
+        <form method="post">
+            {% csrf_token %}
+            {{ q_form.as_p }}
+            <button type="submit" name="submit_question">Post Question</button>
+        </form>
+        {% for question in questions %}
+            <div>
+                <h2>{{ question.title }}</h2>
+                <p>{{ question.detail }}</p>
+                <!-- Display answers here -->
+                <form method="post">
+                    {% csrf_token %}
+                    <input type="hidden" name="question_id" value="{{ question.id }}">
+                    {{ a_form.as_p }}
+                    <button type="submit" name="submit_answer">Post Answer</button>
+                </form>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

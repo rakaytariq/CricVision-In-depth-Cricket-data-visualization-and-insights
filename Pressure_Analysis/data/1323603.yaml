@@ -1,0 +1,1974 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-18'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Adelaide Strikers
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - TM McGrath
+  players:
+    Hobart Hurricanes:
+    - L Lee
+    - R Trenaman
+    - M du Preez
+    - EJ Villani
+    - H Graham
+    - NJ Carey
+    - R Johnston
+    - HNK Jensen
+    - ML Gibson
+    - A Smith
+    - M Strano
+    Adelaide Strikers:
+    - KM Mack
+    - L Wolvaardt
+    - TM McGrath
+    - DJS Dottin
+    - BE Patterson
+    - M Penna
+    - TJ McPharlin
+    - A Wellington
+    - JL Barsby
+    - D Brown
+    - AC Mushangwe
+  registry:
+    people:
+      A Smith: b125ce63
+      A Wellington: 9b3bcca4
+      AC Mushangwe: db873292
+      AR Hamilton: 95d26c59
+      BE Patterson: 7dfbcfff
+      D Brown: 2e81be88
+      DJS Dottin: 53bee17f
+      Dave Gilbert: aa782370
+      EJ Villani: cde96d97
+      H Graham: 99812d10
+      HNK Jensen: b8cce99f
+      JL Barsby: 47bcaf7a
+      KM Mack: ef13bd20
+      L Lee: 7b01ce83
+      L Wolvaardt: e60f81c9
+      M Penna: 36453b99
+      M Strano: f57d5dbb
+      M du Preez: e219f17a
+      ML Gibson: 27fa592f
+      NJ Carey: dff806f4
+      R Johnston: 3cd107a7
+      R Trenaman: 877dd709
+      Sharad Patel: 8e6dd3ba
+      TJ McPharlin: 595e1ee7
+      TM McGrath: ca5acfa4
+      Troy Penman: 0aa42c26
+  teams:
+  - Hobart Hurricanes
+  - Adelaide Strikers
+  toss:
+    winner: Adelaide Strikers
+    decision: field
+  umpires:
+  - AR Hamilton
+  - Troy Penman
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.2:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.3:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.4:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.5:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 0.6:
+        non_striker: L Lee
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 1.1:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.2:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.3:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.4:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.5:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 1.6:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.7:
+        non_striker: R Trenaman
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.1:
+        non_striker: L Lee
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 2.2:
+        non_striker: L Lee
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 2.3:
+        non_striker: L Lee
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 2.4:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 2.5:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 2.6:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 2.7:
+        non_striker: R Trenaman
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 3.1:
+        non_striker: L Lee
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 3.2:
+        non_striker: R Trenaman
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 3.3:
+        non_striker: R Trenaman
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - AC Mushangwe
+          kind: caught
+    - 3.4:
+        non_striker: R Trenaman
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M du Preez
+    - 3.5:
+        non_striker: R Trenaman
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.6:
+        non_striker: R Trenaman
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.7:
+        non_striker: R Trenaman
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.1:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Trenaman
+    - 4.2:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 4.3:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 4.4:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Trenaman
+    - 4.5:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+        wicket:
+          player_out: R Trenaman
+          fielders:
+          - TM McGrath
+          kind: caught
+    - 4.6:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 4.7:
+        non_striker: EJ Villani
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.1:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 5.2:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJ Villani
+    - 5.3:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.4:
+        non_striker: EJ Villani
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.5:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.6:
+        non_striker: EJ Villani
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 5.7:
+        non_striker: EJ Villani
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.1:
+        non_striker: EJ Villani
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.2:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 6.3:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.4:
+        non_striker: EJ Villani
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.5:
+        non_striker: EJ Villani
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M du Preez
+    - 6.6:
+        non_striker: EJ Villani
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.7:
+        non_striker: EJ Villani
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 7.1:
+        non_striker: EJ Villani
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 7.2:
+        non_striker: EJ Villani
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 7.3:
+        non_striker: EJ Villani
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 7.4:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.5:
+        non_striker: EJ Villani
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M du Preez
+    - 7.6:
+        non_striker: EJ Villani
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 8.1:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.2:
+        non_striker: EJ Villani
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 8.3:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.4:
+        non_striker: EJ Villani
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 8.5:
+        non_striker: EJ Villani
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M du Preez
+    - 8.6:
+        non_striker: EJ Villani
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 9.1:
+        non_striker: EJ Villani
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 9.2:
+        non_striker: EJ Villani
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 9.3:
+        non_striker: EJ Villani
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 9.4:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          fielders:
+          - TM McGrath
+          kind: caught
+    - 9.5:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 9.6:
+        non_striker: H Graham
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 10.1:
+        non_striker: H Graham
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 10.2:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+        wicket:
+          player_out: H Graham
+          fielders:
+          - DJS Dottin
+          kind: caught
+    - 10.3:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.4:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 10.5:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.6:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 11.1:
+        non_striker: NJ Carey
+        bowler: JL Barsby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M du Preez
+    - 11.2:
+        non_striker: NJ Carey
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 11.3:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          kind: caught and bowled
+    - 11.4:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 11.5:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 11.6:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 11.7:
+        non_striker: R Johnston
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 12.1:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 12.2:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 12.3:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 12.4:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 12.5:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 12.6:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 13.1:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 13.2:
+        non_striker: R Johnston
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 13.3:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Johnston
+    - 13.4:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Johnston
+    - 13.5:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 13.6:
+        non_striker: M du Preez
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 14.1:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 14.2:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 14.3:
+        non_striker: R Johnston
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 14.4:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 14.5:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 14.6:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Johnston
+    - 14.7:
+        non_striker: M du Preez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 15.1:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 15.2:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 15.3:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Johnston
+    - 15.4:
+        non_striker: R Johnston
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 15.5:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+        wicket:
+          player_out: R Johnston
+          kind: bowled
+    - 15.6:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HNK Jensen
+    - 15.7:
+        non_striker: M du Preez
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+        wicket:
+          player_out: HNK Jensen
+          fielders:
+          - TJ McPharlin
+          kind: run out
+    - 16.1:
+        non_striker: ML Gibson
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 16.2:
+        non_striker: ML Gibson
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 16.3:
+        non_striker: ML Gibson
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 16.4:
+        non_striker: ML Gibson
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 16.5:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Gibson
+    - 16.6:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Gibson
+    - 17.1:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Gibson
+    - 17.2:
+        non_striker: ML Gibson
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 17.3:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Gibson
+    - 17.4:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Gibson
+        wicket:
+          player_out: ML Gibson
+          fielders:
+          - A Wellington
+          kind: caught
+    - 17.5:
+        non_striker: M du Preez
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 17.6:
+        non_striker: A Smith
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 18.1:
+        non_striker: A Smith
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 18.2:
+        non_striker: M du Preez
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 18.3:
+        non_striker: A Smith
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M du Preez
+    - 18.4:
+        non_striker: A Smith
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - AC Mushangwe
+          kind: caught
+    - 18.5:
+        non_striker: A Smith
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Strano
+    - 18.6:
+        non_striker: A Smith
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Strano
+    - 19.1:
+        non_striker: A Smith
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Strano
+    - 19.2:
+        non_striker: M Strano
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 19.3:
+        non_striker: A Smith
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Strano
+    - 19.4:
+        non_striker: M Strano
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+        wicket:
+          player_out: A Smith
+          fielders:
+          - TJ McPharlin
+          - D Brown
+          kind: run out
+- 2nd innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Mack
+    - 0.2:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 0.3:
+        non_striker: KM Mack
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: bowled
+    - 0.4:
+        non_striker: KM Mack
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 0.5:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 0.6:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 1.1:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 1.2:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM McGrath
+    - 1.3:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 1.4:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 1.5:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 1.6:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 1.7:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.1:
+        non_striker: KM Mack
+        bowler: HNK Jensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TM McGrath
+    - 2.2:
+        non_striker: KM Mack
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM McGrath
+    - 2.3:
+        non_striker: KM Mack
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 2.4:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.5:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 2.6:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Mack
+    - 2.7:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 2.8:
+        non_striker: KM Mack
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.1:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Mack
+    - 3.2:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.3:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 3.4:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.5:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 3.6:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 3.7:
+        non_striker: KM Mack
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 4.1:
+        non_striker: KM Mack
+        bowler: H Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM McGrath
+    - 4.2:
+        non_striker: KM Mack
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 4.3:
+        non_striker: KM Mack
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 4.4:
+        non_striker: KM Mack
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 4.5:
+        non_striker: TM McGrath
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 4.6:
+        non_striker: TM McGrath
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 4.7:
+        non_striker: TM McGrath
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 5.1:
+        non_striker: TM McGrath
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 5.2:
+        non_striker: KM Mack
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 5.3:
+        non_striker: KM Mack
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 5.4:
+        non_striker: TM McGrath
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 5.5:
+        non_striker: KM Mack
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 5.6:
+        non_striker: TM McGrath
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 6.1:
+        non_striker: KM Mack
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM McGrath
+    - 6.2:
+        non_striker: KM Mack
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 6.3:
+        non_striker: KM Mack
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 6.4:
+        non_striker: KM Mack
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 6.5:
+        non_striker: TM McGrath
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 6.6:
+        non_striker: TM McGrath
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 7.1:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 7.2:
+        non_striker: KM Mack
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 7.3:
+        non_striker: KM Mack
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 7.4:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 7.5:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+        wicket:
+          player_out: KM Mack
+          fielders:
+          - EJ Villani
+          kind: caught
+    - 7.6:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 8.1:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 8.2:
+        non_striker: TM McGrath
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 8.3:
+        non_striker: TM McGrath
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 8.4:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 8.5:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 8.6:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 9.1:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.2:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 9.3:
+        non_striker: TM McGrath
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.4:
+        non_striker: TM McGrath
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 9.5:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.6:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.1:
+        non_striker: DJS Dottin
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.2:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 10.3:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.4:
+        non_striker: DJS Dottin
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.5:
+        non_striker: DJS Dottin
+        bowler: HNK Jensen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: TM McGrath
+    - 10.6:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 10.7:
+        non_striker: TM McGrath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 11.1:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 11.2:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 11.3:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 11.4:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 11.5:
+        non_striker: TM McGrath
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.6:
+        non_striker: DJS Dottin
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.1:
+        non_striker: DJS Dottin
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 12.2:
+        non_striker: DJS Dottin
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.3:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 12.4:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 12.5:
+        non_striker: TM McGrath
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 12.6:
+        non_striker: DJS Dottin
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 12.7:
+        non_striker: DJS Dottin
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 13.1:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 13.2:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 13.3:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.4:
+        non_striker: DJS Dottin
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 13.5:
+        non_striker: TM McGrath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.6:
+        non_striker: DJS Dottin
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 14.1:
+        non_striker: TM McGrath
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 14.2:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM McGrath
+    - 14.3:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM McGrath
+    - 14.4:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TM McGrath
+    - 14.5:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 14.6:
+        non_striker: DJS Dottin
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath

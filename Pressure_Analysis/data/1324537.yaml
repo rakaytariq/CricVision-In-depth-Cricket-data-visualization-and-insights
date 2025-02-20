@@ -1,0 +1,1935 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Jaffna Kings
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Rahmanullah Gurbaz
+  players:
+    Colombo Stars:
+    - LD Chandimal
+    - N Dickwella
+    - KIC Asalanka
+    - KNM Fernando
+    - D Lakshan
+    - RS Bopara
+    - Mohammad Nabi
+    - DC Drakes
+    - BAC Howell
+    - JDF Vandersay
+    - CAK Rajitha
+    Jaffna Kings:
+    - Rahmanullah Gurbaz
+    - WIA Fernando
+    - Shoaib Malik
+    - S Samarawickrama
+    - Afif Hossain
+    - NLTC Perera
+    - S Lakshan
+    - DN Wellalage
+    - AM Fernando
+    - P Jayawickrama
+    - Zaman Khan
+  registry:
+    people:
+      AM Fernando: de3d549a
+      Afif Hossain: '37138918'
+      BAC Howell: 0bec3a6c
+      CAK Rajitha: 8012d0b8
+      D Lakshan: 0a2184d9
+      DC Drakes: 34b332d3
+      DN Wellalage: 736123bb
+      IC Soysa: 717a7971
+      JDF Vandersay: aceb7654
+      KIC Asalanka: 732c038e
+      KNM Fernando: d2a2bb1a
+      LD Chandimal: 8dd02a98
+      LE Hannibal: 3c04e91a
+      Mohammad Nabi: 62af8546
+      N Dickwella: 45963d9e
+      NLTC Perera: 0f12f9df
+      P Jayawickrama: b7d1eadd
+      PS Jayaprakashdaran: 5e6c7237
+      RS Bopara: 7ca5e05d
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      S Lakshan: 213fd5e9
+      S Samarawickrama: 9ab2914d
+      Shoaib Malik: 64c34cd0
+      WIA Fernando: 9550470d
+      WR Knights: 63cbf8d8
+      Zaman Khan: 28392e11
+  teams:
+  - Colombo Stars
+  - Jaffna Kings
+  toss:
+    winner: Jaffna Kings
+    decision: field
+  umpires:
+  - LE Hannibal
+  - WR Knights
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Colombo Stars
+    deliveries:
+    - 0.1:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 0.2:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 0.3:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 0.4:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+        wicket:
+          player_out: LD Chandimal
+          kind: bowled
+    - 0.5:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: KIC Asalanka
+    - 0.6:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.7:
+        non_striker: N Dickwella
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.1:
+        non_striker: KIC Asalanka
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.2:
+        non_striker: KIC Asalanka
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          kind: bowled
+    - 1.3:
+        non_striker: KIC Asalanka
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 1.4:
+        non_striker: KIC Asalanka
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 1.5:
+        non_striker: KIC Asalanka
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 1.6:
+        non_striker: KNM Fernando
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 2.1:
+        non_striker: KIC Asalanka
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 2.2:
+        non_striker: KNM Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 2.3:
+        non_striker: KNM Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 2.4:
+        non_striker: KNM Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - Afif Hossain
+          kind: caught
+    - 2.5:
+        non_striker: KNM Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lakshan
+    - 2.6:
+        non_striker: KNM Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lakshan
+    - 3.1:
+        non_striker: D Lakshan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 3.2:
+        non_striker: KNM Fernando
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Lakshan
+    - 3.3:
+        non_striker: D Lakshan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 3.4:
+        non_striker: KNM Fernando
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lakshan
+        wicket:
+          player_out: D Lakshan
+          fielders:
+          - Afif Hossain
+          kind: caught
+    - 3.5:
+        non_striker: KNM Fernando
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 3.6:
+        non_striker: KNM Fernando
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 4.1:
+        non_striker: RS Bopara
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.2:
+        non_striker: RS Bopara
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.3:
+        non_striker: RS Bopara
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.4:
+        non_striker: RS Bopara
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.5:
+        non_striker: RS Bopara
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 4.6:
+        non_striker: KNM Fernando
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 5.1:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 5.2:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 5.3:
+        non_striker: RS Bopara
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 5.4:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 5.5:
+        non_striker: RS Bopara
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 5.6:
+        non_striker: RS Bopara
+        bowler: Zaman Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: KNM Fernando
+    - 6.1:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 6.2:
+        non_striker: RS Bopara
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 6.3:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 6.4:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 6.5:
+        non_striker: RS Bopara
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 6.6:
+        non_striker: RS Bopara
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 7.1:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 7.2:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 7.3:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 7.4:
+        non_striker: RS Bopara
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 7.5:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 7.6:
+        non_striker: RS Bopara
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 8.1:
+        non_striker: RS Bopara
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 8.2:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.3:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 8.4:
+        non_striker: RS Bopara
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 8.5:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 8.6:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 8.7:
+        non_striker: RS Bopara
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 9.1:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 9.2:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 9.3:
+        non_striker: RS Bopara
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 9.4:
+        non_striker: RS Bopara
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 9.5:
+        non_striker: RS Bopara
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 9.6:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          kind: lbw
+    - 10.1:
+        non_striker: Mohammad Nabi
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 10.2:
+        non_striker: Mohammad Nabi
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 10.3:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.4:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.5:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.6:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 11.1:
+        non_striker: Mohammad Nabi
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KNM Fernando
+    - 11.2:
+        non_striker: Mohammad Nabi
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 11.3:
+        non_striker: Mohammad Nabi
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KNM Fernando
+    - 11.4:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 11.5:
+        non_striker: KNM Fernando
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          fielders:
+          - WIA Fernando
+          - P Jayawickrama
+          kind: run out
+    - 11.6:
+        non_striker: DC Drakes
+        bowler: P Jayawickrama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 12.1:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 12.2:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 12.3:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes
+    - 12.4:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 12.5:
+        non_striker: DC Drakes
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 12.6:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 13.1:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 13.2:
+        non_striker: DC Drakes
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 13.3:
+        non_striker: DC Drakes
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 13.4:
+        non_striker: DC Drakes
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 13.5:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 13.6:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Drakes
+    - 14.1:
+        non_striker: DC Drakes
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 14.2:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 14.3:
+        non_striker: DC Drakes
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 14.4:
+        non_striker: DC Drakes
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 14.5:
+        non_striker: DC Drakes
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 14.6:
+        non_striker: KNM Fernando
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 15.1:
+        non_striker: DC Drakes
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 15.2:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 15.3:
+        non_striker: DC Drakes
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 15.4:
+        non_striker: DC Drakes
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 15.5:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes
+    - 15.6:
+        non_striker: KNM Fernando
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Drakes
+    - 16.1:
+        non_striker: DC Drakes
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 16.2:
+        non_striker: KNM Fernando
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 16.3:
+        non_striker: DC Drakes
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+        wicket:
+          player_out: KNM Fernando
+          fielders:
+          - NLTC Perera
+          kind: caught
+    - 16.4:
+        non_striker: DC Drakes
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 16.5:
+        non_striker: BAC Howell
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes
+    - 16.6:
+        non_striker: BAC Howell
+        bowler: Zaman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DC Drakes
+    - 17.1:
+        non_striker: BAC Howell
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Drakes
+    - 17.2:
+        non_striker: BAC Howell
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes
+    - 17.3:
+        non_striker: BAC Howell
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Drakes
+    - 17.4:
+        non_striker: BAC Howell
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+        wicket:
+          player_out: DC Drakes
+          fielders:
+          - DN Wellalage
+          kind: caught
+    - 17.5:
+        non_striker: BAC Howell
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 17.6:
+        non_striker: JDF Vandersay
+        bowler: S Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 18.1:
+        non_striker: JDF Vandersay
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 18.2:
+        non_striker: JDF Vandersay
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 18.3:
+        non_striker: BAC Howell
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 18.4:
+        non_striker: JDF Vandersay
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 18.5:
+        non_striker: JDF Vandersay
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 18.6:
+        non_striker: BAC Howell
+        bowler: Zaman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 19.1:
+        non_striker: BAC Howell
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 19.2:
+        non_striker: JDF Vandersay
+        bowler: AM Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAC Howell
+    - 19.3:
+        non_striker: JDF Vandersay
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 19.4:
+        non_striker: BAC Howell
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDF Vandersay
+        wicket:
+          player_out: JDF Vandersay
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 19.5:
+        non_striker: BAC Howell
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Rajitha
+    - 19.6:
+        non_striker: CAK Rajitha
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 19.7:
+        non_striker: CAK Rajitha
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+- 2nd innings:
+    team: Jaffna Kings
+    deliveries:
+    - 0.1:
+        non_striker: WIA Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 0.6:
+        non_striker: WIA Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 1.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 1.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 1.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 1.8:
+        non_striker: WIA Fernando
+        bowler: D Lakshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WIA Fernando
+    - 2.4:
+        non_striker: WIA Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 2.5:
+        non_striker: WIA Fernando
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 3.1:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.4:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.5:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 4.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.4:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.6:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 5.4:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.5:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 5.6:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 6.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.4:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 6.5:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.6:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.1:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.2:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.4:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 7.6:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.1:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.2:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.3:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 8.4:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.6:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.1:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 9.3:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 9.4:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 9.5:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 10.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 10.2:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 10.3:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 10.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 10.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 10.6:
+        non_striker: WIA Fernando
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 11.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 11.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WIA Fernando
+    - 11.3:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.4:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 11.5:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          kind: lbw
+    - 11.6:
+        non_striker: WIA Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 12.1:
+        non_striker: Shoaib Malik
+        bowler: RS Bopara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 12.2:
+        non_striker: Shoaib Malik
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 12.3:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.4:
+        non_striker: Shoaib Malik
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 12.5:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 12.6:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 12.7:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 13.1:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 13.2:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          fielders:
+          - CAK Rajitha
+          kind: caught
+    - 13.3:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 13.4:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 13.5:
+        non_striker: S Samarawickrama
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 13.6:
+        non_striker: S Samarawickrama
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 14.1:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 14.2:
+        non_striker: S Samarawickrama
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 14.3:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 14.4:
+        non_striker: S Samarawickrama
+        bowler: RS Bopara
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: WIA Fernando
+    - 14.5:
+        non_striker: S Samarawickrama
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 14.6:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 14.7:
+        non_striker: WIA Fernando
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 15.1:
+        non_striker: S Samarawickrama
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 15.2:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 15.3:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 15.4:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 15.5:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama

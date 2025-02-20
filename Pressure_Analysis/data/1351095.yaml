@@ -1,0 +1,1857 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2023-02-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Comilla Victorians
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - Tanvir Islam
+  players:
+    Sylhet Strikers:
+    - Nazmul Hossain Shanto
+    - Shafiqullah Ghafari
+    - Towhid Hridoy
+    - Zakir Hasan
+    - Mashrafe Mortaza
+    - Mushfiqur Rahim
+    - RP Burl
+    - GF Linde
+    - Tanzim Hasan Sakib
+    - I Udana
+    - Rubel Hossain
+    Comilla Victorians:
+    - Liton Das
+    - SP Narine
+    - J Charles
+    - Imrul Kayes
+    - Mosaddek Hossain
+    - MM Ali
+    - Jaker Ali
+    - AD Russell
+    - Tanvir Islam
+    - Mustafizur Rahman
+    - Mukidul Islam
+  registry:
+    people:
+      AD Russell: bbd41817
+      DJ Millns: 46ecfe40
+      GF Linde: e5437608
+      I Udana: ac5ae4af
+      Imrul Kayes: 5fbe14fc
+      J Charles: '09a9d073'
+      Jaker Ali: cd56a813
+      Liton Das: 0404d43c
+      MM Ali: bb351c23
+      Mashrafe Mortaza: e186f49c
+      Mohammad Kamruzzaman: 74eb8175
+      Moniruzzaman: 075e9f9c
+      Mosaddek Hossain: 8919756f
+      Mukidul Islam: a699488a
+      Mushfiqur Rahim: a94e08ea
+      Mustafizur Rahman: 0a8fce53
+      Nazmul Hossain Shanto: 1274d7ab
+      Neeyamur Rashid: bd81a027
+      RP Burl: b08252b8
+      RR Wimalasiri: 4950c8db
+      Rubel Hossain: f56cd097
+      SP Narine: 9d430b40
+      Shafiqullah Ghafari: 98d7059f
+      Tanvir Islam: aa467af0
+      Tanzim Hasan Sakib: 0b0cc297
+      Towhid Hridoy: 9e52a414
+      Zakir Hasan: e3e09091
+  teams:
+  - Sylhet Strikers
+  - Comilla Victorians
+  toss:
+    winner: Comilla Victorians
+    decision: field
+  umpires:
+  - DJ Millns
+  - RR Wimalasiri
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Sylhet Strikers
+    deliveries:
+    - 0.1:
+        non_striker: Shafiqullah Ghafari
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafiqullah Ghafari
+    - 0.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafiqullah Ghafari
+    - 0.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafiqullah Ghafari
+    - 0.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafiqullah Ghafari
+    - 0.6:
+        non_striker: Shafiqullah Ghafari
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 1.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafiqullah Ghafari
+        wicket:
+          player_out: Shafiqullah Ghafari
+          fielders:
+          - Mosaddek Hossain
+          kind: caught
+    - 1.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Towhid Hridoy
+    - 1.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 1.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+        wicket:
+          player_out: Towhid Hridoy
+          fielders:
+          - Tanvir Islam
+          kind: run out
+    - 1.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 1.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 1.7:
+        non_striker: Zakir Hasan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 2.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 2.2:
+        non_striker: Zakir Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 2.3:
+        non_striker: Zakir Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 2.4:
+        non_striker: Zakir Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 2.5:
+        non_striker: Zakir Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 2.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+        wicket:
+          player_out: Zakir Hasan
+          fielders:
+          - SP Narine
+          kind: caught
+    - 3.1:
+        non_striker: Mashrafe Mortaza
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 3.2:
+        non_striker: Mashrafe Mortaza
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.3:
+        non_striker: Mashrafe Mortaza
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 3.4:
+        non_striker: Mashrafe Mortaza
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nazmul Hossain Shanto
+    - 3.5:
+        non_striker: Mashrafe Mortaza
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 3.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 4.1:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 4.2:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 4.3:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 4.4:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 4.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashrafe Mortaza
+    - 4.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 5.1:
+        non_striker: Mashrafe Mortaza
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 5.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashrafe Mortaza
+    - 5.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashrafe Mortaza
+    - 5.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 5.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 5.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 6.1:
+        non_striker: Mashrafe Mortaza
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 6.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mashrafe Mortaza
+    - 6.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 6.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 6.5:
+        non_striker: Mashrafe Mortaza
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 6.6:
+        non_striker: Mashrafe Mortaza
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.1:
+        non_striker: Mashrafe Mortaza
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.2:
+        non_striker: Mashrafe Mortaza
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 7.3:
+        non_striker: Mashrafe Mortaza
+        bowler: Mukidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.4:
+        non_striker: Mashrafe Mortaza
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 7.5:
+        non_striker: Mashrafe Mortaza
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mashrafe Mortaza
+    - 7.7:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 8.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 8.2:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 8.3:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 8.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 8.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 8.6:
+        non_striker: Mashrafe Mortaza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 9.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+        wicket:
+          player_out: Mashrafe Mortaza
+          fielders:
+          - Tanvir Islam
+          kind: caught
+    - 9.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.3:
+        non_striker: Mushfiqur Rahim
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 9.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 9.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          kind: bowled
+    - 10.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - Mukidul Islam
+          kind: caught
+    - 10.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.5:
+        non_striker: GF Linde
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 11.1:
+        non_striker: GF Linde
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 11.2:
+        non_striker: GF Linde
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 11.3:
+        non_striker: Mushfiqur Rahim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 11.4:
+        non_striker: GF Linde
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.5:
+        non_striker: GF Linde
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: GF Linde
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 12.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 12.2:
+        non_striker: GF Linde
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 12.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GF Linde
+    - 12.5:
+        non_striker: GF Linde
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.1:
+        non_striker: Mushfiqur Rahim
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 13.2:
+        non_striker: Mushfiqur Rahim
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.3:
+        non_striker: GF Linde
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.4:
+        non_striker: Mushfiqur Rahim
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GF Linde
+    - 13.5:
+        non_striker: GF Linde
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 13.6:
+        non_striker: GF Linde
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 14.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.2:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 14.3:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 14.4:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 14.5:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 14.6:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 15.1:
+        non_striker: GF Linde
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 15.2:
+        non_striker: GF Linde
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          fielders:
+          - J Charles
+          kind: caught
+    - 15.3:
+        non_striker: GF Linde
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 15.4:
+        non_striker: Tanzim Hasan Sakib
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 15.5:
+        non_striker: GF Linde
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+    - 15.6:
+        non_striker: GF Linde
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzim Hasan Sakib
+    - 16.1:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzim Hasan Sakib
+    - 16.2:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzim Hasan Sakib
+        wicket:
+          player_out: Tanzim Hasan Sakib
+          fielders:
+          - Imrul Kayes
+          kind: caught
+    - 16.3:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 16.4:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 16.5:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Udana
+    - 16.6:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+        wicket:
+          player_out: I Udana
+          fielders:
+          - Jaker Ali
+          kind: caught
+    - 16.7:
+        non_striker: GF Linde
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rubel Hossain
+    - 17.1:
+        non_striker: Rubel Hossain
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          kind: bowled
+- 2nd innings:
+    team: Comilla Victorians
+    deliveries:
+    - 0.1:
+        non_striker: SP Narine
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Liton Das
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Narine
+    - 0.3:
+        non_striker: Liton Das
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 0.4:
+        non_striker: Liton Das
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 0.5:
+        non_striker: SP Narine
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Liton Das
+    - 0.6:
+        non_striker: Liton Das
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Narine
+    - 1.1:
+        non_striker: SP Narine
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 1.2:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.3:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.4:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.5:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 1.6:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 2.1:
+        non_striker: SP Narine
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 2.2:
+        non_striker: SP Narine
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.3:
+        non_striker: SP Narine
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.4:
+        non_striker: SP Narine
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.5:
+        non_striker: Liton Das
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 2.6:
+        non_striker: SP Narine
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 2.7:
+        non_striker: SP Narine
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 3.1:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Narine
+    - 3.2:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Narine
+    - 3.3:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 3.4:
+        non_striker: Liton Das
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 3.5:
+        non_striker: SP Narine
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.6:
+        non_striker: SP Narine
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - Zakir Hasan
+          kind: caught
+    - 4.1:
+        non_striker: J Charles
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Narine
+    - 4.2:
+        non_striker: J Charles
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Narine
+    - 4.3:
+        non_striker: J Charles
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Narine
+    - 4.4:
+        non_striker: J Charles
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          kind: bowled
+    - 4.5:
+        non_striker: J Charles
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 4.6:
+        non_striker: J Charles
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 5.1:
+        non_striker: J Charles
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 5.2:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.3:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.4:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 5.5:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.6:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - Towhid Hridoy
+          kind: run out
+    - 6.1:
+        non_striker: Imrul Kayes
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 6.2:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 6.3:
+        non_striker: Imrul Kayes
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 6.4:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.5:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.6:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 7.1:
+        non_striker: Mosaddek Hossain
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 7.2:
+        non_striker: Mosaddek Hossain
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 7.3:
+        non_striker: Imrul Kayes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 7.4:
+        non_striker: Imrul Kayes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 7.5:
+        non_striker: Mosaddek Hossain
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 7.6:
+        non_striker: Mosaddek Hossain
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 8.1:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 8.2:
+        non_striker: Imrul Kayes
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mosaddek Hossain
+    - 8.3:
+        non_striker: Imrul Kayes
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 8.4:
+        non_striker: Imrul Kayes
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 8.5:
+        non_striker: Imrul Kayes
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 8.6:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 9.1:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 9.2:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 9.3:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 9.4:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 9.5:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 9.6:
+        non_striker: Imrul Kayes
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mosaddek Hossain
+    - 10.1:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          fielders:
+          - Mushfiqur Rahim
+          kind: caught
+    - 10.2:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 10.3:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 10.4:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 10.5:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 10.6:
+        non_striker: MM Ali
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 11.1:
+        non_striker: Mosaddek Hossain
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 11.2:
+        non_striker: Mosaddek Hossain
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.3:
+        non_striker: MM Ali
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 11.4:
+        non_striker: Mosaddek Hossain
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.5:
+        non_striker: MM Ali
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 11.6:
+        non_striker: MM Ali
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 12.1:
+        non_striker: MM Ali
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 12.2:
+        non_striker: Mosaddek Hossain
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 12.3:
+        non_striker: MM Ali
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 12.4:
+        non_striker: MM Ali
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mosaddek Hossain
+    - 12.5:
+        non_striker: MM Ali
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mosaddek Hossain
+    - 12.6:
+        non_striker: MM Ali
+        bowler: Shafiqullah Ghafari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 13.1:
+        non_striker: MM Ali
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 13.2:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 13.3:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 13.4:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 13.5:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 13.6:
+        non_striker: MM Ali
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 14.1:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - Tanzim Hasan Sakib
+          kind: caught
+    - 14.2:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 14.3:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 14.4:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+        wicket:
+          player_out: Jaker Ali
+          fielders:
+          - RP Burl
+          kind: caught
+    - 14.5:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.6:
+        non_striker: AD Russell
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mosaddek Hossain
+    - 15.1:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.2:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.3:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.4:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AD Russell
+    - 15.5:
+        non_striker: AD Russell
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 15.6:
+        non_striker: Mosaddek Hossain
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 16.1:
+        non_striker: AD Russell
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 16.2:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 16.3:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.4:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: AD Russell
+    - 16.5:
+        non_striker: Mosaddek Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell

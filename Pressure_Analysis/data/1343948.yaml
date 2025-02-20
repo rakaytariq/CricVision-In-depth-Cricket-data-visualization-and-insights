@@ -1,0 +1,2229 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  competition: SA20
+  dates:
+  - '2023-01-15'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Durban's Super Giants
+    by:
+      runs: 27
+  overs: 20
+  player_of_match:
+  - H Klaasen
+  players:
+    Durban's Super Giants:
+    - KR Mayers
+    - PWA Mulder
+    - Q de Kock
+    - H Klaasen
+    - KMA Paul
+    - D Pretorius
+    - JO Holder
+    - KA Maharaj
+    - SR Harmer
+    - P Subrayen
+    - RJW Topley
+    Paarl Royals:
+    - JJ Roy
+    - JC Buttler
+    - WJ Lubbe
+    - DA Miller
+    - EJG Morgan
+    - DJ Vilas
+    - Evan Jones
+    - FD Adams
+    - BC Fortuin
+    - I Manack
+    - L Ngidi
+  registry:
+    people:
+      A Steenkamp: 89c62cf5
+      BC Fortuin: 9a2fc964
+      BM White: 66c21d35
+      CJ Dala: 1cb14aa4
+      D Pretorius: 11614d87
+      DA Miller: d67d5f00
+      DJ Smith: d17bec15
+      DJ Vilas: '087210b1'
+      E Jones: fbfea9c2
+      EJG Morgan: d2a6c0e6
+      FD Adams: f277f531
+      H Klaasen: 235c2bb6
+      I Manack: 5ec126fa
+      JC Buttler: 99b75528
+      JJ Roy: d1c36f5c
+      JO Holder: 0f721006
+      KA Maharaj: 0b60eb09
+      KMA Paul: 75224f22
+      KR Mayers: 73c18486
+      L Ngidi: f834dcfc
+      P Subrayen: 7ec9711d
+      PWA Mulder: c96f6ac5
+      Q de Kock: 372455c4
+      RJW Topley: 8db7f47f
+      SR Harmer: '23638956'
+      Siphelele Gasa: e50baa87
+      WJ Lubbe: 10f42013
+      ZTA Ndamane: 545cc6db
+  teams:
+  - Durban's Super Giants
+  - Paarl Royals
+  toss:
+    winner: Durban's Super Giants
+    decision: bat
+  umpires:
+  - A Steenkamp
+  - Siphelele Gasa
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 0.2:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 0.3:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.4:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.5:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 0.6:
+        non_striker: KR Mayers
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.1:
+        non_striker: PWA Mulder
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.2:
+        non_striker: PWA Mulder
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 1.3:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.4:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PWA Mulder
+    - 1.5:
+        non_striker: PWA Mulder
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 1.6:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.7:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 2.1:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.2:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 2.3:
+        non_striker: KR Mayers
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 2.4:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 2.5:
+        non_striker: KR Mayers
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 2.6:
+        non_striker: KR Mayers
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 3.1:
+        non_striker: KR Mayers
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 3.2:
+        non_striker: KR Mayers
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 3.3:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 3.4:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 3.5:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 3.6:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 4.1:
+        non_striker: PWA Mulder
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KR Mayers
+    - 4.2:
+        non_striker: PWA Mulder
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 4.3:
+        non_striker: PWA Mulder
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 4.4:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 4.5:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 4.6:
+        non_striker: KR Mayers
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 5.1:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 5.2:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 5.3:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 5.4:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 5.5:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 5.6:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: Q de Kock
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 6.3:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.4:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Q de Kock
+    - 6.6:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.7:
+        non_striker: PWA Mulder
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 7.2:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 7.3:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 7.4:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.5:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 7.6:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 8.2:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 8.4:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 8.6:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.2:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.3:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.4:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 9.6:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PWA Mulder
+    - 10.1:
+        non_striker: Q de Kock
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.2:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.4:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.5:
+        non_striker: Q de Kock
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 10.6:
+        non_striker: Q de Kock
+        bowler: FD Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 10.7:
+        non_striker: Q de Kock
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.1:
+        non_striker: Q de Kock
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.2:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 11.3:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 11.4:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 11.5:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 11.6:
+        non_striker: PWA Mulder
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 12.1:
+        non_striker: Q de Kock
+        bowler: WJ Lubbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PWA Mulder
+    - 12.2:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 12.3:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 12.4:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.5:
+        non_striker: Q de Kock
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.6:
+        non_striker: PWA Mulder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 13.1:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.2:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 13.3:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 13.4:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 13.5:
+        non_striker: PWA Mulder
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 13.6:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.7:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 13.8:
+        non_striker: Q de Kock
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - DA Miller
+          kind: caught
+    - 14.1:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 14.2:
+        non_striker: Q de Kock
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.3:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 14.4:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - Evan Jones
+          kind: caught
+    - 14.5:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 14.6:
+        non_striker: KMA Paul
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.1:
+        non_striker: H Klaasen
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 15.2:
+        non_striker: H Klaasen
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.3:
+        non_striker: KMA Paul
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 15.4:
+        non_striker: KMA Paul
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.5:
+        non_striker: H Klaasen
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.6:
+        non_striker: KMA Paul
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.1:
+        non_striker: KMA Paul
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.2:
+        non_striker: H Klaasen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 16.3:
+        non_striker: KMA Paul
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 16.4:
+        non_striker: KMA Paul
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 16.5:
+        non_striker: KMA Paul
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.6:
+        non_striker: H Klaasen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KMA Paul
+    - 17.1:
+        non_striker: KMA Paul
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 17.2:
+        non_striker: KMA Paul
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 17.3:
+        non_striker: KMA Paul
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.4:
+        non_striker: H Klaasen
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 17.5:
+        non_striker: H Klaasen
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 17.6:
+        non_striker: KMA Paul
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 17.7:
+        non_striker: KMA Paul
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 18.1:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          kind: caught and bowled
+    - 18.2:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 18.3:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Pretorius
+    - 18.4:
+        non_striker: D Pretorius
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 18.5:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 18.6:
+        non_striker: H Klaasen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Pretorius
+    - 19.1:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 19.2:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 19.3:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 19.4:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 19.5:
+        non_striker: H Klaasen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 19.6:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+- 2nd innings:
+    team: Paarl Royals
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: JC Buttler
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.1:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: JC Buttler
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.4:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          kind: bowled
+    - 2.6:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 3.1:
+        non_striker: JJ Roy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 3.2:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.4:
+        non_striker: JJ Roy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 3.5:
+        non_striker: JJ Roy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 3.6:
+        non_striker: JJ Roy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 4.1:
+        non_striker: WJ Lubbe
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.2:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 4.3:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 4.4:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 4.5:
+        non_striker: WJ Lubbe
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.6:
+        non_striker: JJ Roy
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 5.1:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 5.2:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 5.3:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JJ Roy
+    - 5.4:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 5.5:
+        non_striker: JJ Roy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 5.6:
+        non_striker: WJ Lubbe
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 6.1:
+        non_striker: JJ Roy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+        wicket:
+          player_out: WJ Lubbe
+          fielders:
+          - JO Holder
+          kind: caught
+    - 6.2:
+        non_striker: JJ Roy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 6.3:
+        non_striker: JJ Roy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 6.4:
+        non_striker: DA Miller
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 6.5:
+        non_striker: JJ Roy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - JO Holder
+          kind: caught
+    - 6.6:
+        non_striker: JJ Roy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 7.1:
+        non_striker: JJ Roy
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 7.2:
+        non_striker: EJG Morgan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 7.3:
+        non_striker: EJG Morgan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.4:
+        non_striker: JJ Roy
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJG Morgan
+    - 7.5:
+        non_striker: JJ Roy
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 7.6:
+        non_striker: EJG Morgan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          kind: bowled
+    - 8.1:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 8.2:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 8.3:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJG Morgan
+    - 8.4:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 8.5:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 8.6:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 8.7:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 9.1:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 9.2:
+        non_striker: EJG Morgan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 9.3:
+        non_striker: EJG Morgan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 9.4:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 9.5:
+        non_striker: EJG Morgan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 9.6:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 10.1:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 10.2:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 10.3:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJG Morgan
+    - 10.4:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 10.5:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJG Morgan
+    - 10.6:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJG Morgan
+    - 10.7:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJG Morgan
+    - 11.1:
+        non_striker: EJG Morgan
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 11.2:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 11.3:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 11.4:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 11.5:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 11.6:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 12.1:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 12.2:
+        non_striker: DJ Vilas
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EJG Morgan
+    - 12.3:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 12.4:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Vilas
+    - 12.5:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 12.6:
+        non_striker: DJ Vilas
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 12.7:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Vilas
+    - 13.1:
+        non_striker: DJ Vilas
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 13.2:
+        non_striker: EJG Morgan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 13.3:
+        non_striker: EJG Morgan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 13.4:
+        non_striker: DJ Vilas
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 13.5:
+        non_striker: EJG Morgan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 13.6:
+        non_striker: DJ Vilas
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 14.1:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJG Morgan
+    - 14.2:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJG Morgan
+    - 14.3:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 14.4:
+        non_striker: EJG Morgan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 14.5:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 14.6:
+        non_striker: EJG Morgan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Vilas
+    - 15.1:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 15.2:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Vilas
+    - 15.3:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Vilas
+    - 15.4:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 15.5:
+        non_striker: DJ Vilas
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJG Morgan
+    - 15.6:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 15.7:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Vilas
+    - 15.8:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Vilas
+    - 15.9:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Vilas
+    - 16.1:
+        non_striker: DJ Vilas
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 16.2:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 16.3:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Vilas
+    - 16.4:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Vilas
+    - 16.5:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 16.6:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Vilas
+    - 16.7:
+        non_striker: EJG Morgan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Vilas
+    - 17.1:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: EJG Morgan
+    - 17.2:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJG Morgan
+    - 17.3:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 17.4:
+        non_striker: EJG Morgan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 17.5:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJG Morgan
+    - 17.6:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJG Morgan
+    - 17.7:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 17.8:
+        non_striker: DJ Vilas
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+        wicket:
+          player_out: EJG Morgan
+          fielders:
+          - PWA Mulder
+          - SR Harmer
+          kind: run out
+    - 18.1:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Evan Jones
+        wicket:
+          player_out: Evan Jones
+          fielders:
+          - CJ Dala (sub)
+          kind: caught
+    - 18.2:
+        non_striker: DJ Vilas
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 18.3:
+        non_striker: FD Adams
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+        wicket:
+          player_out: DJ Vilas
+          fielders:
+          - CJ Dala (sub)
+          kind: caught
+    - 18.4:
+        non_striker: FD Adams
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 18.5:
+        non_striker: BC Fortuin
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 18.6:
+        non_striker: FD Adams
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Fortuin
+    - 19.1:
+        non_striker: BC Fortuin
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+        wicket:
+          player_out: FD Adams
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 19.2:
+        non_striker: BC Fortuin
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Manack
+    - 19.3:
+        non_striker: BC Fortuin
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Manack
+    - 19.4:
+        non_striker: I Manack
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 19.5:
+        non_striker: BC Fortuin
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Manack
+    - 19.6:
+        non_striker: I Manack
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin

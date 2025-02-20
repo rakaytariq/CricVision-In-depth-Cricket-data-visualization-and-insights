@@ -1,0 +1,1988 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Women's Super Smash
+  dates:
+  - '2023-01-23'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 114
+  overs: 20
+  players:
+    Wellington:
+    - RM Burns
+    - TMM Newton
+    - JT McFadyen
+    - CR Knott
+    - L Harris
+    - LM Kasperek
+    - CR King
+    - OA Boivin
+    - XA Jetly
+    - N Baird
+    - MP Singh
+    Canterbury:
+    - LEV Hughes
+    - KG Anderson
+    - AE Satterthwaite
+    - FC Wilson
+    - NB Cox
+    - J Dean
+    - AG Gerken
+    - MJ Banks
+    - GES Sullivan
+    - JA Simmons
+    - SR Asmussen
+  registry:
+    people:
+      AE Satterthwaite: 72b7ed1e
+      AG Gerken: a7fcf627
+      C Black: 75b42f71
+      CR King: dd639a8c
+      CR Knott: d7ff1adc
+      DJ Walker: d4aea8ac
+      FC Wilson: a28132bd
+      GES Sullivan: 165b9097
+      Glen Walklin: 0070ed27
+      J Dean: 2e018b14
+      JA Simmons: 33360da1
+      JT McFadyen: 7072542f
+      K Pulley: 644bf4ad
+      KG Anderson: ae79a86f
+      L Harris: 36e2dc83
+      LEV Hughes: 5b43fe48
+      LM Kasperek: 9b73d523
+      MJ Banks: 1e17a238
+      MP Singh: 214115f5
+      N Baird: c0380823
+      NB Cox: 219f1323
+      OA Boivin: f5a175e4
+      RM Burns: 94fe4708
+      SR Asmussen: '31972229'
+      TMM Newton: 93fe473e
+      Tyron Davies: 6ec463f4
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Canterbury
+  toss:
+    winner: Canterbury
+    decision: field
+  umpires:
+  - C Black
+  - DJ Walker
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: KG Anderson
+        non_striker: TMM Newton
+        batsman: RM Burns
+    - 0.2:
+        non_striker: RM Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: KG Anderson
+        batsman: TMM Newton
+    - 0.3:
+        non_striker: TMM Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: KG Anderson
+        batsman: RM Burns
+    - 0.4:
+        non_striker: TMM Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: KG Anderson
+        batsman: RM Burns
+    - 0.5:
+        non_striker: TMM Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: KG Anderson
+        batsman: RM Burns
+    - 0.6:
+        non_striker: TMM Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: KG Anderson
+        batsman: RM Burns
+    - 1.1:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TMM Newton
+    - 1.2:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.3:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 1.4:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.5:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.6:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.7:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.1:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 2.2:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 2.3:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Burns
+    - 2.4:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 2.5:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: RM Burns
+    - 2.6:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 2.7:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 2.8:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 3.1:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 3.2:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 3.3:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 3.4:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.5:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - AE Satterthwaite
+          kind: caught
+    - 3.6:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JT McFadyen
+    - 4.1:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 4.2:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 4.3:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 4.4:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 4.5:
+        non_striker: TMM Newton
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 4.6:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 5.1:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 5.2:
+        non_striker: JT McFadyen
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 5.3:
+        non_striker: JT McFadyen
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 5.4:
+        non_striker: JT McFadyen
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 5.5:
+        non_striker: JT McFadyen
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 5.6:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT McFadyen
+    - 5.7:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 6.1:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 6.2:
+        non_striker: TMM Newton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 6.3:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 6.4:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 6.5:
+        non_striker: TMM Newton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 6.6:
+        non_striker: TMM Newton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 7.1:
+        non_striker: JT McFadyen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 7.2:
+        non_striker: JT McFadyen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 7.3:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 7.4:
+        non_striker: JT McFadyen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 7.5:
+        non_striker: TMM Newton
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 7.6:
+        non_striker: JT McFadyen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 8.1:
+        non_striker: TMM Newton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JT McFadyen
+    - 8.2:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 8.3:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 8.4:
+        non_striker: TMM Newton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 8.5:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TMM Newton
+    - 8.6:
+        non_striker: TMM Newton
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT McFadyen
+    - 9.1:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 9.2:
+        non_striker: TMM Newton
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 9.3:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 9.4:
+        non_striker: TMM Newton
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 9.5:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 9.6:
+        non_striker: TMM Newton
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 10.1:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT McFadyen
+    - 10.2:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 10.3:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 10.4:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+        wicket:
+          player_out: TMM Newton
+          fielders:
+          - AE Satterthwaite
+          kind: caught
+    - 10.5:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 10.6:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Knott
+    - 11.1:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JT McFadyen
+    - 11.2:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 11.3:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 11.4:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 11.5:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 11.6:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 12.1:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+        wicket:
+          player_out: JT McFadyen
+          fielders:
+          - FC Wilson
+          kind: caught
+    - 12.2:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 12.3:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 12.4:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 12.5:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 12.6:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 13.1:
+        non_striker: L Harris
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Knott
+    - 13.2:
+        non_striker: L Harris
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 13.3:
+        non_striker: L Harris
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 13.4:
+        non_striker: CR Knott
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Harris
+    - 13.5:
+        non_striker: CR Knott
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 13.6:
+        non_striker: CR Knott
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 13.7:
+        non_striker: CR Knott
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 13.8:
+        non_striker: CR Knott
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 14.1:
+        non_striker: L Harris
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 14.2:
+        non_striker: CR Knott
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 14.3:
+        non_striker: L Harris
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 14.4:
+        non_striker: L Harris
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 14.5:
+        non_striker: L Harris
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Knott
+    - 14.6:
+        non_striker: L Harris
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 15.1:
+        non_striker: CR Knott
+        bowler: J Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 15.2:
+        non_striker: CR Knott
+        bowler: J Dean
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 15.3:
+        non_striker: CR Knott
+        bowler: J Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 15.4:
+        non_striker: CR Knott
+        bowler: J Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 15.5:
+        non_striker: CR Knott
+        bowler: J Dean
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 15.6:
+        non_striker: CR Knott
+        bowler: J Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 16.1:
+        non_striker: CR Knott
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 16.2:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 16.3:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 16.4:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Knott
+    - 16.5:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 16.6:
+        non_striker: CR Knott
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 17.1:
+        non_striker: L Harris
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 17.2:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 17.3:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 17.4:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 17.5:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 17.6:
+        non_striker: CR Knott
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 18.1:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Knott
+    - 18.2:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Knott
+    - 18.3:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Knott
+    - 18.4:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 18.5:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 18.6:
+        non_striker: L Harris
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 19.1:
+        non_striker: L Harris
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+        wicket:
+          player_out: CR Knott
+          kind: bowled
+    - 19.2:
+        non_striker: L Harris
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 19.3:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 19.4:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 19.5:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 19.6:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Harris
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+        wicket:
+          player_out: LEV Hughes
+          kind: bowled
+    - 0.2:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 0.3:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 0.4:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 0.5:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 0.6:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 1.1:
+        non_striker: AE Satterthwaite
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 1.2:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KG Anderson
+        batsman: AE Satterthwaite
+    - 1.3:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KG Anderson
+        batsman: AE Satterthwaite
+    - 1.4:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          kind: lbw
+    - 1.5:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 1.6:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 2.1:
+        non_striker: FC Wilson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 2.2:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: FC Wilson
+    - 2.3:
+        non_striker: FC Wilson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.4:
+        non_striker: FC Wilson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 2.5:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: FC Wilson
+    - 2.6:
+        non_striker: FC Wilson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.1:
+        non_striker: FC Wilson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.2:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: FC Wilson
+    - 3.3:
+        non_striker: FC Wilson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+        wicket:
+          player_out: FC Wilson
+          fielders:
+          - CR King
+          - XA Jetly
+          kind: run out
+    - 3.4:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NB Cox
+        batsman: KG Anderson
+    - 3.5:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NB Cox
+        batsman: KG Anderson
+    - 3.6:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.1:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 4.2:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 4.3:
+        non_striker: NB Cox
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.4:
+        non_striker: NB Cox
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 4.5:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 4.6:
+        non_striker: NB Cox
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.1:
+        non_striker: NB Cox
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.2:
+        non_striker: NB Cox
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.3:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 5.4:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 5.5:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 5.6:
+        non_striker: NB Cox
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 6.1:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 6.2:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 6.3:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KG Anderson
+    - 6.4:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 6.5:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.6:
+        non_striker: KG Anderson
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 7.1:
+        non_striker: KG Anderson
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 7.2:
+        non_striker: KG Anderson
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 7.3:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 7.4:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.5:
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 7.6:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 8.1:
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 8.2:
+        non_striker: NB Cox
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.3:
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 8.4:
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 8.5:
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KG Anderson
+        batsman: NB Cox
+    - 8.6:
+        non_striker: NB Cox
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          kind: lbw
+    - 9.1:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Dean
+        batsman: NB Cox
+    - 9.2:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Dean
+        batsman: NB Cox
+    - 9.3:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Dean
+        batsman: NB Cox
+    - 9.4:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Dean
+        batsman: NB Cox
+    - 9.5:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+    - 9.6:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dean
+        wicket:
+          player_out: J Dean
+          fielders:
+          - JT McFadyen
+          kind: stumped
+    - 10.1:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AG Gerken
+        batsman: NB Cox
+    - 10.2:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 10.3:
+        non_striker: AG Gerken
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 10.4:
+        non_striker: AG Gerken
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 10.5:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 10.6:
+        non_striker: AG Gerken
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 11.1:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Gerken
+    - 11.2:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Gerken
+    - 11.3:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 11.4:
+        non_striker: AG Gerken
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 11.5:
+        non_striker: NB Cox
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 11.6:
+        non_striker: AG Gerken
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NB Cox
+    - 12.1:
+        non_striker: NB Cox
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 12.2:
+        non_striker: NB Cox
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 12.3:
+        non_striker: AG Gerken
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 12.4:
+        non_striker: AG Gerken
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 12.5:
+        non_striker: AG Gerken
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 12.6:
+        non_striker: NB Cox
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 13.1:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 13.2:
+        non_striker: AG Gerken
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 13.3:
+        non_striker: AG Gerken
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 13.4:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+        wicket:
+          player_out: AG Gerken
+          fielders:
+          - CR King
+          kind: caught
+    - 13.5:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 13.6:
+        non_striker: NB Cox
+        bowler: CR Knott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 14.1:
+        non_striker: MJ Banks
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 14.2:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 14.3:
+        non_striker: MJ Banks
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 14.4:
+        non_striker: NB Cox
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 14.5:
+        non_striker: MJ Banks
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+        wicket:
+          player_out: NB Cox
+          fielders:
+          - TMM Newton
+          kind: caught
+    - 14.6:
+        non_striker: MJ Banks
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 15.1:
+        non_striker: GES Sullivan
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 15.2:
+        non_striker: GES Sullivan
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 15.3:
+        non_striker: GES Sullivan
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 15.4:
+        non_striker: MJ Banks
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 15.5:
+        non_striker: GES Sullivan
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+        wicket:
+          player_out: MJ Banks
+          kind: bowled
+    - 15.6:
+        non_striker: GES Sullivan
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 16.1:
+        non_striker: JA Simmons
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 16.2:
+        non_striker: GES Sullivan
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Simmons
+    - 16.3:
+        non_striker: GES Sullivan
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 16.4:
+        non_striker: GES Sullivan
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 16.5:
+        non_striker: GES Sullivan
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+        wicket:
+          player_out: JA Simmons
+          kind: caught and bowled
+    - 16.6:
+        non_striker: GES Sullivan
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Asmussen
+        wicket:
+          player_out: SR Asmussen
+          kind: bowled

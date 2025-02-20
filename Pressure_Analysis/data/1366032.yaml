@@ -1,0 +1,2241 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  competition: FairBreak Invitational Tournament
+  dates:
+  - '2023-04-16'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Barmy Army
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - DJS Dottin
+  players:
+    Barmy Army:
+    - L Winfield
+    - KKN Egodage
+    - RMAM Avery
+    - DJS Dottin
+    - KK Gill
+    - SA Campbelle
+    - Rumana Ahmed
+    - Fatima Sana
+    - RC Belbashi
+    - Ruchitha Venkatesh
+    - L Cardoso
+    Spirit:
+    - SJ Bryce
+    - N Chantam
+    - N Chaiwai
+    - GC Bhogle
+    - KA Tomlinson
+    - NJ Carey
+    - Y Daswani
+    - M Gaur
+    - A Khaka
+    - S Miyaji
+    - Chan Ka Man
+  registry:
+    people:
+      A Khaka: 0d518f89
+      Chan Ka Man: c4022bff
+      DJS Dottin: 53bee17f
+      Fatima Sana: ea9c54de
+      GC Bhogle: a1965ce2
+      Humaira Farah: 6b6d6623
+      John Prakash: b5f3d429
+      KA Tomlinson: 83d6e306
+      KK Gill: b3f390aa
+      KKN Egodage: 5bb904d4
+      L Cardoso: 5777d460
+      L Winfield: 5230a33d
+      M Gaur: df9cdebf
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      NJ Carey: dff806f4
+      RC Belbashi: dfdaca74
+      RMAM Avery: 4cf645c9
+      Ruchitha Venkatesh: 106135f5
+      Rumana Ahmed: a92763ea
+      S Miyaji: 3aca2ed5
+      SA Campbelle: a7cd72b2
+      SJ Bryce: 2ca65aee
+      SR Bernard: 800187dc
+      Sarika Prasad: 8ff397fa
+      Tabarak Dar: 2259c12d
+      Y Daswani: 2038a273
+  teams:
+  - Barmy Army
+  - Spirit
+  toss:
+    winner: Spirit
+    decision: field
+  umpires:
+  - John Prakash
+  - Sarika Prasad
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Barmy Army
+    deliveries:
+    - 0.1:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KKN Egodage
+        batsman: L Winfield
+    - 0.2:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KKN Egodage
+        batsman: L Winfield
+    - 0.3:
+        non_striker: L Winfield
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 0.4:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 0.5:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 0.6:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 0.7:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+        wicket:
+          player_out: L Winfield
+          fielders:
+          - NJ Carey
+          kind: caught
+    - 1.1:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RMAM Avery
+        batsman: KKN Egodage
+    - 1.2:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: KKN Egodage
+    - 1.3:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: KKN Egodage
+    - 1.4:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RMAM Avery
+        batsman: KKN Egodage
+    - 1.5:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: KKN Egodage
+    - 1.6:
+        non_striker: RMAM Avery
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 2.1:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.2:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.3:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.4:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.5:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.6:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 3.1:
+        non_striker: RMAM Avery
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 3.2:
+        non_striker: KKN Egodage
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 3.3:
+        non_striker: KKN Egodage
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 3.4:
+        non_striker: RMAM Avery
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 3.5:
+        non_striker: RMAM Avery
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 3.6:
+        non_striker: RMAM Avery
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 4.1:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          fielders:
+          - SJ Bryce
+          kind: run out
+    - 4.2:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.3:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.4:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.5:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.6:
+        non_striker: DJS Dottin
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 5.1:
+        non_striker: KKN Egodage
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 5.2:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 5.3:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 5.4:
+        non_striker: KKN Egodage
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 5.5:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 5.6:
+        non_striker: DJS Dottin
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 6.1:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.2:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.3:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 6.4:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.5:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.6:
+        non_striker: DJS Dottin
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 6.7:
+        non_striker: DJS Dottin
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 7.1:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 7.2:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 7.3:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 7.4:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 7.5:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.6:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 8.1:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 8.2:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 8.3:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 8.4:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJS Dottin
+    - 8.5:
+        non_striker: DJS Dottin
+        bowler: S Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KKN Egodage
+    - 8.6:
+        non_striker: DJS Dottin
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 8.7:
+        non_striker: KKN Egodage
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 9.1:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 9.2:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 9.3:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 9.4:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 9.5:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 9.6:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.1:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 10.2:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 10.3:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 10.4:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 10.5:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 10.6:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.7:
+        non_striker: DJS Dottin
+        bowler: GC Bhogle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KKN Egodage
+    - 10.8:
+        non_striker: DJS Dottin
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 10.9:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: DJS Dottin
+    - 10.10:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 11.1:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KKN Egodage
+    - 11.2:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 11.3:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 11.4:
+        non_striker: KKN Egodage
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.5:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KKN Egodage
+    - 11.6:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KKN Egodage
+    - 11.7:
+        non_striker: DJS Dottin
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 12.1:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 12.2:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 12.3:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 12.4:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 12.5:
+        non_striker: KKN Egodage
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 12.6:
+        non_striker: DJS Dottin
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 13.1:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 13.2:
+        non_striker: KKN Egodage
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.3:
+        non_striker: DJS Dottin
+        bowler: GC Bhogle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KKN Egodage
+    - 13.4:
+        non_striker: DJS Dottin
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+        wicket:
+          player_out: KKN Egodage
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 13.5:
+        non_striker: DJS Dottin
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 13.6:
+        non_striker: KK Gill
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 13.7:
+        non_striker: KK Gill
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 14.1:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 14.2:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 14.3:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 14.4:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 14.5:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          kind: bowled
+    - 14.6:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Campbelle
+    - 14.7:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: SA Campbelle
+    - 14.8:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SA Campbelle
+    - 14.9:
+        non_striker: SA Campbelle
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 14.10:
+        non_striker: SA Campbelle
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 15.1:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 15.2:
+        non_striker: KK Gill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 15.3:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 15.4:
+        non_striker: KK Gill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 15.5:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 15.6:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 16.1:
+        non_striker: KK Gill
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 16.2:
+        non_striker: SA Campbelle
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 16.3:
+        non_striker: SA Campbelle
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 16.4:
+        non_striker: KK Gill
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 16.5:
+        non_striker: SA Campbelle
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 16.6:
+        non_striker: SA Campbelle
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 17.1:
+        non_striker: SA Campbelle
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 17.2:
+        non_striker: SA Campbelle
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 17.3:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Campbelle
+    - 17.4:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 17.5:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.6:
+        non_striker: SA Campbelle
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 17.7:
+        non_striker: KK Gill
+        bowler: N Chantam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 18.1:
+        non_striker: SA Campbelle
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 18.2:
+        non_striker: KK Gill
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 18.3:
+        non_striker: KK Gill
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 18.4:
+        non_striker: SA Campbelle
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 18.5:
+        non_striker: SA Campbelle
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Gill
+    - 18.6:
+        non_striker: SA Campbelle
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 19.1:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 19.2:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+    - 19.3:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Gill
+    - 19.4:
+        non_striker: KK Gill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 19.5:
+        non_striker: KK Gill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.6:
+        non_striker: SA Campbelle
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Gill
+- 2nd innings:
+    team: Spirit
+    deliveries:
+    - 0.1:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.2:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.3:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.4:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chantam
+    - 0.5:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 0.6:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 0.7:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.1:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 1.2:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.3:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 1.4:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.5:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.6:
+        non_striker: SJ Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.1:
+        non_striker: N Chantam
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 2.2:
+        non_striker: N Chantam
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 2.3:
+        non_striker: N Chantam
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 2.4:
+        non_striker: SJ Bryce
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 2.5:
+        non_striker: N Chantam
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 2.6:
+        non_striker: N Chantam
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 3.1:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 3.2:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.3:
+        non_striker: SJ Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 3.4:
+        non_striker: N Chantam
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.5:
+        non_striker: N Chantam
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 3.6:
+        non_striker: N Chantam
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.1:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 4.2:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          kind: bowled
+    - 4.3:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 4.4:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chaiwai
+    - 4.5:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          fielders:
+          - L Winfield
+          kind: caught
+    - 4.6:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 4.7:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Bhogle
+    - 5.1:
+        non_striker: GC Bhogle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.2:
+        non_striker: GC Bhogle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: GC Bhogle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.4:
+        non_striker: GC Bhogle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.5:
+        non_striker: SJ Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.6:
+        non_striker: SJ Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 6.1:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.2:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.3:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 6.4:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 6.5:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 6.6:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 6.7:
+        non_striker: SJ Bryce
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 7.1:
+        non_striker: SJ Bryce
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.2:
+        non_striker: SJ Bryce
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.3:
+        non_striker: SJ Bryce
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.4:
+        non_striker: SJ Bryce
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 7.5:
+        non_striker: SJ Bryce
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.6:
+        non_striker: SJ Bryce
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 8.1:
+        non_striker: GC Bhogle
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 8.2:
+        non_striker: GC Bhogle
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.3:
+        non_striker: GC Bhogle
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 8.4:
+        non_striker: GC Bhogle
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.5:
+        non_striker: GC Bhogle
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 8.6:
+        non_striker: GC Bhogle
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 9.1:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 9.2:
+        non_striker: GC Bhogle
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 9.3:
+        non_striker: GC Bhogle
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 9.4:
+        non_striker: GC Bhogle
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 9.5:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 9.6:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 10.1:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 10.2:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 10.3:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 10.4:
+        non_striker: KA Tomlinson
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 10.5:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 10.6:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Tomlinson
+    - 10.7:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 11.1:
+        non_striker: KA Tomlinson
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 11.2:
+        non_striker: KA Tomlinson
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+        wicket:
+          player_out: GC Bhogle
+          fielders:
+          - KKN Egodage
+          - DJS Dottin
+          kind: run out
+    - 11.3:
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NJ Carey
+        batsman: KA Tomlinson
+    - 11.4:
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Carey
+        batsman: KA Tomlinson
+    - 11.5:
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Carey
+        batsman: KA Tomlinson
+    - 11.6:
+        non_striker: NJ Carey
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 12.1:
+        non_striker: NJ Carey
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 12.2:
+        non_striker: KA Tomlinson
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.3:
+        non_striker: NJ Carey
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 12.4:
+        non_striker: NJ Carey
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 12.5:
+        non_striker: KA Tomlinson
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.6:
+        non_striker: NJ Carey
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 13.1:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 13.2:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 13.3:
+        non_striker: KA Tomlinson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 13.4:
+        non_striker: KA Tomlinson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 13.5:
+        non_striker: KA Tomlinson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 13.6:
+        non_striker: KA Tomlinson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 14.1:
+        non_striker: NJ Carey
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+        wicket:
+          player_out: NJ Carey
+          fielders:
+          - Rumana Ahmed
+          - L Cardoso
+          kind: run out
+    - 14.2:
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Y Daswani
+        batsman: KA Tomlinson
+    - 14.3:
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Y Daswani
+        batsman: KA Tomlinson
+    - 14.4:
+        non_striker: KA Tomlinson
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 14.5:
+        non_striker: Y Daswani
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 14.6:
+        non_striker: Y Daswani
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 15.1:
+        non_striker: Y Daswani
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 15.2:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 15.3:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Daswani
+    - 15.4:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Daswani
+    - 15.5:
+        non_striker: KA Tomlinson
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 15.6:
+        non_striker: Y Daswani
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 16.1:
+        non_striker: Y Daswani
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Tomlinson
+    - 16.2:
+        non_striker: Y Daswani
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 16.3:
+        non_striker: Y Daswani
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 16.4:
+        non_striker: Y Daswani
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 16.5:
+        non_striker: KA Tomlinson
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 16.6:
+        non_striker: Y Daswani
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 17.1:
+        non_striker: KA Tomlinson
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 17.2:
+        non_striker: Y Daswani
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 17.3:
+        non_striker: Y Daswani
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 17.4:
+        non_striker: KA Tomlinson
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 17.5:
+        non_striker: Y Daswani
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Tomlinson
+    - 17.6:
+        non_striker: Y Daswani
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 18.1:
+        non_striker: Y Daswani
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 18.2:
+        non_striker: Y Daswani
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 18.3:
+        non_striker: Y Daswani
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 18.4:
+        non_striker: Y Daswani
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 18.5:
+        non_striker: KA Tomlinson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 18.6:
+        non_striker: KA Tomlinson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 19.1:
+        non_striker: KA Tomlinson
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 19.2:
+        non_striker: Y Daswani
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+        wicket:
+          player_out: KA Tomlinson
+          fielders:
+          - L Winfield
+          kind: stumped
+    - 19.3:
+        non_striker: Y Daswani
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gaur
+    - 19.4:
+        non_striker: Y Daswani
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gaur
+    - 19.5:
+        non_striker: Y Daswani
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gaur
+    - 19.6:
+        non_striker: M Gaur
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani

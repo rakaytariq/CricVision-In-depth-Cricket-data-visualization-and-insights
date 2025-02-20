@@ -1,0 +1,1837 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hambantota
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kandy Falcons
+    by:
+      runs: 109
+  overs: 20
+  player_of_match:
+  - ADS Fletcher
+  players:
+    Kandy Falcons:
+    - P Nissanka
+    - ADS Fletcher
+    - CR Brathwaite
+    - KNA Bandara
+    - PHKD Mendis
+    - PWH de Silva
+    - C Karunaratne
+    - FA Allen
+    - I Udana
+    - Zahoor Khan
+    - A Daniel
+    Colombo Stars:
+    - N Dickwella
+    - AD Mathews
+    - KIC Asalanka
+    - RS Bopara
+    - LD Chandimal
+    - BAC Howell
+    - S Prasanna
+    - DC Drakes
+    - KMA Paul
+    - M Lakshan
+    - RAS Lakmal
+  registry:
+    people:
+      A Daniel: 9e3f1cc4
+      AD Mathews: 896d78ad
+      ADS Fletcher: 1bae756b
+      BAC Howell: 0bec3a6c
+      BCMS Mendis: e3f6e4ac
+      BCN Amarasinghe: ccd560d6
+      C Karunaratne: fb3e0d39
+      CR Brathwaite: e342e5fb
+      DC Drakes: 34b332d3
+      FA Allen: b52ffbbd
+      I Udana: ac5ae4af
+      IC Soysa: 717a7971
+      KIC Asalanka: 732c038e
+      KMA Paul: 75224f22
+      KNA Bandara: 585dda5d
+      LD Chandimal: 8dd02a98
+      M Lakshan: aa844d38
+      N Dickwella: 45963d9e
+      P Nissanka: 8ee36b18
+      PHKD Mendis: '08548b13'
+      PWH de Silva: a97c8ec2
+      RAS Lakmal: 2f28dc94
+      RMPJ Rambukwella: 13fa6ffc
+      RR Wimalasiri: 4950c8db
+      RS Bopara: 7ca5e05d
+      S Prasanna: f78e7113
+      Zahoor Khan: f0e293b0
+  teams:
+  - Kandy Falcons
+  - Colombo Stars
+  toss:
+    winner: Colombo Stars
+    decision: field
+  umpires:
+  - BCN Amarasinghe
+  - RR Wimalasiri
+  venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+innings:
+- 1st innings:
+    team: Kandy Falcons
+    deliveries:
+    - 0.1:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: P Nissanka
+        bowler: AD Mathews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.1:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.4:
+        non_striker: P Nissanka
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.5:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 5.1:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 5.3:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: KMA Paul
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: P Nissanka
+    - 5.7:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 6.1:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.2:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.4:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.1:
+        non_striker: P Nissanka
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.3:
+        non_striker: P Nissanka
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.4:
+        non_striker: ADS Fletcher
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.5:
+        non_striker: P Nissanka
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 7.6:
+        non_striker: P Nissanka
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 8.1:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 8.2:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 8.3:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 8.4:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 8.5:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.6:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.1:
+        non_striker: ADS Fletcher
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 9.2:
+        non_striker: ADS Fletcher
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 9.3:
+        non_striker: ADS Fletcher
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 9.4:
+        non_striker: ADS Fletcher
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.5:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 9.6:
+        non_striker: P Nissanka
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.1:
+        non_striker: P Nissanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 10.2:
+        non_striker: P Nissanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.3:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 10.4:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 10.5:
+        non_striker: P Nissanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.6:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 11.1:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 11.2:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 11.3:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 11.4:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 11.5:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 11.6:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 11.7:
+        non_striker: P Nissanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 12.1:
+        non_striker: ADS Fletcher
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 12.2:
+        non_striker: ADS Fletcher
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 12.3:
+        non_striker: ADS Fletcher
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 12.4:
+        non_striker: ADS Fletcher
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.5:
+        non_striker: P Nissanka
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 12.6:
+        non_striker: P Nissanka
+        bowler: M Lakshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 13.1:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.2:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.3:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.4:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 13.5:
+        non_striker: P Nissanka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.6:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 14.1:
+        non_striker: P Nissanka
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.2:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 14.3:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 14.4:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 14.5:
+        non_striker: ADS Fletcher
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 14.6:
+        non_striker: P Nissanka
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 14.7:
+        non_striker: P Nissanka
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 15.1:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 15.2:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 15.3:
+        non_striker: P Nissanka
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.4:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 15.5:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 15.6:
+        non_striker: CR Brathwaite
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 16.1:
+        non_striker: CR Brathwaite
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 16.2:
+        non_striker: CR Brathwaite
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 16.3:
+        non_striker: CR Brathwaite
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 16.4:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 16.5:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Brathwaite
+    - 16.6:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Brathwaite
+    - 17.1:
+        non_striker: CR Brathwaite
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 17.2:
+        non_striker: CR Brathwaite
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 17.3:
+        non_striker: CR Brathwaite
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 17.4:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 17.5:
+        non_striker: CR Brathwaite
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 17.6:
+        non_striker: ADS Fletcher
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 18.1:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 18.2:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 18.3:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 18.4:
+        non_striker: CR Brathwaite
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 18.5:
+        non_striker: CR Brathwaite
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 18.6:
+        non_striker: ADS Fletcher
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 19.1:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 19.2:
+        non_striker: CR Brathwaite
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 19.3:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 19.4:
+        non_striker: CR Brathwaite
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 19.5:
+        non_striker: ADS Fletcher
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 19.6:
+        non_striker: CR Brathwaite
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+- 2nd innings:
+    team: Colombo Stars
+    deliveries:
+    - 0.1:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 0.2:
+        non_striker: N Dickwella
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 0.3:
+        non_striker: N Dickwella
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 0.4:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.5:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 0.6:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          fielders:
+          - PWH de Silva
+          kind: run out
+    - 1.1:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 1.2:
+        non_striker: KIC Asalanka
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 1.3:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 1.4:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 1.5:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 1.6:
+        non_striker: RS Bopara
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 2.1:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 2.2:
+        non_striker: RS Bopara
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 2.3:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 2.4:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 2.5:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          fielders:
+          - PWH de Silva
+          kind: caught
+    - 2.6:
+        non_striker: AD Mathews
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 3.1:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 3.2:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Mathews
+    - 3.3:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 3.4:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 3.5:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 3.6:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 4.1:
+        non_striker: AD Mathews
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 4.2:
+        non_striker: LD Chandimal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Mathews
+    - 4.3:
+        non_striker: LD Chandimal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 4.4:
+        non_striker: LD Chandimal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Mathews
+    - 4.5:
+        non_striker: LD Chandimal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 4.6:
+        non_striker: AD Mathews
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 5.1:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Mathews
+    - 5.2:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Mathews
+    - 5.3:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 5.4:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 5.5:
+        non_striker: AD Mathews
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 5.6:
+        non_striker: LD Chandimal
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 6.1:
+        non_striker: LD Chandimal
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 6.2:
+        non_striker: LD Chandimal
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 6.3:
+        non_striker: AD Mathews
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+        wicket:
+          player_out: LD Chandimal
+          kind: bowled
+    - 6.4:
+        non_striker: AD Mathews
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+        wicket:
+          player_out: BAC Howell
+          kind: lbw
+    - 6.5:
+        non_striker: AD Mathews
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prasanna
+        wicket:
+          player_out: S Prasanna
+          kind: lbw
+    - 6.6:
+        non_striker: AD Mathews
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 7.1:
+        non_striker: DC Drakes
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 7.2:
+        non_striker: AD Mathews
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 7.3:
+        non_striker: AD Mathews
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes
+    - 7.4:
+        non_striker: AD Mathews
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 7.5:
+        non_striker: AD Mathews
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 7.6:
+        non_striker: AD Mathews
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 8.1:
+        non_striker: AD Mathews
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 8.2:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 8.3:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 8.4:
+        non_striker: AD Mathews
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 8.5:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Mathews
+    - 8.6:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+        wicket:
+          player_out: AD Mathews
+          fielders:
+          - FA Allen
+          kind: caught
+    - 9.1:
+        non_striker: KMA Paul
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 9.2:
+        non_striker: KMA Paul
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 9.3:
+        non_striker: KMA Paul
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes
+    - 9.4:
+        non_striker: KMA Paul
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 9.5:
+        non_striker: DC Drakes
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 9.6:
+        non_striker: KMA Paul
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 10.1:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 10.2:
+        non_striker: KMA Paul
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Drakes
+    - 10.3:
+        non_striker: KMA Paul
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 10.4:
+        non_striker: KMA Paul
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 10.5:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 10.6:
+        non_striker: DC Drakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 11.1:
+        non_striker: KMA Paul
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 11.2:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul
+    - 11.3:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 11.4:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 11.5:
+        non_striker: KMA Paul
+        bowler: A Daniel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DC Drakes
+    - 11.6:
+        non_striker: KMA Paul
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 11.7:
+        non_striker: KMA Paul
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 12.1:
+        non_striker: DC Drakes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.2:
+        non_striker: DC Drakes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.3:
+        non_striker: DC Drakes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.4:
+        non_striker: DC Drakes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 12.5:
+        non_striker: KMA Paul
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 12.6:
+        non_striker: DC Drakes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.1:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul
+    - 13.2:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.3:
+        non_striker: KMA Paul
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 13.4:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          kind: bowled
+    - 13.5:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Lakshan
+    - 13.6:
+        non_striker: DC Drakes
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lakshan
+    - 14.1:
+        non_striker: DC Drakes
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lakshan
+    - 14.2:
+        non_striker: M Lakshan
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+        wicket:
+          player_out: DC Drakes
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 14.3:
+        non_striker: M Lakshan
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RAS Lakmal
+        wicket:
+          player_out: RAS Lakmal
+          kind: lbw

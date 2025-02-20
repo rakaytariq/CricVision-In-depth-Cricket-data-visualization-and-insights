@@ -1,0 +1,2048 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chattogram
+  competition: Bangladesh Premier League
+  dates:
+  - '2023-01-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Comilla Victorians
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Liton Das
+  players:
+    Chattogram Challengers:
+    - Usman Khan (2)
+    - MP O'Dowd
+    - Afif Hossain
+    - Irfan Sukkur
+    - Darwish Rasooli
+    - Ziaur Rahman
+    - Shuvagata Hom
+    - Mrittunjoy Chowdhury
+    - Mehedi Hasan Rana
+    - Nihaduzzaman
+    - PM Pushpakumara
+    Comilla Victorians:
+    - Liton Das
+    - Mohammad Rizwan
+    - Imrul Kayes
+    - J Charles
+    - Jaker Ali
+    - Khushdil Shah
+    - Mosaddek Hossain
+    - Abu Hider
+    - Tanvir Islam
+    - Mukidul Islam
+    - Hasan Ali
+  registry:
+    people:
+      Abu Hider: 31803fac
+      Afif Hossain: '37138918'
+      Ali Arman: 1342d8d8
+      Darwish Rasooli: 3b2114a5
+      Hasan Ali: 2911de16
+      Imrul Kayes: 5fbe14fc
+      Irfan Sukkur: 3cc7dd5f
+      J Charles: '09a9d073'
+      Jaker Ali: cd56a813
+      Khushdil Shah: fce581b5
+      Liton Das: 0404d43c
+      MP O'Dowd: b699df47
+      Mehedi Hasan Rana: 0b7363da
+      Mohammad Rizwan: 2f26ac1a
+      Mosaddek Hossain: 8919756f
+      Mozahiduzzaman: a149de90
+      Mrittunjoy Chowdhury: 21b97584
+      Mukidul Islam: a699488a
+      Nihaduzzaman: eca6dcb2
+      PM Pushpakumara: b529630e
+      RMPJ Rambukwella: 13fa6ffc
+      RR Wimalasiri: 4950c8db
+      Raqibul Hasan: 4c64cc8d
+      Shuvagata Hom: bb01f9e0
+      Tanvir Islam: aa467af0
+      Usman Khan: bafb9238
+      Ziaur Rahman: c27518d2
+  teams:
+  - Chattogram Challengers
+  - Comilla Victorians
+  toss:
+    winner: Chattogram Challengers
+    decision: bat
+  umpires:
+  - Ali Arman
+  - RR Wimalasiri
+  venue: Zahur Ahmed Chowdhury Stadium, Chattogram
+innings:
+- 1st innings:
+    team: Chattogram Challengers
+    deliveries:
+    - 0.1:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 0.2:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Usman Khan (2)
+    - 0.5:
+        non_striker: Usman Khan (2)
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+        wicket:
+          player_out: Usman Khan (2)
+          kind: bowled
+    - 1.1:
+        non_striker: Afif Hossain
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 1.3:
+        non_striker: Afif Hossain
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 1.5:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 2.1:
+        non_striker: Afif Hossain
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 2.5:
+        non_striker: Afif Hossain
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.6:
+        non_striker: Afif Hossain
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 3.1:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 3.2:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 3.4:
+        non_striker: Afif Hossain
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.5:
+        non_striker: MP O'Dowd
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 3.6:
+        non_striker: Afif Hossain
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 4.1:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 4.3:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 4.4:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 4.5:
+        non_striker: Afif Hossain
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 4.6:
+        non_striker: Afif Hossain
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.1:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 5.2:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 5.3:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 5.4:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 5.5:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 5.6:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          kind: bowled
+    - 6.1:
+        non_striker: Irfan Sukkur
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.2:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Sukkur
+    - 6.3:
+        non_striker: Irfan Sukkur
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.4:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+    - 6.5:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Irfan Sukkur
+    - 6.6:
+        non_striker: Irfan Sukkur
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.7:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Sukkur
+    - 7.1:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+    - 7.2:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+    - 7.3:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+    - 7.4:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+    - 7.5:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+    - 7.6:
+        non_striker: MP O'Dowd
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Sukkur
+    - 8.1:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Sukkur
+    - 8.2:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Sukkur
+        wicket:
+          player_out: Irfan Sukkur
+          kind: lbw
+    - 8.3:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 8.4:
+        non_striker: Darwish Rasooli
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.5:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 8.6:
+        non_striker: Darwish Rasooli
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.1:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.2:
+        non_striker: MP O'Dowd
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 9.3:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.4:
+        non_striker: MP O'Dowd
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 9.5:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 9.6:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 10.1:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 10.2:
+        non_striker: Darwish Rasooli
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 10.3:
+        non_striker: Darwish Rasooli
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.4:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 10.5:
+        non_striker: Darwish Rasooli
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.6:
+        non_striker: MP O'Dowd
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Darwish Rasooli
+    - 11.1:
+        non_striker: Darwish Rasooli
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP O'Dowd
+    - 11.2:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 11.3:
+        non_striker: MP O'Dowd
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Darwish Rasooli
+    - 11.4:
+        non_striker: Darwish Rasooli
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          kind: bowled
+    - 11.5:
+        non_striker: Darwish Rasooli
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 11.6:
+        non_striker: Darwish Rasooli
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ziaur Rahman
+    - 12.1:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ziaur Rahman
+    - 12.2:
+        non_striker: Ziaur Rahman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 12.3:
+        non_striker: Ziaur Rahman
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 12.4:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 12.5:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+        wicket:
+          player_out: Ziaur Rahman
+          kind: bowled
+    - 12.6:
+        non_striker: Darwish Rasooli
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 13.1:
+        non_striker: Darwish Rasooli
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 13.2:
+        non_striker: Darwish Rasooli
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 13.3:
+        non_striker: Shuvagata Hom
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 13.4:
+        non_striker: Shuvagata Hom
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 13.5:
+        non_striker: Shuvagata Hom
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+        wicket:
+          player_out: Darwish Rasooli
+          kind: bowled
+    - 13.6:
+        non_striker: Shuvagata Hom
+        bowler: Tanvir Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 14.1:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 14.2:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 14.3:
+        non_striker: Shuvagata Hom
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mrittunjoy Chowdhury
+    - 14.4:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 14.5:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 14.6:
+        non_striker: Shuvagata Hom
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mrittunjoy Chowdhury
+    - 15.1:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mrittunjoy Chowdhury
+    - 15.2:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mrittunjoy Chowdhury
+    - 15.3:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 15.4:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 15.5:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 15.6:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mrittunjoy Chowdhury
+    - 15.7:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 16.1:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 16.2:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 16.3:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 16.4:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 16.5:
+        non_striker: Shuvagata Hom
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+        wicket:
+          player_out: Mrittunjoy Chowdhury
+          kind: bowled
+    - 16.6:
+        non_striker: Shuvagata Hom
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Rana
+    - 17.1:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 17.2:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Rana
+    - 17.3:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shuvagata Hom
+    - 17.4:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuvagata Hom
+    - 17.5:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 17.6:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 18.1:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Rana
+    - 18.2:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Rana
+    - 18.3:
+        non_striker: Shuvagata Hom
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Rana
+    - 18.4:
+        non_striker: Mehedi Hasan Rana
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shuvagata Hom
+    - 18.5:
+        non_striker: Mehedi Hasan Rana
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 18.6:
+        non_striker: Mehedi Hasan Rana
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shuvagata Hom
+    - 18.7:
+        non_striker: Mehedi Hasan Rana
+        bowler: Mukidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 19.1:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 19.2:
+        non_striker: Mehedi Hasan Rana
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 19.3:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Rana
+    - 19.4:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Rana
+    - 19.5:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Rana
+    - 19.6:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Rana
+        wicket:
+          player_out: Mehedi Hasan Rana
+          fielders:
+          - Abu Hider
+          - Hasan Ali
+          kind: run out
+- 2nd innings:
+    team: Comilla Victorians
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 0.3:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.4:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 0.5:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 0.6:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 1.1:
+        non_striker: Liton Das
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rizwan
+    - 1.2:
+        non_striker: Liton Das
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 1.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 1.7:
+        non_striker: Liton Das
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mohammad Rizwan
+    - 1.8:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Liton Das
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.2:
+        non_striker: Liton Das
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.3:
+        non_striker: Liton Das
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.4:
+        non_striker: Liton Das
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 2.5:
+        non_striker: Liton Das
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.6:
+        non_striker: Liton Das
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.1:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.3:
+        non_striker: Liton Das
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 3.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 3.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 4.1:
+        non_striker: Liton Das
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 4.2:
+        non_striker: Liton Das
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 4.7:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 5.1:
+        non_striker: Liton Das
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.2:
+        non_striker: Liton Das
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.3:
+        non_striker: Liton Das
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          kind: bowled
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.1:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 6.2:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.6:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 7.1:
+        non_striker: Imrul Kayes
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 7.2:
+        non_striker: Imrul Kayes
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 7.3:
+        non_striker: Imrul Kayes
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.4:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 7.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 7.6:
+        non_striker: Imrul Kayes
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 8.1:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 8.2:
+        non_striker: Imrul Kayes
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.3:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 8.4:
+        non_striker: Imrul Kayes
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 8.5:
+        non_striker: Imrul Kayes
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.6:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 8.7:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 9.1:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Imrul Kayes
+    - 9.2:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 9.3:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 9.4:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 9.5:
+        non_striker: Imrul Kayes
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 9.6:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          fielders:
+          - Mehedi Hasan Rana
+          kind: caught
+    - 9.7:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 9.8:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Charles
+    - 9.9:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          kind: lbw
+    - 10.1:
+        non_striker: Jaker Ali
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.2:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 10.3:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 10.4:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 10.5:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 10.6:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 11.1:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 11.2:
+        non_striker: Jaker Ali
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 11.3:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 11.4:
+        non_striker: Jaker Ali
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 11.5:
+        non_striker: Jaker Ali
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 11.6:
+        non_striker: Mohammad Rizwan
+        bowler: PM Pushpakumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 12.1:
+        non_striker: Jaker Ali
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.2:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 12.3:
+        non_striker: Jaker Ali
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 12.4:
+        non_striker: Jaker Ali
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.5:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 12.6:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 13.1:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 13.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaker Ali
+    - 13.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 13.4:
+        non_striker: Jaker Ali
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.5:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 13.6:
+        non_striker: Jaker Ali
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.7:
+        non_striker: Mohammad Rizwan
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 14.1:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 14.2:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 14.3:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 14.4:
+        non_striker: Jaker Ali
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 14.5:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+    - 14.6:
+        non_striker: Mohammad Rizwan
+        bowler: Nihaduzzaman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaker Ali
+    - 15.1:
+        non_striker: Mohammad Rizwan
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaker Ali
+    - 15.2:
+        non_striker: Mohammad Rizwan
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaker Ali
+    - 15.3:
+        non_striker: Mohammad Rizwan
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaker Ali
+        wicket:
+          player_out: Jaker Ali
+          kind: lbw
+    - 15.4:
+        non_striker: Mohammad Rizwan
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 15.5:
+        non_striker: Mohammad Rizwan
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 15.6:
+        non_striker: Mohammad Rizwan
+        bowler: Ziaur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 16.1:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 16.2:
+        non_striker: Khushdil Shah
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 16.3:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 16.4:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 16.5:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khushdil Shah
+    - 16.6:
+        non_striker: Mohammad Rizwan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khushdil Shah
+    - 17.1:
+        non_striker: Khushdil Shah
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 17.2:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 17.3:
+        non_striker: Mohammad Rizwan
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khushdil Shah

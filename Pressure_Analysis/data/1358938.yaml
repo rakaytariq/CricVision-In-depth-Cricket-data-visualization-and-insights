@@ -1,0 +1,2061 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: Women's Premier League
+  dates:
+  - '2023-03-12'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - H Kaur
+  players:
+    UP Warriorz:
+    - AJ Healy
+    - DP Vaidya
+    - KP Navgire
+    - TM McGrath
+    - Simran Shaikh
+    - S Ecclestone
+    - DB Sharma
+    - S Sehrawat
+    - S Ismail
+    - K Anjali Sarvani
+    - RS Gayakwad
+    Mumbai Indians:
+    - HK Matthews
+    - YH Bhatia
+    - NR Sciver
+    - H Kaur
+    - AC Kerr
+    - DV Gujjar
+    - IECM Wong
+    - HY Kazi
+    - AB Kaur
+    - JN Kalita
+    - S Ishaque
+  registry:
+    people:
+      AB Kaur: 9565fda6
+      AC Kerr: 7673c908
+      AJ Healy: 321644de
+      Chirra Ravikanthreddy: 8b680f55
+      DB Sharma: 201fef33
+      DP Vaidya: f9ded29b
+      DV Gujjar: 7d5f23c3
+      H Kaur: 53cd8da6
+      HK Matthews: d32cf49a
+      HY Kazi: 16954a36
+      IECM Wong: e5b17517
+      JN Kalita: 4c3bbf03
+      K Anjali Sarvani: fa0bf9d9
+      KP Navgire: 617a0b79
+      N Janani: d06a665d
+      NR Sciver: f3a18a0c
+      PG Pathak: 9f772ec5
+      RB Kalita: 8d7ad5a6
+      RS Gayakwad: 237ec05b
+      Ranjeev Sharma: d334aee7
+      S Ecclestone: cdb82f1c
+      S Ishaque: f2c1f0e5
+      S Ismail: 108c4c09
+      S Sehrawat: 0e9d4094
+      Simran Shaikh: 4961601c
+      TM McGrath: ca5acfa4
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - UP Warriorz
+  - Mumbai Indians
+  toss:
+    winner: UP Warriorz
+    decision: bat
+  umpires:
+  - N Janani
+  - PG Pathak
+  venue: Brabourne Stadium, Mumbai
+innings:
+- 1st innings:
+    team: UP Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: DP Vaidya
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.2:
+        non_striker: DP Vaidya
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 0.3:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 0.4:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 0.5:
+        non_striker: DP Vaidya
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.6:
+        non_striker: DP Vaidya
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 1.2:
+        non_striker: DP Vaidya
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.3:
+        non_striker: DP Vaidya
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.4:
+        non_striker: DP Vaidya
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 1.5:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Vaidya
+    - 1.6:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+        wicket:
+          player_out: DP Vaidya
+          kind: lbw
+    - 2.1:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Healy
+    - 2.2:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.3:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Healy
+    - 2.4:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Navgire
+    - 2.5:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KP Navgire
+    - 2.6:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.7:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Healy
+    - 3.1:
+        non_striker: KP Navgire
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 3.2:
+        non_striker: KP Navgire
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 3.3:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 3.4:
+        non_striker: KP Navgire
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 3.5:
+        non_striker: KP Navgire
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 3.6:
+        non_striker: KP Navgire
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 4.1:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 4.2:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 4.3:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 4.4:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.5:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 4.6:
+        non_striker: KP Navgire
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 5.1:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 5.2:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 5.3:
+        non_striker: KP Navgire
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 5.4:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 5.5:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KP Navgire
+    - 5.6:
+        non_striker: KP Navgire
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Healy
+    - 6.1:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 6.2:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KP Navgire
+    - 6.3:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Navgire
+    - 6.4:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+        wicket:
+          player_out: KP Navgire
+          fielders:
+          - YH Bhatia
+          kind: caught
+    - 6.5:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 6.6:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 7.1:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 7.2:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM McGrath
+    - 7.3:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 7.4:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 7.5:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 7.6:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.7:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.1:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.2:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 8.3:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 8.4:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 8.5:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 8.6:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 9.1:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 9.2:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 9.3:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.4:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.5:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 9.6:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.1:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.2:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.3:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 10.4:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.5:
+        non_striker: TM McGrath
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 10.6:
+        non_striker: TM McGrath
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 11.1:
+        non_striker: TM McGrath
+        bowler: JN Kalita
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Healy
+    - 11.2:
+        non_striker: TM McGrath
+        bowler: JN Kalita
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 11.3:
+        non_striker: AJ Healy
+        bowler: JN Kalita
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 11.4:
+        non_striker: TM McGrath
+        bowler: JN Kalita
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 11.5:
+        non_striker: AJ Healy
+        bowler: JN Kalita
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 11.6:
+        non_striker: AJ Healy
+        bowler: JN Kalita
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: TM McGrath
+    - 11.7:
+        non_striker: AJ Healy
+        bowler: JN Kalita
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.1:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.2:
+        non_striker: TM McGrath
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 12.3:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TM McGrath
+    - 12.4:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 12.5:
+        non_striker: AJ Healy
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.6:
+        non_striker: TM McGrath
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 12.7:
+        non_striker: TM McGrath
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 13.1:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 13.2:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Healy
+    - 13.3:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 13.4:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TM McGrath
+    - 13.5:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 13.6:
+        non_striker: AJ Healy
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 14.1:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 14.2:
+        non_striker: TM McGrath
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 14.3:
+        non_striker: TM McGrath
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 14.4:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 14.5:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 14.6:
+        non_striker: AJ Healy
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 15.1:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 15.2:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 15.3:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Healy
+    - 15.4:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 15.5:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 15.6:
+        non_striker: AJ Healy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 16.1:
+        non_striker: TM McGrath
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 16.2:
+        non_striker: AJ Healy
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 16.3:
+        non_striker: TM McGrath
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          kind: lbw
+    - 16.4:
+        non_striker: TM McGrath
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 16.5:
+        non_striker: Simran Shaikh
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          fielders:
+          - YH Bhatia
+          kind: stumped
+    - 16.6:
+        non_striker: Simran Shaikh
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 17.1:
+        non_striker: S Ecclestone
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simran Shaikh
+    - 17.2:
+        non_striker: S Ecclestone
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 17.3:
+        non_striker: Simran Shaikh
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.4:
+        non_striker: S Ecclestone
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 17.5:
+        non_striker: Simran Shaikh
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 17.6:
+        non_striker: Simran Shaikh
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+        wicket:
+          player_out: S Ecclestone
+          fielders:
+          - NR Sciver
+          kind: caught
+    - 18.1:
+        non_striker: DB Sharma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 18.2:
+        non_striker: Simran Shaikh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 18.3:
+        non_striker: Simran Shaikh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 18.4:
+        non_striker: Simran Shaikh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 18.5:
+        non_striker: Simran Shaikh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 18.6:
+        non_striker: DB Sharma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 19.1:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 19.2:
+        non_striker: Simran Shaikh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 19.3:
+        non_striker: Simran Shaikh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - YH Bhatia
+          kind: stumped
+    - 19.4:
+        non_striker: Simran Shaikh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sehrawat
+    - 19.5:
+        non_striker: S Sehrawat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 19.6:
+        non_striker: Simran Shaikh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sehrawat
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 2.1:
+        non_striker: HK Matthews
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 2.3:
+        non_striker: YH Bhatia
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.1:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YH Bhatia
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YH Bhatia
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.6:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.7:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 3.8:
+        non_striker: HK Matthews
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.1:
+        non_striker: YH Bhatia
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 4.2:
+        non_striker: HK Matthews
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 4.3:
+        non_striker: HK Matthews
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 4.4:
+        non_striker: YH Bhatia
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.5:
+        non_striker: YH Bhatia
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.6:
+        non_striker: YH Bhatia
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.1:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.2:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 5.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: YH Bhatia
+    - 5.4:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: YH Bhatia
+    - 5.5:
+        non_striker: YH Bhatia
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.7:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 6.1:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: YH Bhatia
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.4:
+        non_striker: HK Matthews
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YH Bhatia
+    - 6.5:
+        non_striker: HK Matthews
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - Simran Shaikh
+          kind: caught
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 7.1:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: caught and bowled
+    - 7.3:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.4:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.5:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.6:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 7.7:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.1:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NR Sciver
+    - 8.2:
+        non_striker: NR Sciver
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.3:
+        non_striker: NR Sciver
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Kaur
+    - 8.4:
+        non_striker: NR Sciver
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.5:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver
+    - 8.6:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 8.7:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 9.1:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.2:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 9.3:
+        non_striker: H Kaur
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 9.4:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 9.5:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 9.6:
+        non_striker: H Kaur
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 10.1:
+        non_striker: H Kaur
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 10.2:
+        non_striker: H Kaur
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 10.3:
+        non_striker: NR Sciver
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 10.4:
+        non_striker: NR Sciver
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 10.5:
+        non_striker: NR Sciver
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.6:
+        non_striker: H Kaur
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 10.7:
+        non_striker: NR Sciver
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 11.1:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 11.2:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 11.3:
+        non_striker: NR Sciver
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.4:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 11.5:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 11.6:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 12.1:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 12.2:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 12.3:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 12.4:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 12.5:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 12.6:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.1:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.2:
+        non_striker: H Kaur
+        bowler: RS Gayakwad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: NR Sciver
+    - 13.3:
+        non_striker: H Kaur
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 13.4:
+        non_striker: H Kaur
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 13.5:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 13.6:
+        non_striker: NR Sciver
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 14.1:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 14.2:
+        non_striker: NR Sciver
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 14.3:
+        non_striker: NR Sciver
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.4:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 14.5:
+        non_striker: H Kaur
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 14.6:
+        non_striker: NR Sciver
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.1:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 15.2:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 15.3:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaur
+    - 15.4:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 15.5:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 15.6:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 15.7:
+        non_striker: NR Sciver
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 16.1:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver
+    - 16.2:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 16.3:
+        non_striker: H Kaur
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 16.4:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 16.5:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 16.6:
+        non_striker: NR Sciver
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 17.1:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 17.2:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NR Sciver
+    - 17.3:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 17.4:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Sciver

@@ -1,0 +1,7835 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brisbane
+  competition: Sheffield Shield
+  dates:
+  - '2022-11-10'
+  - '2022-11-11'
+  gender: male
+  match_type: MDM
+  outcome:
+    winner: Queensland
+    by:
+      innings: 1
+      runs: 10
+  player_of_match:
+  - MG Neser
+  players:
+    Victoria:
+    - TJ Dean
+    - MS Harris
+    - AP Chandrasinghe
+    - PSP Handscomb
+    - NJ Maddinson
+    - SB Harper
+    - W Sutherland
+    - M Perry
+    - T Murphy
+    - SM Boland
+    - CL McClure
+    Queensland:
+    - MT Renshaw
+    - JA Burns
+    - M Labuschagne
+    - UT Khawaja
+    - J Clayton
+    - JJ Peirson
+    - MG Neser
+    - GS Sandhu
+    - XC Bartlett
+    - MT Steketee
+    - MJ Swepson
+  registry:
+    people:
+      AP Chandrasinghe: ae5d2027
+      CL McClure: b3267eaa
+      GA Abood: a4af5528
+      GS Sandhu: 1558d83b
+      J Clayton: c56fc66d
+      JA Burns: 7a5f232a
+      JJ Peirson: 2b55c3b4
+      Kepler Wessels: 3bedaff0
+      M Labuschagne: fa433be6
+      M Perry: 442461fa
+      MG Neser: 0164b064
+      MJ Swepson: 86b4bf88
+      MS Harris: 9e85455c
+      MT Renshaw: 218d4d78
+      MT Steketee: 903560ed
+      NJ Maddinson: 44afbf2d
+      PJ Gillespie: 3e253a50
+      PSP Handscomb: ada15e88
+      SB Harper: a756e61a
+      SM Boland: d167edd3
+      T Murphy: ac2e7ec0
+      TJ Dean: 666936de
+      UT Khawaja: 331ea488
+      W Sutherland: bc2d4f2e
+      XC Bartlett: 3b53243a
+  teams:
+  - Victoria
+  - Queensland
+  toss:
+    winner: Victoria
+    decision: bat
+  umpires:
+  - GA Abood
+  - PJ Gillespie
+  venue: Allan Border Field, Brisbane
+innings:
+- 1st innings:
+    team: Victoria
+    deliveries:
+    - 0.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.3:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Dean
+        wicket:
+          player_out: TJ Dean
+          kind: bowled
+    - 0.4:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 0.5:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 0.6:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 1.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.1:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 2.2:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 2.3:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 2.4:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 2.5:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 2.6:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 3.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+        wicket:
+          player_out: MS Harris
+          fielders:
+          - M Labuschagne
+          kind: caught
+    - 3.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 3.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 3.4:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 3.5:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 3.6:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 4.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 4.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 4.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 4.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 4.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+        wicket:
+          player_out: PSP Handscomb
+          kind: lbw
+    - 4.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 5.1:
+        non_striker: NJ Maddinson
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 5.2:
+        non_striker: NJ Maddinson
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AP Chandrasinghe
+    - 5.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 5.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 5.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Maddinson
+    - 5.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 6.1:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 6.2:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 6.3:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 6.4:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 6.5:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 6.6:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 7.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 7.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 7.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 7.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+        wicket:
+          player_out: NJ Maddinson
+          kind: lbw
+    - 7.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 7.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 8.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - JA Burns
+          kind: caught
+    - 9.1:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Sutherland
+        batsman: AP Chandrasinghe
+    - 9.2:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Sutherland
+        batsman: AP Chandrasinghe
+    - 9.3:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Sutherland
+        batsman: AP Chandrasinghe
+    - 9.4:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Sutherland
+        batsman: AP Chandrasinghe
+    - 9.5:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Sutherland
+        batsman: AP Chandrasinghe
+    - 9.6:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Chandrasinghe
+    - 10.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: W Sutherland
+    - 10.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 11.1:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 11.2:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 11.3:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 11.4:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 11.5:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 11.6:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 12.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: W Sutherland
+    - 12.2:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 12.3:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 12.4:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 12.5:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 12.6:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 13.1:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - MJ Swepson
+          kind: caught
+    - 13.2:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 13.3:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 13.4:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 13.5:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 13.6:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 14.1:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Chandrasinghe
+    - 14.2:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 14.3:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Chandrasinghe
+    - 14.4:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 14.5:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 14.6:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 15.1:
+        non_striker: M Perry
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 15.2:
+        non_striker: M Perry
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 15.3:
+        non_striker: M Perry
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 15.4:
+        non_striker: M Perry
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 15.5:
+        non_striker: M Perry
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 15.6:
+        non_striker: M Perry
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 16.1:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 16.2:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 16.3:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 16.4:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 16.5:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 16.6:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 17.1:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 17.2:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 17.3:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 17.4:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Perry
+    - 17.5:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 17.6:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 18.1:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 18.2:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 18.3:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 18.4:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 18.5:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 18.6:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 19.1:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Perry
+    - 19.2:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Perry
+    - 19.3:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 19.4:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 19.5:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 19.6:
+        non_striker: AP Chandrasinghe
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 20.1:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 20.2:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Chandrasinghe
+    - 20.3:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 20.4:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 20.5:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 20.6:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 21.1:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 21.2:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 21.3:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 21.4:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 21.5:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 21.6:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 22.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 22.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 22.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 22.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 22.5:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 22.6:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 23.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+        wicket:
+          player_out: M Perry
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 23.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 23.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 23.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 23.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 23.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Murphy
+    - 24.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 24.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Murphy
+    - 24.3:
+        non_striker: T Murphy
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 24.4:
+        non_striker: T Murphy
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Chandrasinghe
+    - 24.5:
+        non_striker: T Murphy
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 24.6:
+        non_striker: T Murphy
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 25.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 25.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 25.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 25.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 25.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 25.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+        wicket:
+          player_out: T Murphy
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 26.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Boland
+        batsman: AP Chandrasinghe
+    - 26.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Boland
+    - 26.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 26.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 26.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 26.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 27.1:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AP Chandrasinghe
+    - 27.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 27.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 27.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Boland
+    - 27.5:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 27.6:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 27.7:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 28.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 28.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 28.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SM Boland
+    - 28.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 28.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Boland
+    - 28.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 29.1:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 29.2:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 29.3:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 29.4:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 29.5:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 29.6:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 30.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Boland
+    - 30.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 30.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 30.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 30.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 30.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 31.1:
+        non_striker: SM Boland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Chandrasinghe
+    - 31.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 31.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 31.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 31.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 31.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+        wicket:
+          player_out: SM Boland
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 32.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: AP Chandrasinghe
+    - 32.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: AP Chandrasinghe
+    - 32.3:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: AP Chandrasinghe
+    - 32.4:
+        non_striker: CL McClure
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+        wicket:
+          player_out: AP Chandrasinghe
+          fielders:
+          - JJ Peirson
+          kind: caught
+- 2nd innings:
+    team: Queensland
+    deliveries:
+    - 0.1:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Burns
+        batsman: MT Renshaw
+    - 0.2:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Burns
+        batsman: MT Renshaw
+    - 0.3:
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: JA Burns
+        batsman: MT Renshaw
+    - 0.4:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 0.5:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 0.6:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 1.1:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.2:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.3:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MT Renshaw
+    - 1.4:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.5:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.6:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.7:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 2.1:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.2:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.3:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.4:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.5:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.6:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 3.1:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MT Renshaw
+    - 3.2:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.3:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 3.4:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 3.5:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 3.6:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 3.7:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 4.1:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 4.2:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.3:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.4:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.5:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 5.1:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 5.4:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JA Burns
+    - 5.5:
+        non_striker: JA Burns
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.6:
+        non_striker: MT Renshaw
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 6.1:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.2:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.3:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 6.4:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 6.5:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 6.6:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 7.1:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 7.2:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 7.3:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.4:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 7.5:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 7.6:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 8.1:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.2:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.3:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.4:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.5:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.6:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.1:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 9.2:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 9.3:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 9.4:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 10.1:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.2:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.3:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.4:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.5:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.6:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 11.1:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 11.2:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 11.3:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 11.4:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 11.5:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 11.6:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 12.1:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 12.2:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 12.3:
+        non_striker: JA Burns
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MT Renshaw
+    - 12.4:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 12.5:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 12.6:
+        non_striker: MT Renshaw
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 13.1:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 13.2:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 13.3:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 13.4:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 13.5:
+        non_striker: MT Renshaw
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 13.6:
+        non_striker: JA Burns
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 14.1:
+        non_striker: MT Renshaw
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 14.2:
+        non_striker: MT Renshaw
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 14.3:
+        non_striker: MT Renshaw
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+        wicket:
+          player_out: JA Burns
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 14.4:
+        non_striker: MT Renshaw
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.5:
+        non_striker: MT Renshaw
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 14.6:
+        non_striker: MT Renshaw
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 15.1:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 15.2:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 15.3:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 15.4:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 15.5:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 15.6:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 16.1:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 16.2:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 16.3:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Labuschagne
+    - 16.4:
+        non_striker: M Labuschagne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 16.5:
+        non_striker: M Labuschagne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 16.6:
+        non_striker: M Labuschagne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 17.1:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 17.2:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 17.3:
+        non_striker: M Labuschagne
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 17.4:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 17.5:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 17.6:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.1:
+        non_striker: M Labuschagne
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 18.2:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.3:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.4:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 18.5:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 18.6:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 19.1:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.2:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.3:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.4:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.5:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.6:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 20.1:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.2:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.3:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.4:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.5:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 20.6:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 21.1:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 21.2:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 21.3:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 21.4:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 21.5:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 21.6:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.1:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.2:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.3:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.4:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 22.5:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Labuschagne
+    - 22.6:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 23.1:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.2:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.3:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.4:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.5:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.6:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 24.1:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.2:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.3:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.4:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 24.5:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Labuschagne
+    - 24.6:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+    - 25.1:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 25.2:
+        non_striker: M Labuschagne
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 25.3:
+        non_striker: UT Khawaja
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Labuschagne
+        wicket:
+          player_out: M Labuschagne
+          fielders:
+          - SB Harper
+          kind: caught
+    - 25.4:
+        non_striker: UT Khawaja
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 25.5:
+        non_striker: UT Khawaja
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 25.6:
+        non_striker: UT Khawaja
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Clayton
+    - 26.1:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 26.2:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 26.3:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 26.4:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 26.5:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 26.6:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 27.1:
+        non_striker: J Clayton
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.2:
+        non_striker: J Clayton
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.3:
+        non_striker: J Clayton
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.4:
+        non_striker: J Clayton
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 27.5:
+        non_striker: J Clayton
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 27.6:
+        non_striker: UT Khawaja
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 28.1:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 28.2:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 28.3:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 28.4:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 28.5:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 28.6:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 29.1:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 29.2:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 29.3:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 29.4:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 29.5:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 29.6:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 30.1:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.2:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.3:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 30.4:
+        non_striker: J Clayton
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 30.5:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 30.6:
+        non_striker: UT Khawaja
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+    - 31.1:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 31.2:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 31.3:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 31.4:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 31.5:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 31.6:
+        non_striker: J Clayton
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 32.1:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Clayton
+        wicket:
+          player_out: J Clayton
+          kind: bowled
+    - 32.2:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 32.3:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 32.4:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 32.5:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 32.6:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 33.1:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 33.2:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 33.3:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 33.4:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 33.5:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 33.6:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.1:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 34.2:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 34.3:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.4:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.5:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 34.6:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 35.1:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 35.2:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 35.3:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JJ Peirson
+    - 35.4:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 35.5:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 35.6:
+        non_striker: UT Khawaja
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 36.1:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 36.2:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 36.3:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 36.4:
+        non_striker: JJ Peirson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 36.5:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 36.6:
+        non_striker: UT Khawaja
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 37.1:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 37.2:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 37.3:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 37.4:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 37.5:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 37.6:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 38.1:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 38.2:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 38.3:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 38.4:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 38.5:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 38.6:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 39.1:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.2:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 39.3:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.4:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 39.5:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 39.6:
+        non_striker: JJ Peirson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 40.1:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 40.2:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 40.3:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 40.4:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 40.5:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 40.6:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 41.1:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 41.2:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 41.3:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Neser
+    - 41.4:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 41.5:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 41.6:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 42.1:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 42.2:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Neser
+    - 42.3:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 42.4:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 42.5:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 42.6:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 43.1:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 43.2:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JJ Peirson
+    - 43.3:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 43.4:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 43.5:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 43.6:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 44.1:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 44.2:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Neser
+    - 44.3:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 44.4:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 44.5:
+        non_striker: MG Neser
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 44.6:
+        non_striker: JJ Peirson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 45.1:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 45.2:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 45.3:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 45.4:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 45.5:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 45.6:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 46.1:
+        non_striker: JJ Peirson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 46.2:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 46.3:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 46.4:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 46.5:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 46.6:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 47.1:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 47.2:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 47.3:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 47.4:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Neser
+    - 47.5:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 47.6:
+        non_striker: JJ Peirson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 48.1:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 48.2:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 48.3:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 48.4:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 48.5:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 48.6:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 49.1:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 49.2:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 49.3:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 49.4:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 49.5:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 49.6:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 50.1:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 50.2:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 50.3:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 50.4:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 50.5:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 50.6:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 51.1:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 51.2:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 51.3:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 51.4:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 51.5:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 51.6:
+        non_striker: MG Neser
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 52.1:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Neser
+    - 52.2:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Neser
+    - 52.3:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 52.4:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 52.5:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 52.6:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 52.7:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 53.1:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 53.2:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 53.3:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 53.4:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 53.5:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 53.6:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 54.1:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 54.2:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 54.3:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 54.4:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 54.5:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 54.6:
+        non_striker: MG Neser
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 55.1:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 55.2:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 55.3:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 55.4:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 55.5:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 55.6:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 56.1:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 56.2:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 56.3:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 56.4:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 56.5:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 56.6:
+        non_striker: MG Neser
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 57.1:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Neser
+    - 57.2:
+        non_striker: MG Neser
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 57.3:
+        non_striker: MG Neser
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 57.4:
+        non_striker: MG Neser
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 57.5:
+        non_striker: MG Neser
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 57.6:
+        non_striker: MG Neser
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 58.1:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+    - 58.2:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Neser
+        wicket:
+          player_out: MG Neser
+          fielders:
+          - SB Harper
+          kind: caught
+    - 58.3:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 58.4:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 58.5:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 58.6:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 59.1:
+        non_striker: XC Bartlett
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 59.2:
+        non_striker: XC Bartlett
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 59.3:
+        non_striker: XC Bartlett
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 59.4:
+        non_striker: XC Bartlett
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 59.5:
+        non_striker: XC Bartlett
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 59.6:
+        non_striker: XC Bartlett
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 60.1:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 60.2:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 60.3:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 60.4:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+        wicket:
+          player_out: XC Bartlett
+          fielders:
+          - SB Harper
+          kind: caught
+    - 60.5:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Steketee
+    - 60.6:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Steketee
+    - 61.1:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Steketee
+    - 61.2:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Steketee
+    - 61.3:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Steketee
+    - 61.4:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Steketee
+    - 61.5:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Steketee
+    - 61.6:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Steketee
+        wicket:
+          player_out: MT Steketee
+          kind: caught and bowled
+    - 62.1:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Swepson
+        batsman: GS Sandhu
+    - 62.2:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Swepson
+        batsman: GS Sandhu
+    - 62.3:
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Swepson
+        batsman: GS Sandhu
+    - 62.4:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 62.5:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 62.6:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 63.1:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 63.2:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 63.3:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 63.4:
+        non_striker: MJ Swepson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 63.5:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Swepson
+    - 63.6:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 64.1:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 64.2:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 64.3:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 64.4:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 64.5:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 64.6:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 65.1:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Swepson
+    - 65.2:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 65.3:
+        non_striker: MJ Swepson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 65.4:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 65.5:
+        non_striker: MJ Swepson
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 65.6:
+        non_striker: GS Sandhu
+        bowler: CL McClure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 66.1:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 66.2:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MJ Swepson
+    - 66.3:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MJ Swepson
+    - 66.4:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 66.5:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 66.6:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 67.1:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 67.2:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 67.3:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Sandhu
+    - 67.4:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 67.5:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 67.6:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 68.1:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 68.2:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 68.3:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 68.4:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 68.5:
+        non_striker: GS Sandhu
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 68.6:
+        non_striker: MJ Swepson
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Sandhu
+    - 69.1:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 69.2:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 69.3:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 69.4:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 69.5:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 69.6:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 70.1:
+        non_striker: MJ Swepson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 70.2:
+        non_striker: MJ Swepson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 70.3:
+        non_striker: MJ Swepson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 70.4:
+        non_striker: MJ Swepson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 70.5:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 70.6:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 71.1:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 71.2:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GS Sandhu
+    - 71.3:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 71.4:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 71.5:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 71.6:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 72.1:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Swepson
+    - 72.2:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 72.3:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 72.4:
+        non_striker: MJ Swepson
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 72.5:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 72.6:
+        non_striker: GS Sandhu
+        bowler: M Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 73.1:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 73.2:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 73.3:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 73.4:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 73.5:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 73.6:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 74.1:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+    - 74.2:
+        non_striker: GS Sandhu
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 74.3:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 74.4:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Sandhu
+    - 74.5:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Sandhu
+    - 74.6:
+        non_striker: MJ Swepson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 75.1:
+        non_striker: GS Sandhu
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 75.2:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+        wicket:
+          player_out: GS Sandhu
+          kind: bowled
+- 3rd innings:
+    team: Victoria
+    deliveries:
+    - 0.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.3:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.4:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.5:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Harris
+        batsman: TJ Dean
+    - 0.6:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Dean
+    - 1.1:
+        non_striker: TJ Dean
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.2:
+        non_striker: TJ Dean
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.3:
+        non_striker: TJ Dean
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.4:
+        non_striker: TJ Dean
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.5:
+        non_striker: TJ Dean
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 1.6:
+        non_striker: TJ Dean
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.1:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TJ Dean
+    - 2.2:
+        non_striker: TJ Dean
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.3:
+        non_striker: TJ Dean
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 2.4:
+        non_striker: TJ Dean
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Harris
+    - 2.5:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Dean
+    - 2.6:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Dean
+        wicket:
+          player_out: TJ Dean
+          fielders:
+          - JA Burns
+          kind: caught
+    - 3.1:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Chandrasinghe
+        batsman: MS Harris
+    - 3.2:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Chandrasinghe
+        batsman: MS Harris
+    - 3.3:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Chandrasinghe
+        batsman: MS Harris
+    - 3.4:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Chandrasinghe
+        batsman: MS Harris
+    - 3.5:
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Chandrasinghe
+        batsman: MS Harris
+    - 3.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.1:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 4.2:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 4.3:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 4.4:
+        non_striker: MS Harris
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AP Chandrasinghe
+    - 4.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 4.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+    - 5.1:
+        non_striker: MS Harris
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 5.2:
+        non_striker: MS Harris
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 5.3:
+        non_striker: MS Harris
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 5.4:
+        non_striker: MS Harris
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 5.5:
+        non_striker: MS Harris
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 5.6:
+        non_striker: MS Harris
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 6.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Harris
+        wicket:
+          player_out: MS Harris
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 6.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 6.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 6.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 6.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 6.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 7.1:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 7.2:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 7.3:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 7.4:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 7.5:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 7.6:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 8.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 8.3:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.4:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 8.5:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 8.6:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 9.1:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 9.2:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 9.3:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 9.4:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 9.5:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 9.6:
+        non_striker: PSP Handscomb
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 10.1:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 10.2:
+        non_striker: AP Chandrasinghe
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 10.3:
+        non_striker: PSP Handscomb
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 10.4:
+        non_striker: PSP Handscomb
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 10.5:
+        non_striker: PSP Handscomb
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 10.6:
+        non_striker: PSP Handscomb
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 11.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 11.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PSP Handscomb
+    - 11.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 11.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 11.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+    - 11.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSP Handscomb
+        wicket:
+          player_out: PSP Handscomb
+          fielders:
+          - JA Burns
+          kind: caught
+    - 12.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Maddinson
+        batsman: AP Chandrasinghe
+    - 12.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Maddinson
+        batsman: AP Chandrasinghe
+    - 12.3:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Maddinson
+        batsman: AP Chandrasinghe
+    - 12.4:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Maddinson
+        batsman: AP Chandrasinghe
+    - 12.5:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Maddinson
+        batsman: AP Chandrasinghe
+    - 12.6:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Chandrasinghe
+    - 13.1:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Maddinson
+    - 13.2:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 13.3:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 13.4:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 13.5:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 13.6:
+        non_striker: AP Chandrasinghe
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Maddinson
+    - 14.1:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 14.2:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 14.3:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 14.4:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 14.5:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 14.6:
+        non_striker: NJ Maddinson
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 15.1:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.2:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.3:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.4:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.5:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 15.6:
+        non_striker: AP Chandrasinghe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 16.1:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 16.2:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 16.3:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+    - 16.4:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Chandrasinghe
+        wicket:
+          player_out: AP Chandrasinghe
+          kind: lbw
+    - 16.5:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 16.6:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 17.1:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 17.2:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Maddinson
+    - 17.3:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Maddinson
+    - 17.4:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 17.5:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 17.6:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 18.1:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 18.2:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 18.3:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 18.4:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 18.5:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 18.6:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 19.1:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 19.2:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 19.3:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 19.4:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 19.5:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 19.6:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 20.1:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 20.2:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 20.3:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 20.4:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 20.5:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 20.6:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 21.1:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 21.2:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 21.3:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 21.4:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 21.5:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 21.6:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 22.1:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 22.2:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SB Harper
+    - 22.3:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 22.4:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 22.5:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 22.6:
+        non_striker: NJ Maddinson
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 23.1:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 23.2:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 23.3:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 23.4:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 23.5:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 23.6:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 24.1:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 24.2:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 24.3:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 24.4:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 24.5:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Maddinson
+    - 24.6:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 25.1:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 25.2:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 25.3:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 25.4:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 25.5:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 25.6:
+        non_striker: NJ Maddinson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 26.1:
+        non_striker: SB Harper
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+        wicket:
+          player_out: NJ Maddinson
+          kind: lbw
+    - 26.2:
+        non_striker: SB Harper
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 26.3:
+        non_striker: SB Harper
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 26.4:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 26.5:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 26.6:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 27.1:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 27.2:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 27.3:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 27.4:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 27.5:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 27.6:
+        non_striker: SB Harper
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 28.1:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 28.2:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 28.3:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Perry
+    - 28.4:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 28.5:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 28.6:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 29.1:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 29.2:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 29.3:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 29.4:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 29.5:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 29.6:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 30.1:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 30.2:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 30.3:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 30.4:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 30.5:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 30.6:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 31.1:
+        non_striker: M Perry
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 31.2:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 31.3:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 31.4:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 31.5:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 31.6:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 32.1:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 32.2:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 32.3:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 32.4:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 32.5:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 32.6:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 33.1:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 33.2:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 33.3:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 33.4:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Perry
+    - 33.5:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 33.6:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 34.1:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 34.2:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 34.3:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 34.4:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 34.5:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 34.6:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 35.1:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Perry
+    - 35.2:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 35.3:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 35.4:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 35.5:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Perry
+    - 35.6:
+        non_striker: W Sutherland
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 36.1:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 36.2:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 36.3:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 36.4:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 36.5:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 36.6:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 37.1:
+        non_striker: M Perry
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 37.2:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 37.3:
+        non_striker: M Perry
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 37.4:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 37.5:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 37.6:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 38.1:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 38.2:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 38.3:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 38.4:
+        non_striker: M Perry
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 38.5:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 38.6:
+        non_striker: W Sutherland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 39.1:
+        non_striker: M Perry
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 39.2:
+        non_striker: M Perry
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 39.3:
+        non_striker: M Perry
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 39.4:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 39.5:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Perry
+    - 39.6:
+        non_striker: M Perry
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 40.1:
+        non_striker: M Perry
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 40.2:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+    - 40.3:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Perry
+        wicket:
+          player_out: M Perry
+          fielders:
+          - MT Renshaw
+          kind: caught
+    - 40.4:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+    - 40.5:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Murphy
+        wicket:
+          player_out: T Murphy
+          fielders:
+          - UT Khawaja
+          kind: caught
+    - 40.6:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 41.1:
+        non_striker: SM Boland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 41.2:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 41.3:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 41.4:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 41.5:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Boland
+    - 41.6:
+        non_striker: SM Boland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 42.1:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Boland
+    - 42.2:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 42.3:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 42.4:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: W Sutherland
+    - 42.5:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 42.6:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 43.1:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Boland
+    - 43.2:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 43.3:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 43.4:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 43.5:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 43.6:
+        non_striker: W Sutherland
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 44.1:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 44.2:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 44.3:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 44.4:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 44.5:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 44.6:
+        non_striker: W Sutherland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Boland
+    - 45.1:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 45.2:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 45.3:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 45.4:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 45.5:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 45.6:
+        non_striker: W Sutherland
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 46.1:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 46.2:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 46.3:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 46.4:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 46.5:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 46.6:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - JA Burns
+          kind: caught
+    - 47.1:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: SM Boland
+    - 47.2:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: SM Boland
+    - 47.3:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: SM Boland
+    - 47.4:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: SM Boland
+    - 47.5:
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL McClure
+        batsman: SM Boland
+    - 47.6:
+        non_striker: CL McClure
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Boland
+    - 48.1:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL McClure
+    - 48.2:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL McClure
+    - 48.3:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL McClure
+    - 48.4:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL McClure
+    - 48.5:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL McClure
+    - 48.6:
+        non_striker: SM Boland
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL McClure
+    - 49.1:
+        non_striker: SM Boland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL McClure
+    - 49.2:
+        non_striker: SM Boland
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL McClure
+        wicket:
+          player_out: CL McClure
+          fielders:
+          - JJ Peirson
+          kind: caught

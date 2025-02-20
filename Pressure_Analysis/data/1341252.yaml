@@ -1,0 +1,632 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  competition: Women's Super Smash
+  dates:
+  - '2023-02-03'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Central Districts
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Northern Districts:
+    - SRH Curtis
+    - LF Boucher
+    - A Wellington
+    - E Wolland
+    - C Agafili
+    - NH Patel
+    - AM Ewart
+    - MBA Lamplough
+    - PC Graham
+    - HE Topp
+    - CR Sarsfield
+    Central Districts:
+    - NC Dodd
+    - JM Watkin
+    - GK Atkinson
+    - RA Mair
+    - FDM Devonshire
+    - Ashtuti Kumar
+    - OJS Bartlett
+    - EG Cunningham
+    - PA Chatterji
+    - CL Green
+    - KJ Gaging
+  registry:
+    people:
+      A Wellington: 9b3bcca4
+      AM Ewart: 83b8fa73
+      Ashtuti Kumar: 8aa62462
+      BF Bowden: efc0a862
+      C Agafili: b9bb76c8
+      CL Green: 0160b1d9
+      CM Brown: 448f4f1c
+      CR Sarsfield: '66754320'
+      DJ Walker: d4aea8ac
+      E Wolland: 415c9efb
+      EG Cunningham: ede7bb67
+      FDM Devonshire: c8b0b64c
+      GK Atkinson: add6bd03
+      HE Topp: d9b3ff0a
+      JM Watkin: 7239a365
+      KJ Gaging: 7a759a8a
+      LF Boucher: 51afe432
+      Lui Els: '00812511'
+      MBA Lamplough: 997fffbe
+      NC Dodd: 7260e1e9
+      NH Patel: d945db3e
+      OJS Bartlett: fb8c6afa
+      PA Chatterji: 8e7be59c
+      PC Graham: b5c83d22
+      RA Mair: d5eb8b84
+      SRH Curtis: aa89a853
+      SRM Morris: 74b402c6
+  teams:
+  - Northern Districts
+  - Central Districts
+  toss:
+    winner: Central Districts
+    decision: field
+  umpires:
+  - BF Bowden
+  - DJ Walker
+  venue: Seddon Park, Hamilton
+innings:
+- 1st innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LF Boucher
+        batsman: SRH Curtis
+    - 0.2:
+        non_striker: SRH Curtis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Boucher
+        wicket:
+          player_out: LF Boucher
+          kind: bowled
+    - 0.3:
+        non_striker: SRH Curtis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Wellington
+    - 0.4:
+        non_striker: A Wellington
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SRH Curtis
+    - 0.5:
+        non_striker: SRH Curtis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          fielders:
+          - GK Atkinson
+          kind: caught
+    - 0.6:
+        non_striker: SRH Curtis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 1.1:
+        non_striker: SRH Curtis
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wolland
+    - 1.2:
+        non_striker: SRH Curtis
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 1.3:
+        non_striker: E Wolland
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SRH Curtis
+    - 1.4:
+        non_striker: E Wolland
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 1.5:
+        non_striker: E Wolland
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SRH Curtis
+    - 1.6:
+        non_striker: E Wolland
+        bowler: FDM Devonshire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SRH Curtis
+    - 2.1:
+        non_striker: E Wolland
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SRH Curtis
+    - 2.2:
+        non_striker: SRH Curtis
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 2.3:
+        non_striker: E Wolland
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 2.4:
+        non_striker: E Wolland
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SRH Curtis
+    - 2.5:
+        non_striker: E Wolland
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SRH Curtis
+    - 2.6:
+        non_striker: SRH Curtis
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 3.1:
+        non_striker: SRH Curtis
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 3.2:
+        non_striker: E Wolland
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SRH Curtis
+    - 3.3:
+        non_striker: SRH Curtis
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wolland
+    - 3.4:
+        non_striker: SRH Curtis
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Wolland
+    - 3.5:
+        non_striker: SRH Curtis
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 3.6:
+        non_striker: E Wolland
+        bowler: Ashtuti Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+        wicket:
+          player_out: SRH Curtis
+          fielders:
+          - EG Cunningham
+          kind: caught
+    - 4.1:
+        non_striker: C Agafili
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wolland
+        wicket:
+          player_out: C Agafili
+          fielders:
+          - NC Dodd
+          - Ashtuti Kumar
+          kind: run out
+    - 4.2:
+        non_striker: E Wolland
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 4.3:
+        non_striker: NH Patel
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wolland
+    - 4.4:
+        non_striker: E Wolland
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+        wicket:
+          player_out: NH Patel
+          fielders:
+          - Ashtuti Kumar
+          kind: caught
+    - 4.5:
+        non_striker: E Wolland
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ewart
+    - 4.6:
+        non_striker: AM Ewart
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Wolland
+- 2nd innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JM Watkin
+        batsman: NC Dodd
+    - 0.2:
+        bowler: NH Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: JM Watkin
+        batsman: NC Dodd
+    - 0.3:
+        non_striker: NC Dodd
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+        wicket:
+          player_out: JM Watkin
+          fielders:
+          - SRH Curtis
+          kind: caught
+    - 0.4:
+        non_striker: NC Dodd
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Atkinson
+    - 0.5:
+        non_striker: GK Atkinson
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 0.6:
+        non_striker: NC Dodd
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Atkinson
+    - 1.1:
+        non_striker: NC Dodd
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Atkinson
+        wicket:
+          player_out: GK Atkinson
+          fielders:
+          - SRH Curtis
+          kind: caught
+    - 1.2:
+        non_striker: NC Dodd
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 1.3:
+        non_striker: RA Mair
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+    - 1.4:
+        non_striker: RA Mair
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NC Dodd
+    - 1.5:
+        non_striker: RA Mair
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+        wicket:
+          player_out: NC Dodd
+          fielders:
+          - HE Topp
+          kind: stumped
+    - 1.6:
+        non_striker: RA Mair
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Devonshire
+    - 2.1:
+        non_striker: FDM Devonshire
+        bowler: LF Boucher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Mair
+    - 2.2:
+        non_striker: FDM Devonshire
+        bowler: LF Boucher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Mair
+    - 2.3:
+        non_striker: FDM Devonshire
+        bowler: LF Boucher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Mair
+    - 2.4:
+        non_striker: FDM Devonshire
+        bowler: LF Boucher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 2.5:
+        non_striker: RA Mair
+        bowler: LF Boucher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Devonshire
+    - 2.6:
+        non_striker: FDM Devonshire
+        bowler: LF Boucher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 2.7:
+        non_striker: RA Mair
+        bowler: LF Boucher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Devonshire
+    - 3.1:
+        non_striker: RA Mair
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Devonshire
+    - 3.2:
+        non_striker: RA Mair
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Devonshire
+    - 3.3:
+        non_striker: RA Mair
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Devonshire
+    - 3.4:
+        non_striker: RA Mair
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Devonshire
+    - 3.5:
+        non_striker: RA Mair
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Devonshire
+    - 3.6:
+        non_striker: RA Mair
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Devonshire
+    - 4.1:
+        non_striker: RA Mair
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Devonshire
+    - 4.2:
+        non_striker: RA Mair
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Devonshire
+    - 4.3:
+        non_striker: FDM Devonshire
+        bowler: MBA Lamplough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RA Mair
+    - 4.4:
+        non_striker: FDM Devonshire
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 4.5:
+        non_striker: RA Mair
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Devonshire
+    - 4.6:
+        non_striker: RA Mair
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Devonshire
+    - 4.7:
+        non_striker: RA Mair
+        bowler: MBA Lamplough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Devonshire

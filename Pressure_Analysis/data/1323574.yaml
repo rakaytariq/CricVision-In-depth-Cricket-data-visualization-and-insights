@@ -1,0 +1,1281 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ballarat
+  competition: Women's Big Bash League
+  dates:
+  - '2022-10-29'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Sydney Sixers
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - A Gardner
+  players:
+    Hobart Hurricanes:
+    - L Lee
+    - EJ Villani
+    - M du Preez
+    - H Graham
+    - R Trenaman
+    - NJ Carey
+    - NE Stalenberg
+    - R Johnston
+    - HNK Jensen
+    - ML Gibson
+    - M Strano
+    Sydney Sixers:
+    - AJ Healy
+    - SW Bates
+    - A Gardner
+    - EA Burns
+    - EA Perry
+    - NE Bolton
+    - M Brown
+    - S Ecclestone
+    - A Genford
+    - L Cheatle
+    - K Peterson
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Genford: 52b45daa
+      AJ Healy: 321644de
+      C Grant: 876ed858
+      EA Burns: 2e0b6638
+      EA Perry: be150fc8
+      EJ Villani: cde96d97
+      Greg Azzopardi: e950350e
+      H Graham: 99812d10
+      HNK Jensen: b8cce99f
+      K Peterson: 5f377534
+      Kent Hannam: 8cc171e7
+      L Cheatle: 275dff85
+      L Lee: 7b01ce83
+      M Brown: 78bec461
+      M Strano: f57d5dbb
+      M du Preez: e219f17a
+      ML Gibson: 27fa592f
+      NE Bolton: dd883071
+      NE Stalenberg: 609c519e
+      NJ Carey: dff806f4
+      R Johnston: 3cd107a7
+      R Trenaman: 877dd709
+      S Ecclestone: cdb82f1c
+      SW Bates: 89bbc67a
+  teams:
+  - Hobart Hurricanes
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - C Grant
+  - Greg Azzopardi
+  venue: Eastern Oval, Ballarat
+innings:
+- 1st innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: EJ Villani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.2:
+        non_striker: EJ Villani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 0.3:
+        non_striker: L Lee
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 0.4:
+        non_striker: L Lee
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 0.5:
+        non_striker: L Lee
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 0.6:
+        non_striker: L Lee
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 1.1:
+        non_striker: EJ Villani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lee
+    - 1.2:
+        non_striker: EJ Villani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 1.3:
+        non_striker: EJ Villani
+        bowler: L Cheatle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Lee
+    - 1.4:
+        non_striker: L Lee
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 1.5:
+        non_striker: L Lee
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          fielders:
+          - SW Bates
+          kind: caught
+    - 1.6:
+        non_striker: L Lee
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 2.1:
+        non_striker: M du Preez
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 2.2:
+        non_striker: M du Preez
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.3:
+        non_striker: M du Preez
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 2.4:
+        non_striker: M du Preez
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lee
+    - 2.5:
+        non_striker: M du Preez
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 2.6:
+        non_striker: L Lee
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 2.7:
+        non_striker: L Lee
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 2.8:
+        non_striker: L Lee
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 3.1:
+        non_striker: L Lee
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.2:
+        non_striker: L Lee
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.3:
+        non_striker: L Lee
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 3.4:
+        non_striker: M du Preez
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 3.5:
+        non_striker: M du Preez
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 3.6:
+        non_striker: L Lee
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 4.1:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lee
+    - 4.2:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 4.3:
+        non_striker: L Lee
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.4:
+        non_striker: L Lee
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.5:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lee
+    - 4.6:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          kind: lbw
+    - 5.1:
+        non_striker: H Graham
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 5.2:
+        non_striker: H Graham
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.3:
+        non_striker: H Graham
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M du Preez
+    - 5.4:
+        non_striker: H Graham
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.5:
+        non_striker: M du Preez
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 5.6:
+        non_striker: M du Preez
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 6.1:
+        non_striker: H Graham
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.2:
+        non_striker: M du Preez
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 6.3:
+        non_striker: M du Preez
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 6.4:
+        non_striker: H Graham
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.5:
+        non_striker: M du Preez
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 6.6:
+        non_striker: H Graham
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 7.1:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Graham
+    - 7.2:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Graham
+    - 7.3:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Graham
+    - 7.4:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+        wicket:
+          player_out: H Graham
+          fielders:
+          - SW Bates
+          kind: caught
+    - 7.5:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 7.6:
+        non_striker: M du Preez
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 8.1:
+        non_striker: M du Preez
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trenaman
+    - 8.2:
+        non_striker: M du Preez
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 8.3:
+        non_striker: R Trenaman
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 8.4:
+        non_striker: R Trenaman
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - A Gardner
+          kind: caught
+    - 8.5:
+        non_striker: R Trenaman
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 8.6:
+        non_striker: NJ Carey
+        bowler: S Ecclestone
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: R Trenaman
+    - 9.1:
+        non_striker: R Trenaman
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 9.2:
+        non_striker: NJ Carey
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 9.3:
+        non_striker: NJ Carey
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trenaman
+    - 9.4:
+        non_striker: NJ Carey
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 9.5:
+        non_striker: R Trenaman
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 9.6:
+        non_striker: R Trenaman
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          kind: bowled
+    - 10.1:
+        non_striker: NE Stalenberg
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 10.2:
+        non_striker: R Trenaman
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 10.3:
+        non_striker: NE Stalenberg
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+        wicket:
+          player_out: R Trenaman
+          fielders:
+          - AJ Healy
+          kind: stumped
+    - 10.4:
+        non_striker: NE Stalenberg
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+        wicket:
+          player_out: R Johnston
+          kind: caught and bowled
+    - 10.5:
+        non_striker: NE Stalenberg
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 10.6:
+        non_striker: NE Stalenberg
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 11.1:
+        non_striker: HNK Jensen
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NE Stalenberg
+    - 11.2:
+        non_striker: HNK Jensen
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NE Stalenberg
+    - 11.3:
+        non_striker: HNK Jensen
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 11.4:
+        non_striker: NE Stalenberg
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HNK Jensen
+    - 11.5:
+        non_striker: NE Stalenberg
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+        wicket:
+          player_out: HNK Jensen
+          fielders:
+          - AJ Healy
+          kind: stumped
+    - 11.6:
+        non_striker: NE Stalenberg
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Gibson
+- 2nd innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.2:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.3:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 0.4:
+        non_striker: AJ Healy
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 0.5:
+        non_striker: AJ Healy
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: AJ Healy
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 1.2:
+        non_striker: AJ Healy
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.3:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - HNK Jensen
+          kind: caught
+    - 1.4:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 1.5:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 1.6:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 1.7:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 2.1:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 2.2:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 2.3:
+        non_striker: A Gardner
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.4:
+        non_striker: A Gardner
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.5:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 2.6:
+        non_striker: SW Bates
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 3.1:
+        non_striker: A Gardner
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.2:
+        non_striker: A Gardner
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.3:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 3.4:
+        non_striker: A Gardner
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.5:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 3.6:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 4.1:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 4.2:
+        non_striker: A Gardner
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.3:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 4.4:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 4.5:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 4.6:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 5.1:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 5.2:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 5.3:
+        non_striker: A Gardner
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 5.4:
+        non_striker: A Gardner
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 5.5:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 5.6:
+        non_striker: A Gardner
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.1:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 6.2:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 6.3:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 6.4:
+        non_striker: A Gardner
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.5:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          kind: bowled
+    - 6.6:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 7.1:
+        non_striker: EA Burns
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.2:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 7.3:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 7.4:
+        non_striker: EA Burns
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.5:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 7.6:
+        non_striker: SW Bates
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 8.1:
+        non_striker: EA Burns
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 8.2:
+        non_striker: EA Burns
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.3:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 8.4:
+        non_striker: EA Burns
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.5:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 8.6:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Burns
+    - 8.7:
+        non_striker: SW Bates
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 9.1:
+        non_striker: EA Burns
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.2:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 9.3:
+        non_striker: EA Burns
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.4:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 9.5:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Burns
+    - 9.6:
+        non_striker: SW Bates
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 9.7:
+        non_striker: EA Burns
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.1:
+        non_striker: EA Burns
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 10.2:
+        non_striker: EA Burns
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.3:
+        non_striker: EA Burns
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.4:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 10.5:
+        non_striker: SW Bates
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns

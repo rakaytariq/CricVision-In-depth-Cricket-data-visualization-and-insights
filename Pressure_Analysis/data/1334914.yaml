@@ -1,0 +1,2169 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-10-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      runs: 10
+  overs: 20
+  players:
+    Warriors:
+    - LC Ngoepe
+    - WJ Lubbe
+    - DS Rosier
+    - J Hermann
+    - MP Breetzke
+    - S Qeshile
+    - B Swanepoel
+    - T van Vuuren
+    - GA Stuurman
+    - K Molefe
+    - Tsepo Ndwandwa
+    North West:
+    - L Senokwane
+    - WB Marshall
+    - HG Kuhn
+    - K Cotani
+    - S Muthusamy
+    - Duan Jansen
+    - H Coetzer
+    - R Meyer
+    - EL Hawken
+    - C Seleka
+    - LM Zuma
+  registry:
+    people:
+      B Swanepoel: 6e0a2209
+      BM White: 66c21d35
+      C Seleka: be8b147b
+      D Jansen: 8dc152d1
+      DJ Smith: d17bec15
+      DS Rosier: f8e6dbdd
+      EL Hawken: a0936692
+      GA Stuurman: d4d37c31
+      H Coetzer: bd25d145
+      HG Kuhn: ede05b97
+      J Hermann: e87aeca2
+      K Cotani: '0867d81f'
+      K Molefe: f51c1a3b
+      L Senokwane: 7d9b4224
+      LC Ngoepe: 51355a30
+      LM Zuma: 58f01d47
+      MP Breetzke: 35f173a0
+      R Meyer: 64f55c74
+      S Muthusamy: 7dfb8890
+      S Qeshile: '94268960'
+      S Wadvalla: c1a1acf3
+      Siphelele Gasa: e50baa87
+      Stephen Harris: fdcfd4aa
+      T van Vuuren: 20afc7e7
+      Tsepo Ndwandwa: be3ffb65
+      WB Marshall: 2d7f2ba0
+      WJ Lubbe: 10f42013
+  teams:
+  - Warriors
+  - North West
+  toss:
+    winner: Warriors
+    decision: bat
+  umpires:
+  - BM White
+  - Stephen Harris
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LC Ngoepe
+    - 0.2:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 0.3:
+        non_striker: LC Ngoepe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 0.4:
+        non_striker: LC Ngoepe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 0.5:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LC Ngoepe
+    - 0.6:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 0.7:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 0.8:
+        non_striker: LC Ngoepe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 1.1:
+        non_striker: LC Ngoepe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 1.2:
+        non_striker: LC Ngoepe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WJ Lubbe
+    - 1.3:
+        non_striker: LC Ngoepe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 1.4:
+        non_striker: WJ Lubbe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 1.5:
+        non_striker: LC Ngoepe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 1.6:
+        non_striker: LC Ngoepe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 2.1:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Ngoepe
+    - 2.2:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 2.3:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 2.4:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 2.5:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 2.6:
+        non_striker: WJ Lubbe
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 3.1:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 3.2:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 3.3:
+        non_striker: LC Ngoepe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 3.4:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Ngoepe
+    - 3.5:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Ngoepe
+    - 3.6:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 4.1:
+        non_striker: LC Ngoepe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 4.2:
+        non_striker: LC Ngoepe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 4.3:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 4.4:
+        non_striker: LC Ngoepe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 4.5:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 4.6:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+        wicket:
+          player_out: LC Ngoepe
+          fielders:
+          - K Cotani
+          kind: caught
+    - 5.1:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 5.2:
+        non_striker: WJ Lubbe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Rosier
+    - 5.3:
+        non_striker: WJ Lubbe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 5.4:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 5.5:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 5.6:
+        non_striker: WJ Lubbe
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 6.1:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 6.2:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 6.3:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: WJ Lubbe
+    - 6.4:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 6.5:
+        non_striker: WJ Lubbe
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 6.6:
+        non_striker: WJ Lubbe
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 7.1:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 7.2:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 7.3:
+        non_striker: WJ Lubbe
+        bowler: LM Zuma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DS Rosier
+    - 7.4:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 7.5:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 7.6:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.1:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.2:
+        non_striker: WJ Lubbe
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 8.3:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WJ Lubbe
+    - 8.4:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 8.5:
+        non_striker: DS Rosier
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.6:
+        non_striker: WJ Lubbe
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 9.1:
+        non_striker: WJ Lubbe
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Rosier
+    - 9.2:
+        non_striker: WJ Lubbe
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Rosier
+    - 9.3:
+        non_striker: WJ Lubbe
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 9.4:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 9.5:
+        non_striker: WJ Lubbe
+        bowler: LM Zuma
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DS Rosier
+    - 9.6:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 9.7:
+        non_striker: WJ Lubbe
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 10.1:
+        non_striker: WJ Lubbe
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 10.2:
+        non_striker: DS Rosier
+        bowler: C Seleka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WJ Lubbe
+    - 10.3:
+        non_striker: WJ Lubbe
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Rosier
+    - 10.4:
+        non_striker: WJ Lubbe
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 10.5:
+        non_striker: DS Rosier
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 10.6:
+        non_striker: WJ Lubbe
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Rosier
+    - 11.1:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 11.2:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 11.3:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 11.4:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 11.5:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WJ Lubbe
+    - 11.6:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WJ Lubbe
+    - 11.7:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 12.1:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 12.2:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 12.3:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 12.4:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 12.5:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 12.6:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 13.1:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 13.2:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 13.3:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 13.4:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 13.5:
+        non_striker: WJ Lubbe
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 13.6:
+        non_striker: DS Rosier
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WJ Lubbe
+    - 14.1:
+        non_striker: WJ Lubbe
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 14.2:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+        wicket:
+          player_out: WJ Lubbe
+          fielders:
+          - EL Hawken
+          kind: caught
+    - 14.3:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+        wicket:
+          player_out: J Hermann
+          fielders:
+          - K Cotani
+          kind: caught
+    - 14.4:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 14.5:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 14.6:
+        non_striker: DS Rosier
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 15.1:
+        non_striker: MP Breetzke
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Rosier
+    - 15.2:
+        non_striker: MP Breetzke
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 15.3:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 15.4:
+        non_striker: MP Breetzke
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 15.5:
+        non_striker: MP Breetzke
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 15.6:
+        non_striker: DS Rosier
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 16.1:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Breetzke
+    - 16.2:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 16.3:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 16.4:
+        non_striker: MP Breetzke
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 16.5:
+        non_striker: MP Breetzke
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 16.6:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 17.1:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Rosier
+    - 17.2:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Rosier
+    - 17.3:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 17.4:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 17.5:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 17.6:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 18.1:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 18.2:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 18.3:
+        non_striker: MP Breetzke
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 18.4:
+        non_striker: DS Rosier
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 18.5:
+        non_striker: MP Breetzke
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Rosier
+    - 18.6:
+        non_striker: MP Breetzke
+        bowler: EL Hawken
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Rosier
+    - 19.1:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 19.2:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Rosier
+    - 19.3:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DS Rosier
+    - 19.4:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 19.5:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DS Rosier
+    - 19.6:
+        non_striker: DS Rosier
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+        wicket:
+          player_out: MP Breetzke
+          fielders:
+          - EL Hawken
+          kind: caught
+- 2nd innings:
+    team: North West
+    deliveries:
+    - 0.1:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 0.2:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 0.3:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 0.4:
+        non_striker: L Senokwane
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WB Marshall
+    - 0.5:
+        non_striker: L Senokwane
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 0.6:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 1.1:
+        non_striker: L Senokwane
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 1.2:
+        non_striker: L Senokwane
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WB Marshall
+    - 1.3:
+        non_striker: L Senokwane
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WB Marshall
+    - 1.4:
+        non_striker: L Senokwane
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 1.5:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Senokwane
+    - 1.6:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 1.7:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 1.8:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 2.1:
+        non_striker: L Senokwane
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WB Marshall
+    - 2.2:
+        non_striker: L Senokwane
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 2.3:
+        non_striker: L Senokwane
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 2.4:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 2.5:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 2.6:
+        non_striker: WB Marshall
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 3.1:
+        non_striker: L Senokwane
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WB Marshall
+    - 3.2:
+        non_striker: L Senokwane
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 3.3:
+        non_striker: L Senokwane
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WB Marshall
+    - 3.4:
+        non_striker: L Senokwane
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 3.5:
+        non_striker: WB Marshall
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 3.6:
+        non_striker: WB Marshall
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 4.1:
+        non_striker: L Senokwane
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 4.2:
+        non_striker: L Senokwane
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 4.3:
+        non_striker: L Senokwane
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 4.4:
+        non_striker: L Senokwane
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WB Marshall
+    - 4.5:
+        non_striker: L Senokwane
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 4.6:
+        non_striker: L Senokwane
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WB Marshall
+    - 5.1:
+        non_striker: WB Marshall
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+        wicket:
+          player_out: L Senokwane
+          fielders:
+          - K Molefe
+          kind: run out
+    - 5.2:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WB Marshall
+    - 5.3:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 5.4:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 5.5:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WB Marshall
+    - 5.6:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 6.1:
+        non_striker: WB Marshall
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 6.2:
+        non_striker: WB Marshall
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 6.3:
+        non_striker: WB Marshall
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 6.4:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: WB Marshall
+    - 6.5:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WB Marshall
+    - 6.6:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 6.7:
+        non_striker: WB Marshall
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.1:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.2:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WB Marshall
+    - 7.3:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 7.4:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.5:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 7.6:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 8.1:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WB Marshall
+    - 8.2:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 8.3:
+        non_striker: WB Marshall
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 8.4:
+        non_striker: WB Marshall
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 8.5:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 8.6:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WB Marshall
+    - 9.1:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 9.2:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WB Marshall
+    - 9.3:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 9.4:
+        non_striker: WB Marshall
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 9.5:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+        wicket:
+          player_out: WB Marshall
+          fielders:
+          - S Qeshile
+          kind: stumped
+    - 9.6:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 10.1:
+        non_striker: K Cotani
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 10.2:
+        non_striker: K Cotani
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 10.3:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 10.4:
+        non_striker: K Cotani
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 10.5:
+        non_striker: K Cotani
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 10.6:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Cotani
+    - 10.7:
+        non_striker: HG Kuhn
+        bowler: T van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 11.1:
+        non_striker: K Cotani
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 11.2:
+        non_striker: K Cotani
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 11.3:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 11.4:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 11.5:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 11.6:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 12.1:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 12.2:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Cotani
+    - 12.3:
+        non_striker: K Cotani
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 12.4:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 12.5:
+        non_striker: K Cotani
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 12.6:
+        non_striker: K Cotani
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 13.1:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: K Cotani
+    - 13.2:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 13.3:
+        non_striker: K Cotani
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.4:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: K Cotani
+    - 13.5:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 13.6:
+        non_striker: K Cotani
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.7:
+        non_striker: HG Kuhn
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Cotani
+    - 14.1:
+        non_striker: K Cotani
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 14.2:
+        non_striker: K Cotani
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 14.3:
+        non_striker: K Cotani
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 14.4:
+        non_striker: K Cotani
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 14.5:
+        non_striker: HG Kuhn
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Cotani
+    - 14.6:
+        non_striker: HG Kuhn
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 15.1:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 15.2:
+        non_striker: K Cotani
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 15.3:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 15.4:
+        non_striker: K Cotani
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 15.5:
+        non_striker: K Cotani
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 15.6:
+        non_striker: HG Kuhn
+        bowler: Tsepo Ndwandwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 16.1:
+        non_striker: K Cotani
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 16.2:
+        non_striker: K Cotani
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 16.3:
+        non_striker: K Cotani
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 16.4:
+        non_striker: K Cotani
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 16.5:
+        non_striker: HG Kuhn
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 16.6:
+        non_striker: K Cotani
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 17.1:
+        non_striker: K Cotani
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 17.2:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 17.3:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 17.4:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 17.5:
+        non_striker: K Cotani
+        bowler: K Molefe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Kuhn
+    - 17.6:
+        non_striker: HG Kuhn
+        bowler: K Molefe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+        wicket:
+          player_out: K Cotani
+          kind: bowled
+    - 18.1:
+        non_striker: S Muthusamy
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+        wicket:
+          player_out: HG Kuhn
+          kind: bowled
+    - 18.2:
+        non_striker: S Muthusamy
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 18.3:
+        non_striker: Duan Jansen
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 18.4:
+        non_striker: S Muthusamy
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+        wicket:
+          player_out: Duan Jansen
+          fielders:
+          - J Hermann
+          kind: caught
+    - 18.5:
+        non_striker: S Muthusamy
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Coetzer
+    - 18.6:
+        non_striker: S Muthusamy
+        bowler: GA Stuurman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Coetzer
+    - 19.1:
+        non_striker: S Muthusamy
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Coetzer
+    - 19.2:
+        non_striker: H Coetzer
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 19.3:
+        non_striker: H Coetzer
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+        wicket:
+          player_out: S Muthusamy
+          fielders:
+          - S Qeshile
+          kind: run out
+    - 19.4:
+        non_striker: H Coetzer
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Meyer
+        wicket:
+          player_out: R Meyer
+          fielders:
+          - S Qeshile
+          - B Swanepoel
+          kind: run out
+    - 19.5:
+        non_striker: EL Hawken
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Coetzer
+    - 19.6:
+        non_striker: H Coetzer
+        bowler: B Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Hawken

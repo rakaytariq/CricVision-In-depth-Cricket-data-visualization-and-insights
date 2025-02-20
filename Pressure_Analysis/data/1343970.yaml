@@ -1,0 +1,2214 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Centurion
+  competition: SA20
+  dates:
+  - '2023-02-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Pretoria Capitals
+    by:
+      runs: 59
+  overs: 20
+  player_of_match:
+  - BKG Mendis
+  players:
+    Pretoria Capitals:
+    - PD Salt
+    - BKG Mendis
+    - TB de Bruyn
+    - RR Rossouw
+    - CA Ingram
+    - JDS Neesham
+    - S Muthusamy
+    - M Pretorius
+    - E Bosch
+    - AU Rashid
+    - A Nortje
+    Paarl Royals:
+    - JJ Roy
+    - PR Stirling
+    - JC Buttler
+    - M Van Buuren
+    - EJG Morgan
+    - DA Miller
+    - AL Phehlukwayo
+    - Evan Jones
+    - BC Fortuin
+    - Codi Yusuf
+    - L Ngidi
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AL Phehlukwayo: ab6b1c45
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      BC Fortuin: 9a2fc964
+      BKG Mendis: 5d1e7582
+      BM White: 66c21d35
+      BP Jele: 7bb1331e
+      CA Ingram: c995d726
+      Codi Yusuf: f2397e48
+      DA Miller: d67d5f00
+      E Bosch: 28d6c44d
+      E Jones: fbfea9c2
+      EJG Morgan: d2a6c0e6
+      GH Pienaar: 3516e46b
+      JC Buttler: 99b75528
+      JDS Neesham: 9219eff0
+      JJ Roy: d1c36f5c
+      L Ngidi: f834dcfc
+      M Erasmus: 15d3c895
+      M Pretorius: 54c2b697
+      M Van Buuren: 46e4a4e0
+      PD Salt: 3d284ca3
+      PR Stirling: cf494ffe
+      RR Rossouw: cad00a4d
+      S Muthusamy: 7dfb8890
+      TB de Bruyn: 90d6cdea
+  teams:
+  - Pretoria Capitals
+  - Paarl Royals
+  toss:
+    winner: Paarl Royals
+    decision: field
+  umpires:
+  - BP Jele
+  - M Erasmus
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: Pretoria Capitals
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: PD Salt
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.5:
+        non_striker: PD Salt
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 0.6:
+        non_striker: PD Salt
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 1.1:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 1.2:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.3:
+        non_striker: PD Salt
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 1.5:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.6:
+        non_striker: PD Salt
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.2:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.3:
+        non_striker: PD Salt
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 2.5:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 2.6:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Salt
+    - 2.7:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.4:
+        non_striker: PD Salt
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: PD Salt
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: PD Salt
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.7:
+        non_striker: PD Salt
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.2:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 4.4:
+        non_striker: PD Salt
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: PD Salt
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 5.4:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 5.5:
+        non_striker: TB de Bruyn
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: TB de Bruyn
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: TB de Bruyn
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.2:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 6.3:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 6.4:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.5:
+        non_striker: TB de Bruyn
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 6.6:
+        non_striker: TB de Bruyn
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: TB de Bruyn
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 7.2:
+        non_striker: TB de Bruyn
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: TB de Bruyn
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.4:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB de Bruyn
+    - 7.5:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 7.6:
+        non_striker: TB de Bruyn
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.7:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 8.1:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB de Bruyn
+    - 8.2:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB de Bruyn
+    - 8.3:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 8.4:
+        non_striker: TB de Bruyn
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.5:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 8.6:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB de Bruyn
+    - 8.7:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 9.1:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+        wicket:
+          player_out: TB de Bruyn
+          fielders:
+          - EJG Morgan
+          kind: caught
+    - 9.2:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 9.3:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 9.4:
+        non_striker: RR Rossouw
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 9.5:
+        non_striker: RR Rossouw
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 9.6:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 9.7:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 10.1:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 10.2:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RR Rossouw
+    - 10.3:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RR Rossouw
+    - 10.4:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 10.5:
+        non_striker: RR Rossouw
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 10.6:
+        non_striker: RR Rossouw
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.7:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 11.1:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 11.2:
+        non_striker: RR Rossouw
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 11.3:
+        non_striker: RR Rossouw
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.4:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 11.5:
+        non_striker: RR Rossouw
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.6:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 12.1:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          kind: bowled
+    - 12.2:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 12.3:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 12.4:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 12.5:
+        non_striker: CA Ingram
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.6:
+        non_striker: BKG Mendis
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 13.1:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 13.2:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 13.3:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 13.4:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 13.5:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 13.6:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 13.7:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 13.8:
+        non_striker: BKG Mendis
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 14.1:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 14.2:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 14.3:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.4:
+        non_striker: BKG Mendis
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 14.5:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 14.6:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.1:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 15.2:
+        non_striker: CA Ingram
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 15.3:
+        non_striker: CA Ingram
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 15.4:
+        non_striker: CA Ingram
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 15.5:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 15.6:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 16.1:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 16.2:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 16.3:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 16.4:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - DA Miller
+          kind: caught
+    - 16.5:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 16.6:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.7:
+        non_striker: JDS Neesham
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 17.1:
+        non_striker: CA Ingram
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 17.2:
+        non_striker: CA Ingram
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 17.3:
+        non_striker: JDS Neesham
+        bowler: Codi Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Ingram
+    - 17.4:
+        non_striker: CA Ingram
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 17.5:
+        non_striker: JDS Neesham
+        bowler: Codi Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 17.6:
+        non_striker: JDS Neesham
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 17.7:
+        non_striker: JDS Neesham
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 18.1:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 18.2:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 18.3:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 18.4:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 18.5:
+        non_striker: JDS Neesham
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 18.6:
+        non_striker: CA Ingram
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 19.1:
+        non_striker: JDS Neesham
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 19.2:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 19.3:
+        non_striker: JDS Neesham
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 19.4:
+        non_striker: CA Ingram
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 19.5:
+        non_striker: JDS Neesham
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 19.6:
+        non_striker: JDS Neesham
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - JC Buttler
+          - Codi Yusuf
+          kind: run out
+- 2nd innings:
+    team: Paarl Royals
+    deliveries:
+    - 0.1:
+        non_striker: PR Stirling
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.3:
+        non_striker: JJ Roy
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: JJ Roy
+        bowler: S Muthusamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: JJ Roy
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.7:
+        non_striker: JJ Roy
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.2:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - S Muthusamy
+          kind: caught
+    - 2.6:
+        non_striker: JJ Roy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.2:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          kind: lbw
+    - 3.4:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 3.5:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Van Buuren
+    - 3.6:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 4.1:
+        non_striker: M Van Buuren
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: M Van Buuren
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: M Van Buuren
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.4:
+        non_striker: M Van Buuren
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.5:
+        non_striker: JC Buttler
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 4.6:
+        non_striker: M Van Buuren
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 5.1:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Van Buuren
+    - 5.2:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+        wicket:
+          player_out: M Van Buuren
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 5.3:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJG Morgan
+    - 5.4:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 5.5:
+        non_striker: EJG Morgan
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.6:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 6.1:
+        non_striker: EJG Morgan
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.2:
+        non_striker: JC Buttler
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 6.3:
+        non_striker: JC Buttler
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 6.4:
+        non_striker: JC Buttler
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 6.5:
+        non_striker: JC Buttler
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 6.6:
+        non_striker: JC Buttler
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJG Morgan
+    - 7.1:
+        non_striker: EJG Morgan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 7.2:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 7.3:
+        non_striker: EJG Morgan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 7.4:
+        non_striker: EJG Morgan
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 7.5:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJG Morgan
+    - 7.6:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 8.1:
+        non_striker: EJG Morgan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 8.2:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+        wicket:
+          player_out: EJG Morgan
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 8.3:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.4:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 8.5:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 8.6:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 9.1:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.2:
+        non_striker: DA Miller
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 9.3:
+        non_striker: DA Miller
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 9.4:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.5:
+        non_striker: DA Miller
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 9.6:
+        non_striker: DA Miller
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 10.1:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 10.2:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 10.3:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.4:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 10.5:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 10.6:
+        non_striker: JC Buttler
+        bowler: AU Rashid
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: DA Miller
+    - 11.1:
+        non_striker: DA Miller
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 11.2:
+        non_striker: DA Miller
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.3:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 11.4:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 11.5:
+        non_striker: DA Miller
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.6:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 12.1:
+        non_striker: JC Buttler
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.2:
+        non_striker: JC Buttler
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.3:
+        non_striker: JC Buttler
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.4:
+        non_striker: JC Buttler
+        bowler: CA Ingram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 12.5:
+        non_striker: JC Buttler
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.6:
+        non_striker: JC Buttler
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.7:
+        non_striker: DA Miller
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.1:
+        non_striker: DA Miller
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 13.2:
+        non_striker: DA Miller
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 13.3:
+        non_striker: DA Miller
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 13.4:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - TB de Bruyn
+          kind: caught
+    - 13.5:
+        non_striker: JC Buttler
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 13.6:
+        non_striker: AL Phehlukwayo
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.1:
+        non_striker: AL Phehlukwayo
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.2:
+        non_striker: JC Buttler
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 14.3:
+        non_striker: JC Buttler
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 14.4:
+        non_striker: AL Phehlukwayo
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.5:
+        non_striker: JC Buttler
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 14.6:
+        non_striker: AL Phehlukwayo
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.1:
+        non_striker: AL Phehlukwayo
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 15.2:
+        non_striker: AL Phehlukwayo
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.3:
+        non_striker: JC Buttler
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+        wicket:
+          player_out: AL Phehlukwayo
+          fielders:
+          - CA Ingram
+          kind: caught
+    - 15.4:
+        non_striker: JC Buttler
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Evan Jones
+    - 15.5:
+        non_striker: JC Buttler
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Evan Jones
+        wicket:
+          player_out: Evan Jones
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 15.6:
+        non_striker: JC Buttler
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Fortuin
+    - 16.1:
+        non_striker: BC Fortuin
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 16.2:
+        non_striker: BC Fortuin
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 16.3:
+        non_striker: BC Fortuin
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 16.4:
+        non_striker: BC Fortuin
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 16.5:
+        non_striker: BC Fortuin
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 16.6:
+        non_striker: BC Fortuin
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 17.1:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 17.2:
+        non_striker: BC Fortuin
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 17.3:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 17.4:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 17.5:
+        non_striker: BC Fortuin
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 17.6:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 18.1:
+        non_striker: BC Fortuin
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 18.2:
+        non_striker: BC Fortuin
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 18.3:
+        non_striker: BC Fortuin
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 18.4:
+        non_striker: BC Fortuin
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - RR Rossouw
+          kind: caught
+    - 18.5:
+        non_striker: BC Fortuin
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Codi Yusuf
+    - 18.6:
+        non_striker: Codi Yusuf
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Fortuin
+    - 19.1:
+        non_striker: BC Fortuin
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Codi Yusuf
+    - 19.2:
+        non_striker: Codi Yusuf
+        bowler: AU Rashid
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: BC Fortuin
+    - 19.3:
+        non_striker: Codi Yusuf
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+        wicket:
+          player_out: BC Fortuin
+          kind: bowled
+    - 19.4:
+        non_striker: Codi Yusuf
+        bowler: AU Rashid
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: L Ngidi
+    - 19.5:
+        non_striker: Codi Yusuf
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ngidi
+    - 19.6:
+        non_striker: Codi Yusuf
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi

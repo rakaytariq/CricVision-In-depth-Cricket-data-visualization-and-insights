@@ -1,0 +1,2235 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Palmerston North
+  competition: Super Smash
+  dates:
+  - '2022-12-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 2
+  overs: 20
+  players:
+    Wellington:
+    - FH Allen
+    - NF Kelly
+    - R Ravindra
+    - TM Johnson
+    - NG Smith
+    - TB Robinson
+    - AF Milne
+    - LV van Beek
+    - CR McLachlan
+    - PF Younghusband
+    - MW Snedden
+    Central Districts:
+    - GR Hay
+    - BS Smith
+    - D Cleaver
+    - LRPL Taylor
+    - TC Bruce
+    - JA Clarkson
+    - DAJ Bracewell
+    - BM Johnson
+    - JR Lennox
+    - RL Toole
+    - BG Randell
+  registry:
+    people:
+      AF Milne: 350bb1b1
+      BG Randell: dbeb6733
+      BM Johnson: 31fa4a14
+      BS Smith: 556df4f9
+      CR McLachlan: 10da9f8b
+      D Cleaver: e3a949be
+      DAJ Bracewell: 2e9fdf9b
+      DJ Walker: d4aea8ac
+      ED Sanders: 25c6d6af
+      FH Allen: bf74b130
+      GR Hay: 5bcd48df
+      JA Clarkson: bed90114
+      JM Dempsey: 153c9f33
+      JR Lennox: '07793daf'
+      LRPL Taylor: b61a3e1a
+      LV van Beek: 782fb776
+      MW Snedden: 236c8ffb
+      NF Kelly: 97f437ed
+      NG Smith: 05b1aef8
+      PF Younghusband: 149d0c18
+      R Ravindra: ba5e1069
+      RL Toole: 2fef3b0c
+      TB Robinson: 5d664346
+      TC Bruce: f92c9151
+      TM Johnson: 917f66da
+      TS Shirriffs: 1c21aa7d
+  teams:
+  - Wellington
+  - Central Districts
+  toss:
+    winner: Central Districts
+    decision: field
+  umpires:
+  - DJ Walker
+  - JM Dempsey
+  venue: Fitzherbert Park, Palmerston North
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: NF Kelly
+        batsman: FH Allen
+    - 0.2:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 0.3:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.5:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.6:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.1:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.2:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: FH Allen
+    - 1.3:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 1.4:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.5:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.6:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.7:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.1:
+        non_striker: NF Kelly
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.2:
+        non_striker: NF Kelly
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.3:
+        non_striker: FH Allen
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 2.4:
+        non_striker: FH Allen
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NF Kelly
+    - 2.5:
+        non_striker: FH Allen
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 2.6:
+        non_striker: NF Kelly
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.1:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NF Kelly
+    - 3.2:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 3.3:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 3.4:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 3.5:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 3.6:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 3.7:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.1:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NF Kelly
+    - 4.2:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 4.3:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NF Kelly
+    - 4.4:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 4.5:
+        non_striker: NF Kelly
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.6:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 4.7:
+        non_striker: FH Allen
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 5.1:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.2:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 5.3:
+        non_striker: FH Allen
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 5.4:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 5.5:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - GR Hay
+          kind: caught
+    - 5.6:
+        non_striker: NF Kelly
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 6.1:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 6.2:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 6.3:
+        non_striker: NF Kelly
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 6.4:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.5:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 6.6:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 7.1:
+        non_striker: NF Kelly
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 7.2:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NF Kelly
+    - 7.3:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 7.4:
+        non_striker: NF Kelly
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 7.5:
+        non_striker: NF Kelly
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 7.6:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 8.1:
+        non_striker: NF Kelly
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 8.2:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+        wicket:
+          player_out: NF Kelly
+          fielders:
+          - GR Hay
+          kind: caught
+    - 8.3:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 8.4:
+        non_striker: TM Johnson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 8.5:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 8.6:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Johnson
+    - 8.7:
+        non_striker: R Ravindra
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 9.1:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 9.2:
+        non_striker: R Ravindra
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 9.3:
+        non_striker: R Ravindra
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Johnson
+    - 9.4:
+        non_striker: R Ravindra
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 9.5:
+        non_striker: R Ravindra
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Johnson
+    - 9.6:
+        non_striker: R Ravindra
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 10.1:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 10.2:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 10.3:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 10.4:
+        non_striker: R Ravindra
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 10.5:
+        non_striker: TM Johnson
+        bowler: BM Johnson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Ravindra
+    - 10.6:
+        non_striker: TM Johnson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 11.1:
+        non_striker: R Ravindra
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 11.2:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ravindra
+    - 11.3:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 11.4:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Smith
+    - 11.5:
+        non_striker: NG Smith
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 11.6:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NG Smith
+    - 11.7:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Smith
+        wicket:
+          player_out: NG Smith
+          kind: caught and bowled
+    - 12.1:
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TB Robinson
+        batsman: TM Johnson
+    - 12.2:
+        non_striker: TM Johnson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 12.3:
+        non_striker: TB Robinson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 12.4:
+        non_striker: TM Johnson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 12.5:
+        non_striker: TB Robinson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 12.6:
+        non_striker: TM Johnson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 13.1:
+        non_striker: TM Johnson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 13.2:
+        non_striker: TB Robinson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 13.3:
+        non_striker: TB Robinson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 13.4:
+        non_striker: TB Robinson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 13.5:
+        non_striker: TM Johnson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 13.6:
+        non_striker: TB Robinson
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 14.1:
+        non_striker: TM Johnson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 14.2:
+        non_striker: TB Robinson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 14.3:
+        non_striker: TB Robinson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 14.4:
+        non_striker: TM Johnson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 14.5:
+        non_striker: TM Johnson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 14.6:
+        non_striker: TB Robinson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 15.1:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 15.2:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Johnson
+    - 15.3:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Johnson
+    - 15.4:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 15.5:
+        non_striker: TB Robinson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 15.6:
+        non_striker: TM Johnson
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 16.1:
+        non_striker: TB Robinson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+        wicket:
+          player_out: TM Johnson
+          fielders:
+          - GR Hay
+          kind: caught
+    - 16.2:
+        non_striker: TB Robinson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 16.3:
+        non_striker: TB Robinson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 16.4:
+        non_striker: TB Robinson
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 16.5:
+        non_striker: AF Milne
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Robinson
+    - 16.6:
+        non_striker: AF Milne
+        bowler: BM Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 17.1:
+        non_striker: AF Milne
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 17.2:
+        non_striker: TB Robinson
+        bowler: RL Toole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AF Milne
+    - 17.3:
+        non_striker: TB Robinson
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AF Milne
+    - 17.4:
+        non_striker: TB Robinson
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 17.5:
+        non_striker: AF Milne
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 17.6:
+        non_striker: AF Milne
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 17.7:
+        non_striker: TB Robinson
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 18.1:
+        non_striker: TB Robinson
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 18.2:
+        non_striker: AF Milne
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Robinson
+    - 18.3:
+        non_striker: AF Milne
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+        wicket:
+          player_out: TB Robinson
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 18.4:
+        non_striker: AF Milne
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 18.5:
+        non_striker: AF Milne
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.6:
+        non_striker: LV van Beek
+        bowler: TC Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Milne
+    - 19.1:
+        non_striker: AF Milne
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 19.2:
+        non_striker: AF Milne
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 19.3:
+        non_striker: AF Milne
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 19.4:
+        non_striker: AF Milne
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 19.5:
+        non_striker: AF Milne
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 19.6:
+        non_striker: AF Milne
+        bowler: DAJ Bracewell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LV van Beek
+    - 19.7:
+        non_striker: LV van Beek
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AF Milne
+- 2nd innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BS Smith
+        batsman: GR Hay
+    - 0.2:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: BS Smith
+        batsman: GR Hay
+    - 0.3:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BS Smith
+        batsman: GR Hay
+    - 0.4:
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BS Smith
+        batsman: GR Hay
+    - 0.5:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BS Smith
+        batsman: GR Hay
+    - 0.6:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: BS Smith
+        batsman: GR Hay
+    - 0.7:
+        non_striker: GR Hay
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 1.1:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Hay
+    - 1.2:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Hay
+    - 1.3:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Hay
+        wicket:
+          player_out: GR Hay
+          fielders:
+          - CR McLachlan
+          kind: caught
+    - 1.4:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.5:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.6:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 2.1:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 2.2:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.3:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.4:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.5:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: D Cleaver
+    - 2.6:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 3.1:
+        non_striker: D Cleaver
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Smith
+    - 3.2:
+        non_striker: D Cleaver
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 3.3:
+        non_striker: D Cleaver
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 3.4:
+        non_striker: D Cleaver
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 3.5:
+        non_striker: BS Smith
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.6:
+        non_striker: D Cleaver
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 4.1:
+        non_striker: BS Smith
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.2:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 4.3:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 4.4:
+        non_striker: BS Smith
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.5:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 4.6:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 5.1:
+        non_striker: BS Smith
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 5.2:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Smith
+    - 5.3:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Smith
+    - 5.4:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 5.5:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 5.6:
+        non_striker: BS Smith
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Cleaver
+    - 5.7:
+        non_striker: BS Smith
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 6.1:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Smith
+    - 6.2:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Smith
+    - 6.3:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 6.4:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 6.5:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 6.6:
+        non_striker: BS Smith
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 7.1:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Smith
+    - 7.2:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 7.3:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+        wicket:
+          player_out: BS Smith
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 7.4:
+        non_striker: D Cleaver
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 7.5:
+        non_striker: LRPL Taylor
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 7.6:
+        non_striker: LRPL Taylor
+        bowler: PF Younghusband
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Cleaver
+    - 8.1:
+        non_striker: LRPL Taylor
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.2:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 8.3:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 8.4:
+        non_striker: LRPL Taylor
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Cleaver
+    - 8.5:
+        non_striker: D Cleaver
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 8.6:
+        non_striker: LRPL Taylor
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.1:
+        non_striker: LRPL Taylor
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 9.2:
+        non_striker: LRPL Taylor
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.3:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 9.4:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 9.5:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 9.6:
+        non_striker: LRPL Taylor
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 10.1:
+        non_striker: LRPL Taylor
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 10.2:
+        non_striker: D Cleaver
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 10.3:
+        non_striker: LRPL Taylor
+        bowler: MW Snedden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Cleaver
+    - 10.4:
+        non_striker: LRPL Taylor
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 10.5:
+        non_striker: LRPL Taylor
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 10.6:
+        non_striker: LRPL Taylor
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 10.7:
+        non_striker: LRPL Taylor
+        bowler: MW Snedden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 11.1:
+        non_striker: LRPL Taylor
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Cleaver
+    - 11.2:
+        non_striker: LRPL Taylor
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - FH Allen
+          kind: caught
+    - 11.3:
+        non_striker: LRPL Taylor
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.4:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+        wicket:
+          player_out: LRPL Taylor
+          kind: bowled
+    - 11.5:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.6:
+        non_striker: JA Clarkson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.1:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 12.2:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 12.3:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.4:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 12.5:
+        non_striker: JA Clarkson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.6:
+        non_striker: TC Bruce
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.1:
+        non_striker: TC Bruce
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.2:
+        non_striker: JA Clarkson
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 13.3:
+        non_striker: JA Clarkson
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.4:
+        non_striker: TC Bruce
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.5:
+        non_striker: JA Clarkson
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 13.6:
+        non_striker: JA Clarkson
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 13.7:
+        non_striker: JA Clarkson
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 14.1:
+        non_striker: TC Bruce
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 14.2:
+        non_striker: JA Clarkson
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 14.3:
+        non_striker: JA Clarkson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 14.4:
+        non_striker: JA Clarkson
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 14.5:
+        non_striker: TC Bruce
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 14.6:
+        non_striker: TC Bruce
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 14.7:
+        non_striker: TC Bruce
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 15.1:
+        non_striker: JA Clarkson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 15.2:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 15.3:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 15.4:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 15.5:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 15.6:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 16.1:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 16.2:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 16.3:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 16.4:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 16.5:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 16.6:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 16.7:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 17.1:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 17.2:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 17.3:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 17.4:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 17.5:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 17.6:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          kind: lbw
+    - 18.1:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DAJ Bracewell
+        batsman: TC Bruce
+    - 18.2:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DAJ Bracewell
+        batsman: TC Bruce
+    - 18.3:
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DAJ Bracewell
+        batsman: TC Bruce
+    - 18.4:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DAJ Bracewell
+        batsman: TC Bruce
+    - 18.5:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 18.6:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 18.7:
+        non_striker: DAJ Bracewell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 18.8:
+        non_striker: DAJ Bracewell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 19.1:
+        non_striker: TC Bruce
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 19.2:
+        non_striker: DAJ Bracewell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 19.3:
+        non_striker: DAJ Bracewell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 19.4:
+        non_striker: DAJ Bracewell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 19.5:
+        non_striker: DAJ Bracewell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - LV van Beek
+          - CR McLachlan
+          kind: run out
+    - 19.6:
+        non_striker: DAJ Bracewell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Johnson
+        wicket:
+          player_out: BM Johnson
+          fielders:
+          - AF Milne
+          - CR McLachlan
+          kind: run out

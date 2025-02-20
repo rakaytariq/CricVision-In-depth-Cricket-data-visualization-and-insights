@@ -1,0 +1,2096 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  competition: FairBreak Invitational Tournament
+  dates:
+  - '2023-04-07'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - KE Bryce
+  players:
+    Falcons:
+    - AC Jayangani
+    - DN Wyatt
+    - Theertha Satish
+    - SW Bates
+    - M Hill
+    - M Kapp
+    - CM Gough
+    - Jahanara Alam
+    - N Koncharoenkai
+    - K Arua
+    - A Gurung
+    Warriors:
+    - E Johnston
+    - P Litchfield
+    - Yasmeen Khan
+    - S Sriharsha
+    - M du Preez
+    - Shanzeen Shahzad
+    - ER Oza
+    - A Wellington
+    - KE Bryce
+    - JM Kerr
+    - M Martinez
+  registry:
+    people:
+      A Gurung: 10854c82
+      A Wellington: 9b3bcca4
+      AC Jayangani: ac56b5a7
+      AY Harris: 90d95b82
+      CM Gough: f1328a90
+      DN Wyatt: a139c379
+      E Johnston: 3785e30d
+      ER Oza: fdc6b34d
+      JM Kerr: 9af58032
+      Jahanara Alam: 752183c1
+      K Arua: 8ce69204
+      KE Bryce: f13d3eba
+      M Hill: bf5e7711
+      M Kapp: 63e3b6b3
+      M Martinez: f0ddeafb
+      M du Preez: e219f17a
+      N Koncharoenkai: 82c78412
+      P Litchfield: 4e6ef14f
+      S Sriharsha: 89f6c26f
+      SJA Taufel: 4b43d5ac
+      SR Bernard: 800187dc
+      SW Bates: 89bbc67a
+      Sarika Prasad: 8ff397fa
+      Shanzeen Shahzad: ce291858
+      Shivani Mishra: 2982a0c7
+      Theertha Satish: ee3dcb3f
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Falcons
+  - Warriors
+  toss:
+    winner: Falcons
+    decision: bat
+  umpires:
+  - AY Harris
+  - Sarika Prasad
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Falcons
+    deliveries:
+    - 0.1:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DN Wyatt
+        batsman: AC Jayangani
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - P Litchfield
+          kind: run out
+    - 0.4:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 0.5:
+        non_striker: Theertha Satish
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: Theertha Satish
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 1.4:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Theertha Satish
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 2.3:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 2.4:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 2.5:
+        non_striker: Theertha Satish
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: Theertha Satish
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 3.2:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - S Sriharsha
+          kind: caught
+    - 3.3:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: Theertha Satish
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.6:
+        non_striker: SW Bates
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 4.1:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.2:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.3:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 4.4:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 4.5:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 4.6:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.1:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 5.2:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 5.3:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 5.4:
+        non_striker: SW Bates
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 5.5:
+        non_striker: Theertha Satish
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.6:
+        non_striker: Theertha Satish
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.1:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.2:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 6.3:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 6.4:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.5:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.6:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 7.1:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 7.2:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.3:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Theertha Satish
+    - 7.4:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Theertha Satish
+    - 7.5:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.6:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 7.7:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 7.8:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 8.1:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 8.2:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Theertha Satish
+    - 8.3:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 8.4:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 8.5:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 8.6:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 8.7:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 9.1:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.2:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Bates
+    - 9.3:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 9.4:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.5:
+        non_striker: SW Bates
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 9.6:
+        non_striker: Theertha Satish
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.1:
+        non_striker: Theertha Satish
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.2:
+        non_striker: Theertha Satish
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.3:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 10.4:
+        non_striker: Theertha Satish
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.5:
+        non_striker: Theertha Satish
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.6:
+        non_striker: SW Bates
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 11.1:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 11.2:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.3:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 11.4:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SW Bates
+    - 11.5:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Bates
+    - 11.6:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.7:
+        non_striker: Theertha Satish
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.1:
+        non_striker: Theertha Satish
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.2:
+        non_striker: Theertha Satish
+        bowler: Yasmeen Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 12.3:
+        non_striker: Theertha Satish
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.4:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Theertha Satish
+    - 12.5:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+        wicket:
+          player_out: Theertha Satish
+          fielders:
+          - ER Oza
+          kind: caught
+    - 12.6:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 12.7:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 13.1:
+        non_striker: M Hill
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.2:
+        non_striker: M Hill
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 13.3:
+        non_striker: M Hill
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.4:
+        non_striker: M Hill
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 13.5:
+        non_striker: M Hill
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.6:
+        non_striker: M Hill
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 14.1:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 14.2:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - E Johnston
+          kind: caught
+    - 14.3:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 14.4:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 14.5:
+        non_striker: SW Bates
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 14.6:
+        non_striker: M Kapp
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.1:
+        non_striker: SW Bates
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 15.2:
+        non_striker: M Kapp
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 15.3:
+        non_striker: M Kapp
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 15.4:
+        non_striker: M Kapp
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 15.5:
+        non_striker: CM Gough
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 15.6:
+        non_striker: CM Gough
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 16.1:
+        non_striker: CM Gough
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 16.2:
+        non_striker: M Kapp
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 16.3:
+        non_striker: M Kapp
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Gough
+    - 16.4:
+        non_striker: M Kapp
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CM Gough
+    - 16.5:
+        non_striker: M Kapp
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 16.6:
+        non_striker: M Kapp
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 17.1:
+        non_striker: CM Gough
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - Shanzeen Shahzad
+          kind: caught
+    - 17.2:
+        non_striker: CM Gough
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahanara Alam
+    - 17.3:
+        non_striker: CM Gough
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahanara Alam
+    - 17.4:
+        non_striker: CM Gough
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahanara Alam
+    - 17.5:
+        non_striker: Jahanara Alam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 17.6:
+        non_striker: Jahanara Alam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 18.1:
+        non_striker: Jahanara Alam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 18.2:
+        non_striker: Jahanara Alam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 18.3:
+        non_striker: CM Gough
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahanara Alam
+        wicket:
+          player_out: Jahanara Alam
+          fielders:
+          - S Sriharsha
+          kind: caught
+    - 18.4:
+        non_striker: CM Gough
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+        wicket:
+          player_out: N Koncharoenkai
+          fielders:
+          - E Johnston
+          kind: caught
+    - 18.5:
+        non_striker: CM Gough
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 18.6:
+        non_striker: CM Gough
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Arua
+    - 19.1:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CM Gough
+    - 19.2:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 19.3:
+        non_striker: CM Gough
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+    - 19.4:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 19.5:
+        non_striker: K Arua
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 19.6:
+        non_striker: CM Gough
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Arua
+- 2nd innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Litchfield
+        batsman: E Johnston
+    - 0.2:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Litchfield
+        batsman: E Johnston
+    - 0.3:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Litchfield
+        batsman: E Johnston
+    - 0.4:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.5:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.6:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.1:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: E Johnston
+    - 1.2:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 1.3:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: E Johnston
+    - 1.4:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 1.5:
+        non_striker: E Johnston
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.6:
+        non_striker: E Johnston
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.7:
+        non_striker: E Johnston
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Johnston
+    - 2.2:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.3:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 2.4:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.6:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.7:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.1:
+        non_striker: P Litchfield
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Johnston
+    - 3.2:
+        non_striker: P Litchfield
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Johnston
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 3.5:
+        non_striker: E Johnston
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 3.6:
+        non_striker: P Litchfield
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Johnston
+    - 4.1:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 4.2:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 4.3:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 4.4:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.5:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: P Litchfield
+    - 4.6:
+        non_striker: E Johnston
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.1:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 5.2:
+        non_striker: E Johnston
+        bowler: Jahanara Alam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 5.3:
+        non_striker: E Johnston
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: E Johnston
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 5.6:
+        non_striker: E Johnston
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.7:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Johnston
+    - 6.1:
+        non_striker: P Litchfield
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 6.2:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.3:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.4:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 6.5:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.6:
+        non_striker: P Litchfield
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 7.1:
+        non_striker: E Johnston
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.2:
+        non_striker: E Johnston
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 7.3:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 7.4:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 7.5:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Johnston
+    - 7.6:
+        non_striker: P Litchfield
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Johnston
+    - 8.1:
+        non_striker: E Johnston
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 8.2:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Johnston
+    - 8.3:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 8.4:
+        non_striker: E Johnston
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 8.5:
+        non_striker: E Johnston
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 8.6:
+        non_striker: P Litchfield
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Johnston
+    - 9.1:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.2:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 9.3:
+        non_striker: P Litchfield
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 9.4:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.5:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 9.6:
+        non_striker: E Johnston
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - M Hill
+          kind: caught
+    - 10.1:
+        non_striker: Yasmeen Khan
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+        wicket:
+          player_out: E Johnston
+          fielders:
+          - SW Bates
+          kind: caught
+    - 10.2:
+        non_striker: Yasmeen Khan
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 10.3:
+        non_striker: S Sriharsha
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 10.4:
+        non_striker: S Sriharsha
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Yasmeen Khan
+    - 10.5:
+        non_striker: S Sriharsha
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasmeen Khan
+    - 10.6:
+        non_striker: S Sriharsha
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 10.7:
+        non_striker: S Sriharsha
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 10.8:
+        non_striker: S Sriharsha
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 11.1:
+        non_striker: Yasmeen Khan
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 11.2:
+        non_striker: Yasmeen Khan
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 11.3:
+        non_striker: Yasmeen Khan
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 11.4:
+        non_striker: S Sriharsha
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 11.5:
+        non_striker: Yasmeen Khan
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Sriharsha
+    - 11.6:
+        non_striker: S Sriharsha
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 12.1:
+        non_striker: S Sriharsha
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 12.2:
+        non_striker: S Sriharsha
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 12.3:
+        non_striker: Yasmeen Khan
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 12.4:
+        non_striker: S Sriharsha
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 12.5:
+        non_striker: S Sriharsha
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 12.6:
+        non_striker: S Sriharsha
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.1:
+        non_striker: S Sriharsha
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.2:
+        non_striker: Yasmeen Khan
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+        wicket:
+          player_out: S Sriharsha
+          kind: bowled
+    - 13.3:
+        non_striker: Yasmeen Khan
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 13.4:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 13.5:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.6:
+        non_striker: Yasmeen Khan
+        bowler: M Hill
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: M du Preez
+    - 14.1:
+        non_striker: M du Preez
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 14.2:
+        non_striker: Yasmeen Khan
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 14.3:
+        non_striker: Yasmeen Khan
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 14.4:
+        non_striker: Yasmeen Khan
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 14.5:
+        non_striker: M du Preez
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 14.6:
+        non_striker: M du Preez
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 15.1:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+        wicket:
+          player_out: Yasmeen Khan
+          fielders:
+          - AC Jayangani
+          kind: caught
+    - 15.2:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 15.3:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 15.4:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 15.5:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: Shanzeen Shahzad
+          fielders:
+          - K Arua
+          kind: caught
+    - 15.6:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 16.1:
+        non_striker: M du Preez
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 16.2:
+        non_striker: M du Preez
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 16.3:
+        non_striker: M du Preez
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 16.4:
+        non_striker: M du Preez
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 16.5:
+        non_striker: ER Oza
+        bowler: Jahanara Alam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M du Preez
+    - 16.6:
+        non_striker: ER Oza
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 16.7:
+        non_striker: M du Preez
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 17.1:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 17.2:
+        non_striker: ER Oza
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 17.3:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 17.4:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 17.5:
+        non_striker: M du Preez
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ER Oza

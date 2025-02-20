@@ -1,0 +1,2106 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-11-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      wickets: 4
+  overs: 20
+  players:
+    Dolphins:
+    - G Roelofsen
+    - KD Petersen
+    - JT Smuts
+    - A Simelane
+    - JF Smith
+    - TA Dithole
+    - K Zondo
+    - E Bosch
+    - P Subrayen
+    - DM Dupavillon
+    - OEG Baartman
+    Titans:
+    - D Brevis
+    - J Pillay
+    - TB de Bruyn
+    - BS Makhanya
+    - N Brand
+    - Dayyaan Galiem
+    - D Ferreira
+    - A Gqamane
+    - SR Harmer
+    - CJ Dala
+    - AM Phangiso
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      A Simelane: ebb74564
+      AM Phangiso: 7f8ecc51
+      BM White: 66c21d35
+      BS Makhanya: 1b42a100
+      CJ Dala: 1cb14aa4
+      D Brevis: 844e79d1
+      D Ferreira: f0af99a7
+      DM Dupavillon: 7cb2d9d2
+      Dayyaan Galiem: 47c449c5
+      E Bosch: 28d6c44d
+      G Roelofsen: ac688e55
+      GH Pienaar: 3516e46b
+      J Pillay: 230f5cea
+      JF Smith: 91cd48e0
+      JT Smuts: 42172c3c
+      K Zondo: 4aad78d3
+      KD Petersen: bf64dc29
+      LB Gcuma: 02ba88e3
+      MJ Ackerman: 6287d981
+      N Brand: 68790da2
+      OEG Baartman: 6b9eb501
+      P Subrayen: 7ec9711d
+      SR Harmer: '23638956'
+      Siphelele Gasa: e50baa87
+      Stephen Harris: fdcfd4aa
+      TA Dithole: 876bec53
+      TB de Bruyn: 90d6cdea
+  teams:
+  - Dolphins
+  - Titans
+  toss:
+    winner: Dolphins
+    decision: bat
+  umpires:
+  - LB Gcuma
+  - Stephen Harris
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+        wicket:
+          player_out: G Roelofsen
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 0.2:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.3:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 0.4:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.5:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 0.6:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 1.1:
+        non_striker: KD Petersen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.2:
+        non_striker: KD Petersen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 1.3:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 1.4:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 1.5:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 1.6:
+        non_striker: KD Petersen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.1:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 2.2:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.3:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 2.4:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 2.5:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 2.6:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.1:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Petersen
+    - 3.2:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 3.3:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 3.4:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 3.5:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 3.6:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 4.1:
+        non_striker: KD Petersen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.2:
+        non_striker: JT Smuts
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 4.3:
+        non_striker: JT Smuts
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 4.4:
+        non_striker: KD Petersen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.5:
+        non_striker: JT Smuts
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 4.6:
+        non_striker: JT Smuts
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 5.1:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 5.2:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 5.3:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 5.4:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 5.5:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 5.6:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 6.1:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Petersen
+    - 6.2:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 6.3:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 6.4:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 6.5:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 6.6:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.1:
+        non_striker: KD Petersen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.2:
+        non_striker: JT Smuts
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 7.3:
+        non_striker: JT Smuts
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 7.4:
+        non_striker: KD Petersen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 7.5:
+        non_striker: KD Petersen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.6:
+        non_striker: JT Smuts
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 8.1:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 8.2:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 8.3:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Petersen
+    - 8.4:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 8.5:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 8.6:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 9.1:
+        non_striker: JT Smuts
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 9.2:
+        non_striker: JT Smuts
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 9.3:
+        non_striker: KD Petersen
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 9.4:
+        non_striker: JT Smuts
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 9.5:
+        non_striker: KD Petersen
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 9.6:
+        non_striker: KD Petersen
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 10.1:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 10.2:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 10.3:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 10.4:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 10.5:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 10.6:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 11.1:
+        non_striker: KD Petersen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 11.2:
+        non_striker: KD Petersen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 11.3:
+        non_striker: JT Smuts
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 11.4:
+        non_striker: JT Smuts
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 11.5:
+        non_striker: KD Petersen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 11.6:
+        non_striker: KD Petersen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 12.1:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 12.2:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Petersen
+    - 12.3:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 12.4:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 12.5:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 12.6:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 13.1:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 13.2:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 13.3:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 13.4:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 13.5:
+        non_striker: KD Petersen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 13.6:
+        non_striker: JT Smuts
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 14.1:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 14.2:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 14.3:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 14.4:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 14.5:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 14.6:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 14.7:
+        non_striker: KD Petersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 15.1:
+        non_striker: KD Petersen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 15.2:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 15.3:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+        wicket:
+          player_out: KD Petersen
+          fielders:
+          - SR Harmer
+          kind: caught
+    - 15.4:
+        non_striker: JT Smuts
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Simelane
+    - 15.5:
+        non_striker: A Simelane
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 15.6:
+        non_striker: A Simelane
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 16.1:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Simelane
+    - 16.2:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 16.3:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 16.4:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Simelane
+    - 16.5:
+        non_striker: A Simelane
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JT Smuts
+    - 16.6:
+        non_striker: JT Smuts
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Simelane
+    - 17.1:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Simelane
+    - 17.2:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 17.3:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 17.4:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 17.5:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 17.6:
+        non_striker: JT Smuts
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 18.1:
+        non_striker: A Simelane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 18.2:
+        non_striker: A Simelane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 18.3:
+        non_striker: A Simelane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 18.4:
+        non_striker: A Simelane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 18.5:
+        non_striker: JF Smith
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 18.6:
+        non_striker: JF Smith
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 19.1:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 19.2:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Smith
+    - 19.3:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Smith
+    - 19.4:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Smith
+    - 19.5:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 19.6:
+        non_striker: A Simelane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Smith
+- 2nd innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        non_striker: J Pillay
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 0.2:
+        non_striker: J Pillay
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.3:
+        non_striker: D Brevis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 0.4:
+        non_striker: D Brevis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 0.5:
+        non_striker: J Pillay
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.6:
+        non_striker: D Brevis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 0.7:
+        non_striker: D Brevis
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.1:
+        non_striker: J Pillay
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.2:
+        non_striker: J Pillay
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Brevis
+    - 1.3:
+        non_striker: D Brevis
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.4:
+        non_striker: D Brevis
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 1.5:
+        non_striker: J Pillay
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - KD Petersen
+          kind: caught
+    - 1.6:
+        non_striker: J Pillay
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 2.1:
+        non_striker: TB de Bruyn
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pillay
+    - 2.2:
+        non_striker: TB de Bruyn
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 2.3:
+        non_striker: TB de Bruyn
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 2.4:
+        non_striker: TB de Bruyn
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 2.5:
+        non_striker: TB de Bruyn
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 2.6:
+        non_striker: TB de Bruyn
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 3.1:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 3.2:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.3:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 3.4:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.5:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 3.6:
+        non_striker: J Pillay
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 4.1:
+        non_striker: TB de Bruyn
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 4.2:
+        non_striker: TB de Bruyn
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Pillay
+    - 4.3:
+        non_striker: J Pillay
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TB de Bruyn
+    - 4.4:
+        non_striker: TB de Bruyn
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+        wicket:
+          player_out: J Pillay
+          fielders:
+          - JT Smuts
+          kind: caught
+    - 4.5:
+        non_striker: TB de Bruyn
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 4.6:
+        non_striker: BS Makhanya
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 5.1:
+        non_striker: BS Makhanya
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TB de Bruyn
+    - 5.2:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 5.3:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Makhanya
+    - 5.4:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 5.5:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Makhanya
+    - 5.6:
+        non_striker: TB de Bruyn
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 5.7:
+        non_striker: BS Makhanya
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.1:
+        non_striker: BS Makhanya
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.2:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 6.3:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 6.4:
+        non_striker: BS Makhanya
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 6.5:
+        non_striker: BS Makhanya
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 6.6:
+        non_striker: BS Makhanya
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 7.1:
+        non_striker: BS Makhanya
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 7.2:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 7.3:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+        wicket:
+          player_out: BS Makhanya
+          fielders:
+          - E Bosch
+          kind: caught
+    - 7.4:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 7.5:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 7.6:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB de Bruyn
+    - 8.1:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 8.2:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 8.3:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 8.4:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 8.5:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 8.6:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB de Bruyn
+    - 9.1:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Brand
+    - 9.2:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 9.3:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 9.4:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Brand
+    - 9.5:
+        non_striker: TB de Bruyn
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 9.6:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB de Bruyn
+    - 10.1:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 10.2:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+        wicket:
+          player_out: TB de Bruyn
+          fielders:
+          - E Bosch
+          kind: caught
+    - 10.3:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 10.4:
+        non_striker: Dayyaan Galiem
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 10.5:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 10.6:
+        non_striker: Dayyaan Galiem
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 11.1:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 11.2:
+        non_striker: N Brand
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 11.3:
+        non_striker: N Brand
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 11.4:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 11.5:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 11.6:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 12.1:
+        non_striker: Dayyaan Galiem
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 12.2:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 12.3:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 12.4:
+        non_striker: Dayyaan Galiem
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 12.5:
+        non_striker: N Brand
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 12.6:
+        non_striker: Dayyaan Galiem
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 13.1:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 13.2:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 13.3:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 13.4:
+        non_striker: N Brand
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 13.5:
+        non_striker: Dayyaan Galiem
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+        wicket:
+          player_out: N Brand
+          fielders:
+          - MJ Ackerman (sub)
+          kind: caught
+    - 13.6:
+        non_striker: Dayyaan Galiem
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.1:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.2:
+        non_striker: D Ferreira
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 14.3:
+        non_striker: D Ferreira
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 14.4:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.5:
+        non_striker: D Ferreira
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 14.6:
+        non_striker: Dayyaan Galiem
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.1:
+        non_striker: D Ferreira
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 15.2:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.3:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: D Ferreira
+    - 15.4:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 15.5:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 15.6:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 15.7:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.8:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.1:
+        non_striker: Dayyaan Galiem
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 16.2:
+        non_striker: Dayyaan Galiem
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.3:
+        non_striker: D Ferreira
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 16.4:
+        non_striker: D Ferreira
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 16.5:
+        non_striker: Dayyaan Galiem
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.6:
+        non_striker: D Ferreira
+        bowler: A Simelane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dayyaan Galiem
+    - 16.7:
+        non_striker: D Ferreira
+        bowler: A Simelane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 17.1:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.2:
+        non_striker: D Ferreira
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 17.3:
+        non_striker: D Ferreira
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 17.4:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 17.5:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 17.6:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 18.1:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 18.2:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 18.3:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 18.4:
+        non_striker: D Ferreira
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 18.5:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 18.6:
+        non_striker: Dayyaan Galiem
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 19.1:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 19.2:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 19.3:
+        non_striker: Dayyaan Galiem
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          fielders:
+          - MJ Ackerman (sub)
+          kind: run out
+    - 19.4:
+        non_striker: A Gqamane
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem

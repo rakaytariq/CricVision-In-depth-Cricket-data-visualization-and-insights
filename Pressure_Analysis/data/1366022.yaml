@@ -1,0 +1,2052 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  competition: FairBreak Invitational Tournament
+  dates:
+  - '2023-04-08'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - A Wellington
+  players:
+    Warriors:
+    - E Johnston
+    - P Litchfield
+    - M du Preez
+    - T Ruma
+    - S Sriharsha
+    - KE Bryce
+    - A Wellington
+    - ER Oza
+    - JM Kerr
+    - SS Connell
+    - M Wai Siu
+    Spirit:
+    - SIR Dunkley
+    - SJ Bryce
+    - N Chantam
+    - Bismah Maroof
+    - NJ Carey
+    - KA Tomlinson
+    - M Gaur
+    - NH Patel
+    - N Boochatham
+    - A Khaka
+    - Chan Ka Man
+  registry:
+    people:
+      A Khaka: 0d518f89
+      A Wellington: 9b3bcca4
+      Bismah Maroof: 3b770527
+      Chan Ka Man: c4022bff
+      E Johnston: 3785e30d
+      ER Oza: fdc6b34d
+      JM Kerr: 9af58032
+      JM Williams: b61d9d70
+      John Prakash: b5f3d429
+      KA Tomlinson: 83d6e306
+      KE Bryce: f13d3eba
+      M Gaur: df9cdebf
+      M Wai Siu: 74eecff4
+      M du Preez: e219f17a
+      N Boochatham: 58acb320
+      N Chantam: b5626ff7
+      NH Patel: d945db3e
+      NJ Carey: dff806f4
+      P Litchfield: 4e6ef14f
+      S Sriharsha: 89f6c26f
+      SIR Dunkley: 3a9e9cb2
+      SJ Bryce: 2ca65aee
+      SR Bernard: 800187dc
+      SS Connell: 2f9a6bd1
+      Sarika Prasad: 8ff397fa
+      T Ruma: 3697a0ff
+      V Kalidas: 42d76418
+  teams:
+  - Warriors
+  - Spirit
+  toss:
+    winner: Spirit
+    decision: field
+  umpires:
+  - JM Williams
+  - V Kalidas
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Litchfield
+        batsman: E Johnston
+    - 0.2:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Litchfield
+        batsman: E Johnston
+    - 0.3:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Litchfield
+        batsman: E Johnston
+    - 0.4:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.5:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.6:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          kind: bowled
+    - 1.1:
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M du Preez
+        batsman: E Johnston
+    - 1.2:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M du Preez
+        batsman: E Johnston
+    - 1.3:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M du Preez
+        batsman: E Johnston
+    - 1.4:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M du Preez
+        batsman: E Johnston
+    - 1.5:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M du Preez
+        batsman: E Johnston
+    - 1.6:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M du Preez
+        batsman: E Johnston
+    - 1.7:
+        non_striker: E Johnston
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 2.1:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 2.2:
+        non_striker: M du Preez
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 2.3:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 2.4:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 2.5:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 2.6:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.1:
+        non_striker: M du Preez
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 3.2:
+        non_striker: E Johnston
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 3.3:
+        non_striker: M du Preez
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 3.4:
+        non_striker: E Johnston
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.5:
+        non_striker: E Johnston
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 3.6:
+        non_striker: E Johnston
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 4.1:
+        non_striker: M du Preez
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 4.2:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.3:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 4.4:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.5:
+        non_striker: M du Preez
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 4.6:
+        non_striker: E Johnston
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.1:
+        non_striker: M du Preez
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Johnston
+    - 5.2:
+        non_striker: M du Preez
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Johnston
+    - 5.3:
+        non_striker: M du Preez
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 5.4:
+        non_striker: E Johnston
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M du Preez
+    - 5.5:
+        non_striker: E Johnston
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.6:
+        non_striker: M du Preez
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Johnston
+    - 5.7:
+        non_striker: M du Preez
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 6.1:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.2:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 6.3:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 6.4:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.5:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.6:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 7.1:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 7.2:
+        non_striker: M du Preez
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 7.3:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - NJ Carey
+          kind: caught
+    - 7.4:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 7.5:
+        non_striker: T Ruma
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 7.6:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 8.1:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.2:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          kind: lbw
+    - 8.3:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 8.4:
+        non_striker: S Sriharsha
+        bowler: SIR Dunkley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Johnston
+    - 8.5:
+        non_striker: S Sriharsha
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 8.6:
+        non_striker: E Johnston
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 8.7:
+        non_striker: S Sriharsha
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Johnston
+    - 9.1:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 9.2:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 9.3:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 9.4:
+        non_striker: S Sriharsha
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 9.5:
+        non_striker: E Johnston
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 9.6:
+        non_striker: S Sriharsha
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+        wicket:
+          player_out: E Johnston
+          fielders:
+          - NH Patel
+          kind: run out
+    - 10.1:
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KE Bryce
+        batsman: S Sriharsha
+    - 10.2:
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KE Bryce
+        batsman: S Sriharsha
+    - 10.3:
+        non_striker: S Sriharsha
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.4:
+        non_striker: S Sriharsha
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.5:
+        non_striker: S Sriharsha
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 10.6:
+        non_striker: KE Bryce
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 11.1:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 11.2:
+        non_striker: S Sriharsha
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 11.3:
+        non_striker: S Sriharsha
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.4:
+        non_striker: S Sriharsha
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.5:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 11.6:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 12.1:
+        non_striker: KE Bryce
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 12.2:
+        non_striker: S Sriharsha
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.3:
+        non_striker: S Sriharsha
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.4:
+        non_striker: KE Bryce
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+        wicket:
+          player_out: S Sriharsha
+          fielders:
+          - Bismah Maroof
+          kind: caught
+    - 12.5:
+        non_striker: KE Bryce
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Wellington
+    - 12.6:
+        non_striker: KE Bryce
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 13.1:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 13.2:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Wellington
+    - 13.3:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          fielders:
+          - A Khaka
+          kind: caught
+    - 13.4:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 13.5:
+        non_striker: KE Bryce
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 13.6:
+        non_striker: ER Oza
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: caught and bowled
+    - 13.7:
+        non_striker: ER Oza
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 14.1:
+        non_striker: JM Kerr
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 14.2:
+        non_striker: JM Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 14.3:
+        non_striker: ER Oza
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 14.4:
+        non_striker: JM Kerr
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 14.5:
+        non_striker: JM Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 14.6:
+        non_striker: ER Oza
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 14.7:
+        non_striker: ER Oza
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Kerr
+    - 14.8:
+        non_striker: JM Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ER Oza
+    - 15.1:
+        non_striker: ER Oza
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          kind: bowled
+    - 15.2:
+        non_striker: ER Oza
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Connell
+    - 15.3:
+        non_striker: SS Connell
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 15.4:
+        non_striker: SS Connell
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 15.5:
+        non_striker: SS Connell
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 15.6:
+        non_striker: ER Oza
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Connell
+    - 16.1:
+        non_striker: ER Oza
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+        wicket:
+          player_out: SS Connell
+          fielders:
+          - SIR Dunkley
+          kind: caught
+    - 16.2:
+        non_striker: ER Oza
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 16.3:
+        non_striker: M Wai Siu
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 16.4:
+        non_striker: ER Oza
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 16.5:
+        non_striker: ER Oza
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 16.6:
+        non_striker: ER Oza
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 17.1:
+        non_striker: M Wai Siu
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 17.2:
+        non_striker: M Wai Siu
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 17.3:
+        non_striker: M Wai Siu
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 17.4:
+        non_striker: M Wai Siu
+        bowler: SIR Dunkley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+        wicket:
+          player_out: ER Oza
+          fielders:
+          - SJ Bryce
+          kind: stumped
+- 2nd innings:
+    team: Spirit
+    deliveries:
+    - 0.1:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SJ Bryce
+        batsman: SIR Dunkley
+    - 0.2:
+        non_striker: SIR Dunkley
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 0.3:
+        non_striker: SIR Dunkley
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 0.4:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.5:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 0.6:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 0.7:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.1:
+        non_striker: SIR Dunkley
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.2:
+        non_striker: SIR Dunkley
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 1.3:
+        non_striker: N Chantam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: N Chantam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 1.5:
+        non_striker: N Chantam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: SIR Dunkley
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 2.1:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          fielders:
+          - E Johnston
+          kind: caught
+    - 2.2:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.3:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 2.4:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 2.5:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 2.6:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.1:
+        non_striker: N Chantam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 3.2:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.3:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 3.4:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 3.5:
+        non_striker: N Chantam
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 3.6:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 4.1:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chantam
+    - 4.2:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chantam
+    - 4.3:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 4.4:
+        non_striker: N Chantam
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 4.5:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 4.6:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 5.1:
+        non_striker: N Chantam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.2:
+        non_striker: N Chantam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.3:
+        non_striker: N Chantam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.4:
+        non_striker: N Chantam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 5.5:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 5.6:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 6.1:
+        non_striker: N Chantam
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 6.2:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Chantam
+    - 6.3:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 6.4:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 6.5:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 6.6:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.1:
+        non_striker: NJ Carey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.2:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 7.3:
+        non_striker: NJ Carey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.4:
+        non_striker: NJ Carey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.5:
+        non_striker: NJ Carey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.6:
+        non_striker: NJ Carey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.1:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Bismah Maroof
+    - 8.2:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 8.3:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.4:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 8.5:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 8.6:
+        non_striker: NJ Carey
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 9.1:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.2:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 9.3:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 9.4:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 9.5:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.6:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 10.1:
+        non_striker: NJ Carey
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 10.2:
+        non_striker: Bismah Maroof
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.3:
+        non_striker: NJ Carey
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.4:
+        non_striker: NJ Carey
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.5:
+        non_striker: NJ Carey
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.6:
+        non_striker: NJ Carey
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 11.1:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.2:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.3:
+        non_striker: NJ Carey
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 11.4:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          fielders:
+          - T Ruma
+          kind: caught
+    - 11.5:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 11.6:
+        non_striker: KA Tomlinson
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 12.1:
+        non_striker: KA Tomlinson
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 12.2:
+        non_striker: Bismah Maroof
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 12.3:
+        non_striker: KA Tomlinson
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.4:
+        non_striker: KA Tomlinson
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 12.5:
+        non_striker: Bismah Maroof
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 12.6:
+        non_striker: KA Tomlinson
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 13.1:
+        non_striker: KA Tomlinson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 13.2:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 13.3:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Tomlinson
+    - 13.4:
+        non_striker: KA Tomlinson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 13.5:
+        non_striker: KA Tomlinson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 13.6:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+    - 14.1:
+        non_striker: KA Tomlinson
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 14.2:
+        non_striker: KA Tomlinson
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 14.3:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Tomlinson
+        wicket:
+          player_out: KA Tomlinson
+          fielders:
+          - ER Oza
+          kind: caught
+    - 14.4:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+        wicket:
+          player_out: M Gaur
+          fielders:
+          - E Johnston
+          kind: caught
+    - 14.5:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 14.6:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 15.1:
+        non_striker: NH Patel
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 15.2:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 15.3:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 15.4:
+        non_striker: NH Patel
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Bismah Maroof
+    - 15.5:
+        non_striker: Bismah Maroof
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 15.6:
+        non_striker: NH Patel
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 16.1:
+        non_striker: NH Patel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 16.2:
+        non_striker: NH Patel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 16.3:
+        non_striker: NH Patel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 16.4:
+        non_striker: Bismah Maroof
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 16.5:
+        non_striker: NH Patel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.6:
+        non_striker: NH Patel
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.1:
+        non_striker: NH Patel
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.2:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+        wicket:
+          player_out: NH Patel
+          kind: caught and bowled
+    - 17.3:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Boochatham
+    - 17.4:
+        non_striker: N Boochatham
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.5:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Boochatham
+    - 17.6:
+        non_striker: N Boochatham
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bismah Maroof
+    - 18.1:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 18.2:
+        non_striker: Bismah Maroof
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Boochatham
+    - 18.3:
+        non_striker: N Boochatham
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 18.4:
+        non_striker: N Boochatham
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 18.5:
+        non_striker: N Boochatham
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 18.6:
+        non_striker: N Boochatham
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 19.1:
+        non_striker: N Boochatham
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 19.2:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Boochatham
+    - 19.3:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+        wicket:
+          player_out: N Boochatham
+          fielders:
+          - S Sriharsha
+          - KE Bryce
+          kind: run out
+    - 19.4:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+    - 19.5:
+        non_striker: Bismah Maroof
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khaka
+    - 19.6:
+        non_striker: A Khaka
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof

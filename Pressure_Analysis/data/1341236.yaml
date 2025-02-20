@@ -1,0 +1,2252 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Women's Super Smash
+  dates:
+  - '2023-01-04'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 59
+  overs: 20
+  players:
+    Wellington:
+    - TMM Newton
+    - SFM Devine
+    - RM Burns
+    - AC Kerr
+    - ML Green
+    - LM Kasperek
+    - JM Kerr
+    - JT McFadyen
+    - XA Jetly
+    - N Baird
+    - MP Singh
+    Northern Districts:
+    - B Bezuidenhout
+    - EAJ Richardson
+    - SRH Curtis
+    - HE Topp
+    - NH Patel
+    - C Agafili
+    - PC Graham
+    - MBA Lamplough
+    - EL Baker
+    - SR Naidu
+    - CR Sarsfield
+  registry:
+    people:
+      AC Kerr: 7673c908
+      B Bezuidenhout: 564afdcf
+      C Agafili: b9bb76c8
+      CR Sarsfield: '66754320'
+      EAJ Richardson: 50ee0500
+      EL Baker: e884a0ee
+      HE Topp: d9b3ff0a
+      JM Dempsey: 153c9f33
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      K Pulley: 644bf4ad
+      KK Challa: 6f35da07
+      KS Jagannathan: 9bc8dcec
+      LM Kasperek: 9b73d523
+      MBA Lamplough: 997fffbe
+      ML Green: 865eae1f
+      MP Singh: 214115f5
+      N Baird: c0380823
+      NH Patel: d945db3e
+      PC Graham: b5c83d22
+      RM Burns: 94fe4708
+      SFM Devine: de69af96
+      SR Naidu: f41d1a02
+      SRH Curtis: aa89a853
+      TJ Parlane: 3cfc24b0
+      TMM Newton: 93fe473e
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Northern Districts
+  toss:
+    winner: Northern Districts
+    decision: field
+  umpires:
+  - JM Dempsey
+  - TJ Parlane
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SFM Devine
+        batsman: TMM Newton
+    - 0.2:
+        bowler: SR Naidu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SFM Devine
+        batsman: TMM Newton
+    - 0.3:
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SFM Devine
+        batsman: TMM Newton
+    - 0.4:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SFM Devine
+    - 0.5:
+        non_striker: SFM Devine
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 0.7:
+        non_striker: SFM Devine
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 1.1:
+        non_striker: SFM Devine
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 1.2:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 1.3:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.4:
+        non_striker: SFM Devine
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TMM Newton
+    - 1.5:
+        non_striker: SFM Devine
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.6:
+        non_striker: SFM Devine
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 2.1:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.2:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.3:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 2.4:
+        non_striker: SFM Devine
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 2.5:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.6:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 2.7:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 3.1:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.2:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 3.3:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.4:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.5:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 3.6:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 3.7:
+        non_striker: SFM Devine
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 4.1:
+        non_striker: SFM Devine
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TMM Newton
+    - 4.2:
+        non_striker: SFM Devine
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 4.3:
+        non_striker: SFM Devine
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TMM Newton
+    - 4.4:
+        non_striker: TMM Newton
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - PC Graham
+          kind: run out
+    - 4.5:
+        non_striker: TMM Newton
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 4.6:
+        non_striker: RM Burns
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 5.1:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Burns
+    - 5.2:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.3:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.4:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.5:
+        non_striker: TMM Newton
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 5.6:
+        non_striker: RM Burns
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 5.7:
+        non_striker: RM Burns
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 6.1:
+        non_striker: TMM Newton
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.2:
+        non_striker: RM Burns
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 6.3:
+        non_striker: RM Burns
+        bowler: PC Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TMM Newton
+    - 6.4:
+        non_striker: RM Burns
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 6.5:
+        non_striker: TMM Newton
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 6.6:
+        non_striker: TMM Newton
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.7:
+        non_striker: RM Burns
+        bowler: PC Graham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: TMM Newton
+    - 7.1:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.2:
+        non_striker: RM Burns
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 7.3:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.4:
+        non_striker: RM Burns
+        bowler: EAJ Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TMM Newton
+    - 7.5:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.6:
+        non_striker: RM Burns
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 8.1:
+        non_striker: TMM Newton
+        bowler: EL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 8.2:
+        non_striker: TMM Newton
+        bowler: EL Baker
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RM Burns
+    - 8.3:
+        non_striker: TMM Newton
+        bowler: EL Baker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Burns
+    - 8.4:
+        non_striker: TMM Newton
+        bowler: EL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 8.5:
+        non_striker: TMM Newton
+        bowler: EL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 8.6:
+        non_striker: RM Burns
+        bowler: EL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 8.7:
+        non_striker: RM Burns
+        bowler: EL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 8.8:
+        non_striker: TMM Newton
+        bowler: EL Baker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 9.1:
+        non_striker: RM Burns
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 9.2:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 9.3:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 9.4:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 9.5:
+        non_striker: TMM Newton
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 9.6:
+        non_striker: RM Burns
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 10.1:
+        non_striker: RM Burns
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 10.2:
+        non_striker: RM Burns
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 10.3:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 10.4:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 10.5:
+        non_striker: RM Burns
+        bowler: SR Naidu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TMM Newton
+    - 10.6:
+        non_striker: RM Burns
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 10.7:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 11.1:
+        non_striker: RM Burns
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 11.2:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 11.3:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - HE Topp
+          kind: stumped
+    - 11.4:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 11.6:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 12.2:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 12.6:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.7:
+        non_striker: TMM Newton
+        bowler: SR Naidu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 13.2:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 13.6:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - C Agafili
+          kind: caught
+    - 14.1:
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: TMM Newton
+    - 14.2:
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ML Green
+        batsman: TMM Newton
+    - 14.3:
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ML Green
+        batsman: TMM Newton
+    - 14.4:
+        non_striker: TMM Newton
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.5:
+        non_striker: ML Green
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 14.6:
+        non_striker: ML Green
+        bowler: PC Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TMM Newton
+    - 15.1:
+        non_striker: ML Green
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 15.2:
+        non_striker: TMM Newton
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.3:
+        non_striker: ML Green
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+        wicket:
+          player_out: TMM Newton
+          fielders:
+          - C Agafili
+          kind: caught
+    - 15.4:
+        non_striker: ML Green
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 15.5:
+        non_striker: LM Kasperek
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 15.6:
+        non_striker: LM Kasperek
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.1:
+        non_striker: LM Kasperek
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.2:
+        non_striker: ML Green
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Kasperek
+    - 16.3:
+        non_striker: ML Green
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 16.4:
+        non_striker: ML Green
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 16.5:
+        non_striker: LM Kasperek
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.6:
+        non_striker: ML Green
+        bowler: PC Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 17.1:
+        non_striker: LM Kasperek
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.2:
+        non_striker: ML Green
+        bowler: MBA Lamplough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Kasperek
+    - 17.3:
+        non_striker: ML Green
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 17.4:
+        non_striker: LM Kasperek
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 17.5:
+        non_striker: LM Kasperek
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 17.6:
+        non_striker: LM Kasperek
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.7:
+        non_striker: ML Green
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 18.1:
+        non_striker: LM Kasperek
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 18.2:
+        non_striker: LM Kasperek
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 18.3:
+        non_striker: ML Green
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 18.4:
+        non_striker: LM Kasperek
+        bowler: EAJ Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ML Green
+    - 18.5:
+        non_striker: ML Green
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+        wicket:
+          player_out: LM Kasperek
+          kind: lbw
+    - 18.6:
+        non_striker: ML Green
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 19.1:
+        non_striker: JM Kerr
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - SRH Curtis
+          kind: caught
+    - 19.2:
+        non_striker: JM Kerr
+        bowler: MBA Lamplough
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JT McFadyen
+    - 19.3:
+        non_striker: JT McFadyen
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - HE Topp
+          kind: caught
+    - 19.4:
+        non_striker: JT McFadyen
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XA Jetly
+    - 19.5:
+        non_striker: XA Jetly
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+        wicket:
+          player_out: JT McFadyen
+          fielders:
+          - HE Topp
+          - C Agafili
+          kind: run out
+    - 19.6:
+        non_striker: XA Jetly
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Baird
+    - 19.7:
+        non_striker: XA Jetly
+        bowler: MBA Lamplough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Baird
+- 2nd innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EAJ Richardson
+        batsman: B Bezuidenhout
+    - 0.2:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EAJ Richardson
+        batsman: B Bezuidenhout
+    - 0.3:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EAJ Richardson
+        batsman: B Bezuidenhout
+    - 0.4:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EAJ Richardson
+        batsman: B Bezuidenhout
+    - 0.5:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EAJ Richardson
+        batsman: B Bezuidenhout
+    - 0.6:
+        non_striker: EAJ Richardson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 1.1:
+        non_striker: EAJ Richardson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 1.2:
+        non_striker: B Bezuidenhout
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 1.3:
+        non_striker: B Bezuidenhout
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 1.4:
+        non_striker: B Bezuidenhout
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+        wicket:
+          player_out: EAJ Richardson
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 1.5:
+        non_striker: B Bezuidenhout
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SRH Curtis
+    - 1.6:
+        non_striker: SRH Curtis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 2.1:
+        non_striker: B Bezuidenhout
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 2.2:
+        non_striker: B Bezuidenhout
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SRH Curtis
+    - 2.3:
+        non_striker: B Bezuidenhout
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SRH Curtis
+    - 2.4:
+        non_striker: SRH Curtis
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 2.5:
+        non_striker: B Bezuidenhout
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 2.6:
+        non_striker: B Bezuidenhout
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 3.1:
+        non_striker: SRH Curtis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 3.2:
+        non_striker: SRH Curtis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 3.3:
+        non_striker: B Bezuidenhout
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SRH Curtis
+    - 3.4:
+        non_striker: SRH Curtis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 3.5:
+        non_striker: SRH Curtis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 3.6:
+        non_striker: B Bezuidenhout
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 4.1:
+        non_striker: SRH Curtis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 4.2:
+        non_striker: SRH Curtis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 4.3:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SRH Curtis
+    - 4.4:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 4.5:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SRH Curtis
+    - 4.6:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SRH Curtis
+    - 4.7:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 4.8:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 4.9:
+        non_striker: B Bezuidenhout
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+    - 5.1:
+        non_striker: SRH Curtis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+        wicket:
+          player_out: B Bezuidenhout
+          kind: lbw
+    - 5.2:
+        non_striker: SRH Curtis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 5.3:
+        non_striker: SRH Curtis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 5.4:
+        non_striker: SRH Curtis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 5.5:
+        non_striker: SRH Curtis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 5.6:
+        non_striker: SRH Curtis
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 6.1:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SRH Curtis
+        wicket:
+          player_out: SRH Curtis
+          fielders:
+          - JT McFadyen
+          kind: caught
+    - 6.2:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 6.3:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NH Patel
+    - 6.4:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 6.5:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 6.6:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+        wicket:
+          player_out: NH Patel
+          fielders:
+          - MP Singh
+          kind: caught
+    - 7.1:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Agafili
+        batsman: HE Topp
+    - 7.2:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: C Agafili
+        batsman: HE Topp
+    - 7.3:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Agafili
+        batsman: HE Topp
+    - 7.4:
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Agafili
+        batsman: HE Topp
+    - 7.5:
+        non_striker: HE Topp
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Agafili
+        wicket:
+          player_out: C Agafili
+          kind: bowled
+    - 7.6:
+        non_striker: HE Topp
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC Graham
+    - 8.1:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC Graham
+    - 8.2:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC Graham
+    - 8.3:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC Graham
+        wicket:
+          player_out: PC Graham
+          fielders:
+          - TMM Newton
+          kind: caught
+    - 8.4:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 8.5:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MBA Lamplough
+    - 8.6:
+        non_striker: HE Topp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MBA Lamplough
+    - 9.1:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 9.2:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Topp
+    - 9.3:
+        non_striker: HE Topp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 9.4:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+    - 9.5:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Topp
+        wicket:
+          player_out: HE Topp
+          kind: caught and bowled
+    - 9.6:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Baker
+    - 10.1:
+        non_striker: EL Baker
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 10.2:
+        non_striker: EL Baker
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 10.3:
+        non_striker: EL Baker
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 10.4:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Baker
+    - 10.5:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Baker
+    - 10.6:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Baker
+    - 11.1:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Baker
+    - 11.2:
+        non_striker: EL Baker
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 11.3:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Baker
+    - 11.4:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Baker
+        wicket:
+          player_out: EL Baker
+          fielders:
+          - JT McFadyen
+          kind: stumped
+    - 11.5:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Naidu
+    - 11.6:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Naidu
+    - 12.1:
+        non_striker: SR Naidu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 12.2:
+        non_striker: SR Naidu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 12.3:
+        non_striker: SR Naidu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 12.4:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Naidu
+    - 12.5:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Naidu
+    - 12.6:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Naidu
+    - 13.1:
+        non_striker: SR Naidu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 13.2:
+        non_striker: SR Naidu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 13.3:
+        non_striker: SR Naidu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 13.4:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Naidu
+    - 13.5:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Naidu
+    - 13.6:
+        non_striker: SR Naidu
+        bowler: N Baird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MBA Lamplough
+    - 13.7:
+        non_striker: SR Naidu
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+        wicket:
+          player_out: SR Naidu
+          fielders:
+          - SFM Devine
+          - N Baird
+          kind: run out
+    - 14.1:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 14.2:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 14.3:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 14.4:
+        non_striker: MBA Lamplough
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Sarsfield
+    - 14.5:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 14.6:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 15.1:
+        non_striker: CR Sarsfield
+        bowler: N Baird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MBA Lamplough
+    - 15.2:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 15.3:
+        non_striker: MBA Lamplough
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Sarsfield
+    - 15.4:
+        non_striker: CR Sarsfield
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MBA Lamplough
+    - 15.5:
+        non_striker: CR Sarsfield
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 15.6:
+        non_striker: CR Sarsfield
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 16.1:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 16.2:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 16.3:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 16.4:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MBA Lamplough
+    - 16.5:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 16.6:
+        non_striker: CR Sarsfield
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 17.1:
+        non_striker: CR Sarsfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 17.2:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Sarsfield
+    - 17.3:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 17.4:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 17.5:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 17.6:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 18.1:
+        non_striker: CR Sarsfield
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 18.2:
+        non_striker: CR Sarsfield
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MBA Lamplough
+    - 18.3:
+        non_striker: CR Sarsfield
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 18.4:
+        non_striker: CR Sarsfield
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 18.5:
+        non_striker: MBA Lamplough
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Sarsfield
+    - 18.6:
+        non_striker: CR Sarsfield
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 19.1:
+        non_striker: CR Sarsfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MBA Lamplough
+    - 19.2:
+        non_striker: CR Sarsfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MBA Lamplough
+    - 19.3:
+        non_striker: CR Sarsfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MBA Lamplough
+    - 19.4:
+        non_striker: CR Sarsfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 19.5:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield
+    - 19.6:
+        non_striker: MBA Lamplough
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Sarsfield

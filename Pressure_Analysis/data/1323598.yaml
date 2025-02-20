@@ -1,0 +1,1775 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-14'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Brisbane Heat
+    by:
+      runs: 2
+    method: D/L
+  overs: 20
+  player_of_match:
+  - AC Kerr
+  players:
+    Brisbane Heat:
+    - DN Wyatt
+    - G Voll
+    - GM Harris
+    - AC Kerr
+    - CR Knott
+    - L Harris
+    - JL Jonassen
+    - E Johnston
+    - NM Hancock
+    - CG Sippel
+    - JM Kerr
+    Adelaide Strikers:
+    - KM Mack
+    - L Wolvaardt
+    - TM McGrath
+    - DJS Dottin
+    - BE Patterson
+    - M Penna
+    - A Wellington
+    - TJ McPharlin
+    - JL Barsby
+    - ML Schutt
+    - D Brown
+  registry:
+    people:
+      A Wellington: 9b3bcca4
+      AC Kerr: 7673c908
+      BE Patterson: 7dfbcfff
+      CG Sippel: c2ac0db5
+      CR Knott: d7ff1adc
+      D Bhatt: b34f743c
+      D Brown: 2e81be88
+      DJS Dottin: 53bee17f
+      DN Wyatt: a139c379
+      E Johnston: 3785e30d
+      G Voll: 5c30d455
+      GM Harris: '72166006'
+      Harsimran Singh: bf4720ce
+      JL Barsby: 47bcaf7a
+      JL Jonassen: 0475a86b
+      JM Kerr: 9af58032
+      KM Mack: ef13bd20
+      L Harris: 36e2dc83
+      L Wolvaardt: e60f81c9
+      M Penna: 36453b99
+      ML Schutt: 17608a6f
+      NM Hancock: af8c3a85
+      SJ Davis: bc71b0b2
+      TJ McPharlin: 595e1ee7
+      TM McGrath: ca5acfa4
+  teams:
+  - Brisbane Heat
+  - Adelaide Strikers
+  toss:
+    winner: Brisbane Heat
+    decision: bat
+  umpires:
+  - D Bhatt
+  - Harsimran Singh
+  venue: Karen Rolton Oval, Adelaide
+innings:
+- 1st innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: G Voll
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.2:
+        non_striker: G Voll
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.6:
+        non_striker: DN Wyatt
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.1:
+        non_striker: G Voll
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: G Voll
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 2.1:
+        non_striker: G Voll
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: G Voll
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DN Wyatt
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 2.4:
+        non_striker: G Voll
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 2.5:
+        non_striker: G Voll
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 2.6:
+        non_striker: G Voll
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 3.1:
+        non_striker: DN Wyatt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 3.2:
+        non_striker: DN Wyatt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 3.3:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 3.4:
+        non_striker: G Voll
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 3.5:
+        non_striker: DN Wyatt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          fielders:
+          - JL Barsby
+          kind: caught
+    - 3.6:
+        non_striker: DN Wyatt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 3.7:
+        non_striker: DN Wyatt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 4.1:
+        non_striker: GM Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 4.2:
+        non_striker: GM Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 4.3:
+        non_striker: GM Harris
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 4.4:
+        non_striker: DN Wyatt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+        wicket:
+          player_out: GM Harris
+          kind: caught and bowled
+    - 4.5:
+        non_striker: DN Wyatt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          kind: bowled
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 6.2:
+        non_striker: CR Knott
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 6.5:
+        non_striker: CR Knott
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: CR Knott
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: CR Knott
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: CR Knott
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.3:
+        non_striker: AC Kerr
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 7.4:
+        non_striker: CR Knott
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: CR Knott
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 8.2:
+        non_striker: CR Knott
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.3:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 8.4:
+        non_striker: CR Knott
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: CR Knott
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.6:
+        non_striker: CR Knott
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 9.2:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 9.3:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+        wicket:
+          player_out: CR Knott
+          fielders:
+          - TM McGrath
+          kind: caught
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 10.1:
+        non_striker: L Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Harris
+    - 10.5:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+        wicket:
+          player_out: L Harris
+          fielders:
+          - JL Barsby
+          kind: caught
+    - 11.1:
+        non_striker: JL Jonassen
+        bowler: JL Barsby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 11.2:
+        non_striker: JL Jonassen
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 11.4:
+        non_striker: JL Jonassen
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 11.7:
+        non_striker: JL Jonassen
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Jonassen
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 12.3:
+        non_striker: JL Jonassen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 12.5:
+        non_striker: JL Jonassen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 13.1:
+        non_striker: JL Jonassen
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: JL Jonassen
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: JL Jonassen
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: JL Jonassen
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 13.6:
+        non_striker: JL Jonassen
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 14.2:
+        non_striker: JL Jonassen
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: JL Jonassen
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: JL Jonassen
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Jonassen
+    - 14.7:
+        non_striker: AC Kerr
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 15.1:
+        non_striker: JL Jonassen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 15.2:
+        non_striker: JL Jonassen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 15.4:
+        non_striker: JL Jonassen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - BE Patterson
+          kind: caught
+    - 15.5:
+        non_striker: JL Jonassen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 15.6:
+        non_striker: E Johnston
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Jonassen
+- 2nd innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 0.2:
+        non_striker: KM Mack
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: KM Mack
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: KM Mack
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Mack
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 0.7:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Mack
+    - 1.1:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 1.5:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: KM Mack
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: KM Mack
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: KM Mack
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 2.5:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+        wicket:
+          player_out: KM Mack
+          kind: bowled
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 3.4:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 3.6:
+        non_striker: TM McGrath
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 4.3:
+        non_striker: TM McGrath
+        bowler: JL Jonassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Wolvaardt
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 4.5:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TM McGrath
+    - 4.6:
+        non_striker: TM McGrath
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.1:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 5.2:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.3:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 5.4:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 5.5:
+        non_striker: TM McGrath
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.6:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 6.1:
+        non_striker: DJS Dottin
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 6.2:
+        non_striker: DJS Dottin
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.3:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.4:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - L Harris
+          kind: caught
+    - 6.5:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 7.1:
+        non_striker: BE Patterson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 7.2:
+        non_striker: BE Patterson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.3:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 7.4:
+        non_striker: BE Patterson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.5:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 7.6:
+        non_striker: BE Patterson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.1:
+        non_striker: BE Patterson
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.2:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 8.3:
+        non_striker: BE Patterson
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.4:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+        wicket:
+          player_out: BE Patterson
+          kind: lbw
+    - 8.5:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna
+    - 8.6:
+        non_striker: M Penna
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 9.1:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+        wicket:
+          player_out: M Penna
+          kind: bowled
+    - 9.2:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 9.3:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 9.4:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Wellington
+    - 9.5:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 9.6:
+        non_striker: A Wellington
+        bowler: AC Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Wolvaardt
+    - 10.1:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 10.2:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 10.3:
+        non_striker: A Wellington
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 10.4:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 10.5:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 10.6:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          fielders:
+          - JL Jonassen
+          kind: caught
+    - 11.1:
+        non_striker: TJ McPharlin
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: TJ McPharlin
+          fielders:
+          - CR Knott
+          - E Johnston
+          kind: run out
+    - 11.2:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Barsby
+    - 11.3:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Barsby
+    - 11.4:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Barsby
+        wicket:
+          player_out: JL Barsby
+          fielders:
+          - E Johnston
+          kind: run out
+    - 11.5:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 11.6:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: ML Schutt
+    - 11.7:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Schutt
+    - 12.1:
+        non_striker: ML Schutt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 12.2:
+        non_striker: ML Schutt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 12.3:
+        non_striker: ML Schutt
+        bowler: JL Jonassen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Wolvaardt
+    - 12.4:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 12.5:
+        non_striker: ML Schutt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 12.6:
+        non_striker: L Wolvaardt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 12.7:
+        non_striker: ML Schutt
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 13.1:
+        non_striker: ML Schutt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 13.2:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Schutt
+    - 13.3:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 13.4:
+        non_striker: L Wolvaardt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 13.5:
+        non_striker: ML Schutt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 13.6:
+        non_striker: ML Schutt
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 14.1:
+        non_striker: ML Schutt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 14.2:
+        non_striker: L Wolvaardt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 14.3:
+        non_striker: ML Schutt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 14.4:
+        non_striker: ML Schutt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - GM Harris
+          kind: caught
+    - 14.5:
+        non_striker: ML Schutt
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brown
+    - 14.6:
+        non_striker: D Brown
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Schutt
+    - 15.1:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brown
+    - 15.2:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brown
+    - 15.3:
+        non_striker: D Brown
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Schutt
+    - 15.4:
+        non_striker: D Brown
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 15.5:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brown
+    - 15.6:
+        non_striker: D Brown
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 15.7:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brown
+        wicket:
+          player_out: D Brown
+          fielders:
+          - GM Harris
+          kind: caught

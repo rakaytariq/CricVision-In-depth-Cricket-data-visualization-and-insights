@@ -1,0 +1,2196 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mount Maunganui
+  competition: Super Smash
+  dates:
+  - '2023-01-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Districts
+    by:
+      runs: 37
+  overs: 20
+  players:
+    Northern Districts:
+    - KD Clarke
+    - TL Seifert
+    - JA Raval
+    - JF Carter
+    - HR Cooper
+    - BR Hampton
+    - SC Kuggeleijn
+    - KDC Clarke
+    - N Wagner
+    - FL Walker
+    - JG Walker
+    Auckland:
+    - GH Worker
+    - CJ Briggs
+    - WT O'Donnell
+    - RR O'Donnell
+    - SM Solia
+    - BJ Horne
+    - KA Jamieson
+    - DK Ferns
+    - L Delport
+    - A Ashok
+    - MJ Gibson
+  registry:
+    people:
+      A Ashok: 321be7e3
+      BF Bowden: efc0a862
+      BJ Horne: 5d99a16a
+      BR Hampton: 93f25f4f
+      C High: ed55e0da
+      CJ Briggs: 6c3dd24e
+      CM Brown: 448f4f1c
+      DK Ferns: f28c7456
+      ED Sanders: 25c6d6af
+      FL Walker: e6e154e3
+      GB Troup: 94f0e744
+      GH Worker: 51a36d3e
+      HR Cooper: 99528b4b
+      JA Raval: 5f966ec0
+      JF Carter: 125fa4de
+      JG Walker: 94734e80
+      KA Jamieson: 68c56d09
+      KD Clarke: 7a12be0a
+      KDC Clarke: 1e1a8922
+      L Delport: 2c1438ef
+      MJ Gibson: 750d906e
+      N Wagner: 78adc879
+      RR O'Donnell: 2742086d
+      SC Kuggeleijn: fef92afc
+      SM Solia: fd9f43bb
+      TL Seifert: 4663bd23
+      WT O'Donnell: 730b57de
+  teams:
+  - Northern Districts
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - BF Bowden
+  - CM Brown
+  venue: Bay Oval, Mount Maunganui
+innings:
+- 1st innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.2:
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.3:
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.4:
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.5:
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.6:
+        non_striker: KD Clarke
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Clarke
+    - 1.2:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 1.5:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 1.6:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Clarke
+    - 1.7:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 2.1:
+        non_striker: KD Clarke
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.2:
+        non_striker: KD Clarke
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: KD Clarke
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: KD Clarke
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.5:
+        non_striker: KD Clarke
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Clarke
+    - 3.1:
+        non_striker: KD Clarke
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: KD Clarke
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.3:
+        non_striker: KD Clarke
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.4:
+        non_striker: KD Clarke
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: KD Clarke
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.6:
+        non_striker: KD Clarke
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.1:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 4.3:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 4.4:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 4.6:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.1:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.2:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 5.3:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.4:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.5:
+        non_striker: TL Seifert
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 5.6:
+        non_striker: KD Clarke
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 6.1:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 6.2:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.3:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 6.4:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.5:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 6.6:
+        non_striker: KD Clarke
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 7.1:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+        wicket:
+          player_out: KD Clarke
+          kind: lbw
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 7.3:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 7.4:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 7.5:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 7.6:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.1:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 8.3:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 8.4:
+        non_striker: JA Raval
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 8.5:
+        non_striker: JA Raval
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          kind: bowled
+    - 8.6:
+        non_striker: JA Raval
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 9.1:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 9.2:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 9.3:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 9.4:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 9.5:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 9.6:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.1:
+        non_striker: JA Raval
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 10.2:
+        non_striker: JA Raval
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.3:
+        non_striker: JF Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+        wicket:
+          player_out: JA Raval
+          fielders:
+          - RR O'Donnell
+          kind: caught
+    - 10.4:
+        non_striker: JF Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 10.5:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.6:
+        non_striker: JF Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 11.1:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 11.2:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 11.3:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 11.4:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 11.5:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 11.6:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 12.1:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 12.2:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 12.3:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JF Carter
+    - 12.4:
+        non_striker: JF Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 12.5:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 12.6:
+        non_striker: JF Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Cooper
+    - 13.1:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 13.2:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 13.3:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 13.4:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 13.5:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 13.6:
+        non_striker: HR Cooper
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 14.1:
+        non_striker: HR Cooper
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 14.2:
+        non_striker: HR Cooper
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 14.3:
+        non_striker: HR Cooper
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 14.4:
+        non_striker: HR Cooper
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 14.5:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 14.6:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Cooper
+    - 15.1:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 15.2:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 15.3:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 15.4:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 15.5:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 15.6:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 16.1:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 16.2:
+        non_striker: HR Cooper
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 16.3:
+        non_striker: HR Cooper
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Carter
+    - 16.4:
+        non_striker: HR Cooper
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 16.5:
+        non_striker: HR Cooper
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 16.6:
+        non_striker: HR Cooper
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 16.7:
+        non_striker: HR Cooper
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 17.1:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 17.2:
+        non_striker: HR Cooper
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JF Carter
+    - 17.3:
+        non_striker: HR Cooper
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 17.4:
+        non_striker: JF Carter
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 17.5:
+        non_striker: HR Cooper
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 17.6:
+        non_striker: HR Cooper
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 18.1:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HR Cooper
+    - 18.2:
+        non_striker: HR Cooper
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Carter
+    - 18.3:
+        non_striker: HR Cooper
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 18.4:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 18.5:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HR Cooper
+    - 18.6:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+        wicket:
+          player_out: HR Cooper
+          kind: bowled
+    - 19.1:
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BR Hampton
+        batsman: JF Carter
+    - 19.2:
+        non_striker: JF Carter
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 19.3:
+        non_striker: JF Carter
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+        wicket:
+          player_out: BR Hampton
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 19.4:
+        non_striker: JF Carter
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 19.5:
+        non_striker: SC Kuggeleijn
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 19.6:
+        non_striker: JF Carter
+        bowler: MJ Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Kuggeleijn
+    - 19.7:
+        non_striker: JF Carter
+        bowler: MJ Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Kuggeleijn
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Briggs
+        batsman: GH Worker
+    - 0.2:
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Briggs
+        batsman: GH Worker
+    - 0.3:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 0.4:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 0.5:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Briggs
+    - 0.6:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+        wicket:
+          player_out: CJ Briggs
+          fielders:
+          - HR Cooper
+          kind: caught
+    - 0.7:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 1.1:
+        non_striker: WT O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.2:
+        non_striker: WT O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.3:
+        non_striker: WT O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 1.4:
+        non_striker: WT O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.5:
+        non_striker: WT O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.6:
+        non_striker: WT O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.1:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: WT O'Donnell
+    - 2.2:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 2.3:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          fielders:
+          - JA Raval
+          kind: caught
+    - 2.4:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 2.5:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 2.6:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 3.1:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 3.2:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 3.3:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 3.4:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.5:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 3.6:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 3.7:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 4.1:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 4.2:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 4.3:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 4.4:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 4.5:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 4.6:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 4.7:
+        non_striker: SM Solia
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 4.8:
+        non_striker: GH Worker
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 5.1:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 5.2:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 5.3:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 5.4:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 5.5:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 5.6:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 5.7:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 6.1:
+        non_striker: BJ Horne
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 6.2:
+        non_striker: BJ Horne
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 6.3:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - KD Clarke
+          kind: caught
+    - 6.4:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 6.5:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 6.6:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 7.1:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Worker
+    - 7.2:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 7.3:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 7.4:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 7.5:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 7.6:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 8.1:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 8.2:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 8.3:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 8.4:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 8.5:
+        non_striker: GH Worker
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 8.6:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Worker
+    - 9.1:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 9.2:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 9.3:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 9.4:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 9.5:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 9.6:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 10.1:
+        non_striker: GH Worker
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 10.2:
+        non_striker: GH Worker
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 10.3:
+        non_striker: GH Worker
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 10.4:
+        non_striker: GH Worker
+        bowler: FL Walker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: KA Jamieson
+    - 10.5:
+        non_striker: GH Worker
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 10.6:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 11.1:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 11.2:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 11.3:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 11.4:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - TL Seifert
+          kind: stumped
+    - 11.5:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+    - 11.6:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+    - 12.1:
+        non_striker: DK Ferns
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 12.2:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Ferns
+    - 12.3:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Ferns
+    - 12.4:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Ferns
+    - 12.5:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DK Ferns
+    - 12.6:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 13.1:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Ferns
+    - 13.2:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Ferns
+    - 13.3:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DK Ferns
+    - 13.4:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Ferns
+    - 13.5:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+        wicket:
+          player_out: DK Ferns
+          fielders:
+          - TL Seifert
+          kind: stumped
+    - 13.6:
+        non_striker: KA Jamieson
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 14.1:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+    - 14.2:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 14.3:
+        non_striker: L Delport
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 14.4:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+    - 14.5:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Delport
+    - 14.6:
+        non_striker: KA Jamieson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delport
+    - 15.1:
+        non_striker: L Delport
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 15.2:
+        non_striker: L Delport
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 15.3:
+        non_striker: L Delport
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 15.4:
+        non_striker: L Delport
+        bowler: KDC Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 15.5:
+        non_striker: L Delport
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.6:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 15.7:
+        non_striker: L Delport
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 16.1:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+    - 16.2:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+        wicket:
+          player_out: L Delport
+          fielders:
+          - JF Carter
+          kind: caught
+    - 16.3:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+    - 16.4:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+    - 16.5:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ashok
+    - 16.6:
+        non_striker: A Ashok
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 17.1:
+        non_striker: KA Jamieson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ashok
+    - 17.2:
+        non_striker: A Ashok
+        bowler: BR Hampton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 17.3:
+        non_striker: A Ashok
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 17.4:
+        non_striker: KA Jamieson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+        wicket:
+          player_out: A Ashok
+          fielders:
+          - JA Raval
+          kind: caught
+    - 17.5:
+        non_striker: KA Jamieson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Gibson
+    - 17.6:
+        non_striker: KA Jamieson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Gibson
+    - 17.7:
+        non_striker: KA Jamieson
+        bowler: BR Hampton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Gibson
+    - 18.1:
+        non_striker: MJ Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 18.2:
+        non_striker: KA Jamieson
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Gibson
+    - 18.3:
+        non_striker: MJ Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Jamieson
+    - 18.4:
+        non_striker: MJ Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 18.5:
+        non_striker: MJ Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 18.6:
+        non_striker: MJ Gibson
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 19.1:
+        non_striker: MJ Gibson
+        bowler: KDC Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 19.2:
+        non_striker: MJ Gibson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 19.3:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Gibson
+    - 19.4:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Gibson
+    - 19.5:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Gibson
+    - 19.6:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Gibson
+    - 19.7:
+        non_striker: KA Jamieson
+        bowler: KDC Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Gibson
+        wicket:
+          player_out: MJ Gibson
+          kind: bowled

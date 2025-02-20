@@ -1,0 +1,2078 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chattogram
+  competition: Bangladesh Premier League
+  dates:
+  - '2023-01-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sylhet Strikers
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Imad Wasim
+  players:
+    Dhaka Dominators:
+    - Usman Ghani
+    - Soumya Sarkar
+    - EMDY Munaweera
+    - RJ Das
+    - Mohammad Mithun
+    - Nasir Hossain
+    - Ariful Haque
+    - Taskin Ahmed
+    - Arafat Sunny
+    - Al-Amin Hossain
+    - Salman Irshad
+    Sylhet Strikers:
+    - Mohammad Haris
+    - Nazmul Hossain Shanto
+    - Zakir Hasan
+    - Mushfiqur Rahim
+    - Imad Wasim
+    - NLTC Perera
+    - Mohammad Akbar Ali
+    - Mashrafe Mortaza
+    - Mohammad Amir
+    - Nazmul Islam
+    - Rubel Hossain
+  registry:
+    people:
+      Akbar Ali: abae26ad
+      Al-Amin Hossain: 3f5f39cd
+      Arafat Sunny: 1f7adc8a
+      Ariful Haque: ad1730bc
+      DJ Millns: 46ecfe40
+      EMDY Munaweera: 5a22d91c
+      Imad Wasim: 9cb8d7a6
+      Mashrafe Mortaza: e186f49c
+      Mohammad Amir: e174dadd
+      Mohammad Haris: ff3f6fc1
+      Mohammad Mithun: '77191792'
+      Moniruzzaman: 075e9f9c
+      Morshed Ali Khan: a7c3cf5f
+      Mushfiqur Rahim: a94e08ea
+      NLTC Perera: 0f12f9df
+      Nasir Hossain: 6eea0b32
+      Nazmul Hossain Shanto: 1274d7ab
+      Nazmul Islam: 6575e3bc
+      RJ Das: 734344b3
+      Rubel Hossain: f56cd097
+      Salman Irshad: 30afc92b
+      Showkatur Rahman: 5340a1c1
+      Soumya Sarkar: 4d9f9686
+      Tanvir Ahmed: ea2df1f1
+      Taskin Ahmed: ef18b66e
+      Usman Ghani: e3829b2a
+      Zakir Hasan: e3e09091
+  teams:
+  - Dhaka Dominators
+  - Sylhet Strikers
+  toss:
+    winner: Dhaka Dominators
+    decision: bat
+  umpires:
+  - DJ Millns
+  - Morshed Ali Khan
+  venue: Zahur Ahmed Chowdhury Stadium, Chattogram
+innings:
+- 1st innings:
+    team: Dhaka Dominators
+    deliveries:
+    - 0.1:
+        non_striker: Soumya Sarkar
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 0.2:
+        non_striker: Soumya Sarkar
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 0.3:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: lbw
+    - 0.4:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+    - 0.5:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+    - 0.6:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 1.1:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 1.2:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 1.3:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Usman Ghani
+    - 1.4:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 1.5:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 1.6:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Ghani
+    - 2.1:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+    - 2.2:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EMDY Munaweera
+    - 2.3:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 2.4:
+        non_striker: EMDY Munaweera
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Ghani
+    - 2.5:
+        non_striker: EMDY Munaweera
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 2.6:
+        non_striker: EMDY Munaweera
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 3.1:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EMDY Munaweera
+    - 3.2:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+    - 3.3:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 3.4:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 3.5:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 3.6:
+        non_striker: EMDY Munaweera
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 4.1:
+        non_striker: Usman Ghani
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+    - 4.2:
+        non_striker: Usman Ghani
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+    - 4.3:
+        non_striker: Usman Ghani
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 4.4:
+        non_striker: EMDY Munaweera
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Ghani
+    - 4.5:
+        non_striker: EMDY Munaweera
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 4.6:
+        non_striker: Usman Ghani
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMDY Munaweera
+    - 5.1:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EMDY Munaweera
+    - 5.2:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMDY Munaweera
+        wicket:
+          player_out: EMDY Munaweera
+          fielders:
+          - Mohammad Akbar Ali
+          kind: caught
+    - 5.3:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Das
+        wicket:
+          player_out: RJ Das
+          kind: bowled
+    - 5.4:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.5:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 5.6:
+        non_striker: Usman Ghani
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 6.1:
+        non_striker: Mohammad Mithun
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 6.2:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 6.3:
+        non_striker: Mohammad Mithun
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Ghani
+    - 6.4:
+        non_striker: Mohammad Mithun
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 6.5:
+        non_striker: Mohammad Mithun
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 6.6:
+        non_striker: Usman Ghani
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 7.1:
+        non_striker: Usman Ghani
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 7.2:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 7.3:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Ghani
+    - 7.4:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 7.5:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+    - 7.6:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 8.1:
+        non_striker: Mohammad Mithun
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 8.2:
+        non_striker: Usman Ghani
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 8.3:
+        non_striker: Usman Ghani
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 8.4:
+        non_striker: Usman Ghani
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 8.5:
+        non_striker: Usman Ghani
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 8.6:
+        non_striker: Mohammad Mithun
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 9.1:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 9.2:
+        non_striker: Usman Ghani
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 9.3:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 9.4:
+        non_striker: Usman Ghani
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 9.5:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+        wicket:
+          player_out: Usman Ghani
+          kind: bowled
+    - 9.6:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 10.1:
+        non_striker: Mohammad Mithun
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 10.2:
+        non_striker: Nasir Hossain
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 10.3:
+        non_striker: Mohammad Mithun
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 10.4:
+        non_striker: Nasir Hossain
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 10.5:
+        non_striker: Mohammad Mithun
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 10.6:
+        non_striker: Mohammad Mithun
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 11.1:
+        non_striker: Nasir Hossain
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 11.2:
+        non_striker: Nasir Hossain
+        bowler: Nazmul Islam
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Mohammad Mithun
+    - 11.3:
+        non_striker: Nasir Hossain
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 11.4:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 11.5:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 11.6:
+        non_striker: Mohammad Mithun
+        bowler: Nazmul Islam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Nasir Hossain
+    - 12.1:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 12.2:
+        non_striker: Mohammad Mithun
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 12.3:
+        non_striker: Mohammad Mithun
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasir Hossain
+    - 12.4:
+        non_striker: Mohammad Mithun
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 12.5:
+        non_striker: Mohammad Mithun
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 12.6:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 13.1:
+        non_striker: Mohammad Mithun
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 13.2:
+        non_striker: Nasir Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 13.3:
+        non_striker: Mohammad Mithun
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 13.4:
+        non_striker: Nasir Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Mithun
+    - 13.5:
+        non_striker: Nasir Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 13.6:
+        non_striker: Nasir Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          kind: lbw
+    - 14.1:
+        non_striker: Ariful Haque
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 14.2:
+        non_striker: Nasir Hossain
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 14.3:
+        non_striker: Nasir Hossain
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 14.4:
+        non_striker: Nasir Hossain
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 14.5:
+        non_striker: Ariful Haque
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasir Hossain
+    - 14.6:
+        non_striker: Ariful Haque
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 15.1:
+        non_striker: Ariful Haque
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasir Hossain
+    - 15.2:
+        non_striker: Ariful Haque
+        bowler: Nazmul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nasir Hossain
+    - 15.3:
+        non_striker: Ariful Haque
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 15.4:
+        non_striker: Nasir Hossain
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 15.5:
+        non_striker: Ariful Haque
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 15.6:
+        non_striker: Nasir Hossain
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 15.7:
+        non_striker: Ariful Haque
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nasir Hossain
+    - 16.1:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 16.2:
+        non_striker: Ariful Haque
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 16.3:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 16.4:
+        non_striker: Ariful Haque
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasir Hossain
+    - 16.5:
+        non_striker: Ariful Haque
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 16.6:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ariful Haque
+    - 17.1:
+        non_striker: Ariful Haque
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 17.2:
+        non_striker: Nasir Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 17.3:
+        non_striker: Nasir Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 17.4:
+        non_striker: Ariful Haque
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 17.5:
+        non_striker: Nasir Hossain
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 17.6:
+        non_striker: Ariful Haque
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasir Hossain
+    - 18.1:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 18.2:
+        non_striker: Ariful Haque
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 18.3:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ariful Haque
+    - 18.4:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ariful Haque
+    - 18.5:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 18.6:
+        non_striker: Nasir Hossain
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+        wicket:
+          player_out: Ariful Haque
+          fielders:
+          - Nazmul Hossain Shanto
+          kind: caught
+    - 19.1:
+        non_striker: Taskin Ahmed
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 19.2:
+        non_striker: Nasir Hossain
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 19.3:
+        non_striker: Nasir Hossain
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 19.4:
+        non_striker: Taskin Ahmed
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 19.5:
+        non_striker: Nasir Hossain
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 19.6:
+        non_striker: Taskin Ahmed
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+        wicket:
+          player_out: Nasir Hossain
+          fielders:
+          - Mushfiqur Rahim
+          - Mashrafe Mortaza
+          kind: run out
+- 2nd innings:
+    team: Sylhet Strikers
+    deliveries:
+    - 0.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 0.2:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.3:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.4:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.5:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 0.6:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.7:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 1.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 1.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 1.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 1.4:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 1.5:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 1.6:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 2.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 2.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 2.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 2.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Haris
+    - 2.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Haris
+    - 2.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 2.7:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 3.1:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 3.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 3.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 3.4:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 3.5:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.6:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.7:
+        non_striker: Mohammad Haris
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 4.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 4.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 4.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 4.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 4.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 4.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 5.1:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 5.2:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 5.3:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 5.4:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 5.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 5.6:
+        non_striker: Mohammad Haris
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 6.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 6.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 6.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 6.4:
+        non_striker: Mohammad Haris
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 6.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 6.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 7.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 7.2:
+        non_striker: Mohammad Haris
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Haris
+    - 7.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 7.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Haris
+    - 7.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 8.1:
+        non_striker: Mohammad Haris
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          kind: bowled
+    - 8.2:
+        non_striker: Mohammad Haris
+        bowler: Nasir Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zakir Hasan
+    - 8.3:
+        non_striker: Zakir Hasan
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 8.4:
+        non_striker: Mohammad Haris
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 8.5:
+        non_striker: Zakir Hasan
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Haris
+    - 8.6:
+        non_striker: Zakir Hasan
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+        wicket:
+          player_out: Mohammad Haris
+          fielders:
+          - Mohammad Mithun
+          kind: stumped
+    - 9.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+        wicket:
+          player_out: Zakir Hasan
+          fielders:
+          - Al-Amin Hossain
+          kind: caught
+    - 9.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.5:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.6:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 11.1:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.2:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.3:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 11.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.5:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: Imad Wasim
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.1:
+        non_striker: Imad Wasim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 12.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 12.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.5:
+        non_striker: Imad Wasim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 12.6:
+        non_striker: Imad Wasim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.1:
+        non_striker: Imad Wasim
+        bowler: EMDY Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.2:
+        non_striker: Mushfiqur Rahim
+        bowler: EMDY Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.3:
+        non_striker: Imad Wasim
+        bowler: EMDY Munaweera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 13.4:
+        non_striker: Imad Wasim
+        bowler: EMDY Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 13.5:
+        non_striker: Imad Wasim
+        bowler: EMDY Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.6:
+        non_striker: Mushfiqur Rahim
+        bowler: EMDY Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.3:
+        non_striker: Imad Wasim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Imad Wasim
+    - 14.6:
+        non_striker: Imad Wasim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 15.1:
+        non_striker: Imad Wasim
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 15.2:
+        non_striker: Imad Wasim
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 15.3:
+        non_striker: Imad Wasim
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 15.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - Ariful Haque
+          kind: run out
+    - 15.5:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 15.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Taskin Ahmed
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: NLTC Perera
+    - 16.1:
+        non_striker: NLTC Perera
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 16.3:
+        non_striker: NLTC Perera
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 16.5:
+        non_striker: NLTC Perera
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 16.6:
+        non_striker: NLTC Perera
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 17.1:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          kind: bowled
+    - 17.2:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Akbar Ali
+    - 17.3:
+        non_striker: Mohammad Akbar Ali
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 17.4:
+        non_striker: Mohammad Akbar Ali
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 17.5:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Akbar Ali
+    - 17.6:
+        non_striker: Mohammad Akbar Ali
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 18.1:
+        non_striker: Mohammad Akbar Ali
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 18.2:
+        non_striker: Mohammad Akbar Ali
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLTC Perera
+    - 18.3:
+        non_striker: Mohammad Akbar Ali
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 18.4:
+        non_striker: Mohammad Akbar Ali
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 18.5:
+        non_striker: NLTC Perera
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Akbar Ali
+    - 18.6:
+        non_striker: NLTC Perera
+        bowler: Salman Irshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Akbar Ali
+    - 19.1:
+        non_striker: NLTC Perera
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Akbar Ali
+    - 19.2:
+        non_striker: Mohammad Akbar Ali
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NLTC Perera

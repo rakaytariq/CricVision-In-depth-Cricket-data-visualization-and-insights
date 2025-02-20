@@ -1,0 +1,2014 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-10-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Boland
+    by:
+      runs: 4
+    method: D/L
+  overs: 20
+  players:
+    Boland:
+    - JN Malan
+    - JL du Plooy
+    - SV Kitime
+    - C Fortuin
+    - F Behardien
+    - M Copeland
+    - FD Adams
+    - GC Viljoen
+    - B Xenxe
+    - S von Berg
+    - I Manack
+    Titans:
+    - D Brevis
+    - J Pillay
+    - N Brand
+    - Dayyaan Galiem
+    - C Bosch
+    - A Gqamane
+    - SR Harmer
+    - M Boast
+    - CJ Dala
+    - M Twala
+    - AM Phangiso
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      AM Phangiso: 7f8ecc51
+      B Xenxe: 94cdf850
+      C Bosch: 172dff15
+      C Fortuin: f25cebec
+      CJ Dala: 1cb14aa4
+      D Brevis: 844e79d1
+      DJ Smith: d17bec15
+      Dayyaan Galiem: 47c449c5
+      F Behardien: dce2019b
+      FD Adams: f277f531
+      GC Viljoen: a316d663
+      GH Pienaar: 3516e46b
+      I Manack: 5ec126fa
+      J Pillay: 230f5cea
+      JL du Plooy: 6e6fb538
+      JN Malan: f76d7466
+      LB Gcuma: 02ba88e3
+      M Boast: 2f838fa4
+      M Copeland: 9943b637
+      M Twala: 73c25704
+      N Brand: 68790da2
+      S von Berg: ffd3fc37
+      SR Harmer: '23638956'
+      SV Kitime: 9ca20359
+      Siphelele Gasa: e50baa87
+      Stephen Harris: fdcfd4aa
+  teams:
+  - Boland
+  - Titans
+  toss:
+    winner: Titans
+    decision: field
+  umpires:
+  - LB Gcuma
+  - Stephen Harris
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Boland
+    deliveries:
+    - 0.1:
+        non_striker: JL du Plooy
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.2:
+        non_striker: JL du Plooy
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.3:
+        non_striker: JL du Plooy
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 0.4:
+        non_striker: JL du Plooy
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.5:
+        non_striker: JL du Plooy
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 0.6:
+        non_striker: JN Malan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+        wicket:
+          player_out: JL du Plooy
+          kind: bowled
+    - 1.1:
+        non_striker: SV Kitime
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 1.2:
+        non_striker: JN Malan
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+    - 1.3:
+        non_striker: JN Malan
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Kitime
+        wicket:
+          player_out: SV Kitime
+          fielders:
+          - Dayyaan Galiem
+          kind: caught
+    - 1.4:
+        non_striker: JN Malan
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 1.5:
+        non_striker: JN Malan
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Fortuin
+    - 1.6:
+        non_striker: JN Malan
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 2.1:
+        non_striker: C Fortuin
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.2:
+        non_striker: C Fortuin
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.3:
+        non_striker: C Fortuin
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 2.4:
+        non_striker: C Fortuin
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.5:
+        non_striker: C Fortuin
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 2.6:
+        non_striker: JN Malan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 3.1:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 3.2:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 3.3:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+        wicket:
+          player_out: JN Malan
+          fielders:
+          - M Twala
+          kind: caught
+    - 3.4:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 3.5:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 3.6:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.1:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 4.2:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 4.3:
+        non_striker: C Fortuin
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.4:
+        non_striker: C Fortuin
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.5:
+        non_striker: C Fortuin
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 4.6:
+        non_striker: C Fortuin
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 5.1:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Fortuin
+    - 5.2:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 5.3:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 5.4:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 5.5:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 5.6:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 6.1:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 6.2:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Fortuin
+    - 6.3:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 6.4:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 6.5:
+        non_striker: C Fortuin
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 6.6:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 7.1:
+        non_striker: C Fortuin
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 7.2:
+        non_striker: F Behardien
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 7.3:
+        non_striker: C Fortuin
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 7.4:
+        non_striker: C Fortuin
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 7.5:
+        non_striker: C Fortuin
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 7.6:
+        non_striker: F Behardien
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 8.1:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 8.2:
+        non_striker: C Fortuin
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 8.3:
+        non_striker: C Fortuin
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 8.4:
+        non_striker: C Fortuin
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 8.5:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Fortuin
+    - 8.6:
+        non_striker: F Behardien
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 8.7:
+        non_striker: C Fortuin
+        bowler: M Boast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 9.1:
+        non_striker: F Behardien
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 9.2:
+        non_striker: F Behardien
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Fortuin
+    - 9.3:
+        non_striker: F Behardien
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 9.4:
+        non_striker: C Fortuin
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 9.5:
+        non_striker: C Fortuin
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 9.6:
+        non_striker: C Fortuin
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.1:
+        non_striker: C Fortuin
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.2:
+        non_striker: F Behardien
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 10.3:
+        non_striker: C Fortuin
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 10.4:
+        non_striker: C Fortuin
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.5:
+        non_striker: F Behardien
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 10.6:
+        non_striker: C Fortuin
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 11.1:
+        non_striker: F Behardien
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 11.2:
+        non_striker: C Fortuin
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 11.3:
+        non_striker: C Fortuin
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 11.4:
+        non_striker: F Behardien
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 11.5:
+        non_striker: C Fortuin
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+        wicket:
+          player_out: C Fortuin
+          fielders:
+          - D Brevis
+          kind: run out
+    - 11.6:
+        non_striker: M Copeland
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 12.1:
+        non_striker: M Copeland
+        bowler: SR Harmer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 12.2:
+        non_striker: M Copeland
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 12.3:
+        non_striker: F Behardien
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+    - 12.4:
+        non_striker: F Behardien
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Copeland
+    - 12.5:
+        non_striker: M Copeland
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 12.6:
+        non_striker: F Behardien
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+    - 12.7:
+        non_striker: F Behardien
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+    - 13.1:
+        non_striker: M Copeland
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 13.2:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Copeland
+    - 13.3:
+        non_striker: M Copeland
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 13.4:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Copeland
+    - 13.5:
+        non_striker: M Copeland
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 13.6:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Copeland
+    - 14.1:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+    - 14.2:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+    - 14.3:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+    - 14.4:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+        wicket:
+          player_out: M Copeland
+          fielders:
+          - A Gqamane
+          kind: caught
+    - 14.5:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FD Adams
+    - 14.6:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+    - 15.1:
+        non_striker: FD Adams
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 15.2:
+        non_striker: F Behardien
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 15.3:
+        non_striker: FD Adams
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 15.4:
+        non_striker: FD Adams
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 15.5:
+        non_striker: FD Adams
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 15.6:
+        non_striker: FD Adams
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 16.1:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 16.2:
+        non_striker: FD Adams
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 16.3:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+    - 16.4:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 16.5:
+        non_striker: FD Adams
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 16.6:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+    - 17.1:
+        non_striker: FD Adams
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 17.2:
+        non_striker: FD Adams
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 17.3:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FD Adams
+    - 17.4:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+        wicket:
+          player_out: FD Adams
+          fielders:
+          - D Brevis
+          kind: caught
+    - 17.5:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 17.6:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 18.1:
+        non_striker: F Behardien
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Viljoen
+    - 18.2:
+        non_striker: F Behardien
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 18.3:
+        non_striker: GC Viljoen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 18.4:
+        non_striker: GC Viljoen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 18.5:
+        non_striker: GC Viljoen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 18.6:
+        non_striker: GC Viljoen
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 18.7:
+        non_striker: F Behardien
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+        wicket:
+          player_out: GC Viljoen
+          fielders:
+          - Dayyaan Galiem
+          - M Twala
+          kind: run out
+    - 19.1:
+        non_striker: B Xenxe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 19.2:
+        non_striker: B Xenxe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 19.3:
+        non_striker: B Xenxe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 19.4:
+        non_striker: B Xenxe
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 19.5:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Xenxe
+    - 19.6:
+        non_striker: F Behardien
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Xenxe
+        wicket:
+          player_out: B Xenxe
+          fielders:
+          - A Gqamane
+          kind: caught
+- 2nd innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 0.2:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.3:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.4:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.5:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 0.6:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.1:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 1.2:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.3:
+        non_striker: D Brevis
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.4:
+        non_striker: D Brevis
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.5:
+        non_striker: D Brevis
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 1.6:
+        non_striker: D Brevis
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.7:
+        non_striker: D Brevis
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 2.1:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 2.2:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 2.3:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 2.4:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 2.5:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 2.6:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - I Manack
+          kind: caught
+    - 2.7:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Brand
+    - 2.8:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 3.1:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pillay
+    - 3.2:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.3:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.4:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.5:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.6:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 4.1:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 4.2:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 4.3:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 4.4:
+        non_striker: N Brand
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 4.5:
+        non_striker: N Brand
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Pillay
+    - 4.6:
+        non_striker: N Brand
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 4.7:
+        non_striker: N Brand
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 5.1:
+        non_striker: J Pillay
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Brand
+    - 5.2:
+        non_striker: J Pillay
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 5.3:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 5.4:
+        non_striker: J Pillay
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 5.5:
+        non_striker: J Pillay
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 5.6:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 6.1:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 6.2:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 6.3:
+        non_striker: N Brand
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 6.4:
+        non_striker: N Brand
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 6.5:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 6.6:
+        non_striker: N Brand
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 7.1:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 7.2:
+        non_striker: J Pillay
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 7.3:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 7.4:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 7.5:
+        non_striker: J Pillay
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 7.6:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 8.1:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Brand
+    - 8.2:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 8.3:
+        non_striker: N Brand
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 8.4:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 8.5:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Brand
+    - 8.6:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Brand
+    - 9.1:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 9.2:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 9.3:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pillay
+    - 9.4:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 9.5:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 9.6:
+        non_striker: N Brand
+        bowler: I Manack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pillay
+    - 10.1:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+        wicket:
+          player_out: N Brand
+          fielders:
+          - C Fortuin
+          kind: caught
+    - 10.2:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 10.3:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 10.4:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 10.5:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 10.6:
+        non_striker: Dayyaan Galiem
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 11.1:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 11.2:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 11.3:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 11.4:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 11.5:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 11.6:
+        non_striker: J Pillay
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 12.1:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 12.2:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 12.3:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 12.4:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 12.5:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 12.6:
+        non_striker: J Pillay
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 13.1:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 13.2:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 13.3:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 13.4:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dayyaan Galiem
+    - 13.5:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+        wicket:
+          player_out: Dayyaan Galiem
+          fielders:
+          - C Fortuin
+          kind: caught
+    - 13.6:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bosch
+    - 13.7:
+        non_striker: J Pillay
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 14.1:
+        non_striker: J Pillay
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 14.2:
+        non_striker: C Bosch
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 14.3:
+        non_striker: C Bosch
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Pillay
+    - 14.4:
+        non_striker: C Bosch
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+        wicket:
+          player_out: J Pillay
+          fielders:
+          - C Fortuin
+          kind: stumped
+    - 14.5:
+        non_striker: C Bosch
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 14.6:
+        non_striker: A Gqamane
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 15.1:
+        non_striker: C Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+        wicket:
+          player_out: A Gqamane
+          kind: bowled
+    - 15.2:
+        non_striker: C Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Harmer
+    - 15.3:
+        non_striker: C Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 15.4:
+        non_striker: SR Harmer
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 15.5:
+        non_striker: C Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 15.6:
+        non_striker: SR Harmer
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 16.1:
+        non_striker: SR Harmer
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 16.2:
+        non_striker: C Bosch
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Harmer
+        wicket:
+          player_out: SR Harmer
+          kind: bowled
+    - 16.3:
+        non_striker: C Bosch
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Boast
+    - 16.4:
+        non_striker: M Boast
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+        wicket:
+          player_out: C Bosch
+          kind: lbw
+    - 16.5:
+        non_striker: M Boast
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Dala
+    - 16.6:
+        non_striker: M Boast
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Dala

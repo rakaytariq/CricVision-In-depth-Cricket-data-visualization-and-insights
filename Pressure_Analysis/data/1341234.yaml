@@ -1,0 +1,2170 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Women's Super Smash
+  dates:
+  - '2023-01-01'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 11
+  overs: 20
+  players:
+    Wellington:
+    - TMM Newton
+    - SFM Devine
+    - RM Burns
+    - AC Kerr
+    - ML Green
+    - GE Plimmer
+    - JM Kerr
+    - JT McFadyen
+    - XA Jetly
+    - N Baird
+    - MP Singh
+    Canterbury:
+    - KG Anderson
+    - NB Cox
+    - LEV Hughes
+    - IG Sharp
+    - AE Satterthwaite
+    - FC Wilson
+    - AG Gerken
+    - LMM Tahuhu
+    - MJ Banks
+    - GES Sullivan
+    - SR Asmussen
+  registry:
+    people:
+      AC Kerr: 7673c908
+      AE Satterthwaite: 72b7ed1e
+      AG Gerken: a7fcf627
+      BF Bowden: efc0a862
+      DA Achanta: 7b300d1e
+      DJ Walker: d4aea8ac
+      Eloise Sheridan: d8d43840
+      FC Wilson: a28132bd
+      GAV Baxter: cb4b3ab0
+      GE Plimmer: 575494db
+      GES Sullivan: 165b9097
+      IG Sharp: 4de0779a
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      KG Anderson: ae79a86f
+      LEV Hughes: 5b43fe48
+      LMM Tahuhu: '60471339'
+      MJ Banks: 1e17a238
+      ML Green: 865eae1f
+      MP Singh: 214115f5
+      N Baird: c0380823
+      NB Cox: 219f1323
+      RM Burns: 94fe4708
+      SFM Devine: de69af96
+      SR Asmussen: '31972229'
+      TMM Newton: 93fe473e
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Canterbury
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - BF Bowden
+  - Eloise Sheridan
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SFM Devine
+        batsman: TMM Newton
+    - 0.2:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SFM Devine
+        batsman: TMM Newton
+    - 0.3:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SFM Devine
+        batsman: TMM Newton
+    - 0.4:
+        non_striker: SFM Devine
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+        wicket:
+          player_out: TMM Newton
+          fielders:
+          - AE Satterthwaite
+          kind: caught
+    - 0.5:
+        non_striker: SFM Devine
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.1:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          kind: lbw
+    - 1.2:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 1.3:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 1.4:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.5:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 1.6:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.1:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.2:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.3:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 2.4:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 2.5:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 2.6:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Burns
+    - 2.7:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.1:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 3.2:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.4:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 3.5:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.6:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.1:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 4.2:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 4.3:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.4:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.5:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RM Burns
+    - 4.6:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.1:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 6.1:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.3:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 6.5:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 6.6:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.1:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.2:
+        non_striker: RM Burns
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.3:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.4:
+        non_striker: RM Burns
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: RM Burns
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: RM Burns
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 8.3:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - LEV Hughes
+          kind: stumped
+    - 8.4:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.2:
+        non_striker: ML Green
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.5:
+        non_striker: ML Green
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: ML Green
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.4:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: ML Green
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - LEV Hughes
+          kind: caught
+    - 11.1:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GE Plimmer
+        batsman: AC Kerr
+    - 11.2:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GE Plimmer
+        batsman: AC Kerr
+    - 11.3:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GE Plimmer
+        batsman: AC Kerr
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 12.2:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: GE Plimmer
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 13.3:
+        non_striker: GE Plimmer
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 13.6:
+        non_striker: GE Plimmer
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 14.3:
+        non_striker: GE Plimmer
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - FC Wilson
+          kind: caught
+    - 14.4:
+        non_striker: GE Plimmer
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 14.5:
+        non_striker: GE Plimmer
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 14.6:
+        non_striker: JM Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 15.1:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 15.2:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 15.3:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 15.4:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 15.5:
+        non_striker: GE Plimmer
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 15.6:
+        non_striker: JM Kerr
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 16.1:
+        non_striker: GE Plimmer
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 16.2:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 16.3:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 16.4:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - NB Cox
+          kind: caught
+    - 16.5:
+        non_striker: JM Kerr
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 16.6:
+        non_striker: JT McFadyen
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 17.1:
+        non_striker: JM Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 17.2:
+        non_striker: JM Kerr
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 17.3:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 17.4:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 17.5:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - SR Asmussen
+          kind: caught
+    - 17.6:
+        non_striker: JT McFadyen
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XA Jetly
+        wicket:
+          player_out: XA Jetly
+          fielders:
+          - AE Satterthwaite
+          kind: run out
+    - 18.1:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Baird
+    - 18.2:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Baird
+    - 18.3:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Baird
+    - 18.4:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Baird
+        wicket:
+          player_out: N Baird
+          kind: bowled
+    - 18.5:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Singh
+    - 18.6:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Singh
+    - 18.7:
+        non_striker: JT McFadyen
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Singh
+    - 19.1:
+        non_striker: MP Singh
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT McFadyen
+    - 19.2:
+        non_striker: MP Singh
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT McFadyen
+    - 19.3:
+        non_striker: MP Singh
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT McFadyen
+    - 19.4:
+        non_striker: MP Singh
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 19.5:
+        non_striker: JT McFadyen
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Singh
+    - 19.6:
+        non_striker: MP Singh
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+        wicket:
+          player_out: JT McFadyen
+          fielders:
+          - MJ Banks
+          kind: caught
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NB Cox
+        batsman: KG Anderson
+    - 0.2:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NB Cox
+        batsman: KG Anderson
+    - 0.3:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 0.4:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 0.5:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 0.6:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+        wicket:
+          player_out: NB Cox
+          fielders:
+          - JT McFadyen
+          kind: caught
+    - 1.1:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LEV Hughes
+        batsman: KG Anderson
+    - 1.2:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LEV Hughes
+        batsman: KG Anderson
+    - 1.3:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 1.4:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LEV Hughes
+    - 1.5:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LEV Hughes
+    - 1.6:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 2.1:
+        non_striker: LEV Hughes
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 2.2:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 2.3:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LEV Hughes
+    - 2.4:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 2.5:
+        non_striker: LEV Hughes
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 2.6:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 2.7:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+        wicket:
+          player_out: LEV Hughes
+          fielders:
+          - JT McFadyen
+          kind: stumped
+    - 3.1:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IG Sharp
+        batsman: KG Anderson
+    - 3.2:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 3.3:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 3.4:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 3.5:
+        non_striker: IG Sharp
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.6:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 4.1:
+        non_striker: IG Sharp
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KG Anderson
+    - 4.2:
+        non_striker: IG Sharp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.3:
+        non_striker: IG Sharp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 4.4:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IG Sharp
+    - 4.5:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 4.6:
+        non_striker: IG Sharp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.7:
+        non_striker: IG Sharp
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 4.8:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          kind: bowled
+    - 5.1:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AE Satterthwaite
+        batsman: KG Anderson
+    - 5.2:
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AE Satterthwaite
+        batsman: KG Anderson
+    - 5.3:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 5.4:
+        non_striker: AE Satterthwaite
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.5:
+        non_striker: KG Anderson
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 5.6:
+        non_striker: AE Satterthwaite
+        bowler: MP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.1:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KG Anderson
+    - 6.2:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.3:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 6.4:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.5:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 6.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 6.7:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.1:
+        non_striker: AE Satterthwaite
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 7.2:
+        non_striker: AE Satterthwaite
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.3:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 7.4:
+        non_striker: AE Satterthwaite
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 7.5:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 7.6:
+        non_striker: AE Satterthwaite
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.1:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.2:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 8.3:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 8.4:
+        non_striker: AE Satterthwaite
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.5:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 8.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 9.1:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 9.2:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 9.3:
+        non_striker: AE Satterthwaite
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 9.4:
+        non_striker: AE Satterthwaite
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 9.5:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          fielders:
+          - GE Plimmer
+          kind: caught
+    - 9.6:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 10.1:
+        non_striker: FC Wilson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 10.2:
+        non_striker: FC Wilson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 10.3:
+        non_striker: FC Wilson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 10.4:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 10.5:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 10.6:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Wilson
+    - 10.7:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 11.1:
+        non_striker: FC Wilson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 11.2:
+        non_striker: FC Wilson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 11.3:
+        non_striker: FC Wilson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 11.4:
+        non_striker: FC Wilson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 11.5:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 11.6:
+        non_striker: FC Wilson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.1:
+        non_striker: FC Wilson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 12.2:
+        non_striker: FC Wilson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.3:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 12.4:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 12.5:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+        wicket:
+          player_out: FC Wilson
+          fielders:
+          - RM Burns
+          kind: caught
+    - 12.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 13.1:
+        non_striker: AG Gerken
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.2:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 13.3:
+        non_striker: AG Gerken
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.4:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 13.5:
+        non_striker: AG Gerken
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.6:
+        non_striker: KG Anderson
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+        wicket:
+          player_out: AG Gerken
+          fielders:
+          - GE Plimmer
+          kind: caught
+    - 14.1:
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LMM Tahuhu
+        batsman: KG Anderson
+    - 14.2:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 14.3:
+        non_striker: LMM Tahuhu
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 14.4:
+        non_striker: LMM Tahuhu
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 14.5:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 14.6:
+        non_striker: LMM Tahuhu
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 15.1:
+        non_striker: LMM Tahuhu
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 15.2:
+        non_striker: LMM Tahuhu
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 15.3:
+        non_striker: LMM Tahuhu
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 15.4:
+        non_striker: LMM Tahuhu
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 15.5:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 15.6:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 16.1:
+        non_striker: LMM Tahuhu
+        bowler: XA Jetly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KG Anderson
+    - 16.2:
+        non_striker: LMM Tahuhu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 16.3:
+        non_striker: LMM Tahuhu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 16.4:
+        non_striker: LMM Tahuhu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 16.5:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 16.6:
+        non_striker: KG Anderson
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 16.7:
+        non_striker: LMM Tahuhu
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 17.1:
+        non_striker: LMM Tahuhu
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 17.2:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 17.3:
+        non_striker: LMM Tahuhu
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 17.4:
+        non_striker: LMM Tahuhu
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 17.5:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 17.6:
+        non_striker: KG Anderson
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 18.1:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 18.2:
+        non_striker: LMM Tahuhu
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 18.3:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          fielders:
+          - ML Green
+          kind: caught
+    - 18.4:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 18.5:
+        non_striker: KG Anderson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 18.6:
+        non_striker: MJ Banks
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 19.1:
+        non_striker: MJ Banks
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 19.2:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks
+    - 19.3:
+        non_striker: MJ Banks
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 19.4:
+        non_striker: MJ Banks
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 19.5:
+        non_striker: MJ Banks
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 19.6:
+        non_striker: KG Anderson
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Banks

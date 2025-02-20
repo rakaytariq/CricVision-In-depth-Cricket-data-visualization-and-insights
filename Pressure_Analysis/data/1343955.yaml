@@ -1,0 +1,1427 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  competition: SA20
+  dates:
+  - '2023-01-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Pretoria Capitals
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - S Muthusamy
+  players:
+    Durban's Super Giants:
+    - KR Mayers
+    - PWA Mulder
+    - Q de Kock
+    - H Klaasen
+    - JO Holder
+    - C Jonker
+    - D Pretorius
+    - KA Maharaj
+    - GC Viljoen
+    - P Subrayen
+    - RJW Topley
+    Pretoria Capitals:
+    - PD Salt
+    - WG Jacks
+    - TB de Bruyn
+    - RR Rossouw
+    - S Dadswell
+    - JDS Neesham
+    - WD Parnell
+    - E Bosch
+    - AU Rashid
+    - A Nortje
+    - S Muthusamy
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AU Rashid: 249d60c9
+      C Jonker: a81d6706
+      D Pretorius: 11614d87
+      DJ Smith: d17bec15
+      E Bosch: 28d6c44d
+      GC Viljoen: a316d663
+      GH Pienaar: 3516e46b
+      H Klaasen: 235c2bb6
+      JDS Neesham: 9219eff0
+      JO Holder: 0f721006
+      KA Maharaj: 0b60eb09
+      KR Mayers: 73c18486
+      M Erasmus: 15d3c895
+      P Subrayen: 7ec9711d
+      PD Salt: 3d284ca3
+      PWA Mulder: c96f6ac5
+      Q de Kock: 372455c4
+      RJW Topley: 8db7f47f
+      RR Rossouw: cad00a4d
+      S Dadswell: 0ecf791e
+      S George: 6d9e5a54
+      S Muthusamy: 7dfb8890
+      Siphelele Gasa: e50baa87
+      TB de Bruyn: 90d6cdea
+      WD Parnell: 3a60e0b5
+      WG Jacks: 9caf69a1
+  teams:
+  - Durban's Super Giants
+  - Pretoria Capitals
+  toss:
+    winner: Durban's Super Giants
+    decision: bat
+  umpires:
+  - DJ Smith
+  - Siphelele Gasa
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 0.2:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: WD Parnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PWA Mulder
+    - 0.5:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.7:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 1.4:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: PWA Mulder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: PWA Mulder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          kind: lbw
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 3.1:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 4.1:
+        non_striker: JO Holder
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 4.2:
+        non_striker: H Klaasen
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 4.3:
+        non_striker: H Klaasen
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 4.4:
+        non_striker: H Klaasen
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 4.5:
+        non_striker: H Klaasen
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 4.6:
+        non_striker: H Klaasen
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.1:
+        non_striker: JO Holder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 5.2:
+        non_striker: H Klaasen
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.3:
+        non_striker: H Klaasen
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 5.4:
+        non_striker: H Klaasen
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 5.5:
+        non_striker: JO Holder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 5.6:
+        non_striker: JO Holder
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 6.1:
+        non_striker: H Klaasen
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 6.2:
+        non_striker: H Klaasen
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 6.3:
+        non_striker: JO Holder
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 6.4:
+        non_striker: JO Holder
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 6.5:
+        non_striker: JO Holder
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.6:
+        non_striker: H Klaasen
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 7.1:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.2:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 7.3:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 7.4:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.5:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.6:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.1:
+        non_striker: JO Holder
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.2:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 8.3:
+        non_striker: JO Holder
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.4:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 8.5:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          fielders:
+          - S Dadswell
+          kind: caught
+    - 8.6:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 9.1:
+        non_striker: C Jonker
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.2:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 9.3:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 9.4:
+        non_striker: C Jonker
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 9.5:
+        non_striker: C Jonker
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.6:
+        non_striker: H Klaasen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 10.1:
+        non_striker: C Jonker
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 10.2:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+        wicket:
+          player_out: C Jonker
+          kind: caught and bowled
+    - 10.3:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 10.4:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 10.5:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 10.6:
+        non_striker: D Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.1:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 11.2:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 11.3:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 11.4:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.5:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.6:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 12.1:
+        non_striker: D Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 12.2:
+        non_striker: D Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.3:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 12.4:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 12.5:
+        non_striker: D Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.6:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 12.7:
+        non_striker: H Klaasen
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 13.1:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          kind: bowled
+    - 13.2:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.3:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.4:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.5:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 13.6:
+        non_striker: D Pretorius
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.1:
+        non_striker: KA Maharaj
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 14.2:
+        non_striker: D Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 14.3:
+        non_striker: D Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 14.4:
+        non_striker: KA Maharaj
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 14.5:
+        non_striker: KA Maharaj
+        bowler: S Muthusamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Pretorius
+    - 14.6:
+        non_striker: KA Maharaj
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+        wicket:
+          player_out: D Pretorius
+          fielders:
+          - WG Jacks
+          kind: caught
+    - 14.7:
+        non_striker: KA Maharaj
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 15.1:
+        non_striker: GC Viljoen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 15.2:
+        non_striker: KA Maharaj
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 15.3:
+        non_striker: KA Maharaj
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 15.4:
+        non_striker: KA Maharaj
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 15.5:
+        non_striker: GC Viljoen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 15.6:
+        non_striker: GC Viljoen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 16.1:
+        non_striker: GC Viljoen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 16.2:
+        non_striker: GC Viljoen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 16.3:
+        non_striker: KA Maharaj
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 16.4:
+        non_striker: KA Maharaj
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 16.5:
+        non_striker: GC Viljoen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 16.6:
+        non_striker: GC Viljoen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 17.1:
+        non_striker: KA Maharaj
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+        wicket:
+          player_out: GC Viljoen
+          fielders:
+          - S Dadswell
+          kind: caught
+    - 17.2:
+        non_striker: KA Maharaj
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+        wicket:
+          player_out: P Subrayen
+          kind: lbw
+    - 17.3:
+        non_striker: KA Maharaj
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJW Topley
+    - 17.4:
+        non_striker: KA Maharaj
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJW Topley
+    - 17.5:
+        non_striker: RJW Topley
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 17.6:
+        non_striker: KA Maharaj
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJW Topley
+    - 18.1:
+        non_striker: RJW Topley
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+        wicket:
+          player_out: KA Maharaj
+          fielders:
+          - S Dadswell
+          kind: caught
+- 2nd innings:
+    team: Pretoria Capitals
+    deliveries:
+    - 0.1:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 0.2:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 0.3:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: TB de Bruyn
+    - 0.4:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 0.5:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 0.6:
+        non_striker: TB de Bruyn
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 1.1:
+        non_striker: WG Jacks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 1.2:
+        non_striker: WG Jacks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 1.3:
+        non_striker: TB de Bruyn
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 1.4:
+        non_striker: TB de Bruyn
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 1.5:
+        non_striker: TB de Bruyn
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 1.6:
+        non_striker: TB de Bruyn
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 2.1:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 2.2:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB de Bruyn
+    - 2.3:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 2.4:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 2.5:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 2.6:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 2.7:
+        non_striker: WG Jacks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 3.1:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 3.2:
+        non_striker: WG Jacks
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 3.3:
+        non_striker: WG Jacks
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 3.4:
+        non_striker: WG Jacks
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 3.5:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 3.6:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 4.1:
+        non_striker: TB de Bruyn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.2:
+        non_striker: TB de Bruyn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 4.3:
+        non_striker: TB de Bruyn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.4:
+        non_striker: TB de Bruyn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 4.5:
+        non_striker: TB de Bruyn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 4.6:
+        non_striker: TB de Bruyn
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WG Jacks
+    - 5.1:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 5.2:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 5.3:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 5.4:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 5.5:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 5.6:
+        non_striker: TB de Bruyn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.1:
+        non_striker: TB de Bruyn
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 6.2:
+        non_striker: TB de Bruyn
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 6.3:
+        non_striker: WG Jacks
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.4:
+        non_striker: TB de Bruyn
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 6.5:
+        non_striker: TB de Bruyn
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 6.6:
+        non_striker: TB de Bruyn
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - P Subrayen
+          kind: caught
+    - 7.1:
+        non_striker: RR Rossouw
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 7.2:
+        non_striker: TB de Bruyn
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 7.3:
+        non_striker: RR Rossouw
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 7.4:
+        non_striker: RR Rossouw
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn

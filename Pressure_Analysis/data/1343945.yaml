@@ -1,0 +1,1986 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cape Town
+  competition: SA20
+  dates:
+  - '2023-01-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Durban's Super Giants
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - KR Mayers
+  players:
+    MI Cape Town:
+    - D Brevis
+    - RD Rickelton
+    - G Roelofsen
+    - HE van der Dussen
+    - SM Curran
+    - GF Linde
+    - Duan Jansen
+    - Rashid Khan
+    - D Potgieter
+    - OP Stone
+    - JC Archer
+    Durban's Super Giants:
+    - KR Mayers
+    - Q de Kock
+    - PWA Mulder
+    - H Klaasen
+    - JO Holder
+    - D Pretorius
+    - KMA Paul
+    - RJW Topley
+    - KA Maharaj
+    - GC Viljoen
+    - P Subrayen
+  registry:
+    people:
+      AT Holdstock: 6fa3258c
+      BM White: 66c21d35
+      D Brevis: 844e79d1
+      D Jansen: 8dc152d1
+      D Potgieter: 60fbf53a
+      D Pretorius: 11614d87
+      G Roelofsen: ac688e55
+      GC Viljoen: a316d663
+      GF Linde: e5437608
+      H Klaasen: 235c2bb6
+      HE van der Dussen: 9948e262
+      JC Archer: 5574750c
+      JO Holder: 0f721006
+      KA Maharaj: 0b60eb09
+      KMA Paul: 75224f22
+      KR Mayers: 73c18486
+      LH Matroos: 6fa18157
+      OP Stone: 3f659464
+      P Subrayen: 7ec9711d
+      PWA Mulder: c96f6ac5
+      Q de Kock: 372455c4
+      RD Rickelton: e66732f8
+      RJW Topley: 8db7f47f
+      Rashid Khan: 5f547c8b
+      S George: 6d9e5a54
+      SM Curran: e94915e6
+      Siphelele Gasa: e50baa87
+  teams:
+  - MI Cape Town
+  - Durban's Super Giants
+  toss:
+    winner: Durban's Super Giants
+    decision: field
+  umpires:
+  - BM White
+  - S George
+  venue: Newlands, Cape Town
+innings:
+- 1st innings:
+    team: MI Cape Town
+    deliveries:
+    - 0.1:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.2:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          kind: bowled
+    - 0.3:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 0.4:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 0.5:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Roelofsen
+    - 0.6:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 0.7:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 1.3:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.4:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.5:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.6:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RD Rickelton
+    - 2.1:
+        non_striker: G Roelofsen
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: G Roelofsen
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.3:
+        non_striker: G Roelofsen
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.4:
+        non_striker: G Roelofsen
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 2.5:
+        non_striker: G Roelofsen
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: G Roelofsen
+    - 3.2:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.3:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.5:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 3.6:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.7:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 4.1:
+        non_striker: HE van der Dussen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.2:
+        non_striker: HE van der Dussen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 4.3:
+        non_striker: HE van der Dussen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 4.4:
+        non_striker: HE van der Dussen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.6:
+        non_striker: HE van der Dussen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 5.1:
+        non_striker: HE van der Dussen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 5.2:
+        non_striker: G Roelofsen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: HE van der Dussen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 5.5:
+        non_striker: HE van der Dussen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 5.6:
+        non_striker: HE van der Dussen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 6.2:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.3:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - KMA Paul
+          kind: caught
+    - 6.4:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 6.5:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 6.6:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          kind: lbw
+    - 7.1:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: G Roelofsen
+    - 7.2:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 7.3:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 7.4:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 7.5:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 7.6:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 8.1:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 8.2:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 8.3:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 8.4:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 8.5:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 8.6:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 9.1:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 9.2:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 9.3:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 9.4:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 9.5:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 9.6:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 10.1:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 10.2:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 10.3:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.4:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 10.5:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.6:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 11.1:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 11.2:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 11.3:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 11.4:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 11.5:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 11.6:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 11.7:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 12.1:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Roelofsen
+    - 12.2:
+        non_striker: GF Linde
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 12.3:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 12.4:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 12.5:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 12.6:
+        non_striker: G Roelofsen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 13.1:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 13.2:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GF Linde
+    - 13.3:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 13.4:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 13.5:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 13.6:
+        non_striker: G Roelofsen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 14.1:
+        non_striker: GF Linde
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Roelofsen
+    - 14.2:
+        non_striker: G Roelofsen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.3:
+        non_striker: GF Linde
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 14.4:
+        non_striker: G Roelofsen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.5:
+        non_striker: GF Linde
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 14.6:
+        non_striker: GF Linde
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+        wicket:
+          player_out: G Roelofsen
+          fielders:
+          - RJW Topley
+          kind: caught
+    - 15.1:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          fielders:
+          - D Pretorius
+          kind: caught
+    - 15.2:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 15.3:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 15.4:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 15.5:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 15.6:
+        non_striker: Rashid Khan
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 16.1:
+        non_striker: Rashid Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 16.2:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 16.3:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 16.4:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 16.5:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 16.6:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 17.1:
+        non_striker: Duan Jansen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Khan
+    - 17.2:
+        non_striker: Duan Jansen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 17.3:
+        non_striker: Duan Jansen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 17.4:
+        non_striker: Duan Jansen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          fielders:
+          - KA Maharaj
+          kind: caught
+    - 17.5:
+        non_striker: Duan Jansen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 17.6:
+        non_striker: Duan Jansen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.1:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.2:
+        non_striker: D Potgieter
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Duan Jansen
+    - 18.3:
+        non_striker: D Potgieter
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 18.4:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 18.5:
+        non_striker: Duan Jansen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.6:
+        non_striker: D Potgieter
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 19.1:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 19.2:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Potgieter
+    - 19.3:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 19.4:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 19.5:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.6:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.7:
+        non_striker: Duan Jansen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+        wicket:
+          player_out: D Potgieter
+          fielders:
+          - PWA Mulder
+          kind: caught
+- 2nd innings:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 0.3:
+        non_striker: KR Mayers
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: KR Mayers
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: KR Mayers
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: KR Mayers
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 1.6:
+        non_striker: KR Mayers
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 2.3:
+        non_striker: KR Mayers
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 2.6:
+        non_striker: KR Mayers
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: OP Stone
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KR Mayers
+    - 3.2:
+        non_striker: Q de Kock
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Mayers
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 3.4:
+        non_striker: KR Mayers
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - D Potgieter
+          kind: caught
+    - 3.5:
+        non_striker: KR Mayers
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 3.6:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 3.7:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KR Mayers
+    - 4.1:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 4.2:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 4.3:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 4.4:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 4.5:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KR Mayers
+    - 4.6:
+        non_striker: KR Mayers
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 4.7:
+        non_striker: KR Mayers
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 5.1:
+        non_striker: PWA Mulder
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KR Mayers
+    - 5.2:
+        non_striker: KR Mayers
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 5.3:
+        non_striker: KR Mayers
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 5.4:
+        non_striker: KR Mayers
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 5.5:
+        non_striker: KR Mayers
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 5.6:
+        non_striker: KR Mayers
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 6.1:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 6.2:
+        non_striker: KR Mayers
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 6.3:
+        non_striker: KR Mayers
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 6.4:
+        non_striker: KR Mayers
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 6.5:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - G Roelofsen
+          kind: caught
+    - 6.6:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.1:
+        non_striker: H Klaasen
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PWA Mulder
+    - 7.2:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.3:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.4:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.5:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.6:
+        non_striker: H Klaasen
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 8.1:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.2:
+        non_striker: H Klaasen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 8.3:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.4:
+        non_striker: H Klaasen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 8.5:
+        non_striker: H Klaasen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 8.6:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.1:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.2:
+        non_striker: H Klaasen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 9.3:
+        non_striker: H Klaasen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.4:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 9.5:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.6:
+        non_striker: H Klaasen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.1:
+        non_striker: H Klaasen
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 10.2:
+        non_striker: H Klaasen
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.3:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 10.4:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 10.5:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 10.6:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.1:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 11.2:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.3:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 11.4:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.5:
+        non_striker: H Klaasen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 11.6:
+        non_striker: H Klaasen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 12.1:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 12.2:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 12.3:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 12.4:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 12.5:
+        non_striker: PWA Mulder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 12.6:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.1:
+        non_striker: JO Holder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.2:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 13.3:
+        non_striker: JO Holder
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 13.4:
+        non_striker: JO Holder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 13.5:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 13.6:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 13.7:
+        non_striker: PWA Mulder
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 14.1:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          kind: bowled
+    - 14.2:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 14.3:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+        wicket:
+          player_out: D Pretorius
+          kind: lbw
+    - 14.4:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KMA Paul
+    - 14.5:
+        non_striker: KMA Paul
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 14.6:
+        non_striker: KMA Paul
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.1:
+        non_striker: KMA Paul
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.2:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 15.3:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.4:
+        non_striker: KMA Paul
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.5:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul
+    - 15.6:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 16.1:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 16.2:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul
+    - 16.3:
+        non_striker: JO Holder
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul

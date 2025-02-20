@@ -1,0 +1,3679 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2022-12-04'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 2
+  overs: 50
+  player_of_match:
+  - S Muniandy
+  players:
+    Denmark:
+    - ND Laegsgaard
+    - HAM Shah
+    - T Bharaj
+    - SA Ahmad
+    - Surya Anand
+    - Musa Shaheen
+    - OD Hald
+    - S Thanikaithasan
+    - Saran Aslam
+    - Saud Munir
+    - Abdul Hashim
+    Malaysia:
+    - Zubaidi Zulkifle
+    - Muhammad Amir
+    - Syed Aziz
+    - M Syahadat Ramli
+    - Ahmed Faiz Mohammad Noor
+    - S Muniandy
+    - Khizar Hayat
+    - Syed Rehmatullah
+    - Pavandeep Singh
+    - Syazrul Idrus
+    - Rizwan Haider
+  registry:
+    people:
+      Abdul Hashim: 73b1db79
+      Ahmed Faiz: f6b4f746
+      HAM Shah: 007113d7
+      Khizar Hayat: 78bbeba1
+      M Syahadat Ramli: 5efa8af3
+      Muhammad Amir: 60bec5c3
+      Musa Shaheen: 6709b2de
+      ND Laegsgaard: b0f2d3bd
+      OD Hald: 38189be1
+      Pavandeep Singh: 78fcc740
+      Rahul Asher: 4956b0bf
+      Rizwan Haider: dc60abdc
+      S Muniandy: 57fcfd3b
+      S Thanikaithasan: 498aacac
+      SA Ahmad: 8de618ab
+      Saran Aslam: 2a00735b
+      Sarika Prasad: 8ff397fa
+      Saud Munir: 5902f2eb
+      Surya Anand: ef141f36
+      Syazrul Idrus: 6dba59e0
+      Syed Aziz: 6667067e
+      Syed Rehmatullah: fcbdc2b0
+      T Bharaj: 49556abb
+      Tabarak Dar: 2259c12d
+      V Narayan Kutty: 4bacee3d
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Denmark
+  - Malaysia
+  toss:
+    winner: Denmark
+    decision: bat
+  umpires:
+  - Rahul Asher
+  - Sarika Prasad
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.2:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.3:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.4:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.5:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.6:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.7:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 1.1:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.2:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.3:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.4:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+        wicket:
+          player_out: ND Laegsgaard
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 1.5:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 1.6:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 2.1:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 2.2:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 2.3:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 2.4:
+        non_striker: T Bharaj
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 2.5:
+        non_striker: T Bharaj
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 2.6:
+        non_striker: T Bharaj
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.1:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 3.2:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HAM Shah
+    - 3.3:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.4:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.5:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.6:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.7:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 4.1:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 4.2:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 4.3:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 4.4:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 4.5:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 4.6:
+        non_striker: HAM Shah
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 5.1:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.2:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HAM Shah
+    - 5.3:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HAM Shah
+    - 5.4:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.5:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.6:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.7:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.8:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.1:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 6.2:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.3:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.4:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 6.5:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 6.6:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 7.1:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 7.2:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 7.3:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 7.4:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Bharaj
+    - 7.5:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 7.6:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 8.1:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 8.2:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 8.3:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 8.4:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 8.5:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HAM Shah
+    - 8.6:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 9.1:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 9.2:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Bharaj
+    - 9.3:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 9.4:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 9.5:
+        non_striker: HAM Shah
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 9.6:
+        non_striker: T Bharaj
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 10.1:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 10.2:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 10.3:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 10.4:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 10.5:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Bharaj
+    - 10.6:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 10.7:
+        non_striker: HAM Shah
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 11.1:
+        non_striker: T Bharaj
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 11.2:
+        non_striker: T Bharaj
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 11.3:
+        non_striker: T Bharaj
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 11.4:
+        non_striker: T Bharaj
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 11.5:
+        non_striker: HAM Shah
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 11.6:
+        non_striker: T Bharaj
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HAM Shah
+    - 11.7:
+        non_striker: T Bharaj
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 12.1:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+        wicket:
+          player_out: HAM Shah
+          kind: bowled
+    - 12.2:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 12.3:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 12.4:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SA Ahmad
+    - 12.5:
+        non_striker: T Bharaj
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 12.6:
+        non_striker: SA Ahmad
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 12.7:
+        non_striker: SA Ahmad
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 13.1:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 13.2:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 13.3:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 13.4:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 13.5:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 13.6:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 14.1:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Ahmad
+    - 14.2:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 14.3:
+        non_striker: SA Ahmad
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 14.4:
+        non_striker: SA Ahmad
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 14.5:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 14.6:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 14.7:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 15.1:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 15.2:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 15.3:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 15.4:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 15.5:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 15.6:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 16.1:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Ahmad
+    - 16.2:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 16.3:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 16.4:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 16.5:
+        non_striker: T Bharaj
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 16.6:
+        non_striker: SA Ahmad
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 17.1:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 17.2:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 17.3:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 17.4:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 17.5:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 17.6:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 18.1:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 18.2:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 18.3:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 18.4:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 18.5:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 18.6:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 19.1:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 19.2:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 19.3:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 19.4:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 19.5:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 19.6:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 20.1:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 20.2:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 20.3:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 20.4:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 20.5:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 20.6:
+        non_striker: SA Ahmad
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 21.1:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 21.2:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 21.3:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 21.4:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 21.5:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 21.6:
+        non_striker: SA Ahmad
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 22.1:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 22.2:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 22.3:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 22.4:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 22.5:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Ahmad
+    - 22.6:
+        non_striker: T Bharaj
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 23.1:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Ahmad
+    - 23.2:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 23.3:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 23.4:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 23.5:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 23.6:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+        wicket:
+          player_out: SA Ahmad
+          kind: bowled
+    - 23.7:
+        non_striker: T Bharaj
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 24.1:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 24.2:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+        wicket:
+          player_out: T Bharaj
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 24.3:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 24.4:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 24.5:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 24.6:
+        non_striker: Musa Shaheen
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 25.1:
+        non_striker: Surya Anand
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 25.2:
+        non_striker: Musa Shaheen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 25.3:
+        non_striker: Musa Shaheen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 25.4:
+        non_striker: Musa Shaheen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 25.5:
+        non_striker: Musa Shaheen
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Surya Anand
+    - 25.6:
+        non_striker: Surya Anand
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+        wicket:
+          player_out: Musa Shaheen
+          kind: caught and bowled
+    - 26.1:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: OD Hald
+        batsman: Surya Anand
+    - 26.2:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 26.3:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 26.4:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OD Hald
+    - 26.5:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 26.6:
+        non_striker: Surya Anand
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 27.1:
+        non_striker: OD Hald
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 27.2:
+        non_striker: Surya Anand
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 27.3:
+        non_striker: Surya Anand
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 27.4:
+        non_striker: Surya Anand
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+    - 27.5:
+        non_striker: Surya Anand
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OD Hald
+    - 27.6:
+        non_striker: OD Hald
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+        wicket:
+          player_out: Surya Anand
+          kind: bowled
+    - 28.1:
+        non_striker: S Thanikaithasan
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OD Hald
+        wicket:
+          player_out: OD Hald
+          fielders:
+          - Rizwan Haider
+          kind: caught
+    - 28.2:
+        non_striker: S Thanikaithasan
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saran Aslam
+    - 28.3:
+        non_striker: S Thanikaithasan
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saran Aslam
+    - 28.4:
+        non_striker: Saran Aslam
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 28.5:
+        non_striker: Saran Aslam
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 28.6:
+        non_striker: S Thanikaithasan
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saran Aslam
+    - 29.1:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saran Aslam
+        wicket:
+          player_out: Saran Aslam
+          fielders:
+          - Syed Rehmatullah
+          kind: caught
+    - 29.2:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Munir
+    - 29.3:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Munir
+    - 29.4:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Munir
+    - 29.5:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Munir
+    - 29.6:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Munir
+    - 30.1:
+        non_striker: Saud Munir
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 30.2:
+        non_striker: S Thanikaithasan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saud Munir
+        wicket:
+          player_out: Saud Munir
+          kind: caught and bowled
+    - 30.3:
+        non_striker: S Thanikaithasan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Hashim
+    - 30.4:
+        non_striker: Abdul Hashim
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Thanikaithasan
+    - 30.5:
+        non_striker: Abdul Hashim
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 30.6:
+        non_striker: S Thanikaithasan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Hashim
+    - 31.1:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Hashim
+    - 31.2:
+        non_striker: Abdul Hashim
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Thanikaithasan
+    - 31.3:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+    - 31.4:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Hashim
+    - 31.5:
+        non_striker: Abdul Hashim
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 31.6:
+        non_striker: Abdul Hashim
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Thanikaithasan
+    - 31.7:
+        non_striker: Abdul Hashim
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 31.8:
+        non_striker: S Thanikaithasan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+    - 32.1:
+        non_striker: Abdul Hashim
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thanikaithasan
+    - 32.2:
+        non_striker: Abdul Hashim
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 32.3:
+        non_striker: Abdul Hashim
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 32.4:
+        non_striker: Abdul Hashim
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 32.5:
+        non_striker: S Thanikaithasan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Hashim
+    - 32.6:
+        non_striker: Abdul Hashim
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 33.1:
+        non_striker: Abdul Hashim
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 33.2:
+        non_striker: S Thanikaithasan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+    - 33.3:
+        non_striker: S Thanikaithasan
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abdul Hashim
+    - 33.4:
+        non_striker: Abdul Hashim
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thanikaithasan
+    - 33.5:
+        non_striker: Abdul Hashim
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 33.6:
+        non_striker: Abdul Hashim
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Thanikaithasan
+    - 33.7:
+        non_striker: Abdul Hashim
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 34.1:
+        non_striker: S Thanikaithasan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+    - 34.2:
+        non_striker: S Thanikaithasan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Hashim
+    - 34.3:
+        non_striker: S Thanikaithasan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Abdul Hashim
+    - 34.4:
+        non_striker: Abdul Hashim
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+        wicket:
+          player_out: S Thanikaithasan
+          kind: bowled
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Amir
+        batsman: Zubaidi Zulkifle
+    - 0.2:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          kind: bowled
+    - 0.3:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 0.4:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 0.5:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 0.6:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.1:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 1.2:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 1.3:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 1.4:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 1.5:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 1.6:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 2.1:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.2:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.3:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 2.4:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.5:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.6:
+        non_striker: Muhammad Amir
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 3.1:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 3.2:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 3.3:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 3.4:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 3.5:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 3.6:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 4.1:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.2:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.3:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.4:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.5:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.6:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 5.1:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 5.2:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 5.3:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 5.4:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 5.5:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 5.6:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 6.1:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 6.2:
+        non_striker: Muhammad Amir
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 6.3:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 6.4:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 6.5:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 6.6:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 7.1:
+        non_striker: Muhammad Amir
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 7.2:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 7.3:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 7.4:
+        non_striker: Muhammad Amir
+        bowler: SA Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 7.5:
+        non_striker: Muhammad Amir
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 7.6:
+        non_striker: Muhammad Amir
+        bowler: SA Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 7.7:
+        non_striker: Muhammad Amir
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 7.8:
+        non_striker: Muhammad Amir
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 8.1:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 8.2:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 8.3:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 8.4:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 8.5:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Amir
+    - 8.6:
+        non_striker: Syed Aziz
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 9.1:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 9.2:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 9.3:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 9.4:
+        non_striker: Muhammad Amir
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 9.5:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+        wicket:
+          player_out: Muhammad Amir
+          fielders:
+          - Abdul Hashim
+          kind: caught
+    - 9.6:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 10.1:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 10.2:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 10.3:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 10.4:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 10.5:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 10.6:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 11.1:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 11.2:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 11.3:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 11.4:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 11.5:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 11.6:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 12.1:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.2:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 12.3:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.4:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.5:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.6:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 13.1:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 13.2:
+        non_striker: M Syahadat Ramli
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 13.3:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 13.4:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Syahadat Ramli
+    - 13.5:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 13.6:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 14.1:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 14.2:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 14.3:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 14.4:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 14.5:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 14.6:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 15.1:
+        non_striker: M Syahadat Ramli
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 15.2:
+        non_striker: M Syahadat Ramli
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 15.3:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Syahadat Ramli
+    - 15.4:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 15.5:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 15.6:
+        non_striker: Syed Aziz
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 16.1:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 16.2:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 16.3:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 16.4:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 16.5:
+        non_striker: M Syahadat Ramli
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 16.6:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+        wicket:
+          player_out: M Syahadat Ramli
+          kind: lbw
+    - 17.1:
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: Syed Aziz
+    - 17.2:
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: Syed Aziz
+    - 17.3:
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: Syed Aziz
+    - 17.4:
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: Syed Aziz
+    - 17.5:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 17.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 18.1:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.2:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.3:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.4:
+        non_striker: Syed Aziz
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 18.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 19.1:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.2:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.3:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.4:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.5:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 20.1:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 20.2:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 20.3:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 20.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 20.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 20.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 21.1:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 21.2:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz Mohammad Noor
+    - 21.3:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+        wicket:
+          player_out: Ahmed Faiz Mohammad Noor
+          fielders:
+          - OD Hald
+          kind: caught
+    - 21.4:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 21.5:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 21.6:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 22.1:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 22.2:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 22.3:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 22.4:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 22.5:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 22.6:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 23.1:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muniandy
+    - 23.2:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 23.3:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 23.4:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 23.5:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 23.6:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 24.1:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 24.2:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 24.3:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 24.4:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 24.5:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 24.6:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 25.1:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 25.2:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 25.3:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 25.4:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 25.5:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 25.6:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Syed Aziz
+    - 26.1:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 26.2:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 26.3:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 26.4:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 26.5:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 26.6:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 27.1:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 27.2:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 27.3:
+        non_striker: Syed Aziz
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 27.4:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 27.5:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 27.6:
+        non_striker: S Muniandy
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 28.1:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 28.2:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 28.3:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 28.4:
+        non_striker: Syed Aziz
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 28.5:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 28.6:
+        non_striker: S Muniandy
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 29.1:
+        non_striker: Syed Aziz
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 29.2:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          kind: bowled
+    - 29.3:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 29.4:
+        non_striker: Khizar Hayat
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 29.5:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 29.6:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 30.1:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 30.2:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 30.3:
+        non_striker: S Muniandy
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 30.4:
+        non_striker: S Muniandy
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 30.5:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 30.6:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 31.1:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 31.2:
+        non_striker: Khizar Hayat
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 31.3:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 31.4:
+        non_striker: S Muniandy
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 31.5:
+        non_striker: Khizar Hayat
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 31.6:
+        non_striker: Khizar Hayat
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 32.1:
+        non_striker: S Muniandy
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizar Hayat
+    - 32.2:
+        non_striker: S Muniandy
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizar Hayat
+    - 32.3:
+        non_striker: S Muniandy
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 32.4:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 32.5:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 32.6:
+        non_striker: Khizar Hayat
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 33.1:
+        non_striker: S Muniandy
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 33.2:
+        non_striker: S Muniandy
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 33.3:
+        non_striker: S Muniandy
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 33.4:
+        non_striker: Khizar Hayat
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 33.5:
+        non_striker: Khizar Hayat
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muniandy
+    - 33.6:
+        non_striker: Khizar Hayat
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+        wicket:
+          player_out: Khizar Hayat
+          fielders:
+          - ND Laegsgaard
+          - Abdul Hashim
+          kind: run out
+    - 34.1:
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Syed Rehmatullah
+        batsman: S Muniandy
+    - 34.2:
+        non_striker: Syed Rehmatullah
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+        wicket:
+          player_out: S Muniandy
+          fielders:
+          - Saud Munir
+          kind: caught
+    - 34.3:
+        non_striker: Syed Rehmatullah
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 34.4:
+        non_striker: Syed Rehmatullah
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pavandeep Singh
+    - 34.5:
+        non_striker: Pavandeep Singh
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+        wicket:
+          player_out: Pavandeep Singh
+          fielders:
+          - ND Laegsgaard
+          - Abdul Hashim
+          kind: run out
+    - 34.6:
+        non_striker: Syazrul Idrus
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Rehmatullah
+    - 35.1:
+        non_striker: Syazrul Idrus
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 35.2:
+        non_striker: Syazrul Idrus
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Syed Rehmatullah
+    - 35.3:
+        non_striker: Syed Rehmatullah
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syazrul Idrus

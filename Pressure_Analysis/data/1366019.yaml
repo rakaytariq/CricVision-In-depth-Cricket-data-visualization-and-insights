@@ -1,0 +1,2163 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  competition: FairBreak Invitational Tournament
+  dates:
+  - '2023-04-07'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Spirit
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - A Khaka
+  players:
+    Spirit:
+    - SJ Bryce
+    - N Chantam
+    - Bismah Maroof
+    - NJ Carey
+    - N Chaiwai
+    - NH Patel
+    - M Gaur
+    - GC Bhogle
+    - Y Daswani
+    - A Khaka
+    - S Miyaji
+    Sapphires:
+    - KM Mack
+    - GH Lewis
+    - B de Leede
+    - EA Burns
+    - S Jimmy
+    - KH Brunt
+    - AI Chudasama
+    - NE Farrant
+    - S Ismail
+    - Sana Mir
+    - G Kodali
+  registry:
+    people:
+      A Khaka: 0d518f89
+      AI Chudasama: 9414a81c
+      B de Leede: b3020075
+      Bismah Maroof: 3b770527
+      CA Polosak: 26a360d2
+      EA Burns: 2e0b6638
+      G Kodali: f606177e
+      GC Bhogle: a1965ce2
+      GH Lewis: 1b9d1579
+      KH Brunt: 6a434bd3
+      KM Mack: ef13bd20
+      Lauren Agenbag: 40849abd
+      M Gaur: df9cdebf
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      NE Farrant: 15f609ed
+      NH Patel: d945db3e
+      NJ Carey: dff806f4
+      S Ismail: 108c4c09
+      S Jimmy: 2daa8e40
+      S Miyaji: 3aca2ed5
+      SA Fritz: d15e60c8
+      SJ Bryce: 2ca65aee
+      Sana Mir: b287e7b1
+      Tabarak Dar: 2259c12d
+      V Kalidas: 42d76418
+      Y Daswani: 2038a273
+  teams:
+  - Spirit
+  - Sapphires
+  toss:
+    winner: Sapphires
+    decision: field
+  umpires:
+  - CA Polosak
+  - Lauren Agenbag
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Spirit
+    deliveries:
+    - 0.1:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.2:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.3:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.4:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.5:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Chantam
+        batsman: SJ Bryce
+    - 0.6:
+        non_striker: N Chantam
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.1:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.2:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.3:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          fielders:
+          - EA Burns
+          kind: caught
+    - 1.4:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 1.5:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 1.6:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 2.1:
+        non_striker: SJ Bryce
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.2:
+        non_striker: SJ Bryce
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.3:
+        non_striker: SJ Bryce
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 2.4:
+        non_striker: Bismah Maroof
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 2.5:
+        non_striker: SJ Bryce
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.6:
+        non_striker: SJ Bryce
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 3.1:
+        non_striker: Bismah Maroof
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Bryce
+    - 3.2:
+        non_striker: Bismah Maroof
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 3.3:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 3.4:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 3.5:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 3.6:
+        non_striker: SJ Bryce
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          fielders:
+          - B de Leede
+          kind: caught
+    - 4.1:
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Carey
+        batsman: SJ Bryce
+    - 4.2:
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Carey
+        batsman: SJ Bryce
+    - 4.3:
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ Carey
+        batsman: SJ Bryce
+    - 4.4:
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NJ Carey
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: SJ Bryce
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NJ Carey
+    - 4.6:
+        non_striker: NJ Carey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 5.2:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.3:
+        non_striker: SJ Bryce
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 5.4:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 5.5:
+        non_striker: SJ Bryce
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 5.6:
+        non_striker: SJ Bryce
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 6.1:
+        non_striker: SJ Bryce
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 6.2:
+        non_striker: SJ Bryce
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 6.3:
+        non_striker: NJ Carey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 6.4:
+        non_striker: SJ Bryce
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 6.5:
+        non_striker: NJ Carey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - EA Burns
+          kind: caught
+    - 6.6:
+        non_striker: NJ Carey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 7.1:
+        non_striker: N Chaiwai
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 7.2:
+        non_striker: N Chaiwai
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 7.3:
+        non_striker: N Chaiwai
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 7.4:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 7.5:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 7.6:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 8.1:
+        non_striker: N Chaiwai
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 8.2:
+        non_striker: N Chaiwai
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 8.3:
+        non_striker: N Chaiwai
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 8.4:
+        non_striker: N Chaiwai
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 8.5:
+        non_striker: N Chaiwai
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 8.6:
+        non_striker: N Chaiwai
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 9.1:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chaiwai
+    - 9.2:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 9.3:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          kind: bowled
+    - 9.4:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 9.5:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 9.6:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NH Patel
+    - 9.7:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 10.1:
+        non_striker: NH Patel
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 10.2:
+        non_striker: NH Patel
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 10.3:
+        non_striker: NH Patel
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.4:
+        non_striker: NJ Carey
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 10.5:
+        non_striker: NH Patel
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.6:
+        non_striker: NJ Carey
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 11.1:
+        non_striker: NH Patel
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 11.2:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 11.3:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Patel
+    - 11.4:
+        non_striker: NH Patel
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 11.5:
+        non_striker: NH Patel
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 11.6:
+        non_striker: NJ Carey
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 12.1:
+        non_striker: NH Patel
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.2:
+        non_striker: NJ Carey
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NH Patel
+    - 12.3:
+        non_striker: NJ Carey
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+    - 12.4:
+        non_striker: NJ Carey
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Patel
+        wicket:
+          player_out: NH Patel
+          kind: bowled
+    - 12.5:
+        non_striker: NJ Carey
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+    - 12.6:
+        non_striker: NJ Carey
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+    - 13.1:
+        non_striker: M Gaur
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.2:
+        non_striker: NJ Carey
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gaur
+    - 13.3:
+        non_striker: M Gaur
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.4:
+        non_striker: NJ Carey
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Gaur
+    - 13.5:
+        non_striker: M Gaur
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 13.6:
+        non_striker: M Gaur
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ Carey
+    - 14.1:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gaur
+    - 14.2:
+        non_striker: M Gaur
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 14.3:
+        non_striker: M Gaur
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ Carey
+    - 14.4:
+        non_striker: M Gaur
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 14.5:
+        non_striker: NJ Carey
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gaur
+    - 14.6:
+        non_striker: M Gaur
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ Carey
+    - 15.1:
+        non_striker: NJ Carey
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+    - 15.2:
+        non_striker: NJ Carey
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+    - 15.3:
+        non_striker: NJ Carey
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gaur
+    - 15.4:
+        non_striker: NJ Carey
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gaur
+    - 15.5:
+        non_striker: M Gaur
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          fielders:
+          - KH Brunt
+          kind: caught
+    - 15.6:
+        non_striker: M Gaur
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Bhogle
+    - 16.1:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gaur
+    - 16.2:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+    - 16.3:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Gaur
+    - 16.4:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gaur
+    - 16.5:
+        non_striker: M Gaur
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 16.6:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gaur
+        wicket:
+          player_out: M Gaur
+          fielders:
+          - Sana Mir
+          kind: caught
+    - 16.7:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Daswani
+    - 16.8:
+        non_striker: GC Bhogle
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 17.1:
+        non_striker: Y Daswani
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 17.2:
+        non_striker: GC Bhogle
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 17.3:
+        non_striker: Y Daswani
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 17.4:
+        non_striker: Y Daswani
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 17.5:
+        non_striker: GC Bhogle
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+        wicket:
+          player_out: Y Daswani
+          kind: bowled
+    - 17.6:
+        non_striker: GC Bhogle
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khaka
+    - 18.1:
+        non_striker: GC Bhogle
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+    - 18.2:
+        non_striker: GC Bhogle
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khaka
+    - 18.3:
+        non_striker: A Khaka
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 18.4:
+        non_striker: A Khaka
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 18.5:
+        non_striker: A Khaka
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 18.6:
+        non_striker: A Khaka
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 19.1:
+        non_striker: A Khaka
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 19.2:
+        non_striker: GC Bhogle
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khaka
+    - 19.3:
+        non_striker: A Khaka
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 19.4:
+        non_striker: GC Bhogle
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Khaka
+    - 19.5:
+        non_striker: A Khaka
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 19.6:
+        non_striker: A Khaka
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+- 2nd innings:
+    team: Sapphires
+    deliveries:
+    - 0.1:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Lewis
+        batsman: KM Mack
+    - 0.2:
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: KM Mack
+    - 0.3:
+        non_striker: KM Mack
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Mack
+    - 0.5:
+        non_striker: GH Lewis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.1:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.2:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.3:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - S Miyaji
+          kind: caught
+    - 1.5:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 1.6:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 2.1:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Mack
+    - 2.2:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Mack
+    - 2.3:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.4:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.5:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.6:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: KM Mack
+    - 2.7:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.8:
+        non_striker: B de Leede
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.1:
+        non_striker: B de Leede
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.2:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.3:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 3.4:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 3.5:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 3.6:
+        non_striker: KM Mack
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EA Burns
+    - 4.1:
+        non_striker: KM Mack
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 4.2:
+        non_striker: KM Mack
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 4.3:
+        non_striker: KM Mack
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 4.4:
+        non_striker: KM Mack
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 4.5:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 4.6:
+        non_striker: EA Burns
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 5.1:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 5.2:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Burns
+    - 5.3:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+        wicket:
+          player_out: EA Burns
+          fielders:
+          - NJ Carey
+          kind: caught
+    - 5.4:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.5:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.6:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 6.1:
+        non_striker: S Jimmy
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 6.2:
+        non_striker: KM Mack
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.3:
+        non_striker: S Jimmy
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 6.4:
+        non_striker: KM Mack
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.5:
+        non_striker: S Jimmy
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 6.6:
+        non_striker: KM Mack
+        bowler: S Miyaji
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: S Jimmy
+    - 6.7:
+        non_striker: KM Mack
+        bowler: S Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Jimmy
+    - 7.1:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 7.2:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.3:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 7.4:
+        non_striker: S Jimmy
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 7.5:
+        non_striker: KM Mack
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 7.6:
+        non_striker: S Jimmy
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 8.1:
+        non_striker: KM Mack
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 8.2:
+        non_striker: KM Mack
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 8.3:
+        non_striker: S Jimmy
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 8.4:
+        non_striker: S Jimmy
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 8.5:
+        non_striker: S Jimmy
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 8.6:
+        non_striker: S Jimmy
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 9.1:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          kind: caught and bowled
+    - 9.2:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Brunt
+    - 9.3:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 9.4:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Brunt
+    - 9.5:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 9.6:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Brunt
+    - 9.7:
+        non_striker: KM Mack
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+        wicket:
+          player_out: KM Mack
+          fielders:
+          - N Chaiwai
+          - Y Daswani
+          kind: run out
+    - 10.1:
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: AI Chudasama
+        batsman: KH Brunt
+    - 10.2:
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AI Chudasama
+        batsman: KH Brunt
+    - 10.3:
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AI Chudasama
+        batsman: KH Brunt
+    - 10.4:
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AI Chudasama
+        batsman: KH Brunt
+    - 10.5:
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AI Chudasama
+        batsman: KH Brunt
+    - 10.6:
+        non_striker: KH Brunt
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 11.1:
+        non_striker: KH Brunt
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 11.2:
+        non_striker: AI Chudasama
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 11.3:
+        non_striker: AI Chudasama
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 11.4:
+        non_striker: KH Brunt
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 11.5:
+        non_striker: KH Brunt
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 11.6:
+        non_striker: KH Brunt
+        bowler: GC Bhogle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 12.1:
+        non_striker: KH Brunt
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 12.2:
+        non_striker: AI Chudasama
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 12.3:
+        non_striker: AI Chudasama
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 12.4:
+        non_striker: KH Brunt
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 12.5:
+        non_striker: KH Brunt
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 12.6:
+        non_striker: KH Brunt
+        bowler: M Gaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 13.1:
+        non_striker: KH Brunt
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 13.2:
+        non_striker: AI Chudasama
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Brunt
+    - 13.3:
+        non_striker: AI Chudasama
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 13.4:
+        non_striker: KH Brunt
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 13.5:
+        non_striker: AI Chudasama
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 13.6:
+        non_striker: AI Chudasama
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 14.1:
+        non_striker: AI Chudasama
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 14.2:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 14.3:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 14.4:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Chudasama
+    - 14.5:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 14.6:
+        non_striker: AI Chudasama
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Brunt
+    - 15.1:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 15.2:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 15.3:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 15.4:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 15.5:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 15.6:
+        non_striker: AI Chudasama
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 16.1:
+        non_striker: KH Brunt
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 16.2:
+        non_striker: KH Brunt
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Chudasama
+    - 16.3:
+        non_striker: KH Brunt
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 16.4:
+        non_striker: AI Chudasama
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 16.5:
+        non_striker: KH Brunt
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 16.6:
+        non_striker: AI Chudasama
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 17.1:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 17.2:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 17.3:
+        non_striker: AI Chudasama
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Brunt
+    - 17.4:
+        non_striker: AI Chudasama
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 17.5:
+        non_striker: AI Chudasama
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 17.6:
+        non_striker: KH Brunt
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+        wicket:
+          player_out: AI Chudasama
+          fielders:
+          - Y Daswani
+          kind: stumped
+    - 18.1:
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NE Farrant
+        batsman: KH Brunt
+    - 18.2:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Farrant
+        wicket:
+          player_out: NE Farrant
+          kind: bowled
+    - 18.3:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 18.4:
+        non_striker: S Ismail
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 18.5:
+        non_striker: S Ismail
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+        wicket:
+          player_out: KH Brunt
+          kind: bowled
+    - 18.6:
+        non_striker: S Ismail
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Mir
+    - 19.1:
+        non_striker: Sana Mir
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 19.2:
+        non_striker: S Ismail
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Mir
+    - 19.3:
+        non_striker: S Ismail
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Mir
+    - 19.4:
+        non_striker: Sana Mir
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+        wicket:
+          player_out: S Ismail
+          fielders:
+          - N Chantam
+          kind: caught
+    - 19.5:
+        non_striker: Sana Mir
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kodali
+    - 19.6:
+        non_striker: Sana Mir
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali

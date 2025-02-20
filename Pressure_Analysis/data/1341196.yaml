@@ -1,0 +1,2146 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2022-12-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 4
+  overs: 20
+  players:
+    Canterbury:
+    - CJ Bowes
+    - MWT Boyle
+    - LJ Carter
+    - CE McConchie
+    - CD Fletcher
+    - MJ Hay
+    - HB Shipley
+    - AW McKenzie
+    - TD Astle
+    - W O'Rourke
+    - EJ Nuttall
+    Auckland:
+    - GH Worker
+    - MP O'Dowd
+    - MS Chapman
+    - CJ Briggs
+    - WT O'Donnell
+    - SM Solia
+    - BJ Horne
+    - L Delport
+    - A Ashok
+    - LH Ferguson
+    - BG Lister
+  registry:
+    people:
+      A Ashok: 321be7e3
+      AW McKenzie: b53136ce
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      CJ Briggs: 6c3dd24e
+      DJ Henderson: 76e3c08f
+      EJ Nuttall: c9bb898a
+      GH Worker: 51a36d3e
+      HB Shipley: 5426de63
+      KS Jagannathan: 9bc8dcec
+      Kim Cotton: 67a7c2ee
+      L Delport: 2c1438ef
+      LH Ferguson: 2f9d0389
+      LJ Carter: dfb51f40
+      MJ Hay: 732f711b
+      MP O'Dowd: b699df47
+      MS Chapman: 7fa12533
+      MWT Boyle: b42d5053
+      SB Haig: 811655b3
+      SM Solia: fd9f43bb
+      TD Astle: 383dd431
+      W O'Rourke: cb9b8664
+      WT O'Donnell: 730b57de
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - KS Jagannathan
+  - Kim Cotton
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MWT Boyle
+        batsman: CJ Bowes
+    - 0.2:
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MWT Boyle
+        batsman: CJ Bowes
+    - 0.3:
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MWT Boyle
+        batsman: CJ Bowes
+    - 0.4:
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: MWT Boyle
+        batsman: CJ Bowes
+    - 0.5:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 0.6:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 1.1:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 1.2:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 1.3:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.4:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 1.5:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 1.6:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWT Boyle
+    - 1.7:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 1.8:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 1.9:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.1:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 2.2:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 2.3:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 2.4:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWT Boyle
+    - 2.5:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWT Boyle
+    - 2.6:
+        non_striker: CJ Bowes
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 3.1:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWT Boyle
+    - 3.2:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MWT Boyle
+    - 3.3:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 3.4:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.5:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 3.6:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 3.7:
+        non_striker: MWT Boyle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.1:
+        non_striker: MWT Boyle
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: MWT Boyle
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.3:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWT Boyle
+    - 4.4:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MWT Boyle
+    - 4.5:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 4.6:
+        non_striker: MWT Boyle
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.1:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+    - 5.2:
+        non_striker: MWT Boyle
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.3:
+        non_striker: MWT Boyle
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.4:
+        non_striker: MWT Boyle
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.5:
+        non_striker: MWT Boyle
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 5.6:
+        non_striker: MWT Boyle
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 6.1:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWT Boyle
+    - 6.2:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWT Boyle
+        wicket:
+          player_out: MWT Boyle
+          fielders:
+          - BJ Horne
+          - BG Lister
+          kind: run out
+    - 6.3:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 6.4:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 6.5:
+        non_striker: LJ Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.6:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 7.1:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 7.2:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 7.3:
+        non_striker: LJ Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 7.4:
+        non_striker: LJ Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 7.5:
+        non_striker: LJ Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.6:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.1:
+        non_striker: LJ Carter
+        bowler: A Ashok
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 8.2:
+        non_striker: LJ Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.3:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.4:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+    - 8.5:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 8.6:
+        non_striker: LJ Carter
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.7:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.1:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 9.2:
+        non_striker: LJ Carter
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 9.3:
+        non_striker: LJ Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 9.4:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Carter
+    - 9.5:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+        wicket:
+          player_out: LJ Carter
+          fielders:
+          - GH Worker
+          kind: caught
+    - 9.6:
+        non_striker: CJ Bowes
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.7:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 10.1:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 10.2:
+        non_striker: CJ Bowes
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 10.3:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - MS Chapman
+          kind: caught
+    - 10.4:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 10.5:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.6:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.1:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 11.2:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.3:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 11.4:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 11.5:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CE McConchie
+    - 11.6:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.1:
+        non_striker: CD Fletcher
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CE McConchie
+    - 12.2:
+        non_striker: CD Fletcher
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 12.3:
+        non_striker: CE McConchie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.4:
+        non_striker: CE McConchie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.5:
+        non_striker: CE McConchie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 12.6:
+        non_striker: CE McConchie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.1:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.2:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 13.3:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 13.4:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 13.5:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Hay
+    - 13.6:
+        non_striker: MJ Hay
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.1:
+        non_striker: MJ Hay
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.2:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Hay
+        wicket:
+          player_out: MJ Hay
+          fielders:
+          - BG Lister
+          kind: caught
+    - 14.3:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 14.4:
+        non_striker: HB Shipley
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.5:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 14.6:
+        non_striker: HB Shipley
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 15.1:
+        non_striker: CD Fletcher
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.2:
+        non_striker: HB Shipley
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+        wicket:
+          player_out: CD Fletcher
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 15.3:
+        non_striker: HB Shipley
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AW McKenzie
+    - 15.4:
+        non_striker: AW McKenzie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 15.5:
+        non_striker: AW McKenzie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 15.6:
+        non_striker: AW McKenzie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 16.1:
+        non_striker: AW McKenzie
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 16.2:
+        non_striker: AW McKenzie
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 16.3:
+        non_striker: HB Shipley
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AW McKenzie
+    - 16.4:
+        non_striker: AW McKenzie
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 16.5:
+        non_striker: AW McKenzie
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 16.6:
+        non_striker: AW McKenzie
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+        wicket:
+          player_out: HB Shipley
+          kind: bowled
+    - 17.1:
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TD Astle
+        batsman: AW McKenzie
+    - 17.2:
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TD Astle
+        batsman: AW McKenzie
+    - 17.3:
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TD Astle
+        batsman: AW McKenzie
+    - 17.4:
+        non_striker: AW McKenzie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Astle
+    - 17.5:
+        non_striker: AW McKenzie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TD Astle
+    - 17.6:
+        non_striker: AW McKenzie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Astle
+    - 18.1:
+        non_striker: TD Astle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AW McKenzie
+        wicket:
+          player_out: AW McKenzie
+          fielders:
+          - CJ Briggs
+          kind: caught
+    - 18.2:
+        non_striker: TD Astle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W O'Rourke
+    - 18.3:
+        non_striker: TD Astle
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 18.4:
+        non_striker: W O'Rourke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Astle
+        wicket:
+          player_out: TD Astle
+          kind: bowled
+    - 18.5:
+        non_striker: W O'Rourke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Nuttall
+    - 18.6:
+        non_striker: EJ Nuttall
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 19.1:
+        non_striker: EJ Nuttall
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W O'Rourke
+    - 19.2:
+        non_striker: EJ Nuttall
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 19.3:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Nuttall
+    - 19.4:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Nuttall
+    - 19.5:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Nuttall
+    - 19.6:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Nuttall
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MP O'Dowd
+        batsman: GH Worker
+    - 0.2:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 0.3:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 0.4:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 0.5:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 0.6:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.1:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.2:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.3:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.4:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.5:
+        non_striker: GH Worker
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 1.6:
+        non_striker: GH Worker
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.1:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.2:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 2.3:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - AW McKenzie
+          kind: caught
+    - 2.4:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 2.5:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 2.6:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 3.1:
+        non_striker: CJ Briggs
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 3.2:
+        non_striker: CJ Briggs
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GH Worker
+    - 3.3:
+        non_striker: GH Worker
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 3.4:
+        non_striker: GH Worker
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 3.5:
+        non_striker: GH Worker
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 3.6:
+        non_striker: GH Worker
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 4.1:
+        non_striker: CJ Briggs
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 4.2:
+        non_striker: GH Worker
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 4.3:
+        non_striker: GH Worker
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 4.4:
+        non_striker: GH Worker
+        bowler: W O'Rourke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CJ Briggs
+    - 4.5:
+        non_striker: CJ Briggs
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 4.6:
+        non_striker: GH Worker
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 5.1:
+        non_striker: CJ Briggs
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 5.2:
+        non_striker: CJ Briggs
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 5.3:
+        non_striker: CJ Briggs
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 5.4:
+        non_striker: CJ Briggs
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 5.5:
+        non_striker: CJ Briggs
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 5.6:
+        non_striker: CJ Briggs
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 6.1:
+        non_striker: CJ Briggs
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 6.2:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 6.3:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 6.4:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 6.5:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 6.6:
+        non_striker: CJ Briggs
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 7.1:
+        non_striker: CJ Briggs
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 7.2:
+        non_striker: CJ Briggs
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 7.3:
+        non_striker: CJ Briggs
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 7.4:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 7.5:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 7.6:
+        non_striker: CJ Briggs
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 8.1:
+        non_striker: CJ Briggs
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 8.2:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+        wicket:
+          player_out: CJ Briggs
+          fielders:
+          - MWT Boyle
+          kind: caught
+    - 8.3:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 8.4:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 8.5:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 8.6:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.1:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 9.2:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.3:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 9.4:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 9.5:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 9.6:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.1:
+        non_striker: WT O'Donnell
+        bowler: MWT Boyle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 10.2:
+        non_striker: WT O'Donnell
+        bowler: MWT Boyle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.3:
+        non_striker: SM Solia
+        bowler: MWT Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 10.4:
+        non_striker: SM Solia
+        bowler: MWT Boyle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 10.5:
+        non_striker: SM Solia
+        bowler: MWT Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 10.6:
+        non_striker: SM Solia
+        bowler: MWT Boyle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 11.1:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.2:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 11.3:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 11.4:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.5:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 11.6:
+        non_striker: WT O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 12.1:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 12.2:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 12.3:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 12.4:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 12.5:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 12.6:
+        non_striker: WT O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 13.1:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 13.2:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 13.3:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          kind: lbw
+    - 13.4:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.5:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.6:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 14.1:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 14.2:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 14.3:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 14.4:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.5:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 14.6:
+        non_striker: SM Solia
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 15.1:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 15.2:
+        non_striker: BJ Horne
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 15.3:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 15.4:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 15.5:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 15.6:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 16.1:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 16.2:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 16.3:
+        non_striker: BJ Horne
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 16.4:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: BJ Horne
+    - 16.5:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 16.6:
+        non_striker: BJ Horne
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 16.7:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 16.8:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 17.1:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Solia
+    - 17.2:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 17.3:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 17.4:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 17.5:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 17.6:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 17.7:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 18.1:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 18.2:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BJ Horne
+    - 18.3:
+        non_striker: BJ Horne
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 18.4:
+        non_striker: SM Solia
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 18.5:
+        non_striker: BJ Horne
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - MWT Boyle
+          kind: caught
+    - 18.6:
+        non_striker: BJ Horne
+        bowler: AW McKenzie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Delport
+    - 19.1:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+    - 19.2:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+    - 19.3:
+        non_striker: BJ Horne
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delport

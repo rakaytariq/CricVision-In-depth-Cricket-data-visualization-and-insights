@@ -1,0 +1,2213 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  competition: Women's Big Bash League
+  dates:
+  - '2022-10-22'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Sydney Thunder
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - LG Smith
+  players:
+    Sydney Thunder:
+    - TT Beaumont
+    - P Litchfield
+    - AE Jones
+    - RL Haynes
+    - SJ Johnson
+    - O Porter
+    - T Wilson
+    - LMM Tahuhu
+    - LG Smith
+    - B Vakarewa
+    - SL Bates
+    Perth Scorchers:
+    - SFM Devine
+    - BL Mooney
+    - C Piparo
+    - ML Green
+    - M Kapp
+    - M Carmichael
+    - AL Edgar
+    - P Cleary
+    - A King
+    - L Mills
+    - HL Ferling
+  registry:
+    people:
+      A King: '83558266'
+      AE Jones: b05e45e4
+      AL Edgar: 795ff893
+      Ashlee Gibbons: b81712f7
+      B Vakarewa: 06f988b8
+      BL Mooney: 52d1dbc8
+      C Piparo: 276f3dde
+      HL Ferling: a594a6e0
+      J Buscall: abc082bf
+      L Mills: c35a0b8a
+      LG Smith: 9c515112
+      LMM Tahuhu: '60471339'
+      M Carmichael: 4b546c04
+      M Kapp: 63e3b6b3
+      ML Green: 865eae1f
+      O Porter: 9ac15b90
+      P Cleary: 507acf2e
+      P Litchfield: 4e6ef14f
+      RL Haynes: d7c6b0fb
+      RW Stratford: '85489579'
+      SFM Devine: de69af96
+      SJ Johnson: d7b754d4
+      SL Bates: '0816fb1e'
+      T Wilson: 32100b2d
+      TT Beaumont: b2664905
+  teams:
+  - Sydney Thunder
+  - Perth Scorchers
+  toss:
+    winner: Perth Scorchers
+    decision: field
+  umpires:
+  - Ashlee Gibbons
+  - J Buscall
+  venue: Western Australia Cricket Association Ground, Perth
+innings:
+- 1st innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TT Beaumont
+    - 0.2:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.3:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 0.4:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.6:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.7:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.1:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.2:
+        non_striker: P Litchfield
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.4:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 1.5:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.6:
+        non_striker: P Litchfield
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.1:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 2.2:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.3:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.4:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: P Litchfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 2.6:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.1:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 3.2:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 3.3:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.4:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 3.5:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.6:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.7:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 3.8:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 4.2:
+        non_striker: P Litchfield
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 4.5:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 4.6:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - SFM Devine
+          kind: caught
+    - 4.7:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 5.1:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Beaumont
+    - 5.2:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 5.3:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 5.4:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 5.5:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 5.6:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 6.1:
+        non_striker: AE Jones
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 6.2:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 6.3:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 6.4:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 6.5:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 6.6:
+        non_striker: AE Jones
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.1:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 7.2:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 7.3:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 7.4:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.5:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.6:
+        non_striker: AE Jones
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 8.1:
+        non_striker: AE Jones
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 8.2:
+        non_striker: AE Jones
+        bowler: HL Ferling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 8.3:
+        non_striker: AE Jones
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 8.4:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 8.5:
+        non_striker: AE Jones
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 8.6:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 8.7:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 8.8:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 8.9:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 9.1:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.2:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 9.3:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 9.4:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.5:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.6:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 10.1:
+        non_striker: RL Haynes
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 10.2:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 10.3:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 10.4:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 10.5:
+        non_striker: TT Beaumont
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 10.6:
+        non_striker: RL Haynes
+        bowler: HL Ferling
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TT Beaumont
+    - 11.1:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 11.2:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 11.3:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 11.4:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 11.5:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RL Haynes
+    - 11.6:
+        non_striker: RL Haynes
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 12.1:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 12.2:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 12.3:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 12.4:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 12.5:
+        non_striker: RL Haynes
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 12.6:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 12.7:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.1:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 13.2:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 13.3:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 13.4:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 13.5:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 13.6:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 14.1:
+        non_striker: RL Haynes
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 14.2:
+        non_striker: RL Haynes
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 14.3:
+        non_striker: TT Beaumont
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 14.4:
+        non_striker: RL Haynes
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 14.5:
+        non_striker: RL Haynes
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 14.6:
+        non_striker: RL Haynes
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 15.1:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 15.2:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 15.3:
+        non_striker: RL Haynes
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 15.4:
+        non_striker: RL Haynes
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 15.5:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 15.6:
+        non_striker: TT Beaumont
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 16.1:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 16.2:
+        non_striker: RL Haynes
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 16.3:
+        non_striker: RL Haynes
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 16.4:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 16.5:
+        non_striker: RL Haynes
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 16.6:
+        non_striker: TT Beaumont
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+        wicket:
+          player_out: RL Haynes
+          fielders:
+          - HL Ferling
+          kind: caught
+    - 17.1:
+        non_striker: SJ Johnson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 17.2:
+        non_striker: SJ Johnson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 17.3:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 17.4:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 17.5:
+        non_striker: SJ Johnson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+        wicket:
+          player_out: SJ Johnson
+          fielders:
+          - SFM Devine
+          - A King
+          kind: run out
+    - 17.6:
+        non_striker: O Porter
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 18.1:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Porter
+    - 18.2:
+        non_striker: O Porter
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 18.3:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Porter
+    - 18.4:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Porter
+    - 18.5:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Porter
+    - 18.6:
+        non_striker: TT Beaumont
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Porter
+    - 19.1:
+        non_striker: O Porter
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 19.2:
+        non_striker: O Porter
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 19.3:
+        non_striker: O Porter
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 19.4:
+        non_striker: O Porter
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 19.5:
+        non_striker: O Porter
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 19.6:
+        non_striker: TT Beaumont
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: O Porter
+- 2nd innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 0.2:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 0.3:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 0.4:
+        non_striker: SFM Devine
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 0.5:
+        non_striker: SFM Devine
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.1:
+        non_striker: BL Mooney
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.2:
+        non_striker: SFM Devine
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 1.3:
+        non_striker: SFM Devine
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.4:
+        non_striker: BL Mooney
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.5:
+        non_striker: BL Mooney
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.6:
+        non_striker: SFM Devine
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.1:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.2:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.3:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.4:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.5:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 2.6:
+        non_striker: SFM Devine
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 3.1:
+        non_striker: BL Mooney
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - O Porter
+          kind: caught
+    - 3.2:
+        non_striker: BL Mooney
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 3.3:
+        non_striker: C Piparo
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 3.4:
+        non_striker: C Piparo
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 3.5:
+        non_striker: BL Mooney
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 3.6:
+        non_striker: C Piparo
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 4.1:
+        non_striker: C Piparo
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 4.2:
+        non_striker: C Piparo
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 4.3:
+        non_striker: C Piparo
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 4.4:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 4.5:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 4.6:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 4.7:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 5.1:
+        non_striker: C Piparo
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 5.2:
+        non_striker: BL Mooney
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 5.3:
+        non_striker: BL Mooney
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+        wicket:
+          player_out: C Piparo
+          fielders:
+          - RL Haynes
+          kind: caught
+    - 5.4:
+        non_striker: BL Mooney
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 5.5:
+        non_striker: ML Green
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 5.6:
+        non_striker: ML Green
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 6.1:
+        non_striker: ML Green
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 6.2:
+        non_striker: ML Green
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 6.3:
+        non_striker: ML Green
+        bowler: SL Bates
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BL Mooney
+    - 6.4:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 6.5:
+        non_striker: BL Mooney
+        bowler: SL Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Green
+    - 6.6:
+        non_striker: ML Green
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - O Porter
+          kind: caught
+    - 6.7:
+        non_striker: ML Green
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 7.1:
+        non_striker: ML Green
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 7.2:
+        non_striker: ML Green
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 7.3:
+        non_striker: ML Green
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 7.4:
+        non_striker: ML Green
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 7.5:
+        non_striker: M Kapp
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.6:
+        non_striker: M Kapp
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.1:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.2:
+        non_striker: ML Green
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 8.3:
+        non_striker: ML Green
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 8.4:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.5:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - T Wilson
+          kind: caught
+    - 8.6:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Carmichael
+    - 8.7:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 9.1:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 9.2:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 9.3:
+        non_striker: M Carmichael
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 9.4:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+        wicket:
+          player_out: M Carmichael
+          fielders:
+          - AE Jones
+          kind: caught
+    - 9.5:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 9.6:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 10.1:
+        non_striker: AL Edgar
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 10.2:
+        non_striker: AL Edgar
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 10.3:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 10.4:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Edgar
+    - 10.5:
+        non_striker: M Kapp
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 10.6:
+        non_striker: AL Edgar
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 11.1:
+        non_striker: M Kapp
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 11.2:
+        non_striker: AL Edgar
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 11.3:
+        non_striker: AL Edgar
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 11.4:
+        non_striker: M Kapp
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 11.5:
+        non_striker: AL Edgar
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 11.6:
+        non_striker: AL Edgar
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.1:
+        non_striker: AL Edgar
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.2:
+        non_striker: M Kapp
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 12.3:
+        non_striker: AL Edgar
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.4:
+        non_striker: M Kapp
+        bowler: B Vakarewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Edgar
+    - 12.5:
+        non_striker: M Kapp
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 12.6:
+        non_striker: AL Edgar
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.7:
+        non_striker: M Kapp
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 13.1:
+        non_striker: AL Edgar
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 13.2:
+        non_striker: AL Edgar
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 13.3:
+        non_striker: AL Edgar
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 13.4:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+        wicket:
+          player_out: AL Edgar
+          fielders:
+          - T Wilson
+          kind: stumped
+    - 13.5:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 13.6:
+        non_striker: M Kapp
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 14.1:
+        non_striker: M Kapp
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 14.2:
+        non_striker: M Kapp
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 14.3:
+        non_striker: M Kapp
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 14.4:
+        non_striker: M Kapp
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 14.5:
+        non_striker: P Cleary
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 14.6:
+        non_striker: M Kapp
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 15.1:
+        non_striker: M Kapp
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cleary
+    - 15.2:
+        non_striker: M Kapp
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 15.3:
+        non_striker: P Cleary
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - O Porter
+          kind: caught
+    - 15.4:
+        non_striker: P Cleary
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 15.5:
+        non_striker: A King
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cleary
+    - 15.6:
+        non_striker: A King
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cleary
+    - 16.1:
+        non_striker: P Cleary
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 16.2:
+        non_striker: P Cleary
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 16.3:
+        non_striker: A King
+        bowler: SL Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Cleary
+    - 16.4:
+        non_striker: P Cleary
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 16.5:
+        non_striker: P Cleary
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 16.6:
+        non_striker: P Cleary
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 17.1:
+        non_striker: A King
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 17.2:
+        non_striker: P Cleary
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 17.3:
+        non_striker: A King
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 17.4:
+        non_striker: P Cleary
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 17.5:
+        non_striker: A King
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+        wicket:
+          player_out: P Cleary
+          fielders:
+          - SL Bates
+          kind: caught
+    - 17.6:
+        non_striker: A King
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mills
+        wicket:
+          player_out: L Mills
+          fielders:
+          - B Vakarewa
+          kind: caught
+    - 18.1:
+        non_striker: HL Ferling
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 18.2:
+        non_striker: HL Ferling
+        bowler: B Vakarewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A King
+    - 18.3:
+        non_striker: HL Ferling
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 18.4:
+        non_striker: A King
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Ferling
+    - 18.5:
+        non_striker: A King
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Ferling
+    - 18.6:
+        non_striker: HL Ferling
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 18.7:
+        non_striker: HL Ferling
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 19.1:
+        non_striker: HL Ferling
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 19.2:
+        non_striker: HL Ferling
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 19.3:
+        non_striker: A King
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HL Ferling
+    - 19.4:
+        non_striker: A King
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Ferling
+    - 19.5:
+        non_striker: HL Ferling
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 19.6:
+        non_striker: HL Ferling
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King

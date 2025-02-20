@@ -1,0 +1,1428 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-12'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Hobart Hurricanes
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - M du Preez
+  players:
+    Brisbane Heat:
+    - DN Wyatt
+    - G Voll
+    - GM Harris
+    - AC Kerr
+    - L Harris
+    - E Johnston
+    - CR Knott
+    - JL Jonassen
+    - JM Kerr
+    - NM Hancock
+    - CG Sippel
+    Hobart Hurricanes:
+    - L Lee
+    - R Johnston
+    - M du Preez
+    - H Graham
+    - EJ Villani
+    - NJ Carey
+    - NE Stalenberg
+    - HNK Jensen
+    - ML Gibson
+    - A Smith
+    - M Strano
+  registry:
+    people:
+      A Smith: b125ce63
+      AC Kerr: 7673c908
+      CG Sippel: c2ac0db5
+      CR Knott: d7ff1adc
+      D Bhatt: b34f743c
+      DN Wyatt: a139c379
+      E Johnston: 3785e30d
+      EJ Villani: cde96d97
+      Eloise Sheridan: d8d43840
+      G Voll: 5c30d455
+      GM Harris: '72166006'
+      H Graham: 99812d10
+      HNK Jensen: b8cce99f
+      JL Jonassen: 0475a86b
+      JM Kerr: 9af58032
+      L Harris: 36e2dc83
+      L Lee: 7b01ce83
+      M Strano: f57d5dbb
+      M du Preez: e219f17a
+      ML Gibson: 27fa592f
+      NE Stalenberg: 609c519e
+      NJ Carey: dff806f4
+      NM Hancock: af8c3a85
+      R Johnston: 3cd107a7
+      SJ Davis: bc71b0b2
+  teams:
+  - Brisbane Heat
+  - Hobart Hurricanes
+  toss:
+    winner: Hobart Hurricanes
+    decision: field
+  umpires:
+  - D Bhatt
+  - Eloise Sheridan
+  venue: Karen Rolton Oval, Adelaide
+innings:
+- 1st innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.2:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: G Voll
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          kind: caught and bowled
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 0.6:
+        non_striker: GM Harris
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 1.1:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.3:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 1.4:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - R Johnston
+          kind: caught
+    - 1.5:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 1.6:
+        non_striker: AC Kerr
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 2.1:
+        non_striker: GM Harris
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 2.2:
+        non_striker: GM Harris
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 2.3:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 2.4:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 2.5:
+        non_striker: AC Kerr
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 2.6:
+        non_striker: GM Harris
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.1:
+        non_striker: AC Kerr
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 3.2:
+        non_striker: AC Kerr
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 3.4:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.5:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.6:
+        non_striker: GM Harris
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.1:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          kind: bowled
+    - 4.2:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 4.3:
+        non_striker: L Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 4.4:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 4.5:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 4.6:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 5.1:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Harris
+    - 5.2:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 5.3:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 5.4:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 5.5:
+        non_striker: L Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 5.6:
+        non_striker: L Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 5.7:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 6.1:
+        non_striker: L Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 6.2:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 6.3:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 6.4:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 6.5:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+    - 6.6:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Harris
+    - 6.7:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 7.1:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Harris
+    - 7.2:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 7.3:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Harris
+    - 7.4:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Harris
+    - 7.5:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 7.6:
+        non_striker: L Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 7.7:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Harris
+    - 8.1:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Harris
+    - 8.2:
+        non_striker: L Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 8.3:
+        non_striker: L Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 8.4:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Harris
+        wicket:
+          player_out: L Harris
+          kind: bowled
+    - 8.5:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 8.6:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 9.1:
+        non_striker: E Johnston
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 9.2:
+        non_striker: E Johnston
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 9.3:
+        non_striker: E Johnston
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 9.4:
+        non_striker: GM Harris
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 9.5:
+        non_striker: E Johnston
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+        wicket:
+          player_out: E Johnston
+          fielders:
+          - H Graham
+          kind: run out
+    - 9.6:
+        non_striker: CR Knott
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 10.1:
+        non_striker: CR Knott
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 10.2:
+        non_striker: CR Knott
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 10.3:
+        non_striker: CR Knott
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 10.4:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Knott
+    - 10.5:
+        non_striker: GM Harris
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 10.6:
+        non_striker: CR Knott
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 11.1:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 11.2:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Knott
+    - 11.3:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 11.4:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 11.5:
+        non_striker: GM Harris
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Knott
+    - 11.6:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 11.7:
+        non_striker: CR Knott
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 12.1:
+        non_striker: CR Knott
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 12.2:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Knott
+    - 12.3:
+        non_striker: GM Harris
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CR Knott
+    - 12.4:
+        non_striker: CR Knott
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+        wicket:
+          player_out: GM Harris
+          fielders:
+          - H Graham
+          kind: caught
+    - 12.5:
+        non_striker: CR Knott
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 12.6:
+        non_striker: JL Jonassen
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Knott
+- 2nd innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: R Johnston
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.2:
+        non_striker: R Johnston
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 0.3:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 0.4:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Johnston
+    - 0.5:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Johnston
+    - 0.6:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 0.7:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Johnston
+    - 1.1:
+        non_striker: R Johnston
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 1.2:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 1.3:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+        wicket:
+          player_out: R Johnston
+          fielders:
+          - E Johnston
+          - NM Hancock
+          kind: run out
+    - 1.4:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 1.5:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 1.6:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 2.1:
+        non_striker: L Lee
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 2.2:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.3:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 2.4:
+        non_striker: L Lee
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 2.5:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 2.6:
+        non_striker: L Lee
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 3.1:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 3.2:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 3.3:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 3.4:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 3.5:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 3.6:
+        non_striker: L Lee
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.1:
+        non_striker: L Lee
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.2:
+        non_striker: L Lee
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 4.3:
+        non_striker: L Lee
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.4:
+        non_striker: L Lee
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M du Preez
+    - 4.5:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lee
+    - 4.6:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 5.1:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 5.2:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 5.3:
+        non_striker: L Lee
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.4:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 5.5:
+        non_striker: L Lee
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.6:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 6.1:
+        non_striker: L Lee
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.2:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 6.3:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 6.4:
+        non_striker: L Lee
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 6.5:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 6.6:
+        non_striker: M du Preez
+        bowler: CG Sippel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 7.1:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M du Preez
+    - 7.2:
+        non_striker: L Lee
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 7.3:
+        non_striker: M du Preez
+        bowler: NM Hancock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 7.4:
+        non_striker: M du Preez
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - DN Wyatt
+          kind: caught
+    - 7.5:
+        non_striker: M du Preez
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 7.6:
+        non_striker: M du Preez
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 7.7:
+        non_striker: M du Preez
+        bowler: NM Hancock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+        wicket:
+          player_out: H Graham
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 8.1:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 8.2:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 8.3:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.4:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 8.5:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 8.6:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 9.1:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 9.2:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 9.3:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 9.4:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 9.5:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 9.6:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 10.1:
+        non_striker: EJ Villani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 10.2:
+        non_striker: EJ Villani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 10.3:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 10.4:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 10.5:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 10.6:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 11.1:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 11.2:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 11.3:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: EJ Villani
+    - 11.4:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 11.5:
+        non_striker: M du Preez
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 11.6:
+        non_striker: EJ Villani
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - DN Wyatt
+          kind: caught
+    - 12.1:
+        non_striker: NJ Carey
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: EJ Villani
+    - 12.2:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.3:
+        non_striker: NJ Carey
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani

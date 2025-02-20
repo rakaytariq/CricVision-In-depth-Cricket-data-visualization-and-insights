@@ -1,0 +1,2163 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Queenstown
+  competition: Women's Super Smash
+  dates:
+  - '2022-12-29'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Otago:
+    - SW Bates
+    - ON Gain
+    - PM Inglis
+    - KE Broadmore
+    - CG Blakely
+    - FC Leydon-Davis
+    - IR James
+    - HNK Jensen
+    - EJ Black
+    - SA Oldershaw
+    - ME Loe
+    Auckland:
+    - S Shahri
+    - AS Browning
+    - LR Down
+    - IC Gaze
+    - BG Armstrong
+    - KT Perkins
+    - SE Bowden
+    - AN Kelly
+    - AT Hucker
+    - MM Penfold
+    - FC Jonas
+  registry:
+    people:
+      AN Kelly: 397369e0
+      AS Browning: c4c97b51
+      AT Hucker: 9b554bb9
+      BG Armstrong: eca08a1d
+      CG Blakely: 8f999ed5
+      EJ Black: 2817e17a
+      Eloise Sheridan: d8d43840
+      FC Jonas: 6df697a9
+      FC Leydon-Davis: b91efad5
+      HNK Jensen: b8cce99f
+      IC Gaze: 60c250bf
+      IR James: 57bdbc16
+      JT Blunt: 2fe9a247
+      KE Broadmore: 7c0055c1
+      KT Perkins: 78ad3258
+      Kim Cotton: 67a7c2ee
+      LR Down: 19147fe0
+      ME Loe: 37f93dc8
+      MM Penfold: 645b2a2f
+      ON Gain: '67913804'
+      PM Inglis: e4a71d18
+      S Shahri: c28355cd
+      SA Oldershaw: 93b4f6f6
+      SB Haig: 811655b3
+      SE Bowden: e2a71375
+      SRM Morris: 74b402c6
+      SW Bates: 89bbc67a
+  teams:
+  - Otago
+  - Auckland
+  toss:
+    winner: Otago
+    decision: bat
+  umpires:
+  - Eloise Sheridan
+  - Kim Cotton
+  venue: John Davies Oval, Queenstown
+innings:
+- 1st innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.2:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.3:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.4:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.5:
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.6:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ON Gain
+        batsman: SW Bates
+    - 0.7:
+        non_striker: ON Gain
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.1:
+        non_striker: ON Gain
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.2:
+        non_striker: ON Gain
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.3:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+        wicket:
+          player_out: ON Gain
+          kind: lbw
+    - 1.4:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 1.5:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.6:
+        non_striker: SW Bates
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.1:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 2.2:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.3:
+        non_striker: SW Bates
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.4:
+        non_striker: SW Bates
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.5:
+        non_striker: SW Bates
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.6:
+        non_striker: SW Bates
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.1:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.2:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 3.3:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 3.4:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.6:
+        non_striker: SW Bates
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.7:
+        non_striker: SW Bates
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 3.8:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          kind: hit wicket
+    - 4.1:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KE Broadmore
+        batsman: PM Inglis
+    - 4.2:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KE Broadmore
+        batsman: PM Inglis
+    - 4.3:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KE Broadmore
+        batsman: PM Inglis
+    - 4.4:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KE Broadmore
+        batsman: PM Inglis
+    - 4.5:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 4.6:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 5.1:
+        non_striker: KE Broadmore
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 5.2:
+        non_striker: PM Inglis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 5.3:
+        non_striker: PM Inglis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 5.4:
+        non_striker: PM Inglis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 5.5:
+        non_striker: PM Inglis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 5.6:
+        non_striker: KE Broadmore
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 6.1:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 6.2:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 6.3:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 6.4:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 6.5:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 6.6:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 7.1:
+        non_striker: PM Inglis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 7.2:
+        non_striker: PM Inglis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.3:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 7.4:
+        non_striker: PM Inglis
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Broadmore
+    - 7.5:
+        non_striker: PM Inglis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.6:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 7.7:
+        non_striker: PM Inglis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.1:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 8.2:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.3:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 8.4:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.5:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 8.6:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 9.1:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 9.2:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 9.3:
+        non_striker: PM Inglis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 9.4:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 9.5:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 9.6:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 10.1:
+        non_striker: KE Broadmore
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 10.2:
+        non_striker: KE Broadmore
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 10.3:
+        non_striker: PM Inglis
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 10.4:
+        non_striker: PM Inglis
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 10.5:
+        non_striker: KE Broadmore
+        bowler: BG Armstrong
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: PM Inglis
+    - 10.6:
+        non_striker: KE Broadmore
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 10.7:
+        non_striker: PM Inglis
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 11.1:
+        non_striker: KE Broadmore
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 11.2:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Broadmore
+    - 11.3:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 11.4:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.5:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.6:
+        non_striker: PM Inglis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 12.1:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 12.2:
+        non_striker: PM Inglis
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 12.3:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 12.4:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+        wicket:
+          player_out: PM Inglis
+          fielders:
+          - AN Kelly
+          kind: caught
+    - 12.5:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 12.6:
+        non_striker: KE Broadmore
+        bowler: AS Browning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 13.1:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 13.2:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 13.3:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 13.4:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 13.5:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 13.6:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 14.1:
+        non_striker: KE Broadmore
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 14.2:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 14.3:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 14.4:
+        non_striker: KE Broadmore
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 14.5:
+        non_striker: KE Broadmore
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 14.6:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KE Broadmore
+    - 15.1:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 15.2:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 15.3:
+        non_striker: CG Blakely
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 15.4:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CG Blakely
+    - 15.5:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 15.6:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 15.7:
+        non_striker: KE Broadmore
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 16.1:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 16.2:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+        wicket:
+          player_out: KE Broadmore
+          kind: bowled
+    - 16.3:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 16.4:
+        non_striker: FC Leydon-Davis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 16.5:
+        non_striker: FC Leydon-Davis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 16.6:
+        non_striker: CG Blakely
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 17.1:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 17.2:
+        non_striker: FC Leydon-Davis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.3:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 17.4:
+        non_striker: FC Leydon-Davis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 17.5:
+        non_striker: FC Leydon-Davis
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.6:
+        non_striker: CG Blakely
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Leydon-Davis
+    - 18.1:
+        non_striker: FC Leydon-Davis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 18.2:
+        non_striker: CG Blakely
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Leydon-Davis
+    - 18.3:
+        non_striker: CG Blakely
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 18.4:
+        non_striker: FC Leydon-Davis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 18.5:
+        non_striker: CG Blakely
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+        wicket:
+          player_out: FC Leydon-Davis
+          fielders:
+          - LR Down
+          kind: caught
+    - 18.6:
+        non_striker: CG Blakely
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          fielders:
+          - KT Perkins
+          kind: caught
+    - 18.7:
+        non_striker: CG Blakely
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+        wicket:
+          player_out: CG Blakely
+          fielders:
+          - BG Armstrong
+          - AN Kelly
+          kind: run out
+    - 19.1:
+        non_striker: HNK Jensen
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Black
+    - 19.2:
+        non_striker: EJ Black
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 19.3:
+        non_striker: EJ Black
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 19.4:
+        non_striker: HNK Jensen
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Black
+    - 19.5:
+        non_striker: HNK Jensen
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: EJ Black
+    - 19.6:
+        non_striker: EJ Black
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HNK Jensen
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.2:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.3:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.4:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.5:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Browning
+        batsman: S Shahri
+    - 0.6:
+        non_striker: AS Browning
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 1.1:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 1.2:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Browning
+    - 1.3:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 1.4:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Browning
+    - 1.5:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 1.6:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 2.1:
+        non_striker: AS Browning
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 2.2:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Browning
+    - 2.3:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 2.4:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 2.5:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 2.6:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 3.1:
+        non_striker: S Shahri
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 3.2:
+        non_striker: S Shahri
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 3.3:
+        non_striker: S Shahri
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 3.4:
+        non_striker: S Shahri
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 3.5:
+        non_striker: S Shahri
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 3.6:
+        non_striker: AS Browning
+        bowler: SW Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Shahri
+    - 3.7:
+        non_striker: AS Browning
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 4.1:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 4.2:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 4.3:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 4.4:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 4.5:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 4.6:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 5.1:
+        non_striker: S Shahri
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 5.2:
+        non_striker: AS Browning
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 5.3:
+        non_striker: AS Browning
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+        wicket:
+          player_out: S Shahri
+          fielders:
+          - SW Bates
+          kind: caught
+    - 5.4:
+        non_striker: AS Browning
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.5:
+        non_striker: AS Browning
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.6:
+        non_striker: AS Browning
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.1:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 6.2:
+        non_striker: AS Browning
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.3:
+        non_striker: AS Browning
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.4:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 6.5:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 6.6:
+        non_striker: AS Browning
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.1:
+        non_striker: AS Browning
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.2:
+        non_striker: AS Browning
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.3:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 7.4:
+        non_striker: AS Browning
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.5:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 7.6:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 8.1:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 8.2:
+        non_striker: AS Browning
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 8.3:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 8.4:
+        non_striker: AS Browning
+        bowler: KE Broadmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LR Down
+    - 8.5:
+        non_striker: AS Browning
+        bowler: KE Broadmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LR Down
+    - 8.6:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 8.7:
+        non_striker: AS Browning
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.1:
+        non_striker: AS Browning
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.2:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 9.3:
+        non_striker: AS Browning
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.4:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Browning
+    - 9.5:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 9.6:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 10.1:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 10.2:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 10.3:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Browning
+    - 10.4:
+        non_striker: AS Browning
+        bowler: KE Broadmore
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LR Down
+    - 10.5:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 10.6:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+    - 10.7:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Browning
+    - 11.1:
+        non_striker: AS Browning
+        bowler: CG Blakely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 11.2:
+        non_striker: LR Down
+        bowler: CG Blakely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Browning
+        wicket:
+          player_out: AS Browning
+          kind: caught and bowled
+    - 11.3:
+        non_striker: LR Down
+        bowler: CG Blakely
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 11.4:
+        non_striker: LR Down
+        bowler: CG Blakely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 11.5:
+        non_striker: IC Gaze
+        bowler: CG Blakely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 11.6:
+        non_striker: LR Down
+        bowler: CG Blakely
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 12.1:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 12.2:
+        non_striker: IC Gaze
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 12.3:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 12.4:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 12.5:
+        non_striker: IC Gaze
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 12.6:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 13.1:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 13.2:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 13.3:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 13.4:
+        non_striker: LR Down
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 13.5:
+        non_striker: IC Gaze
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LR Down
+    - 13.6:
+        non_striker: IC Gaze
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.1:
+        non_striker: IC Gaze
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.2:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 14.3:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 14.4:
+        non_striker: IC Gaze
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.5:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 14.6:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 15.1:
+        non_striker: LR Down
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 15.2:
+        non_striker: LR Down
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 15.3:
+        non_striker: IC Gaze
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 15.4:
+        non_striker: IC Gaze
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 15.5:
+        non_striker: LR Down
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 15.6:
+        non_striker: LR Down
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 16.1:
+        non_striker: LR Down
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 16.2:
+        non_striker: LR Down
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: IC Gaze
+    - 16.3:
+        non_striker: IC Gaze
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 16.4:
+        non_striker: LR Down
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 16.5:
+        non_striker: IC Gaze
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 16.6:
+        non_striker: IC Gaze
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 17.1:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: IC Gaze
+    - 17.2:
+        non_striker: IC Gaze
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.3:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 17.4:
+        non_striker: IC Gaze
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 17.5:
+        non_striker: IC Gaze
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.6:
+        non_striker: LR Down
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          kind: lbw
+    - 18.1:
+        bowler: KE Broadmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BG Armstrong
+        batsman: LR Down
+    - 18.2:
+        bowler: KE Broadmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BG Armstrong
+        batsman: LR Down
+    - 18.3:
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Armstrong
+        batsman: LR Down
+    - 18.4:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BG Armstrong
+    - 18.5:
+        non_striker: BG Armstrong
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 18.6:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+        wicket:
+          player_out: BG Armstrong
+          kind: lbw
+    - 18.7:
+        non_striker: LR Down
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 18.8:
+        non_striker: KT Perkins
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 19.1:
+        non_striker: LR Down
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 19.2:
+        non_striker: KT Perkins
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 19.3:
+        non_striker: LR Down
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins

@@ -1,0 +1,5039 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nottingham
+  competition: Rachael Heyhoe Flint Trophy
+  dates:
+  - '2023-04-22'
+  gender: female
+  match_type: ODM
+  outcome:
+    winner: The Blaze
+    by:
+      runs: 59
+  overs: 50
+  players:
+    The Blaze:
+    - TT Beaumont
+    - Marie Kelly
+    - GEB Boyce
+    - KE Bryce
+    - SJ Bryce
+    - S Glenn
+    - N de Klerk
+    - B Harmer
+    - LF Higham
+    - KL Gordon
+    - G Ballinger
+    Central Sparks:
+    - E Jones
+    - IECM Wong
+    - C Brewer
+    - AJ Freeborn
+    - A Campbell
+    - D Perrin
+    - EL Arlott
+    - KL George
+    - GK Davis
+    - G Potts
+    - HL Baker
+  registry:
+    people:
+      A Campbell: 4b788e61
+      AJ Freeborn: c6da6ebf
+      B Harmer: f113df44
+      C Brewer: baf11c9a
+      D Perrin: bfa0fa33
+      E Jones: 971cb321
+      EL Arlott: 78fd864b
+      G Ballinger: 2f485713
+      G Potts: e3a93585
+      GEB Boyce: 5b1f15fc
+      GK Davis: '54719239'
+      HL Baker: cefad9fd
+      IECM Wong: e5b17517
+      KE Bryce: f13d3eba
+      KL George: e69dbbef
+      KL Gordon: '00823a96'
+      LF Higham: fbd79b9b
+      M Kelly: ebf683f9
+      N de Klerk: ea544967
+      Phil Whitticase: 99d5f6fa
+      S Glenn: b34e0c77
+      S Redfern: 5b038989
+      SJ Bryce: 2ca65aee
+      SM Bartlett: 7ba18406
+      TT Beaumont: b2664905
+  teams:
+  - The Blaze
+  - Central Sparks
+  toss:
+    winner: The Blaze
+    decision: bat
+  umpires:
+  - SM Bartlett
+  - S Redfern
+  venue: Trent Bridge, Nottingham
+innings:
+- 1st innings:
+    team: The Blaze
+    deliveries:
+    - 0.1:
+        non_striker: Marie Kelly
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.2:
+        non_striker: Marie Kelly
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.3:
+        non_striker: Marie Kelly
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 0.4:
+        non_striker: Marie Kelly
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Marie Kelly
+    - 0.7:
+        non_striker: Marie Kelly
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.1:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+        wicket:
+          player_out: Marie Kelly
+          fielders:
+          - KL George
+          kind: caught
+    - 1.2:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 1.3:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GEB Boyce
+    - 1.4:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.5:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.6:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.1:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GEB Boyce
+    - 2.2:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GEB Boyce
+    - 2.3:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GEB Boyce
+    - 2.4:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 2.5:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 2.6:
+        non_striker: TT Beaumont
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GEB Boyce
+    - 3.1:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.2:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 3.3:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 3.4:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 3.5:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 3.6:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 3.7:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 4.1:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 4.2:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 4.3:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.4:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.5:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.6:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 4.7:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 4.8:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 5.1:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 5.2:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 5.3:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 5.4:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GEB Boyce
+    - 5.5:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 5.6:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 6.1:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 6.2:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 6.3:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 6.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GEB Boyce
+    - 6.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 6.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GEB Boyce
+    - 7.1:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 7.2:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.3:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 7.4:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.5:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.6:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 8.1:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 8.2:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GEB Boyce
+    - 8.3:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 8.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 8.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 8.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 8.7:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 9.1:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 9.2:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 9.3:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 9.4:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GEB Boyce
+    - 9.5:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 9.6:
+        non_striker: TT Beaumont
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 10.1:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 10.2:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 10.3:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 10.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 10.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 10.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 11.1:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 11.2:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 11.3:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 11.4:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 11.5:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 11.6:
+        non_striker: GEB Boyce
+        bowler: EL Arlott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Beaumont
+    - 12.1:
+        non_striker: GEB Boyce
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Beaumont
+    - 12.2:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GEB Boyce
+    - 12.3:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 12.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+    - 12.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GEB Boyce
+        wicket:
+          player_out: GEB Boyce
+          kind: lbw
+    - 12.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.1:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 13.2:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 13.3:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 13.4:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 13.5:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 13.6:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 13.7:
+        non_striker: KE Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 14.1:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 14.2:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 14.3:
+        non_striker: KE Bryce
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 14.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 14.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 14.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 15.1:
+        non_striker: SJ Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 15.2:
+        non_striker: SJ Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 15.3:
+        non_striker: SJ Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 15.4:
+        non_striker: SJ Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 15.5:
+        non_striker: SJ Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 15.6:
+        non_striker: SJ Bryce
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 16.1:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 16.2:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 16.3:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 16.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 16.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 16.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 16.7:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 17.1:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 17.2:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 17.3:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 17.4:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 17.5:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 17.6:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 18.1:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 18.2:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 18.3:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 18.4:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 18.5:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Beaumont
+    - 18.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 18.7:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 19.1:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 19.2:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 19.3:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 19.4:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 19.5:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 19.6:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Glenn
+    - 19.7:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 20.1:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 20.2:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 20.3:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 20.4:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 20.5:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 20.6:
+        non_striker: S Glenn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 21.1:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 21.2:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 21.3:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 21.4:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 21.5:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 21.6:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 21.7:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 22.1:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 22.2:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Glenn
+    - 22.3:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Glenn
+    - 22.4:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 22.5:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Glenn
+    - 22.6:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Glenn
+    - 22.7:
+        non_striker: TT Beaumont
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 23.1:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Glenn
+    - 23.2:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Glenn
+    - 23.3:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 23.4:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 23.5:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 23.6:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 23.7:
+        non_striker: TT Beaumont
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 23.8:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: TT Beaumont
+    - 23.9:
+        non_striker: S Glenn
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 24.1:
+        non_striker: TT Beaumont
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 24.2:
+        non_striker: TT Beaumont
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 24.3:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 24.4:
+        non_striker: TT Beaumont
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 24.5:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Beaumont
+    - 24.6:
+        non_striker: TT Beaumont
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 25.1:
+        non_striker: TT Beaumont
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 25.2:
+        non_striker: TT Beaumont
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 25.3:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          kind: lbw
+    - 25.4:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 25.5:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 25.6:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 26.1:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 26.2:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 26.3:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 26.4:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 26.5:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 26.6:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 27.1:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 27.2:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 27.3:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 27.4:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 27.5:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Glenn
+    - 27.6:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Glenn
+    - 28.1:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N de Klerk
+    - 28.2:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 28.3:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 28.4:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 28.5:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 28.6:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 29.1:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 29.2:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 29.3:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Glenn
+    - 29.4:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Glenn
+    - 29.5:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 29.6:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N de Klerk
+    - 29.7:
+        non_striker: N de Klerk
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 30.1:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Glenn
+    - 30.2:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 30.3:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 30.4:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 30.5:
+        non_striker: N de Klerk
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 30.6:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 31.1:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+        wicket:
+          player_out: N de Klerk
+          kind: caught and bowled
+    - 31.2:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 31.3:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 31.4:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 31.5:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 31.6:
+        non_striker: S Glenn
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 32.1:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 32.2:
+        non_striker: S Glenn
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 32.3:
+        non_striker: B Harmer
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 32.4:
+        non_striker: B Harmer
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+        wicket:
+          player_out: S Glenn
+          kind: bowled
+    - 32.5:
+        non_striker: B Harmer
+        bowler: HL Baker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Higham
+    - 32.6:
+        non_striker: B Harmer
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 32.7:
+        non_striker: B Harmer
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 33.1:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Higham
+    - 33.2:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 33.3:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 33.4:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 33.5:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 33.6:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 34.1:
+        non_striker: B Harmer
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 34.2:
+        non_striker: LF Higham
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 34.3:
+        non_striker: LF Higham
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Harmer
+    - 34.4:
+        non_striker: LF Higham
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 34.5:
+        non_striker: LF Higham
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 34.6:
+        non_striker: LF Higham
+        bowler: HL Baker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 35.1:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 35.2:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 35.3:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 35.4:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Higham
+    - 35.5:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 35.6:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 35.7:
+        non_striker: B Harmer
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 36.1:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 36.2:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 36.3:
+        non_striker: B Harmer
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 36.4:
+        non_striker: B Harmer
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 36.5:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Harmer
+    - 36.6:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Harmer
+    - 36.7:
+        non_striker: B Harmer
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 37.1:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+    - 37.2:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Harmer
+    - 37.3:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Harmer
+        wicket:
+          player_out: B Harmer
+          kind: bowled
+    - 37.4:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 37.5:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 37.6:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 38.1:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 38.2:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 38.3:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 38.4:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Higham
+    - 38.5:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 38.6:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 38.7:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 39.1:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 39.2:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 39.3:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 39.4:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 39.5:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 39.6:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 40.1:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 40.2:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 40.3:
+        non_striker: KL Gordon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 40.4:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 40.5:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 40.6:
+        non_striker: LF Higham
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 41.1:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 41.2:
+        non_striker: LF Higham
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 41.3:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 41.4:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 41.5:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 41.6:
+        non_striker: KL Gordon
+        bowler: GK Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 42.1:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 42.2:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 42.3:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 42.4:
+        non_striker: KL Gordon
+        bowler: EL Arlott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Higham
+    - 42.5:
+        non_striker: KL Gordon
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 42.6:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 42.7:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 43.1:
+        non_striker: LF Higham
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 43.2:
+        non_striker: KL Gordon
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 43.3:
+        non_striker: LF Higham
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Gordon
+    - 43.4:
+        non_striker: LF Higham
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 43.5:
+        non_striker: LF Higham
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 43.6:
+        non_striker: KL Gordon
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 43.7:
+        non_striker: KL Gordon
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 44.1:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 44.2:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 44.3:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+    - 44.4:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Gordon
+    - 44.5:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+        wicket:
+          player_out: KL Gordon
+          fielders:
+          - AJ Freeborn
+          kind: caught
+    - 44.6:
+        non_striker: LF Higham
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ballinger
+    - 45.1:
+        non_striker: G Ballinger
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 45.2:
+        non_striker: G Ballinger
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 45.3:
+        non_striker: LF Higham
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ballinger
+    - 45.4:
+        non_striker: G Ballinger
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+    - 45.5:
+        non_striker: G Ballinger
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Higham
+    - 45.6:
+        non_striker: LF Higham
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ballinger
+    - 46.1:
+        non_striker: G Ballinger
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Higham
+    - 46.2:
+        non_striker: G Ballinger
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Higham
+    - 46.3:
+        non_striker: G Ballinger
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Higham
+    - 46.4:
+        non_striker: G Ballinger
+        bowler: EL Arlott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Higham
+        wicket:
+          player_out: LF Higham
+          kind: bowled
+- 2nd innings:
+    team: Central Sparks
+    deliveries:
+    - 0.1:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 0.2:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 0.3:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 0.4:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: IECM Wong
+    - 0.5:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 0.6:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 0.7:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 1.1:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 1.2:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 1.3:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 1.4:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 1.5:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 1.6:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 2.1:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 2.2:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 2.3:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 2.4:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 2.5:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 2.6:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 3.1:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 3.2:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 3.3:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IECM Wong
+    - 3.4:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 3.5:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 3.6:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 3.7:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 4.1:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 4.2:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 4.3:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IECM Wong
+    - 4.4:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IECM Wong
+    - 4.5:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 4.6:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 5.1:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.2:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 5.3:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Jones
+    - 5.4:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 5.5:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 5.6:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 5.7:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 6.1:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.2:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.3:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.4:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 6.5:
+        non_striker: IECM Wong
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 6.6:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 7.1:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.2:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.3:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 7.4:
+        non_striker: IECM Wong
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 7.5:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 7.6:
+        non_striker: E Jones
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IECM Wong
+    - 8.1:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IECM Wong
+    - 8.2:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 8.3:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 8.4:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IECM Wong
+    - 8.5:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 8.6:
+        non_striker: E Jones
+        bowler: G Ballinger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 9.1:
+        non_striker: IECM Wong
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 9.2:
+        non_striker: IECM Wong
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 9.3:
+        non_striker: IECM Wong
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 9.4:
+        non_striker: IECM Wong
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 9.5:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+    - 9.6:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+        wicket:
+          player_out: IECM Wong
+          fielders:
+          - LF Higham
+          kind: caught
+    - 10.1:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.2:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Jones
+    - 10.3:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.4:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.5:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.6:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 10.7:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 11.1:
+        non_striker: C Brewer
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 11.2:
+        non_striker: C Brewer
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 11.3:
+        non_striker: C Brewer
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 11.4:
+        non_striker: C Brewer
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 11.5:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 11.6:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+    - 12.1:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 12.2:
+        non_striker: C Brewer
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Jones
+    - 12.3:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brewer
+        wicket:
+          player_out: C Brewer
+          kind: lbw
+    - 12.4:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 12.5:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 12.6:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 13.1:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 13.2:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 13.3:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: E Jones
+    - 13.4:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 13.5:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 13.6:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 14.1:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 14.2:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 14.3:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 14.4:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 14.5:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 14.6:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Freeborn
+    - 14.7:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Freeborn
+    - 15.1:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.2:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.3:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.4:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.5:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.6:
+        non_striker: E Jones
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 16.1:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 16.2:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 16.3:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 16.4:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 16.5:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 16.6:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 17.1:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 17.2:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 17.3:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 17.4:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 17.5:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Jones
+    - 17.6:
+        non_striker: AJ Freeborn
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Jones
+    - 18.1:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 18.2:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 18.3:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 18.4:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 18.5:
+        non_striker: AJ Freeborn
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Jones
+    - 18.6:
+        non_striker: E Jones
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 19.1:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 19.2:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+    - 19.3:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Jones
+        wicket:
+          player_out: E Jones
+          kind: caught and bowled
+    - 19.4:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 19.5:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Campbell
+    - 19.6:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 20.1:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 20.2:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 20.3:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 20.4:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 20.5:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 20.6:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 21.1:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 21.2:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 21.3:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 21.4:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 21.5:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 21.6:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 22.1:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 22.2:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Campbell
+    - 22.3:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 22.4:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 22.5:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 22.6:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 23.1:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 23.2:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AJ Freeborn
+    - 23.3:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 23.4:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 23.5:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 23.6:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 24.1:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 24.2:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 24.3:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 24.4:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Freeborn
+    - 24.5:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 24.6:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 25.1:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 25.2:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 25.3:
+        non_striker: AJ Freeborn
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 25.4:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 25.5:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 25.6:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 26.1:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 26.2:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 26.3:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 26.4:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 26.5:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Campbell
+    - 26.6:
+        non_striker: AJ Freeborn
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 27.1:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 27.2:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Freeborn
+    - 27.3:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 27.4:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+        wicket:
+          player_out: AJ Freeborn
+          fielders:
+          - Marie Kelly
+          kind: caught
+    - 27.5:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 27.6:
+        non_striker: A Campbell
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 28.1:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 28.2:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 28.3:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 28.4:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 28.5:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 28.6:
+        non_striker: A Campbell
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 29.1:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+        wicket:
+          player_out: A Campbell
+          kind: caught and bowled
+    - 29.2:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 29.3:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 29.4:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 29.5:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Arlott
+    - 29.6:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 29.7:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 30.1:
+        non_striker: EL Arlott
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 30.2:
+        non_striker: EL Arlott
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 30.3:
+        non_striker: EL Arlott
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 30.4:
+        non_striker: EL Arlott
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 30.5:
+        non_striker: EL Arlott
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 30.6:
+        non_striker: EL Arlott
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Perrin
+    - 31.1:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 31.2:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 31.3:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 31.4:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Arlott
+    - 31.5:
+        non_striker: EL Arlott
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 31.6:
+        non_striker: EL Arlott
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 32.1:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Arlott
+    - 32.2:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 32.3:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 32.4:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 32.5:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 32.6:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+    - 33.1:
+        non_striker: EL Arlott
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Perrin
+    - 33.2:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Arlott
+    - 33.3:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Arlott
+        wicket:
+          player_out: EL Arlott
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 33.4:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 33.5:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 33.6:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 33.7:
+        non_striker: D Perrin
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 34.1:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 34.2:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 34.3:
+        non_striker: D Perrin
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 34.4:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+    - 34.5:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Perrin
+        wicket:
+          player_out: D Perrin
+          fielders:
+          - GEB Boyce
+          kind: caught
+    - 34.6:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Davis
+    - 35.1:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 35.2:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 35.3:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 35.4:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 35.5:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+    - 35.6:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Davis
+        wicket:
+          player_out: GK Davis
+          kind: bowled
+    - 36.1:
+        non_striker: G Potts
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 36.2:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 36.3:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 36.4:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 36.5:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 36.6:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 37.1:
+        non_striker: G Potts
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 37.2:
+        non_striker: G Potts
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 37.3:
+        non_striker: G Potts
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 37.4:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 37.5:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 37.6:
+        non_striker: KL George
+        bowler: LF Higham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 38.1:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 38.2:
+        non_striker: G Potts
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 38.3:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 38.4:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 38.5:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 38.6:
+        non_striker: KL George
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 39.1:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 39.2:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 39.3:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 39.4:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 39.5:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 39.6:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 40.1:
+        non_striker: KL George
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Potts
+    - 40.2:
+        non_striker: KL George
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 40.3:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 40.4:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 40.5:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 40.6:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL George
+    - 41.1:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 41.2:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 41.3:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 41.4:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 41.5:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 41.6:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 42.1:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 42.2:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 42.3:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 42.4:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 42.5:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 42.6:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 43.1:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 43.2:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 43.3:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL George
+    - 43.4:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 43.5:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL George
+    - 43.6:
+        non_striker: KL George
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 44.1:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KL George
+    - 44.2:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL George
+    - 44.3:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 44.4:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL George
+    - 44.5:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 44.6:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+    - 44.7:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL George
+        wicket:
+          player_out: KL George
+          kind: caught and bowled
+    - 44.8:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 45.1:
+        non_striker: HL Baker
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 45.2:
+        non_striker: HL Baker
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 45.3:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 45.4:
+        non_striker: G Potts
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 45.5:
+        non_striker: HL Baker
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 45.6:
+        non_striker: HL Baker
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 46.1:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 46.2:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 46.3:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 46.4:
+        non_striker: HL Baker
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 46.5:
+        non_striker: HL Baker
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 46.6:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 47.1:
+        non_striker: HL Baker
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 47.2:
+        non_striker: G Potts
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Baker
+    - 47.3:
+        non_striker: G Potts
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HL Baker
+    - 47.4:
+        non_striker: HL Baker
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 47.5:
+        non_striker: HL Baker
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 47.6:
+        non_striker: HL Baker
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Potts
+    - 48.1:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+    - 48.2:
+        non_striker: G Potts
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HL Baker
+        wicket:
+          player_out: HL Baker
+          kind: bowled

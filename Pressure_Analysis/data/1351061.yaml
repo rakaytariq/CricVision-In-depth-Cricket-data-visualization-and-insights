@@ -1,0 +1,2129 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chattogram
+  competition: Bangladesh Premier League
+  dates:
+  - '2023-01-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Rangpur Riders
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - Robiul Haque
+  players:
+    Khulna Tigers:
+    - Habibur Rahman
+    - Tamim Iqbal
+    - Sharjeel Khan
+    - Azam Khan
+    - Yasir Ali Chowdhury
+    - Sabbir Rahman
+    - Amad Butt
+    - Mohammad Saifuddin
+    - Nahidul Islam
+    - Wahab Riaz
+    - Nasum Ahmed
+    Rangpur Riders:
+    - Rony Talukdar
+    - Saim Ayub
+    - Mahedi Hasan
+    - Mohammad Naim
+    - Shoaib Malik
+    - Nurul Hasan
+    - Shamim Hossain
+    - Azmatullah Omarzai
+    - Hasan Mahmud
+    - Robiul Haque
+    - Rakibul Hasan (2)
+  registry:
+    people:
+      Amad Butt: c6a1b1bb
+      Azam Khan: ee8f1a6d
+      Azmatullah Omarzai: 8f6dd463
+      Debabrata Paul: a77f51d0
+      Habibur Rahman: cee2fbd8
+      Hasan Mahmud: 80ad39ac
+      Mahedi Hasan: 9dad0f2e
+      Mohammad Naim: 7923a51d
+      Mohammad Saifuddin: b3a28446
+      Morshed Ali Khan: a7c3cf5f
+      Mozahiduzzaman: a149de90
+      Nahidul Islam: 8c7b16c8
+      Nasum Ahmed: 37654b75
+      Nurul Hasan: d365d463
+      RMPJ Rambukwella: 13fa6ffc
+      Rakibul Hasan: 77768f72
+      Robiul Haque: 2353b224
+      Rony Talukdar: 8bd614b2
+      Sabbir Rahman: 7147f314
+      Saim Ayub: 33609a8c
+      Shamim Hossain: 711249d1
+      Sharjeel Khan: 193ef196
+      Shoaib Malik: 64c34cd0
+      Tamim Iqbal: 3b041a12
+      Tanvir Ahmed: ea2df1f1
+      Wahab Riaz: b3118300
+      Yasir Ali Chowdhury: 5791b840
+  teams:
+  - Khulna Tigers
+  - Rangpur Riders
+  toss:
+    winner: Rangpur Riders
+    decision: field
+  umpires:
+  - RMPJ Rambukwella
+  - Tanvir Ahmed
+  venue: Zahur Ahmed Chowdhury Stadium, Chattogram
+innings:
+- 1st innings:
+    team: Khulna Tigers
+    deliveries:
+    - 0.1:
+        non_striker: Tamim Iqbal
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 0.2:
+        non_striker: Tamim Iqbal
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 0.3:
+        non_striker: Tamim Iqbal
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Habibur Rahman
+    - 0.4:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 0.5:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 0.6:
+        non_striker: Tamim Iqbal
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 1.1:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 1.2:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+        wicket:
+          player_out: Tamim Iqbal
+          kind: caught and bowled
+    - 1.3:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 1.4:
+        non_striker: Sharjeel Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 1.5:
+        non_striker: Sharjeel Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 1.6:
+        non_striker: Sharjeel Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 2.1:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 2.2:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 2.3:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 2.4:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 2.5:
+        non_striker: Habibur Rahman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharjeel Khan
+    - 2.6:
+        non_striker: Sharjeel Khan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Habibur Rahman
+    - 3.1:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 3.2:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sharjeel Khan
+    - 3.3:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharjeel Khan
+    - 3.4:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 3.5:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+    - 3.6:
+        non_striker: Habibur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharjeel Khan
+        wicket:
+          player_out: Sharjeel Khan
+          kind: bowled
+    - 4.1:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 4.2:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+    - 4.3:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibur Rahman
+        wicket:
+          player_out: Habibur Rahman
+          kind: bowled
+    - 4.4:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 4.5:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 4.6:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 5.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 5.2:
+        non_striker: Azam Khan
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 5.3:
+        non_striker: Azam Khan
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 5.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 5.5:
+        non_striker: Azam Khan
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 5.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khan
+    - 6.1:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 6.2:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 6.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 6.4:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 6.5:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 6.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 7.1:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Ali Chowdhury
+    - 7.2:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 7.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 7.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 7.5:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 7.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 7.7:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 8.1:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 8.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 8.3:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 8.4:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 8.5:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 8.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 9.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 9.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 9.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 9.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 9.5:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 9.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 10.1:
+        non_striker: Azam Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 10.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khan
+    - 10.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 10.4:
+        non_striker: Azam Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 10.5:
+        non_striker: Azam Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali Chowdhury
+    - 10.6:
+        non_striker: Azam Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 11.1:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 11.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 11.3:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+        wicket:
+          player_out: Yasir Ali Chowdhury
+          fielders:
+          - Mohammad Naim
+          kind: caught
+    - 11.4:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sabbir Rahman
+    - 11.5:
+        non_striker: Sabbir Rahman
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 11.6:
+        non_striker: Azam Khan
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sabbir Rahman
+        wicket:
+          player_out: Sabbir Rahman
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 12.1:
+        non_striker: Amad Butt
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 12.2:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amad Butt
+    - 12.3:
+        non_striker: Azam Khan
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amad Butt
+    - 12.4:
+        non_striker: Amad Butt
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - Azmatullah Omarzai
+          kind: caught
+    - 12.5:
+        non_striker: Amad Butt
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 12.6:
+        non_striker: Amad Butt
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 13.1:
+        non_striker: Amad Butt
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Saifuddin
+    - 13.2:
+        non_striker: Amad Butt
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 13.3:
+        non_striker: Mohammad Saifuddin
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amad Butt
+    - 13.4:
+        non_striker: Mohammad Saifuddin
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amad Butt
+    - 13.5:
+        non_striker: Mohammad Saifuddin
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amad Butt
+    - 13.6:
+        non_striker: Amad Butt
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 14.1:
+        non_striker: Amad Butt
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 14.2:
+        non_striker: Mohammad Saifuddin
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amad Butt
+    - 14.3:
+        non_striker: Mohammad Saifuddin
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amad Butt
+        wicket:
+          player_out: Amad Butt
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 14.4:
+        non_striker: Mohammad Saifuddin
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahidul Islam
+    - 14.5:
+        non_striker: Nahidul Islam
+        bowler: Robiul Haque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Saifuddin
+    - 14.6:
+        non_striker: Nahidul Islam
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 14.7:
+        non_striker: Mohammad Saifuddin
+        bowler: Robiul Haque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nahidul Islam
+    - 15.1:
+        non_striker: Mohammad Saifuddin
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nahidul Islam
+    - 15.2:
+        non_striker: Mohammad Saifuddin
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahidul Islam
+    - 15.3:
+        non_striker: Nahidul Islam
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 15.4:
+        non_striker: Mohammad Saifuddin
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: Nahidul Islam
+    - 15.5:
+        non_striker: Nahidul Islam
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Saifuddin
+    - 15.6:
+        non_striker: Nahidul Islam
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 15.7:
+        non_striker: Mohammad Saifuddin
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nahidul Islam
+    - 16.1:
+        non_striker: Nahidul Islam
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 16.2:
+        non_striker: Mohammad Saifuddin
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahidul Islam
+    - 16.3:
+        non_striker: Nahidul Islam
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Saifuddin
+    - 16.4:
+        non_striker: Nahidul Islam
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 16.5:
+        non_striker: Mohammad Saifuddin
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahidul Islam
+    - 16.6:
+        non_striker: Nahidul Islam
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 16.7:
+        non_striker: Mohammad Saifuddin
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahidul Islam
+    - 17.1:
+        non_striker: Nahidul Islam
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+    - 17.2:
+        non_striker: Nahidul Islam
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Saifuddin
+    - 17.3:
+        non_striker: Nahidul Islam
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 17.4:
+        non_striker: Mohammad Saifuddin
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahidul Islam
+        wicket:
+          player_out: Nahidul Islam
+          kind: bowled
+    - 17.5:
+        non_striker: Mohammad Saifuddin
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.6:
+        non_striker: Wahab Riaz
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Saifuddin
+    - 18.1:
+        non_striker: Wahab Riaz
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Saifuddin
+        wicket:
+          player_out: Mohammad Saifuddin
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 18.2:
+        non_striker: Wahab Riaz
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 18.3:
+        non_striker: Nasum Ahmed
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 18.4:
+        non_striker: Nasum Ahmed
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 18.5:
+        non_striker: Wahab Riaz
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 18.6:
+        non_striker: Wahab Riaz
+        bowler: Robiul Haque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 19.1:
+        non_striker: Nasum Ahmed
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 19.2:
+        non_striker: Nasum Ahmed
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 19.3:
+        non_striker: Nasum Ahmed
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 19.4:
+        non_striker: Wahab Riaz
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+        wicket:
+          player_out: Nasum Ahmed
+          fielders:
+          - Rakibul Hasan (2)
+          kind: caught
+- 2nd innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.3:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.4:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.5:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.6:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+        wicket:
+          player_out: Rony Talukdar
+          kind: bowled
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 1.3:
+        non_striker: Mahedi Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.4:
+        non_striker: Mahedi Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 1.5:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 1.6:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 2.1:
+        non_striker: Mahedi Hasan
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.2:
+        non_striker: Mahedi Hasan
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.3:
+        non_striker: Mahedi Hasan
+        bowler: Nahidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saim Ayub
+    - 2.4:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 2.5:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 2.6:
+        non_striker: Saim Ayub
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 3.1:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 3.2:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 3.3:
+        non_striker: Mahedi Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.4:
+        non_striker: Mahedi Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 3.5:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 3.6:
+        non_striker: Saim Ayub
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 4.1:
+        non_striker: Saim Ayub
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 4.2:
+        non_striker: Saim Ayub
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - Nasum Ahmed
+          kind: caught
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 4.4:
+        non_striker: Saim Ayub
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 4.5:
+        non_striker: Mohammad Naim
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 4.6:
+        non_striker: Mohammad Naim
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          kind: lbw
+    - 5.1:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Naim
+    - 5.2:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 5.3:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 5.4:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 5.5:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 5.6:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 5.7:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 6.1:
+        non_striker: Mohammad Naim
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 6.2:
+        non_striker: Mohammad Naim
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 6.3:
+        non_striker: Mohammad Naim
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 6.4:
+        non_striker: Shoaib Malik
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 6.5:
+        non_striker: Shoaib Malik
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 6.6:
+        non_striker: Mohammad Naim
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 7.1:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 7.2:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Naim
+    - 7.3:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 7.4:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Naim
+    - 7.5:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 7.6:
+        non_striker: Mohammad Naim
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 7.7:
+        non_striker: Mohammad Naim
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 8.1:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 8.2:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 8.3:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 8.4:
+        non_striker: Mohammad Naim
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.5:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 8.6:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 9.1:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 9.2:
+        non_striker: Mohammad Naim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 9.3:
+        non_striker: Mohammad Naim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 9.4:
+        non_striker: Mohammad Naim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 9.5:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 9.6:
+        non_striker: Mohammad Naim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shoaib Malik
+    - 9.7:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+        wicket:
+          player_out: Mohammad Naim
+          fielders:
+          - Wahab Riaz
+          kind: caught
+    - 10.1:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.2:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.3:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.4:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.5:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.6:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 11.1:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.2:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.3:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.4:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 11.5:
+        non_striker: Nurul Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 11.6:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 12.1:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 12.2:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.3:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 12.4:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 12.5:
+        non_striker: Nurul Hasan
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.6:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.1:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 13.2:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.3:
+        non_striker: Nurul Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 13.4:
+        non_striker: Nurul Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 13.5:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.6:
+        non_striker: Nurul Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.1:
+        non_striker: Nurul Hasan
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.2:
+        non_striker: Shoaib Malik
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nurul Hasan
+    - 14.3:
+        non_striker: Nurul Hasan
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.4:
+        non_striker: Shoaib Malik
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 14.5:
+        non_striker: Nurul Hasan
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 14.6:
+        non_striker: Nurul Hasan
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.1:
+        non_striker: Nurul Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.2:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 15.3:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 15.4:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 15.5:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 15.6:
+        non_striker: Shoaib Malik
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - Habibur Rahman
+          kind: caught
+    - 16.1:
+        non_striker: Shamim Hossain
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.2:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 16.3:
+        non_striker: Shamim Hossain
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 16.4:
+        non_striker: Shamim Hossain
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.5:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 16.6:
+        non_striker: Shoaib Malik
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 17.1:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 17.2:
+        non_striker: Shamim Hossain
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 17.3:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 17.4:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 17.5:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 17.6:
+        non_striker: Shoaib Malik
+        bowler: Amad Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 18.1:
+        non_striker: Shamim Hossain
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 18.2:
+        non_striker: Shamim Hossain
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Shoaib Malik
+    - 18.3:
+        non_striker: Shamim Hossain
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 18.4:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 18.5:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 18.6:
+        non_striker: Shamim Hossain
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          fielders:
+          - Habibur Rahman
+          kind: caught
+    - 18.7:
+        non_striker: Shamim Hossain
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 19.1:
+        non_striker: Shamim Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 19.2:
+        non_striker: Shamim Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 19.3:
+        non_striker: Shamim Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai

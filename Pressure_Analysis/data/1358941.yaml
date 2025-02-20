@@ -1,0 +1,2040 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Navi Mumbai
+  competition: Women's Premier League
+  dates:
+  - '2023-03-15'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Royal Challengers Bangalore
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - KS Ahuja
+  players:
+    UP Warriorz:
+    - AJ Healy
+    - DP Vaidya
+    - KP Navgire
+    - TM McGrath
+    - GM Harris
+    - Simran Shaikh
+    - DB Sharma
+    - S Sehrawat
+    - S Ecclestone
+    - K Anjali Sarvani
+    - RS Gayakwad
+    Royal Challengers Bangalore:
+    - SFM Devine
+    - S Mandhana
+    - EA Perry
+    - HC Knight
+    - KS Ahuja
+    - RM Ghosh
+    - Shreyanka Patil
+    - ML Schutt
+    - S Asha
+    - Renuka Singh
+    - DD Kasat
+  registry:
+    people:
+      AJ Healy: 321644de
+      DB Sharma: 201fef33
+      DD Kasat: fc0155d9
+      DP Vaidya: f9ded29b
+      EA Perry: be150fc8
+      GM Harris: '72166006'
+      GS Lakshmi: ba8d5615
+      HC Knight: 4ba0289e
+      K Anjali Sarvani: fa0bf9d9
+      KP Navgire: 617a0b79
+      KS Ahuja: '58593620'
+      M Kuppuraj: aa4063d0
+      ML Schutt: 17608a6f
+      N Pandit: 4947c258
+      PG Pathak: 9f772ec5
+      RM Ghosh: 721e0199
+      RS Gayakwad: 237ec05b
+      Renuka Singh: 7298db76
+      S Asha: '77143581'
+      S Ecclestone: cdb82f1c
+      S Mandhana: 5d2eda89
+      S Sehrawat: 0e9d4094
+      SFM Devine: de69af96
+      SR Patil: 33946d69
+      Sanjay Kumar Singh: ccb9d6a6
+      Simran Shaikh: 4961601c
+      TM McGrath: ca5acfa4
+  teams:
+  - UP Warriorz
+  - Royal Challengers Bangalore
+  toss:
+    winner: Royal Challengers Bangalore
+    decision: field
+  umpires:
+  - M Kuppuraj
+  - Sanjay Kumar Singh
+  venue: Dr DY Patil Sports Academy, Mumbai
+innings:
+- 1st innings:
+    team: UP Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: DP Vaidya
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 0.2:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+        wicket:
+          player_out: DP Vaidya
+          kind: lbw
+    - 0.3:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 0.4:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 0.5:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.6:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - S Asha
+          kind: caught
+    - 1.1:
+        non_striker: TM McGrath
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 1.2:
+        non_striker: TM McGrath
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 1.3:
+        non_striker: TM McGrath
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 1.4:
+        non_striker: TM McGrath
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 1.5:
+        non_striker: KP Navgire
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 1.6:
+        non_striker: KP Navgire
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 2.1:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KP Navgire
+    - 2.2:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 2.3:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 2.4:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Navgire
+    - 2.5:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KP Navgire
+    - 2.6:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 2.7:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 3.1:
+        non_striker: GM Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 3.2:
+        non_striker: GM Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 3.3:
+        non_striker: GM Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 3.4:
+        non_striker: GM Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 3.5:
+        non_striker: GM Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 3.6:
+        non_striker: GM Harris
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Navgire
+    - 4.1:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 4.2:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GM Harris
+    - 4.3:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 4.4:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 4.5:
+        non_striker: KP Navgire
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 4.6:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 4.7:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 5.1:
+        non_striker: GM Harris
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 5.2:
+        non_striker: GM Harris
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 5.3:
+        non_striker: KP Navgire
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 5.4:
+        non_striker: GM Harris
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KP Navgire
+    - 5.5:
+        non_striker: GM Harris
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Navgire
+    - 5.6:
+        non_striker: KP Navgire
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 6.1:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 6.2:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+        wicket:
+          player_out: KP Navgire
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 6.3:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 6.4:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 6.5:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 6.6:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 7.1:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 7.2:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 7.3:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 7.4:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 7.5:
+        non_striker: Simran Shaikh
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 7.6:
+        non_striker: Simran Shaikh
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 8.1:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+        wicket:
+          player_out: Simran Shaikh
+          fielders:
+          - KS Ahuja
+          kind: caught
+    - 8.2:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 8.3:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 8.4:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 8.5:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 8.6:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 9.1:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 9.2:
+        non_striker: DB Sharma
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GM Harris
+    - 9.3:
+        non_striker: DB Sharma
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 9.4:
+        non_striker: DB Sharma
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Harris
+    - 9.5:
+        non_striker: DB Sharma
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 9.6:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DB Sharma
+    - 9.7:
+        non_striker: DB Sharma
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 10.1:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Harris
+    - 10.2:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 10.3:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 10.4:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 10.5:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 10.6:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 11.1:
+        non_striker: DB Sharma
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Harris
+    - 11.2:
+        non_striker: DB Sharma
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 11.3:
+        non_striker: DB Sharma
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 11.4:
+        non_striker: GM Harris
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 11.5:
+        non_striker: GM Harris
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 11.6:
+        non_striker: GM Harris
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 12.1:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 12.2:
+        non_striker: GM Harris
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 12.3:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 12.4:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 12.5:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Harris
+    - 12.6:
+        non_striker: DB Sharma
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 13.1:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.2:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 13.3:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 13.4:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 13.5:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 13.6:
+        non_striker: GM Harris
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 14.1:
+        non_striker: DB Sharma
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GM Harris
+    - 14.2:
+        non_striker: DB Sharma
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 14.3:
+        non_striker: DB Sharma
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 14.4:
+        non_striker: GM Harris
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.5:
+        non_striker: DB Sharma
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 14.6:
+        non_striker: DB Sharma
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 14.7:
+        non_striker: DB Sharma
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 15.1:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - Shreyanka Patil
+          kind: caught
+    - 15.2:
+        non_striker: GM Harris
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sehrawat
+    - 15.3:
+        non_striker: S Sehrawat
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+        wicket:
+          player_out: GM Harris
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 15.4:
+        non_striker: S Sehrawat
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 15.5:
+        non_striker: S Sehrawat
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 15.6:
+        non_striker: S Sehrawat
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 16.1:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sehrawat
+    - 16.2:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sehrawat
+    - 16.3:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sehrawat
+    - 16.4:
+        non_striker: S Sehrawat
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 16.5:
+        non_striker: S Sehrawat
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 16.6:
+        non_striker: S Sehrawat
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 17.1:
+        non_striker: S Ecclestone
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sehrawat
+    - 17.2:
+        non_striker: S Ecclestone
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sehrawat
+        wicket:
+          player_out: S Sehrawat
+          kind: bowled
+    - 17.3:
+        non_striker: S Ecclestone
+        bowler: EA Perry
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: K Anjali Sarvani
+    - 17.4:
+        non_striker: S Ecclestone
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Anjali Sarvani
+    - 17.5:
+        non_striker: K Anjali Sarvani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.6:
+        non_striker: S Ecclestone
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Anjali Sarvani
+    - 17.7:
+        non_striker: S Ecclestone
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Anjali Sarvani
+    - 18.1:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Anjali Sarvani
+    - 18.2:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Anjali Sarvani
+    - 18.3:
+        non_striker: K Anjali Sarvani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 18.4:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Anjali Sarvani
+    - 18.5:
+        non_striker: S Ecclestone
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Anjali Sarvani
+    - 18.6:
+        non_striker: K Anjali Sarvani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 19.1:
+        non_striker: S Ecclestone
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Anjali Sarvani
+    - 19.2:
+        non_striker: S Ecclestone
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Anjali Sarvani
+        wicket:
+          player_out: K Anjali Sarvani
+          fielders:
+          - KS Ahuja
+          kind: caught
+    - 19.3:
+        non_striker: S Ecclestone
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Gayakwad
+        wicket:
+          player_out: S Ecclestone
+          fielders:
+          - RM Ghosh
+          - Shreyanka Patil
+          - DD Kasat
+          kind: run out
+- 2nd innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SFM Devine
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - TM McGrath
+          kind: caught
+    - 1.1:
+        non_striker: EA Perry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: EA Perry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: EA Perry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          kind: bowled
+    - 1.4:
+        non_striker: EA Perry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 1.5:
+        non_striker: EA Perry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 1.6:
+        non_striker: EA Perry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 2.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 2.2:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 2.3:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 2.4:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 2.5:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 2.6:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.1:
+        non_striker: HC Knight
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 3.2:
+        non_striker: HC Knight
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.3:
+        non_striker: HC Knight
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 3.4:
+        non_striker: EA Perry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.5:
+        non_striker: EA Perry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.6:
+        non_striker: EA Perry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 4.1:
+        non_striker: HC Knight
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.2:
+        non_striker: HC Knight
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.3:
+        non_striker: HC Knight
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 4.4:
+        non_striker: EA Perry
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 4.5:
+        non_striker: HC Knight
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.6:
+        non_striker: HC Knight
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 4.7:
+        non_striker: HC Knight
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 5.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.3:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 5.4:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.5:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 5.6:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.1:
+        non_striker: HC Knight
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - S Ecclestone
+          kind: caught
+    - 6.2:
+        non_striker: HC Knight
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 6.3:
+        non_striker: HC Knight
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 6.4:
+        non_striker: HC Knight
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 6.5:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.6:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.1:
+        non_striker: KS Ahuja
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 7.3:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 7.4:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 7.5:
+        non_striker: KS Ahuja
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.6:
+        non_striker: KS Ahuja
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 8.1:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 8.2:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 8.3:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 8.4:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 8.5:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 8.6:
+        non_striker: KS Ahuja
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - KP Navgire
+          kind: caught
+    - 9.1:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 9.2:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 9.3:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 9.4:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 9.5:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 9.6:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 10.1:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 10.2:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 10.3:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 10.4:
+        non_striker: RM Ghosh
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 10.5:
+        non_striker: RM Ghosh
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 10.6:
+        non_striker: RM Ghosh
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 11.1:
+        non_striker: KS Ahuja
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 11.2:
+        non_striker: RM Ghosh
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 11.3:
+        non_striker: RM Ghosh
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 11.4:
+        non_striker: RM Ghosh
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 11.5:
+        non_striker: RM Ghosh
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 11.6:
+        non_striker: RM Ghosh
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 12.1:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 12.2:
+        non_striker: RM Ghosh
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Ahuja
+    - 12.3:
+        non_striker: RM Ghosh
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 12.4:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Ghosh
+    - 12.5:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 12.6:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 12.7:
+        non_striker: KS Ahuja
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 13.1:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 13.2:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 13.3:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Ghosh
+    - 13.4:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 13.5:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 13.6:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 14.1:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 14.2:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 14.3:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RM Ghosh
+    - 14.4:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 14.5:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 14.6:
+        non_striker: KS Ahuja
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 15.1:
+        non_striker: KS Ahuja
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 15.2:
+        non_striker: RM Ghosh
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 15.3:
+        non_striker: KS Ahuja
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 15.4:
+        non_striker: RM Ghosh
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 15.5:
+        non_striker: RM Ghosh
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 15.6:
+        non_striker: KS Ahuja
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 16.1:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 16.2:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 16.3:
+        non_striker: KS Ahuja
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 16.4:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+        wicket:
+          player_out: KS Ahuja
+          kind: bowled
+    - 16.5:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shreyanka Patil
+    - 16.6:
+        non_striker: RM Ghosh
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shreyanka Patil
+    - 17.1:
+        non_striker: Shreyanka Patil
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 17.2:
+        non_striker: Shreyanka Patil
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 17.3:
+        non_striker: Shreyanka Patil
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 17.4:
+        non_striker: Shreyanka Patil
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 17.5:
+        non_striker: Shreyanka Patil
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 17.6:
+        non_striker: RM Ghosh
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shreyanka Patil

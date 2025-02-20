@@ -1,0 +1,1405 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Colombo Stars
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - CAK Rajitha
+  players:
+    Dambulla Aura:
+    - L Croospulle
+    - S Daniel
+    - JM Cox
+    - PBB Rajapaksa
+    - TB Abell
+    - MD Shanaka
+    - Noor Ahmad
+    - PC de Silva
+    - PA van Meekeren
+    - PM Liyanagamage
+    - CBRLS Kumara
+    Colombo Stars:
+    - N Dickwella
+    - LD Chandimal
+    - KIC Asalanka
+    - AD Mathews
+    - ND Paranavithana
+    - RS Bopara
+    - BAC Howell
+    - Karim Janat
+    - CAK Rajitha
+    - RAS Lakmal
+    - JDF Vandersay
+  registry:
+    people:
+      AD Mathews: 896d78ad
+      BAC Howell: 0bec3a6c
+      CAK Rajitha: 8012d0b8
+      CBRLS Kumara: 4751caa3
+      JDF Vandersay: aceb7654
+      JM Cox: ff154ecd
+      KIC Asalanka: 732c038e
+      Karim Janat: '62175638'
+      L Croospulle: e30c9b2d
+      LD Chandimal: 8dd02a98
+      LE Hannibal: 3c04e91a
+      MD Shanaka: 3ff033bb
+      N Dickwella: 45963d9e
+      ND Paranavithana: 4e602f29
+      Noor Ahmad: efc04be7
+      PA van Meekeren: 4557dc54
+      PBB Rajapaksa: 6c882e9a
+      PC de Silva: b40ee8a8
+      PM Liyanagamage: 3ee0050f
+      PS Jayaprakashdaran: 5e6c7237
+      RAS Lakmal: 2f28dc94
+      REJ Martinesz: 140cdf29
+      RR Wimalasiri: 4950c8db
+      RS Bopara: 7ca5e05d
+      RSA Palliyaguruge: 4339c19d
+      S Daniel: a38e7be7
+      TB Abell: ba9258a7
+  teams:
+  - Dambulla Aura
+  - Colombo Stars
+  toss:
+    winner: Colombo Stars
+    decision: field
+  umpires:
+  - LE Hannibal
+  - REJ Martinesz
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Dambulla Aura
+    deliveries:
+    - 0.1:
+        non_striker: S Daniel
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Croospulle
+        wicket:
+          player_out: L Croospulle
+          kind: bowled
+    - 0.2:
+        non_striker: S Daniel
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 0.3:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: S Daniel
+    - 0.4:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Daniel
+    - 0.5:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Daniel
+    - 0.6:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Daniel
+        wicket:
+          player_out: S Daniel
+          kind: lbw
+    - 0.7:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 1.1:
+        non_striker: PBB Rajapaksa
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 1.2:
+        non_striker: PBB Rajapaksa
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 1.3:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 1.4:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PBB Rajapaksa
+    - 1.5:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          fielders:
+          - LD Chandimal
+          kind: caught
+    - 1.6:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 2.1:
+        non_striker: TB Abell
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 2.2:
+        non_striker: TB Abell
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 2.3:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+        wicket:
+          player_out: TB Abell
+          kind: bowled
+    - 2.4:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 2.5:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 2.6:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 3.1:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Shanaka
+    - 3.2:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 3.3:
+        non_striker: MD Shanaka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 3.4:
+        non_striker: MD Shanaka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 3.5:
+        non_striker: MD Shanaka
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 3.6:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MD Shanaka
+    - 3.7:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 3.8:
+        non_striker: JM Cox
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 4.1:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 4.2:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 4.3:
+        non_striker: JM Cox
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 4.4:
+        non_striker: MD Shanaka
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - RAS Lakmal
+          kind: caught
+    - 4.5:
+        non_striker: MD Shanaka
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noor Ahmad
+    - 4.6:
+        non_striker: MD Shanaka
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 5.1:
+        non_striker: Noor Ahmad
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 5.2:
+        non_striker: Noor Ahmad
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - BAC Howell
+          kind: caught
+    - 5.3:
+        non_striker: Noor Ahmad
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 5.4:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 5.5:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+        wicket:
+          player_out: Noor Ahmad
+          fielders:
+          - ND Paranavithana
+          kind: caught
+    - 5.6:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+    - 6.1:
+        non_striker: PA van Meekeren
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 6.2:
+        non_striker: PC de Silva
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+    - 6.3:
+        non_striker: PC de Silva
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+    - 6.4:
+        non_striker: PC de Silva
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+    - 6.5:
+        non_striker: PC de Silva
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+    - 6.6:
+        non_striker: PC de Silva
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+        wicket:
+          player_out: PA van Meekeren
+          fielders:
+          - RS Bopara
+          kind: caught
+    - 7.1:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC de Silva
+    - 7.2:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 7.3:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 7.4:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 7.5:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 7.6:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 8.1:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC de Silva
+    - 8.2:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 8.3:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 8.4:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PC de Silva
+    - 8.5:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PC de Silva
+    - 8.6:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 8.7:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Liyanagamage
+    - 9.1:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+    - 9.2:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Liyanagamage
+    - 9.3:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 9.4:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 9.5:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 9.6:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PC de Silva
+    - 10.1:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.2:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.3:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.4:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 10.5:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Liyanagamage
+    - 10.6:
+        non_striker: PC de Silva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 11.1:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 11.2:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 11.3:
+        non_striker: PC de Silva
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 11.4:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PC de Silva
+        wicket:
+          player_out: PC de Silva
+          fielders:
+          - N Dickwella
+          - BAC Howell
+          kind: run out
+    - 11.5:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CBRLS Kumara
+    - 11.6:
+        non_striker: PM Liyanagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CBRLS Kumara
+    - 12.1:
+        non_striker: CBRLS Kumara
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 12.2:
+        non_striker: CBRLS Kumara
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 12.3:
+        non_striker: PM Liyanagamage
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CBRLS Kumara
+    - 12.4:
+        non_striker: CBRLS Kumara
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Liyanagamage
+    - 12.5:
+        non_striker: CBRLS Kumara
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Liyanagamage
+    - 12.6:
+        non_striker: CBRLS Kumara
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 13.1:
+        non_striker: CBRLS Kumara
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Liyanagamage
+    - 13.2:
+        non_striker: CBRLS Kumara
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Liyanagamage
+    - 13.3:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CBRLS Kumara
+    - 13.4:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CBRLS Kumara
+    - 13.5:
+        non_striker: PM Liyanagamage
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CBRLS Kumara
+        wicket:
+          player_out: CBRLS Kumara
+          kind: bowled
+- 2nd innings:
+    team: Colombo Stars
+    deliveries:
+    - 0.1:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          kind: bowled
+    - 0.2:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.3:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.4:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.5:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.6:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.1:
+        non_striker: KIC Asalanka
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 1.2:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 1.3:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.4:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.5:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 1.6:
+        non_striker: KIC Asalanka
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 2.1:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 2.2:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 2.3:
+        non_striker: LD Chandimal
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 2.4:
+        non_striker: KIC Asalanka
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 2.5:
+        non_striker: KIC Asalanka
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 2.6:
+        non_striker: KIC Asalanka
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 3.1:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 3.2:
+        non_striker: KIC Asalanka
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 3.3:
+        non_striker: KIC Asalanka
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 3.4:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 3.5:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 3.6:
+        non_striker: LD Chandimal
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 4.1:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 4.2:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 4.3:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 4.4:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 4.5:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 4.6:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 4.7:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 5.1:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 5.2:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 5.3:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 5.4:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 5.5:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 5.6:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 6.1:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 6.2:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 6.3:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 6.4:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 6.5:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 6.6:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 7.1:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 7.2:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 7.3:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 7.4:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 7.5:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 7.6:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 8.1:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 8.2:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 8.3:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 8.4:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 8.5:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 8.6:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 9.1:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 9.2:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 9.3:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 9.4:
+        non_striker: LD Chandimal
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 9.5:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 9.6:
+        non_striker: KIC Asalanka
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 10.1:
+        non_striker: LD Chandimal
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 10.2:
+        non_striker: LD Chandimal
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 10.3:
+        non_striker: KIC Asalanka
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 10.4:
+        non_striker: LD Chandimal
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 10.5:
+        non_striker: LD Chandimal
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 10.6:
+        non_striker: LD Chandimal
+        bowler: PC de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 11.1:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 11.2:
+        non_striker: LD Chandimal
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 11.3:
+        non_striker: KIC Asalanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal

@@ -1,0 +1,2279 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-11-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dolphins
+    by:
+      runs: 20
+  overs: 20
+  players:
+    Dolphins:
+    - G Roelofsen
+    - KD Petersen
+    - JT Smuts
+    - TA Dithole
+    - K Zondo
+    - JF Smith
+    - A Simelane
+    - E Bosch
+    - P Subrayen
+    - DM Dupavillon
+    - OEG Baartman
+    Boland:
+    - JN Malan
+    - JL du Plooy
+    - C Fortuin
+    - C Jonker
+    - F Behardien
+    - M Copeland
+    - FD Adams
+    - GC Viljoen
+    - B Xenxe
+    - S von Berg
+    - K Gumede
+  registry:
+    people:
+      A Simelane: ebb74564
+      B Xenxe: 94cdf850
+      BM White: 66c21d35
+      C Fortuin: f25cebec
+      C Jonker: a81d6706
+      DJ Smith: d17bec15
+      DM Dupavillon: 7cb2d9d2
+      E Bosch: 28d6c44d
+      F Behardien: dce2019b
+      FD Adams: f277f531
+      G Roelofsen: ac688e55
+      GC Viljoen: a316d663
+      GH Pienaar: 3516e46b
+      I Manack: 5ec126fa
+      JF Smith: 91cd48e0
+      JL du Plooy: 6e6fb538
+      JN Malan: f76d7466
+      JT Smuts: 42172c3c
+      K Gumede: 781f2acc
+      K Zondo: 4aad78d3
+      KD Petersen: bf64dc29
+      LB Gcuma: 02ba88e3
+      M Copeland: 9943b637
+      MN Gampu: '41597619'
+      OEG Baartman: 6b9eb501
+      P Subrayen: 7ec9711d
+      S von Berg: ffd3fc37
+      TA Dithole: 876bec53
+  teams:
+  - Dolphins
+  - Boland
+  toss:
+    winner: Boland
+    decision: field
+  umpires:
+  - BM White
+  - LB Gcuma
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        non_striker: KD Petersen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 0.2:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 0.3:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 0.4:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KD Petersen
+    - 0.5:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 0.6:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 1.1:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Roelofsen
+    - 1.2:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 1.3:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Petersen
+    - 1.4:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 1.5:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KD Petersen
+    - 1.6:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 1.7:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 1.8:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Roelofsen
+    - 1.9:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.1:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 2.2:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Petersen
+    - 2.3:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 2.4:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 2.5:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 2.6:
+        non_striker: KD Petersen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.7:
+        non_striker: KD Petersen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 3.1:
+        non_striker: KD Petersen
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Roelofsen
+    - 3.2:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 3.3:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 3.4:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Petersen
+    - 3.5:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Petersen
+    - 3.6:
+        non_striker: G Roelofsen
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 4.1:
+        non_striker: KD Petersen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.2:
+        non_striker: KD Petersen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 4.3:
+        non_striker: KD Petersen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.4:
+        non_striker: KD Petersen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 4.5:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+    - 4.6:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Petersen
+    - 5.1:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Petersen
+        wicket:
+          player_out: KD Petersen
+          fielders:
+          - C Fortuin
+          kind: caught
+    - 5.2:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 5.3:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 5.4:
+        non_striker: JT Smuts
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 5.5:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 5.6:
+        non_striker: JT Smuts
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 6.1:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 6.2:
+        non_striker: JT Smuts
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 6.3:
+        non_striker: G Roelofsen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 6.4:
+        non_striker: JT Smuts
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 6.5:
+        non_striker: JT Smuts
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 6.6:
+        non_striker: JT Smuts
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 7.1:
+        non_striker: JT Smuts
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 7.2:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.3:
+        non_striker: JT Smuts
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 7.4:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.5:
+        non_striker: JT Smuts
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 7.6:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 8.1:
+        non_striker: JT Smuts
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 8.2:
+        non_striker: JT Smuts
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 8.3:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JT Smuts
+    - 8.4:
+        non_striker: JT Smuts
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 8.5:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - C Fortuin
+          kind: caught
+    - 8.6:
+        non_striker: G Roelofsen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Dithole
+    - 9.1:
+        non_striker: TA Dithole
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 9.2:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dithole
+        wicket:
+          player_out: TA Dithole
+          kind: bowled
+    - 9.3:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 9.4:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Zondo
+    - 9.5:
+        non_striker: K Zondo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 9.6:
+        non_striker: G Roelofsen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 10.1:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Zondo
+    - 10.2:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Zondo
+    - 10.3:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 10.4:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 10.5:
+        non_striker: K Zondo
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 10.6:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: K Zondo
+    - 10.7:
+        non_striker: G Roelofsen
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 10.8:
+        non_striker: K Zondo
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 10.9:
+        non_striker: K Zondo
+        bowler: K Gumede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 11.1:
+        non_striker: K Zondo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+        wicket:
+          player_out: G Roelofsen
+          fielders:
+          - M Copeland
+          kind: caught
+    - 11.2:
+        non_striker: K Zondo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 11.3:
+        non_striker: K Zondo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 11.4:
+        non_striker: K Zondo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 11.5:
+        non_striker: JF Smith
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 11.6:
+        non_striker: JF Smith
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 12.1:
+        non_striker: JF Smith
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 12.2:
+        non_striker: JF Smith
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 12.3:
+        non_striker: K Zondo
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 12.4:
+        non_striker: JF Smith
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          fielders:
+          - K Gumede
+          kind: caught
+    - 12.5:
+        non_striker: JF Smith
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 12.6:
+        non_striker: JF Smith
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+    - 13.1:
+        non_striker: A Simelane
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 13.2:
+        non_striker: JF Smith
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Simelane
+        wicket:
+          player_out: A Simelane
+          fielders:
+          - C Fortuin
+          kind: stumped
+    - 13.3:
+        non_striker: JF Smith
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 13.4:
+        non_striker: E Bosch
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 13.5:
+        non_striker: JF Smith
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 13.6:
+        non_striker: E Bosch
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 14.1:
+        non_striker: E Bosch
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 14.2:
+        non_striker: E Bosch
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 14.3:
+        non_striker: JF Smith
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 14.4:
+        non_striker: E Bosch
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 14.5:
+        non_striker: JF Smith
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 14.6:
+        non_striker: E Bosch
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 15.1:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 15.2:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 15.3:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 15.4:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 15.5:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 15.6:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Smith
+    - 15.7:
+        non_striker: E Bosch
+        bowler: JL du Plooy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 16.1:
+        non_striker: E Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 16.2:
+        non_striker: JF Smith
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 16.3:
+        non_striker: E Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 16.4:
+        non_striker: JF Smith
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 16.5:
+        non_striker: E Bosch
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 16.6:
+        non_striker: JF Smith
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 17.1:
+        non_striker: JF Smith
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+        wicket:
+          player_out: E Bosch
+          fielders:
+          - K Gumede
+          kind: caught
+    - 17.2:
+        non_striker: JF Smith
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 17.3:
+        non_striker: JF Smith
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Subrayen
+    - 17.4:
+        non_striker: JF Smith
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 17.5:
+        non_striker: P Subrayen
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Smith
+    - 17.6:
+        non_striker: P Subrayen
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JF Smith
+    - 17.7:
+        non_striker: JF Smith
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 17.8:
+        non_striker: P Subrayen
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 18.1:
+        non_striker: P Subrayen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 18.2:
+        non_striker: JF Smith
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 18.3:
+        non_striker: P Subrayen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+        wicket:
+          player_out: JF Smith
+          fielders:
+          - I Manack (sub)
+          kind: caught
+    - 18.4:
+        non_striker: P Subrayen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Dupavillon
+    - 18.5:
+        non_striker: DM Dupavillon
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Subrayen
+    - 18.6:
+        non_striker: DM Dupavillon
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Subrayen
+    - 19.1:
+        non_striker: DM Dupavillon
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Subrayen
+    - 19.2:
+        non_striker: DM Dupavillon
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Subrayen
+    - 19.3:
+        non_striker: DM Dupavillon
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: P Subrayen
+    - 19.4:
+        non_striker: DM Dupavillon
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Subrayen
+    - 19.5:
+        non_striker: DM Dupavillon
+        bowler: B Xenxe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+        wicket:
+          player_out: P Subrayen
+          fielders:
+          - JN Malan
+          kind: caught
+    - 19.6:
+        non_striker: DM Dupavillon
+        bowler: B Xenxe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OEG Baartman
+        wicket:
+          player_out: DM Dupavillon
+          fielders:
+          - C Fortuin
+          kind: run out
+- 2nd innings:
+    team: Boland
+    deliveries:
+    - 0.1:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.2:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.3:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 0.4:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.5:
+        non_striker: JL du Plooy
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 0.6:
+        non_striker: JN Malan
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+        wicket:
+          player_out: JL du Plooy
+          fielders:
+          - G Roelofsen
+          kind: caught
+    - 1.1:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.2:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.3:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Malan
+    - 1.4:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 1.5:
+        non_striker: JN Malan
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 1.6:
+        non_striker: JN Malan
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 1.7:
+        non_striker: JN Malan
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 2.1:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.2:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.3:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.4:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.5:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.6:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Malan
+    - 3.1:
+        non_striker: JN Malan
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 3.2:
+        non_striker: JN Malan
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Fortuin
+    - 3.3:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 3.4:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 3.5:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Malan
+    - 3.6:
+        non_striker: C Fortuin
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 3.7:
+        non_striker: JN Malan
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Fortuin
+    - 4.1:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 4.2:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 4.3:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 4.4:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 4.5:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 4.6:
+        non_striker: C Fortuin
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 5.1:
+        non_striker: C Fortuin
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 5.2:
+        non_striker: C Fortuin
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 5.3:
+        non_striker: C Fortuin
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 5.4:
+        non_striker: C Fortuin
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 5.5:
+        non_striker: C Fortuin
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 5.6:
+        non_striker: C Fortuin
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 6.1:
+        non_striker: C Fortuin
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 6.2:
+        non_striker: JN Malan
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 6.3:
+        non_striker: C Fortuin
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 6.4:
+        non_striker: C Fortuin
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 6.5:
+        non_striker: C Fortuin
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 6.6:
+        non_striker: C Fortuin
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 7.1:
+        non_striker: JN Malan
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+        wicket:
+          player_out: C Fortuin
+          kind: bowled
+    - 7.2:
+        non_striker: JN Malan
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 7.3:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 7.4:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 7.5:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 7.6:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 8.1:
+        non_striker: C Jonker
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+        wicket:
+          player_out: JN Malan
+          fielders:
+          - G Roelofsen
+          kind: stumped
+    - 8.2:
+        non_striker: C Jonker
+        bowler: P Subrayen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 8.3:
+        non_striker: C Jonker
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 8.4:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 8.5:
+        non_striker: C Jonker
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 8.6:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 8.7:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 9.1:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 9.2:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 9.3:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 9.4:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 9.5:
+        non_striker: C Jonker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 9.6:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+        wicket:
+          player_out: C Jonker
+          kind: lbw
+    - 10.1:
+        non_striker: M Copeland
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.2:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Copeland
+        wicket:
+          player_out: M Copeland
+          fielders:
+          - G Roelofsen
+          kind: caught
+    - 10.3:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+    - 10.4:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 10.5:
+        non_striker: FD Adams
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.6:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+    - 11.1:
+        non_striker: FD Adams
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 11.2:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+    - 11.3:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 11.4:
+        non_striker: FD Adams
+        bowler: JT Smuts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 11.5:
+        non_striker: FD Adams
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 11.6:
+        non_striker: FD Adams
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 11.7:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 12.1:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+        wicket:
+          player_out: FD Adams
+          fielders:
+          - G Roelofsen
+          kind: stumped
+    - 12.2:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 12.3:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 12.4:
+        non_striker: GC Viljoen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 12.5:
+        non_striker: GC Viljoen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 12.6:
+        non_striker: F Behardien
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Viljoen
+    - 13.1:
+        non_striker: GC Viljoen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 13.2:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 13.3:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 13.4:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 13.5:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 13.6:
+        non_striker: GC Viljoen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 14.1:
+        non_striker: GC Viljoen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 14.2:
+        non_striker: GC Viljoen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 14.3:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 14.4:
+        non_striker: GC Viljoen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 14.5:
+        non_striker: GC Viljoen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 14.6:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 15.1:
+        non_striker: F Behardien
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 15.2:
+        non_striker: F Behardien
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Viljoen
+    - 15.3:
+        non_striker: F Behardien
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Viljoen
+    - 15.4:
+        non_striker: F Behardien
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 15.5:
+        non_striker: GC Viljoen
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 15.6:
+        non_striker: GC Viljoen
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 15.7:
+        non_striker: GC Viljoen
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 16.1:
+        non_striker: F Behardien
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Viljoen
+    - 16.2:
+        non_striker: F Behardien
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 16.3:
+        non_striker: GC Viljoen
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 16.4:
+        non_striker: F Behardien
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Viljoen
+    - 16.5:
+        non_striker: F Behardien
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GC Viljoen
+    - 16.6:
+        non_striker: GC Viljoen
+        bowler: DM Dupavillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 16.7:
+        non_striker: GC Viljoen
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 16.8:
+        non_striker: GC Viljoen
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 17.1:
+        non_striker: GC Viljoen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 17.2:
+        non_striker: GC Viljoen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 17.3:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Viljoen
+    - 17.4:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+        wicket:
+          player_out: GC Viljoen
+          fielders:
+          - E Bosch
+          kind: caught
+    - 17.5:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Xenxe
+    - 17.6:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Xenxe
+    - 18.1:
+        non_striker: B Xenxe
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 18.2:
+        non_striker: B Xenxe
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 18.3:
+        non_striker: B Xenxe
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 18.4:
+        non_striker: B Xenxe
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 18.5:
+        non_striker: F Behardien
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Xenxe
+    - 18.6:
+        non_striker: F Behardien
+        bowler: DM Dupavillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Xenxe
+    - 19.1:
+        non_striker: B Xenxe
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+        wicket:
+          player_out: B Xenxe
+          fielders:
+          - TA Dithole
+          - OEG Baartman
+          kind: run out
+    - 19.2:
+        non_striker: S von Berg
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 19.3:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S von Berg
+    - 19.4:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 19.5:
+        non_striker: S von Berg
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 19.6:
+        non_striker: F Behardien
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg

@@ -1,0 +1,2190 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Galle Gladiators
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - LU Igalagamage
+  players:
+    Galle Gladiators:
+    - PTM Dabare
+    - BKG Mendis
+    - LU Igalagamage
+    - Azam Khan
+    - Iftikhar Ahmed
+    - MNK Fernando
+    - Imad Wasim
+    - Wahab Riaz
+    - N Pradeep
+    - N Thushara
+    - PADLR Sandakan
+    Colombo Stars:
+    - N Dickwella
+    - AD Mathews
+    - Karim Janat
+    - ND Paranavithana
+    - KIC Asalanka
+    - RS Bopara
+    - LD Chandimal
+    - DC Drakes
+    - RAS Lakmal
+    - JDF Vandersay
+    - Naveen-ul-Haq
+  registry:
+    people:
+      AD Mathews: 896d78ad
+      Azam Khan: ee8f1a6d
+      BKG Mendis: 5d1e7582
+      DC Drakes: 34b332d3
+      IC Soysa: 717a7971
+      Iftikhar Ahmed: 29e253dd
+      Imad Wasim: 9cb8d7a6
+      JDF Vandersay: aceb7654
+      KIC Asalanka: 732c038e
+      Karim Janat: '62175638'
+      LD Chandimal: 8dd02a98
+      LU Igalagamage: 07b6c3c1
+      MNK Fernando: ba603555
+      N Dickwella: 45963d9e
+      N Pradeep: 2af838ee
+      N Thushara: ee1b6c27
+      ND Paranavithana: 4e602f29
+      Naveen-ul-Haq: c0c411cb
+      PADLR Sandakan: 79aad751
+      PTM Dabare: a97fbc2c
+      RA Kottahachchi: 808f2939
+      RAS Lakmal: 2f28dc94
+      RR Wimalasiri: 4950c8db
+      RS Bopara: 7ca5e05d
+      RSA Palliyaguruge: 4339c19d
+      WC Labrooy: 29d4e29b
+      Wahab Riaz: b3118300
+  teams:
+  - Galle Gladiators
+  - Colombo Stars
+  toss:
+    winner: Galle Gladiators
+    decision: bat
+  umpires:
+  - IC Soysa
+  - RSA Palliyaguruge
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Galle Gladiators
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 0.2:
+        non_striker: PTM Dabare
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.3:
+        non_striker: PTM Dabare
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PTM Dabare
+    - 0.5:
+        non_striker: BKG Mendis
+        bowler: AD Mathews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PTM Dabare
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 0.7:
+        non_striker: PTM Dabare
+        bowler: AD Mathews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.1:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PTM Dabare
+    - 1.2:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PTM Dabare
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PTM Dabare
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 1.5:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 1.6:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PTM Dabare
+    - 1.7:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PTM Dabare
+    - 2.1:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.2:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 2.3:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.5:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 3.2:
+        non_striker: PTM Dabare
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 3.3:
+        non_striker: PTM Dabare
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 3.4:
+        non_striker: PTM Dabare
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: PTM Dabare
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: BKG Mendis
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 4.2:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PTM Dabare
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 4.4:
+        non_striker: PTM Dabare
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 5.1:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 5.3:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.4:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.5:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: PTM Dabare
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 6.2:
+        non_striker: PTM Dabare
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.3:
+        non_striker: BKG Mendis
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 6.4:
+        non_striker: PTM Dabare
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.5:
+        non_striker: PTM Dabare
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.6:
+        non_striker: PTM Dabare
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: BKG Mendis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 7.2:
+        non_striker: PTM Dabare
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 7.4:
+        non_striker: PTM Dabare
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.5:
+        non_striker: BKG Mendis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 7.6:
+        non_striker: PTM Dabare
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.1:
+        non_striker: BKG Mendis
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 8.2:
+        non_striker: PTM Dabare
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 8.3:
+        non_striker: PTM Dabare
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 8.4:
+        non_striker: LU Igalagamage
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 8.5:
+        non_striker: PTM Dabare
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 8.6:
+        non_striker: LU Igalagamage
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 9.1:
+        non_striker: PTM Dabare
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 9.2:
+        non_striker: PTM Dabare
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 9.3:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 9.4:
+        non_striker: PTM Dabare
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 9.5:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+        wicket:
+          player_out: PTM Dabare
+          kind: caught and bowled
+    - 9.6:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 10.1:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.2:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.3:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.4:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.5:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 10.6:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 11.1:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 11.2:
+        non_striker: Azam Khan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LU Igalagamage
+    - 11.3:
+        non_striker: Azam Khan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 11.4:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 11.5:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 11.6:
+        non_striker: Azam Khan
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LU Igalagamage
+    - 12.1:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 12.2:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 12.3:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - RAS Lakmal
+          kind: caught
+    - 12.4:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 12.5:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 12.6:
+        non_striker: Iftikhar Ahmed
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 13.1:
+        non_striker: Iftikhar Ahmed
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 13.2:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 13.3:
+        non_striker: Iftikhar Ahmed
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LU Igalagamage
+    - 13.4:
+        non_striker: Iftikhar Ahmed
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LU Igalagamage
+    - 13.5:
+        non_striker: Iftikhar Ahmed
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 13.6:
+        non_striker: LU Igalagamage
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+        wicket:
+          player_out: Iftikhar Ahmed
+          kind: bowled
+    - 14.1:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LU Igalagamage
+    - 14.2:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 14.3:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 14.4:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 14.5:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 14.6:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 15.1:
+        non_striker: MNK Fernando
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 15.2:
+        non_striker: MNK Fernando
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 15.3:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MNK Fernando
+    - 15.4:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 15.5:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 15.6:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 16.1:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LU Igalagamage
+    - 16.2:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MNK Fernando
+    - 16.3:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MNK Fernando
+    - 16.4:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MNK Fernando
+    - 16.5:
+        non_striker: LU Igalagamage
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 16.6:
+        non_striker: MNK Fernando
+        bowler: ND Paranavithana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 17.1:
+        non_striker: MNK Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LU Igalagamage
+    - 17.2:
+        non_striker: MNK Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 17.3:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 17.4:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 17.5:
+        non_striker: MNK Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 17.6:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 18.1:
+        non_striker: MNK Fernando
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 18.2:
+        non_striker: MNK Fernando
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LU Igalagamage
+    - 18.3:
+        non_striker: MNK Fernando
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 18.4:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MNK Fernando
+    - 18.5:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MNK Fernando
+    - 18.6:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MNK Fernando
+    - 18.7:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MNK Fernando
+    - 18.8:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MNK Fernando
+    - 18.9:
+        non_striker: LU Igalagamage
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+        wicket:
+          player_out: MNK Fernando
+          fielders:
+          - JDF Vandersay
+          kind: caught
+    - 19.1:
+        non_striker: Imad Wasim
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LU Igalagamage
+    - 19.2:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 19.3:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imad Wasim
+    - 19.4:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 19.5:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - Karim Janat
+          kind: caught
+    - 19.6:
+        non_striker: LU Igalagamage
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 19.7:
+        non_striker: Wahab Riaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LU Igalagamage
+- 2nd innings:
+    team: Colombo Stars
+    deliveries:
+    - 0.1:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.2:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 0.3:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.4:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.5:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.6:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.1:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 1.2:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.3:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 1.4:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 1.5:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 1.6:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 2.1:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.2:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 2.3:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Mathews
+    - 2.4:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Mathews
+    - 2.5:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 2.6:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 3.1:
+        non_striker: AD Mathews
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 3.2:
+        non_striker: AD Mathews
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.3:
+        non_striker: AD Mathews
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.4:
+        non_striker: AD Mathews
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 3.5:
+        non_striker: AD Mathews
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 3.6:
+        non_striker: AD Mathews
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 4.1:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 4.2:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+        wicket:
+          player_out: AD Mathews
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 4.3:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 4.4:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 4.5:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 4.6:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 5.1:
+        non_striker: Karim Janat
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 5.2:
+        non_striker: Karim Janat
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 5.3:
+        non_striker: N Dickwella
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 5.4:
+        non_striker: N Dickwella
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+        wicket:
+          player_out: Karim Janat
+          fielders:
+          - Azam Khan
+          kind: caught
+    - 5.5:
+        non_striker: N Dickwella
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Paranavithana
+    - 5.6:
+        non_striker: ND Paranavithana
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 6.1:
+        non_striker: ND Paranavithana
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 6.2:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ND Paranavithana
+    - 6.3:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Paranavithana
+        wicket:
+          player_out: ND Paranavithana
+          kind: bowled
+    - 6.4:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 6.5:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 6.6:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 7.1:
+        non_striker: N Dickwella
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 7.2:
+        non_striker: KIC Asalanka
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 7.3:
+        non_striker: KIC Asalanka
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.4:
+        non_striker: KIC Asalanka
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.5:
+        non_striker: KIC Asalanka
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 7.6:
+        non_striker: N Dickwella
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 8.1:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 8.2:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 8.3:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.4:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.5:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.6:
+        non_striker: N Dickwella
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Bopara
+    - 9.1:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 9.2:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 9.3:
+        non_striker: N Dickwella
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 9.4:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 9.5:
+        non_striker: N Dickwella
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 9.6:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 10.1:
+        non_striker: N Dickwella
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 10.2:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 10.3:
+        non_striker: N Dickwella
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 10.4:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 10.5:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 10.6:
+        non_striker: N Dickwella
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 11.1:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 11.2:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 11.3:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 11.4:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 11.5:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 11.6:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 12.1:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 12.2:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 12.3:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 12.4:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 12.5:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Dickwella
+    - 12.6:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 12.7:
+        non_striker: N Dickwella
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.1:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 13.2:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.3:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 13.4:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 13.5:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.6:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 13.7:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.1:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.2:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 14.3:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 14.4:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Dickwella
+    - 14.5:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.6:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Dickwella
+    - 14.7:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 14.8:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 15.1:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: LD Chandimal
+            out: N Dickwella
+            reason: injury
+            role: batter
+        batsman: LD Chandimal
+    - 15.2:
+        non_striker: LD Chandimal
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.3:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 15.4:
+        non_striker: LD Chandimal
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 15.5:
+        non_striker: LD Chandimal
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 15.6:
+        non_striker: LD Chandimal
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.1:
+        non_striker: LD Chandimal
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Bopara
+    - 16.2:
+        non_striker: LD Chandimal
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.3:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 16.4:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 16.5:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 16.6:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 17.1:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 17.2:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 17.3:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 17.4:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+        wicket:
+          player_out: LD Chandimal
+          fielders:
+          - Imad Wasim
+          kind: caught
+    - 17.5:
+        non_striker: RS Bopara
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 17.6:
+        non_striker: DC Drakes
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 18.1:
+        non_striker: DC Drakes
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 18.2:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 18.3:
+        non_striker: DC Drakes
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 18.4:
+        non_striker: DC Drakes
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 18.5:
+        non_striker: DC Drakes
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 18.6:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 18.7:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+        wicket:
+          player_out: DC Drakes
+          fielders:
+          - MNK Fernando
+          kind: caught
+    - 19.1:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Bopara
+    - 19.2:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 19.3:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 19.4:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 19.5:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RAS Lakmal
+    - 19.6:
+        non_striker: N Dickwella
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RAS Lakmal

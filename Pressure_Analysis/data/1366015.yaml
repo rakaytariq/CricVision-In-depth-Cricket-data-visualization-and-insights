@@ -1,0 +1,1833 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  competition: FairBreak Invitational Tournament
+  dates:
+  - '2023-04-04'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - P Litchfield
+  players:
+    Sapphires:
+    - KM Mack
+    - GH Lewis
+    - B de Leede
+    - EA Burns
+    - KH Brunt
+    - Sana Mir
+    - S Ismail
+    - NE Farrant
+    - Maryam Omar
+    - G Kodali
+    - KY Chan
+    Warriors:
+    - HK Matthews
+    - P Litchfield
+    - ER Oza
+    - S Sriharsha
+    - M du Preez
+    - KE Bryce
+    - E Johnston
+    - SS Connell
+    - A Wellington
+    - Yasmeen Khan
+    - JM Kerr
+  registry:
+    people:
+      A Wellington: 9b3bcca4
+      B de Leede: b3020075
+      E Johnston: 3785e30d
+      EA Burns: 2e0b6638
+      ER Oza: fdc6b34d
+      G Kodali: f606177e
+      GH Lewis: 1b9d1579
+      HK Matthews: d32cf49a
+      JM Kerr: 9af58032
+      JM Williams: b61d9d70
+      John Prakash: b5f3d429
+      KE Bryce: f13d3eba
+      KH Brunt: 6a434bd3
+      KM Mack: ef13bd20
+      KY Chan: 6348c6e9
+      M du Preez: e219f17a
+      Maryam Omar: b4d08794
+      NE Farrant: 15f609ed
+      P Litchfield: 4e6ef14f
+      S Ismail: 108c4c09
+      S Sriharsha: 89f6c26f
+      SJA Taufel: 4b43d5ac
+      SR Bernard: 800187dc
+      SS Connell: 2f9a6bd1
+      Sana Mir: b287e7b1
+      Tabarak Dar: 2259c12d
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Sapphires
+  - Warriors
+  toss:
+    winner: Warriors
+    decision: field
+  umpires:
+  - JM Williams
+  - Tabarak Dar
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Sapphires
+    deliveries:
+    - 0.1:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: KM Mack
+    - 0.2:
+        non_striker: KM Mack
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: KM Mack
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: KM Mack
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: KM Mack
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 0.7:
+        non_striker: KM Mack
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 1.2:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.3:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 2.5:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.2:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.3:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 3.5:
+        non_striker: KM Mack
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Mack
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 4.3:
+        non_striker: KM Mack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.4:
+        non_striker: KM Mack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Lewis
+    - 4.5:
+        non_striker: KM Mack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - A Wellington
+          kind: caught
+    - 4.6:
+        non_striker: KM Mack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.7:
+        non_striker: KM Mack
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.1:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 5.2:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 5.3:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 5.4:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 5.5:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.6:
+        non_striker: KM Mack
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.1:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 6.2:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+        wicket:
+          player_out: KM Mack
+          kind: lbw
+    - 6.3:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 6.4:
+        non_striker: EA Burns
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.5:
+        non_striker: EA Burns
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 6.6:
+        non_striker: EA Burns
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 7.1:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 7.2:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 7.3:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 7.4:
+        non_striker: EA Burns
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 7.5:
+        non_striker: EA Burns
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 7.6:
+        non_striker: EA Burns
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 8.1:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 8.2:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+        wicket:
+          player_out: EA Burns
+          fielders:
+          - M du Preez
+          kind: caught
+    - 8.3:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 8.4:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 8.5:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Brunt
+    - 8.6:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 8.7:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 9.1:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: B de Leede
+    - 9.2:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 9.3:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 9.4:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 9.5:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 9.6:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 9.7:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 10.1:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 10.2:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 10.3:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 10.4:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 10.5:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 10.6:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Brunt
+    - 11.1:
+        non_striker: KH Brunt
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 11.2:
+        non_striker: KH Brunt
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 11.3:
+        non_striker: B de Leede
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 11.4:
+        non_striker: B de Leede
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 11.5:
+        non_striker: KH Brunt
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 11.6:
+        non_striker: B de Leede
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 12.1:
+        non_striker: KH Brunt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 12.2:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Brunt
+    - 12.3:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 12.4:
+        non_striker: KH Brunt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 12.5:
+        non_striker: KH Brunt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 12.6:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 13.1:
+        non_striker: KH Brunt
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 13.2:
+        non_striker: KH Brunt
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 13.3:
+        non_striker: KH Brunt
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 13.4:
+        non_striker: B de Leede
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 13.5:
+        non_striker: B de Leede
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 13.6:
+        non_striker: B de Leede
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Brunt
+    - 14.1:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 14.2:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 14.3:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 14.4:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 14.5:
+        non_striker: KH Brunt
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 14.6:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 15.1:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 15.2:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 15.3:
+        non_striker: KH Brunt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 15.4:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+        wicket:
+          player_out: KH Brunt
+          kind: caught and bowled
+    - 15.5:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Mir
+    - 15.6:
+        non_striker: B de Leede
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Mir
+    - 16.1:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Mir
+    - 16.2:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Mir
+    - 16.3:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Mir
+        wicket:
+          player_out: Sana Mir
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 16.4:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ismail
+    - 16.5:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 16.6:
+        non_striker: S Ismail
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 16.7:
+        non_striker: B de Leede
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 17.1:
+        non_striker: B de Leede
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 17.2:
+        non_striker: B de Leede
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 17.3:
+        non_striker: S Ismail
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - SS Connell
+          kind: caught
+    - 17.4:
+        non_striker: S Ismail
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Farrant
+    - 17.5:
+        non_striker: NE Farrant
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Ismail
+    - 17.6:
+        non_striker: S Ismail
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Farrant
+    - 17.7:
+        non_striker: S Ismail
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Farrant
+    - 18.1:
+        non_striker: S Ismail
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Farrant
+    - 18.2:
+        non_striker: NE Farrant
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 18.3:
+        non_striker: NE Farrant
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+        wicket:
+          player_out: S Ismail
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 18.4:
+        non_striker: NE Farrant
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 18.5:
+        non_striker: NE Farrant
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 18.6:
+        non_striker: Maryam Omar
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Farrant
+    - 19.1:
+        non_striker: Maryam Omar
+        bowler: ER Oza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NE Farrant
+    - 19.2:
+        non_striker: Maryam Omar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Farrant
+    - 19.3:
+        non_striker: NE Farrant
+        bowler: ER Oza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Maryam Omar
+    - 19.4:
+        non_striker: Maryam Omar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Farrant
+    - 19.5:
+        non_striker: Maryam Omar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Farrant
+    - 19.6:
+        non_striker: NE Farrant
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 19.7:
+        non_striker: Maryam Omar
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NE Farrant
+- 2nd innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Litchfield
+        batsman: HK Matthews
+    - 0.2:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Litchfield
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 0.6:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.2:
+        non_striker: P Litchfield
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 3.1:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - KH Brunt
+          kind: caught
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 3.5:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 3.6:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 3.7:
+        non_striker: ER Oza
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 4.2:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+        wicket:
+          player_out: ER Oza
+          kind: lbw
+    - 4.5:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 4.6:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 4.7:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Sriharsha
+    - 4.8:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 5.1:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 5.2:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.3:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 5.6:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Sriharsha
+    - 6.1:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 6.2:
+        non_striker: S Sriharsha
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.3:
+        non_striker: S Sriharsha
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.4:
+        non_striker: S Sriharsha
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.5:
+        non_striker: S Sriharsha
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.6:
+        non_striker: P Litchfield
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 7.1:
+        non_striker: P Litchfield
+        bowler: Sana Mir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sriharsha
+    - 7.2:
+        non_striker: P Litchfield
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 7.3:
+        non_striker: S Sriharsha
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 7.4:
+        non_striker: S Sriharsha
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 7.5:
+        non_striker: S Sriharsha
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 7.6:
+        non_striker: P Litchfield
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 7.7:
+        non_striker: P Litchfield
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 8.1:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 8.2:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 8.3:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Sriharsha
+    - 8.4:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 8.5:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 8.6:
+        non_striker: P Litchfield
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 8.7:
+        non_striker: S Sriharsha
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 9.1:
+        non_striker: P Litchfield
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 9.2:
+        non_striker: S Sriharsha
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 9.3:
+        non_striker: S Sriharsha
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Litchfield
+    - 9.4:
+        non_striker: P Litchfield
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 9.5:
+        non_striker: P Litchfield
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 9.6:
+        non_striker: S Sriharsha
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 10.1:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.2:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 10.3:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 10.4:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 10.5:
+        non_striker: P Litchfield
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 10.6:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 11.1:
+        non_striker: P Litchfield
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 11.2:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 11.3:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 11.4:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - KY Chan
+          kind: run out
+    - 11.5:
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M du Preez
+        batsman: S Sriharsha
+    - 11.6:
+        non_striker: S Sriharsha
+        bowler: EA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 12.1:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 12.2:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 12.3:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 12.4:
+        non_striker: S Sriharsha
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez

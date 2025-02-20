@@ -1,0 +1,1521 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-10-21'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      runs: 16
+  overs: 20
+  players:
+    Titans:
+    - D Brevis
+    - J Pillay
+    - D Elgar
+    - BS Makhanya
+    - TB de Bruyn
+    - Dayyaan Galiem
+    - D Ferreira
+    - A Gqamane
+    - SR Harmer
+    - CJ Dala
+    - AM Phangiso
+    Western Province:
+    - K Verreynne
+    - Daniel Smith
+    - T de Zorzi
+    - G Kaplan
+    - M Mpongwana
+    - GF Linde
+    - Abdullah Bayoumy
+    - D Paterson
+    - TL Moreki
+    - N Burger
+    - J Dawood
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      A Jacobs: 70d117de
+      AM Phangiso: 7f8ecc51
+      Abdullah Bayoumy: 8ab49ad2
+      BS Makhanya: 1b42a100
+      C Bosch: 172dff15
+      CJ Dala: 1cb14aa4
+      D Brevis: 844e79d1
+      D Elgar: 33085ffb
+      D Ferreira: f0af99a7
+      D Paterson: 462d7c62
+      D Smith: 5d69930d
+      Dayyaan Galiem: 47c449c5
+      G Kaplan: a5c3d564
+      GF Linde: e5437608
+      J Dawood: a2316f90
+      J Pillay: 230f5cea
+      K Verreynne: bf814547
+      M Mpongwana: 547c5509
+      MN Gampu: '41597619'
+      N Burger: 465aa633
+      PJ Vosloo: 93a6d2d0
+      S George: 6d9e5a54
+      SR Harmer: '23638956'
+      T de Zorzi: d3a1c63d
+      TB de Bruyn: 90d6cdea
+      TL Moreki: 36ea17c1
+      ZTA Ndamane: 545cc6db
+  teams:
+  - Titans
+  - Western Province
+  toss:
+    winner: Titans
+    decision: bat
+  umpires:
+  - A Jacobs
+  - S George
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.2:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          kind: bowled
+    - 0.3:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 0.4:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Pillay
+    - 0.5:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 0.6:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 0.7:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Elgar
+    - 1.1:
+        non_striker: D Elgar
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 1.2:
+        non_striker: D Elgar
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.3:
+        non_striker: D Elgar
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.4:
+        non_striker: D Elgar
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 1.5:
+        non_striker: D Elgar
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 1.6:
+        non_striker: J Pillay
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 2.1:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.2:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.3:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 2.4:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 2.5:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 2.6:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.1:
+        non_striker: J Pillay
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 3.2:
+        non_striker: D Elgar
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 3.3:
+        non_striker: J Pillay
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 3.4:
+        non_striker: J Pillay
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 3.5:
+        non_striker: D Elgar
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 3.6:
+        non_striker: D Elgar
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Pillay
+    - 4.1:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 4.2:
+        non_striker: D Elgar
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 4.3:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Elgar
+    - 4.4:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+        wicket:
+          player_out: D Elgar
+          kind: caught and bowled
+    - 4.5:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 4.6:
+        non_striker: J Pillay
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 5.1:
+        non_striker: BS Makhanya
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 5.2:
+        non_striker: BS Makhanya
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 5.3:
+        non_striker: J Pillay
+        bowler: D Paterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BS Makhanya
+    - 5.4:
+        non_striker: BS Makhanya
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 5.5:
+        non_striker: BS Makhanya
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 5.6:
+        non_striker: BS Makhanya
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 6.1:
+        non_striker: J Pillay
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 6.2:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 6.3:
+        non_striker: J Pillay
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 6.4:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 6.5:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 6.6:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 7.1:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+        wicket:
+          player_out: J Pillay
+          fielders:
+          - G Kaplan
+          kind: caught
+    - 7.2:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB de Bruyn
+    - 7.3:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 7.4:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+        wicket:
+          player_out: TB de Bruyn
+          fielders:
+          - Daniel Smith
+          kind: caught
+    - 7.5:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 7.6:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 8.1:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Dayyaan Galiem
+    - 8.2:
+        non_striker: Dayyaan Galiem
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 8.3:
+        non_striker: Dayyaan Galiem
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.4:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 8.5:
+        non_striker: Dayyaan Galiem
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.6:
+        non_striker: BS Makhanya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 9.1:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 9.2:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 9.3:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dayyaan Galiem
+    - 9.4:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 9.5:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+        wicket:
+          player_out: Dayyaan Galiem
+          fielders:
+          - Abdullah Bayoumy
+          kind: caught
+    - 9.6:
+        non_striker: BS Makhanya
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 10.1:
+        non_striker: BS Makhanya
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 10.2:
+        non_striker: D Ferreira
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+        wicket:
+          player_out: BS Makhanya
+          fielders:
+          - J Dawood
+          kind: caught
+    - 10.3:
+        non_striker: D Ferreira
+        bowler: TL Moreki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gqamane
+    - 10.4:
+        non_striker: D Ferreira
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+        wicket:
+          player_out: A Gqamane
+          kind: lbw
+    - 10.5:
+        non_striker: D Ferreira
+        bowler: TL Moreki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Harmer
+    - 10.6:
+        non_striker: D Ferreira
+        bowler: TL Moreki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Harmer
+    - 10.7:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 10.8:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 11.1:
+        non_striker: SR Harmer
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 11.2:
+        non_striker: SR Harmer
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 11.3:
+        non_striker: SR Harmer
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 11.4:
+        non_striker: D Ferreira
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 11.5:
+        non_striker: SR Harmer
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 11.6:
+        non_striker: SR Harmer
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 12.1:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 12.2:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.3:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.4:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.5:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 12.6:
+        non_striker: SR Harmer
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+- 2nd innings:
+    team: Western Province
+    deliveries:
+    - 0.1:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          kind: lbw
+    - 0.2:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+        wicket:
+          player_out: T de Zorzi
+          kind: bowled
+    - 0.3:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+    - 0.4:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kaplan
+    - 0.5:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Kaplan
+    - 0.6:
+        non_striker: G Kaplan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 0.7:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+    - 1.1:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 1.2:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Daniel Smith
+    - 1.3:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Daniel Smith
+    - 1.4:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 1.5:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kaplan
+    - 1.6:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 1.7:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 1.8:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kaplan
+    - 2.1:
+        non_striker: G Kaplan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Daniel Smith
+    - 2.2:
+        non_striker: G Kaplan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Daniel Smith
+    - 2.3:
+        non_striker: G Kaplan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 2.4:
+        non_striker: G Kaplan
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 2.5:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kaplan
+    - 2.6:
+        non_striker: Daniel Smith
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+    - 3.1:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 3.2:
+        non_striker: G Kaplan
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Daniel Smith
+    - 3.3:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kaplan
+    - 3.4:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+        wicket:
+          player_out: G Kaplan
+          fielders:
+          - Dayyaan Galiem
+          kind: caught
+    - 3.5:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 3.6:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 3.7:
+        non_striker: Daniel Smith
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 4.1:
+        non_striker: Daniel Smith
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 4.2:
+        non_striker: Daniel Smith
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+        wicket:
+          player_out: M Mpongwana
+          kind: caught and bowled
+    - 4.3:
+        non_striker: Daniel Smith
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 4.4:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 4.5:
+        non_striker: Daniel Smith
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 4.6:
+        non_striker: Daniel Smith
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 5.1:
+        non_striker: Daniel Smith
+        bowler: AM Phangiso
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: GF Linde
+    - 5.2:
+        non_striker: Daniel Smith
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 5.3:
+        non_striker: Daniel Smith
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 5.4:
+        non_striker: GF Linde
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 5.5:
+        non_striker: Daniel Smith
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 5.6:
+        non_striker: Daniel Smith
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 5.7:
+        non_striker: Daniel Smith
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 6.1:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 6.2:
+        non_striker: Daniel Smith
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 6.3:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Daniel Smith
+    - 6.4:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+        wicket:
+          player_out: Daniel Smith
+          fielders:
+          - A Gqamane
+          kind: caught
+    - 6.5:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abdullah Bayoumy
+    - 6.6:
+        non_striker: Abdullah Bayoumy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 7.1:
+        non_striker: Abdullah Bayoumy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 7.2:
+        non_striker: Abdullah Bayoumy
+        bowler: AM Phangiso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 7.3:
+        non_striker: Abdullah Bayoumy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 7.4:
+        non_striker: Abdullah Bayoumy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 7.5:
+        non_striker: GF Linde
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Bayoumy
+    - 7.6:
+        non_striker: GF Linde
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Bayoumy
+    - 7.7:
+        non_striker: Abdullah Bayoumy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 8.1:
+        non_striker: Abdullah Bayoumy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 8.2:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Bayoumy
+    - 8.3:
+        non_striker: Abdullah Bayoumy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 8.4:
+        non_striker: Abdullah Bayoumy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 8.5:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Bayoumy
+    - 8.6:
+        non_striker: Abdullah Bayoumy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 9.1:
+        non_striker: Abdullah Bayoumy
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 9.2:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+        wicket:
+          player_out: Abdullah Bayoumy
+          fielders:
+          - C Bosch (sub)
+          kind: caught
+    - 9.3:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 9.4:
+        non_striker: D Paterson
+        bowler: D Brevis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 9.5:
+        non_striker: D Paterson
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 9.6:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+    - 9.7:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+    - 10.1:
+        non_striker: D Paterson
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 10.2:
+        non_striker: D Paterson
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 10.3:
+        non_striker: D Paterson
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+        wicket:
+          player_out: D Paterson
+          fielders:
+          - C Bosch (sub)
+          - CJ Dala
+          kind: run out
+    - 10.4:
+        non_striker: TL Moreki
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 10.5:
+        non_striker: TL Moreki
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 10.6:
+        non_striker: TL Moreki
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.7:
+        non_striker: GF Linde
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Moreki
+    - 11.1:
+        non_striker: TL Moreki
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 11.2:
+        non_striker: TL Moreki
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 11.3:
+        non_striker: TL Moreki
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 11.4:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 11.5:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 11.6:
+        non_striker: GF Linde
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 12.1:
+        non_striker: TL Moreki
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          fielders:
+          - C Bosch (sub)
+          - D Ferreira
+          kind: run out
+    - 12.2:
+        non_striker: TL Moreki
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Burger
+    - 12.3:
+        non_striker: TL Moreki
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Burger
+    - 12.4:
+        non_striker: TL Moreki
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 12.5:
+        non_striker: N Burger
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+    - 12.6:
+        non_striker: TL Moreki
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger

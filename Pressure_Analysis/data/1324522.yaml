@@ -1,0 +1,1930 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hambantota
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kandy Falcons
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - CR Brathwaite
+  players:
+    Galle Gladiators:
+    - PTM Dabare
+    - BKG Mendis
+    - Azam Khan
+    - MNK Fernando
+    - Iftikhar Ahmed
+    - M Subasingha
+    - Imad Wasim
+    - Wahab Riaz
+    - Pulina Tharanga
+    - N Pradeep
+    - N Thushara
+    Kandy Falcons:
+    - C Karunaratne
+    - P Nissanka
+    - ADS Fletcher
+    - PHKD Mendis
+    - KNA Bandara
+    - FA Allen
+    - CR Brathwaite
+    - PWH de Silva
+    - C Wijesinghe
+    - I Udana
+    - Zahoor Khan
+    - A Daniel
+  registry:
+    people:
+      A Daniel: 9e3f1cc4
+      ADS Fletcher: 1bae756b
+      Azam Khan: ee8f1a6d
+      BCMS Mendis: e3f6e4ac
+      BKG Mendis: 5d1e7582
+      C Karunaratne: fb3e0d39
+      C Wijesinghe: 0a2d45b0
+      CR Brathwaite: e342e5fb
+      FA Allen: b52ffbbd
+      I Udana: ac5ae4af
+      IC Soysa: 717a7971
+      Iftikhar Ahmed: 29e253dd
+      Imad Wasim: 9cb8d7a6
+      KNA Bandara: 585dda5d
+      M Subasingha: 5d499f67
+      MNK Fernando: ba603555
+      N Pradeep: 2af838ee
+      N Thushara: ee1b6c27
+      P Nissanka: 8ee36b18
+      PHKD Mendis: '08548b13'
+      PTM Dabare: a97fbc2c
+      PWH de Silva: a97c8ec2
+      Pulina Tharanga: 28d7f469
+      RA Kottahachchi: 808f2939
+      RMPJ Rambukwella: 13fa6ffc
+      RR Wimalasiri: 4950c8db
+      Wahab Riaz: b3118300
+      Zahoor Khan: f0e293b0
+  teams:
+  - Galle Gladiators
+  - Kandy Falcons
+  toss:
+    winner: Galle Gladiators
+    decision: bat
+  umpires:
+  - IC Soysa
+  - RMPJ Rambukwella
+  venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+innings:
+- 1st innings:
+    team: Galle Gladiators
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 0.2:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+        wicket:
+          player_out: PTM Dabare
+          kind: caught and bowled
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 0.5:
+        non_striker: Azam Khan
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.6:
+        non_striker: Azam Khan
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.1:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 1.2:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - A Daniel
+          kind: caught
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 1.5:
+        non_striker: MNK Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 1.6:
+        non_striker: MNK Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 2.2:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MNK Fernando
+    - 2.3:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MNK Fernando
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 2.5:
+        non_striker: MNK Fernando
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: BKG Mendis
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+        wicket:
+          player_out: MNK Fernando
+          fielders:
+          - C Karunaratne
+          kind: caught
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: C Wijesinghe
+            out: C Karunaratne
+            team: Kandy Falcons
+            reason: concussion_substitute
+        batsman: Iftikhar Ahmed
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+        wicket:
+          player_out: Iftikhar Ahmed
+          kind: bowled
+    - 3.4:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 3.5:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 3.6:
+        non_striker: BKG Mendis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 4.1:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 4.2:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 4.4:
+        non_striker: BKG Mendis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 4.5:
+        non_striker: BKG Mendis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 5.1:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.2:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.3:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.4:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - Zahoor Khan
+          kind: caught
+    - 5.5:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 5.6:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 6.1:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 6.2:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 6.3:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 6.4:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 6.5:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 6.6:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.1:
+        non_striker: Imad Wasim
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 7.2:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.3:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 7.4:
+        non_striker: Imad Wasim
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 7.5:
+        non_striker: M Subasingha
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 7.6:
+        non_striker: Imad Wasim
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 8.1:
+        non_striker: M Subasingha
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 8.2:
+        non_striker: M Subasingha
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 8.3:
+        non_striker: M Subasingha
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 8.4:
+        non_striker: Imad Wasim
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 8.5:
+        non_striker: Imad Wasim
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 8.6:
+        non_striker: Imad Wasim
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Subasingha
+    - 9.1:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.2:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 9.3:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.4:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 9.5:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 9.6:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.1:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.2:
+        non_striker: Imad Wasim
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 10.3:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.4:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.5:
+        non_striker: Imad Wasim
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 10.6:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.1:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.2:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 11.3:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.4:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Subasingha
+    - 11.5:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 11.6:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.1:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.2:
+        non_striker: Imad Wasim
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 12.3:
+        non_striker: Imad Wasim
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 12.4:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 12.5:
+        non_striker: M Subasingha
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.6:
+        non_striker: Imad Wasim
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Subasingha
+    - 13.1:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.2:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Subasingha
+    - 13.3:
+        non_striker: M Subasingha
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.4:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 13.5:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 13.6:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Subasingha
+    - 14.1:
+        non_striker: M Subasingha
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.2:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Subasingha
+    - 14.3:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 14.4:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 14.5:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Subasingha
+    - 14.6:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 15.1:
+        non_striker: Imad Wasim
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Subasingha
+    - 15.2:
+        non_striker: M Subasingha
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 15.3:
+        non_striker: M Subasingha
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 15.4:
+        non_striker: Imad Wasim
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+    - 15.5:
+        non_striker: Imad Wasim
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Subasingha
+        wicket:
+          player_out: M Subasingha
+          fielders:
+          - PWH de Silva
+          kind: caught
+    - 15.6:
+        non_striker: Imad Wasim
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahab Riaz
+    - 16.1:
+        non_striker: Wahab Riaz
+        bowler: A Daniel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Imad Wasim
+    - 16.2:
+        non_striker: Imad Wasim
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 16.3:
+        non_striker: Wahab Riaz
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 16.4:
+        non_striker: Wahab Riaz
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.5:
+        non_striker: Imad Wasim
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 16.6:
+        non_striker: Imad Wasim
+        bowler: A Daniel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.1:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.2:
+        non_striker: Wahab Riaz
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 17.3:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 17.4:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+        wicket:
+          player_out: Wahab Riaz
+          fielders:
+          - I Udana
+          kind: caught
+    - 17.5:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pulina Tharanga
+    - 17.6:
+        non_striker: Pulina Tharanga
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.1:
+        non_striker: Pulina Tharanga
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 18.2:
+        non_striker: Pulina Tharanga
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 18.3:
+        non_striker: Pulina Tharanga
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 18.4:
+        non_striker: Imad Wasim
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pulina Tharanga
+    - 18.5:
+        non_striker: Pulina Tharanga
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - KNA Bandara
+          kind: caught
+    - 18.6:
+        non_striker: Pulina Tharanga
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pradeep
+    - 19.1:
+        non_striker: N Pradeep
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pulina Tharanga
+    - 19.2:
+        non_striker: Pulina Tharanga
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pradeep
+    - 19.3:
+        non_striker: N Pradeep
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pulina Tharanga
+    - 19.4:
+        non_striker: Pulina Tharanga
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pradeep
+    - 19.5:
+        non_striker: Pulina Tharanga
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pradeep
+    - 19.6:
+        non_striker: N Pradeep
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pulina Tharanga
+- 2nd innings:
+    team: Kandy Falcons
+    deliveries:
+    - 0.1:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.7:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 0.8:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: ADS Fletcher
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 3.4:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 3.7:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - Azam Khan
+          kind: caught
+    - 3.8:
+        non_striker: P Nissanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 4.1:
+        non_striker: PHKD Mendis
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: PHKD Mendis
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 4.3:
+        non_striker: PHKD Mendis
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.4:
+        non_striker: PHKD Mendis
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.5:
+        non_striker: PHKD Mendis
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.6:
+        non_striker: PHKD Mendis
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 5.1:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 5.3:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 5.4:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 5.5:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 5.6:
+        non_striker: PHKD Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.1:
+        non_striker: P Nissanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 6.2:
+        non_striker: P Nissanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 6.3:
+        non_striker: P Nissanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 6.4:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.5:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 7.1:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 7.2:
+        non_striker: P Nissanka
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PHKD Mendis
+    - 7.3:
+        non_striker: PHKD Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 7.4:
+        non_striker: PHKD Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - Azam Khan
+          kind: caught
+    - 7.5:
+        non_striker: PHKD Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 7.6:
+        non_striker: KNA Bandara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 8.1:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 8.2:
+        non_striker: KNA Bandara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 8.3:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.4:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 8.5:
+        non_striker: KNA Bandara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 8.6:
+        non_striker: KNA Bandara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.1:
+        non_striker: KNA Bandara
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.2:
+        non_striker: PHKD Mendis
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+        wicket:
+          player_out: KNA Bandara
+          kind: bowled
+    - 9.3:
+        non_striker: PHKD Mendis
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 9.4:
+        non_striker: PHKD Mendis
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 9.5:
+        non_striker: FA Allen
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.6:
+        non_striker: PHKD Mendis
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Allen
+    - 10.1:
+        non_striker: FA Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 10.2:
+        non_striker: FA Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.3:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FA Allen
+    - 10.4:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 10.5:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 10.6:
+        non_striker: FA Allen
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.7:
+        non_striker: PHKD Mendis
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 11.1:
+        non_striker: PHKD Mendis
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 11.2:
+        non_striker: FA Allen
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 11.3:
+        non_striker: FA Allen
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 11.4:
+        non_striker: FA Allen
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 11.5:
+        non_striker: PHKD Mendis
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 11.6:
+        non_striker: FA Allen
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 12.1:
+        non_striker: FA Allen
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 12.2:
+        non_striker: FA Allen
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 12.3:
+        non_striker: PHKD Mendis
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 12.4:
+        non_striker: FA Allen
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 12.5:
+        non_striker: FA Allen
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 12.6:
+        non_striker: FA Allen
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 12.7:
+        non_striker: FA Allen
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 12.8:
+        non_striker: PHKD Mendis
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+        wicket:
+          player_out: FA Allen
+          fielders:
+          - Iftikhar Ahmed
+          kind: caught
+    - 13.1:
+        non_striker: CR Brathwaite
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 13.2:
+        non_striker: PHKD Mendis
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 13.3:
+        non_striker: PHKD Mendis
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Brathwaite
+    - 13.4:
+        non_striker: CR Brathwaite
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 13.5:
+        non_striker: CR Brathwaite
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 13.6:
+        non_striker: CR Brathwaite
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 13.7:
+        non_striker: CR Brathwaite
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 14.1:
+        non_striker: PHKD Mendis
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 14.2:
+        non_striker: PHKD Mendis
+        bowler: Pulina Tharanga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Brathwaite
+    - 14.3:
+        non_striker: CR Brathwaite
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          fielders:
+          - Wahab Riaz
+          kind: caught
+    - 14.4:
+        non_striker: CR Brathwaite
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 14.5:
+        non_striker: CR Brathwaite
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 14.6:
+        non_striker: CR Brathwaite
+        bowler: Pulina Tharanga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva

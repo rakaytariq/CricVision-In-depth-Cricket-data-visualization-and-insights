@@ -1,0 +1,1997 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-11-01'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: North West
+    by:
+      runs: 22
+  overs: 20
+  players:
+    North West:
+    - TG Mokoena
+    - WB Marshall
+    - HG Kuhn
+    - K Cotani
+    - S Muthusamy
+    - D Potgieter
+    - Duan Jansen
+    - H Coetzer
+    - R Meyer
+    - C Seleka
+    - LM Zuma
+    Knights:
+    - GL Cloete
+    - GJ Snyman
+    - R van Tonder
+    - PE Kruger
+    - AR Swanepoel
+    - PJ van Biljon
+    - I Dikgale
+    - G Coetzee
+    - M Pretorius
+    - O Motlhoaring
+    - M Budaza
+  registry:
+    people:
+      AR Swanepoel: cba5185d
+      BP Jele: 7bb1331e
+      C Seleka: be8b147b
+      D Jansen: 8dc152d1
+      D Potgieter: 60fbf53a
+      G Coetzee: 3204c99f
+      GJ Snyman: a3ae63f4
+      GL Cloete: 3bf40832
+      H Coetzer: bd25d145
+      HG Kuhn: ede05b97
+      I Dikgale: f3fe6653
+      K Cotani: '0867d81f'
+      LB Gcuma: 02ba88e3
+      LM Zuma: 58f01d47
+      M Budaza: 1d105638
+      M Pretorius: 54c2b697
+      O Motlhoaring: 1713d202
+      PE Kruger: '39181592'
+      PJ van Biljon: 4025c262
+      R Meyer: 64f55c74
+      R van Tonder: 0ba03cec
+      RN Hendricks: 92edb363
+      S Muthusamy: 7dfb8890
+      S Pillay: '09497f5a'
+      S Wadvalla: c1a1acf3
+      Siphelele Gasa: e50baa87
+      TG Mokoena: '0827b38d'
+      WB Marshall: 2d7f2ba0
+  teams:
+  - North West
+  - Knights
+  toss:
+    winner: Knights
+    decision: field
+  umpires:
+  - LB Gcuma
+  - Siphelele Gasa
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: North West
+    deliveries:
+    - 0.1:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Mokoena
+    - 0.2:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Mokoena
+    - 0.3:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 0.4:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 0.5:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 0.6:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Mokoena
+    - 1.1:
+        non_striker: TG Mokoena
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 1.2:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 1.3:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+        wicket:
+          player_out: TG Mokoena
+          kind: bowled
+    - 1.4:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 1.5:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 1.6:
+        non_striker: HG Kuhn
+        bowler: M Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WB Marshall
+    - 1.7:
+        non_striker: HG Kuhn
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 2.1:
+        non_striker: HG Kuhn
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WB Marshall
+    - 2.2:
+        non_striker: HG Kuhn
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 2.3:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 2.4:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 2.5:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 2.6:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Kuhn
+    - 2.7:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 2.8:
+        non_striker: HG Kuhn
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WB Marshall
+    - 3.1:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 3.2:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 3.3:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 3.4:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 3.5:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 3.6:
+        non_striker: WB Marshall
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 4.1:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 4.2:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 4.3:
+        non_striker: HG Kuhn
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 4.4:
+        non_striker: HG Kuhn
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Marshall
+    - 4.5:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 4.6:
+        non_striker: WB Marshall
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 5.1:
+        non_striker: WB Marshall
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 5.2:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WB Marshall
+    - 5.3:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+        wicket:
+          player_out: WB Marshall
+          fielders:
+          - I Dikgale
+          kind: caught
+    - 5.4:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 5.5:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Cotani
+    - 5.6:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Cotani
+    - 5.7:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 6.1:
+        non_striker: K Cotani
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 6.2:
+        non_striker: K Cotani
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 6.3:
+        non_striker: HG Kuhn
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 6.4:
+        non_striker: HG Kuhn
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Cotani
+    - 6.5:
+        non_striker: K Cotani
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 6.6:
+        non_striker: HG Kuhn
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 7.1:
+        non_striker: K Cotani
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.2:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+    - 7.3:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cotani
+        wicket:
+          player_out: K Cotani
+          fielders:
+          - AR Swanepoel
+          kind: caught
+    - 7.4:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 7.5:
+        non_striker: S Muthusamy
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 7.6:
+        non_striker: S Muthusamy
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 8.1:
+        non_striker: S Muthusamy
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 8.2:
+        non_striker: S Muthusamy
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 8.3:
+        non_striker: HG Kuhn
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 8.4:
+        non_striker: S Muthusamy
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 8.5:
+        non_striker: HG Kuhn
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 8.6:
+        non_striker: S Muthusamy
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 9.1:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Muthusamy
+    - 9.2:
+        non_striker: S Muthusamy
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 9.3:
+        non_striker: S Muthusamy
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 9.4:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muthusamy
+    - 9.5:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muthusamy
+    - 9.6:
+        non_striker: HG Kuhn
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 10.1:
+        non_striker: S Muthusamy
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 10.2:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+        wicket:
+          player_out: S Muthusamy
+          kind: lbw
+    - 10.3:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 10.4:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 10.5:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 10.6:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.1:
+        non_striker: HG Kuhn
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 11.2:
+        non_striker: HG Kuhn
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 11.3:
+        non_striker: HG Kuhn
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.4:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 11.5:
+        non_striker: HG Kuhn
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 11.6:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 12.1:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 12.2:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 12.3:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 12.4:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 12.5:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 12.6:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 13.1:
+        non_striker: D Potgieter
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.2:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Potgieter
+    - 13.3:
+        non_striker: D Potgieter
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 13.4:
+        non_striker: D Potgieter
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.5:
+        non_striker: HG Kuhn
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 13.6:
+        non_striker: D Potgieter
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 14.1:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 14.2:
+        non_striker: HG Kuhn
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 14.3:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 14.4:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 14.5:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 14.6:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 15.1:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 15.2:
+        non_striker: HG Kuhn
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 15.3:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 15.4:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 15.5:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 15.6:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+        wicket:
+          player_out: HG Kuhn
+          fielders:
+          - PE Kruger
+          kind: caught
+    - 16.1:
+        non_striker: Duan Jansen
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 16.2:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Duan Jansen
+    - 16.3:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 16.4:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Duan Jansen
+    - 16.5:
+        non_striker: D Potgieter
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 16.6:
+        non_striker: Duan Jansen
+        bowler: GJ Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 17.1:
+        non_striker: Duan Jansen
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 17.2:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Duan Jansen
+    - 17.3:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Duan Jansen
+    - 17.4:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Duan Jansen
+    - 17.5:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 17.6:
+        non_striker: D Potgieter
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Duan Jansen
+    - 18.1:
+        non_striker: Duan Jansen
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 18.2:
+        non_striker: Duan Jansen
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.3:
+        non_striker: D Potgieter
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Duan Jansen
+    - 18.4:
+        non_striker: D Potgieter
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Duan Jansen
+    - 18.5:
+        non_striker: D Potgieter
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 18.6:
+        non_striker: Duan Jansen
+        bowler: AR Swanepoel
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: D Potgieter
+    - 19.1:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Duan Jansen
+    - 19.2:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 19.3:
+        non_striker: Duan Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 19.4:
+        non_striker: Duan Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Potgieter
+    - 19.5:
+        non_striker: Duan Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 19.6:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+        wicket:
+          player_out: Duan Jansen
+          fielders:
+          - GL Cloete
+          kind: caught
+    - 19.7:
+        non_striker: D Potgieter
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Coetzer
+- 2nd innings:
+    team: Knights
+    deliveries:
+    - 0.1:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 0.2:
+        non_striker: GL Cloete
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Snyman
+    - 0.3:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 0.4:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 0.5:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Cloete
+    - 0.6:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Cloete
+    - 1.1:
+        non_striker: GL Cloete
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 1.2:
+        non_striker: GL Cloete
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+        wicket:
+          player_out: GL Cloete
+          fielders:
+          - S Muthusamy
+          - LM Zuma
+          kind: run out
+    - 1.3:
+        non_striker: R van Tonder
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Snyman
+    - 1.4:
+        non_striker: R van Tonder
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Snyman
+    - 1.5:
+        non_striker: GJ Snyman
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 1.6:
+        non_striker: GJ Snyman
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 2.1:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 2.2:
+        non_striker: GJ Snyman
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 2.3:
+        non_striker: R van Tonder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 2.4:
+        non_striker: R van Tonder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 2.5:
+        non_striker: R van Tonder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Snyman
+    - 2.6:
+        non_striker: R van Tonder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Snyman
+    - 3.1:
+        non_striker: GJ Snyman
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 3.2:
+        non_striker: GJ Snyman
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 3.3:
+        non_striker: GJ Snyman
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 3.4:
+        non_striker: GJ Snyman
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 3.5:
+        non_striker: R van Tonder
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 3.6:
+        non_striker: R van Tonder
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Snyman
+    - 4.1:
+        non_striker: GJ Snyman
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+        wicket:
+          player_out: R van Tonder
+          fielders:
+          - K Cotani
+          kind: caught
+    - 4.2:
+        non_striker: GJ Snyman
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PE Kruger
+    - 4.3:
+        non_striker: PE Kruger
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 4.4:
+        non_striker: PE Kruger
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Snyman
+    - 4.5:
+        non_striker: GJ Snyman
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 4.6:
+        non_striker: GJ Snyman
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger
+    - 5.1:
+        non_striker: PE Kruger
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Snyman
+    - 5.2:
+        non_striker: PE Kruger
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+    - 5.3:
+        non_striker: PE Kruger
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Snyman
+    - 5.4:
+        non_striker: PE Kruger
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Snyman
+        wicket:
+          player_out: GJ Snyman
+          fielders:
+          - WB Marshall
+          kind: caught
+    - 5.5:
+        non_striker: PE Kruger
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Swanepoel
+    - 5.6:
+        non_striker: PE Kruger
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Swanepoel
+    - 6.1:
+        non_striker: AR Swanepoel
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 6.2:
+        non_striker: AR Swanepoel
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 6.3:
+        non_striker: AR Swanepoel
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+        wicket:
+          player_out: PE Kruger
+          fielders:
+          - S Pillay (sub)
+          kind: caught
+    - 6.4:
+        non_striker: AR Swanepoel
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 6.5:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Swanepoel
+    - 6.6:
+        non_striker: AR Swanepoel
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 7.1:
+        non_striker: PJ van Biljon
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Swanepoel
+        wicket:
+          player_out: AR Swanepoel
+          kind: bowled
+    - 7.2:
+        non_striker: PJ van Biljon
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dikgale
+    - 7.3:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 7.4:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 7.5:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ van Biljon
+    - 7.6:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 8.1:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dikgale
+    - 8.2:
+        non_striker: I Dikgale
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 8.3:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dikgale
+    - 8.4:
+        non_striker: I Dikgale
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 8.5:
+        non_striker: I Dikgale
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 8.6:
+        non_striker: I Dikgale
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 9.1:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 9.2:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 9.3:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 9.4:
+        non_striker: PJ van Biljon
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Dikgale
+    - 9.5:
+        non_striker: PJ van Biljon
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dikgale
+    - 9.6:
+        non_striker: I Dikgale
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 10.1:
+        non_striker: I Dikgale
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 10.2:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dikgale
+    - 10.3:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dikgale
+    - 10.4:
+        non_striker: I Dikgale
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 10.5:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Dikgale
+    - 10.6:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dikgale
+        wicket:
+          player_out: I Dikgale
+          kind: bowled
+    - 11.1:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ van Biljon
+    - 11.2:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ van Biljon
+    - 11.3:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ van Biljon
+    - 11.4:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ van Biljon
+    - 11.5:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 11.6:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PJ van Biljon
+    - 11.7:
+        non_striker: G Coetzee
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 12.1:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 12.2:
+        non_striker: PJ van Biljon
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 12.3:
+        non_striker: G Coetzee
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 12.4:
+        non_striker: G Coetzee
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+        wicket:
+          player_out: PJ van Biljon
+          fielders:
+          - K Cotani
+          kind: caught
+    - 12.5:
+        non_striker: G Coetzee
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pretorius
+    - 12.6:
+        non_striker: M Pretorius
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 13.1:
+        non_striker: G Coetzee
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Pretorius
+    - 13.2:
+        non_striker: G Coetzee
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pretorius
+    - 13.3:
+        non_striker: M Pretorius
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Coetzee
+    - 13.4:
+        non_striker: M Pretorius
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 13.5:
+        non_striker: M Pretorius
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+        wicket:
+          player_out: G Coetzee
+          fielders:
+          - Duan Jansen
+          kind: caught
+    - 13.6:
+        non_striker: M Pretorius
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Motlhoaring
+    - 14.1:
+        non_striker: M Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Motlhoaring
+    - 14.2:
+        non_striker: O Motlhoaring
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pretorius
+    - 14.3:
+        non_striker: O Motlhoaring
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pretorius
+    - 14.4:
+        non_striker: M Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Motlhoaring
+        wicket:
+          player_out: O Motlhoaring
+          fielders:
+          - Duan Jansen
+          kind: caught
+    - 14.5:
+        non_striker: M Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Budaza
+    - 14.6:
+        non_striker: M Pretorius
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Budaza
+    - 15.1:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Pretorius
+    - 15.2:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+    - 15.3:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pretorius
+    - 15.4:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+    - 15.5:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Pretorius
+    - 15.6:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+    - 15.7:
+        non_striker: M Budaza
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pretorius
+    - 16.1:
+        non_striker: M Budaza
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Pretorius
+    - 16.2:
+        non_striker: M Budaza
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Pretorius
+    - 16.3:
+        non_striker: M Budaza
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pretorius
+    - 16.4:
+        non_striker: M Budaza
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+        wicket:
+          player_out: M Pretorius
+          fielders:
+          - H Coetzer
+          kind: caught

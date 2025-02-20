@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Data Analysis & Visualization</title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="//cdn.muicss.com/mui-latest/extra/mui-colors.min.css">
+    <link rel="stylesheet" href="F:\Python-SS\app\templates\static\style.css">
+    <link rel="stylesheet" href="path_to_your_style.css">
+    <script src="//cdn.muicss.com/mui-latest/extra/mui-combined.min.js"></script>
+<style>
+  /* Reset some styles for the body */
+body {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  font-family: 'Your preferred font', sans-serif; /* Set the font */
+}
+
+/* Header adjustments */
+.mui-appbar {
+  background-color: #333; /* Dark background for the header */
+}
+
+/* Link styles */
+a, a:hover, a:focus {
+  color: #fff; /* White text for links */
+  text-decoration: none; /* Removes underline from links */
+}
+
+/* Button styles */
+.mui-btn--primary {
+  background-color: #555; /* Darker background for buttons */
+  color: #fff; /* White text for buttons */
+}
+
+/* Icon adjustments */
+.fa-university {
+  color: #fff; /* White color for icons */
+}
+
+/* Row layout for two columns */
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Column styling */
+.mui-col-md-6 {
+  width: 50%;
+  padding: 20px;
+}
+
+/* Footer adjustments */
+footer {
+  background-color: #333; /* Dark background for the footer */
+  color: #fff; /* White text for the footer */
+}
+
+/* Overrides for animated elements */
+.wow.zoomInDown, .wow.zoomIn {
+  color: #fff; /* Ensure text in animations is white */
+}
+</style>
+  </head>
+  <body>
+    <header class="mui-appbar mui--z1">
+      <div class="mui-container">
+        <table>
+          <tr class="mui--appbar-height">
+            <td class="mui--text-title">Data Analysis & Visualization</td>
+            <td class="mui--text-right">
+              <ul class="mui-list--inline mui--text-body2">
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </header>
+    <div id="content-wrapper" class="mui--text-center">
+      <div class="mui--appbar-height"></div>
+      <div class="mui-container">
+        <div class="row">
+          <div class="mui-col-md-6">
+            <button class="mui-btn mui-btn--primary" onclick="generatePlots()">Generate Plots</button>
+            <i class="fa fa-university fa-5x" aria-hidden="true"></i>
+          </div>
+          <div class="mui-col-md-6">
+            <button class="mui-btn mui-btn--primary" name="get_started">
+              <a href="dashboard" class="get-started-link">Get started</a>
+            </button>
+            <i class="fa fa-university fa-5x" aria-hidden="true"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+    </footer>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
+      new WOW().init();
+    </script>
+    <script>
+      function generatePlots() {
+          fetch('/generate-plots', { method: 'POST' })
+              .then(response => response.json())
+              .then(data => {
+                  console.log(data.message);
+              });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+/* Set the background color and font properties for the whole page */
+body {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    font-family: Arial, sans-serif; /* Modern sans-serif font */
+    margin: 0; /* Reset default margin */
+}
+
+/* Style the header or title of the page */
+h1 {
+    background-color: #333; /* Dark grey background */
+    color: #fff; /* White text color */
+    padding: 20px 0; /* Padding above and below the text */
+    text-align: center; /* Center the title text */
+    margin-bottom: 30px; /* Space below the header */
+}
+
+/* Style individual posts */
+.post {
+    background-color: #222; /* Darker background for posts */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px; /* Padding inside posts */
+    margin-bottom: 15px; /* Space between posts */
+    border-left: 5px solid #555; /* Left border for some visual accent */
+}
+
+/* Style for author and email */
+.author-email {
+    color: #aaa; /* Light grey text for less emphasis */
+    font-size: 0.9em; /* Smaller text size */
+}
+
+/* Optional: Style for any links you might have */
+a {
+    color: #5599ff; /* Blue color for links */
+    text-decoration: none; /* No underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Add other specific styles as needed, for example, for buttons or navigation */
+</style>
+
+
+<h1>Post</h1>
+<ul>
+{% for post in object_list %}
+    <li><a href="{% url 'article-detail' post.pk %}">{{post.title}} - {{post.author.username}}- {{post.author.email}}<br/>
+    {{post.body}}</li>
+
+{% endfor %}
+    </ul>
+
+{% endblock %}    

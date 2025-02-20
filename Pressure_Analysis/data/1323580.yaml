@@ -1,0 +1,2131 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-02'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Sydney Sixers
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - A Gardner
+  players:
+    Sydney Sixers:
+    - SW Bates
+    - AJ Healy
+    - EA Perry
+    - A Gardner
+    - EA Burns
+    - NE Bolton
+    - M Brown
+    - S Ecclestone
+    - A Genford
+    - L Cheatle
+    - K Peterson
+    Sydney Thunder:
+    - TT Beaumont
+    - P Litchfield
+    - SJ Johnson
+    - RL Haynes
+    - CL Tryon
+    - O Porter
+    - LG Smith
+    - HJ Darlington
+    - B Vakarewa
+    - AE Jones
+    - SL Bates
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Genford: 52b45daa
+      AE Jones: b05e45e4
+      AJ Healy: 321644de
+      AR Hamilton: 95d26c59
+      B Vakarewa: 06f988b8
+      CL Tryon: 4d4605e6
+      Dave Gilbert: aa782370
+      EA Burns: 2e0b6638
+      EA Perry: be150fc8
+      HJ Darlington: 50b558d2
+      K Peterson: 5f377534
+      L Cheatle: 275dff85
+      LG Smith: 9c515112
+      M Brown: 78bec461
+      NE Bolton: dd883071
+      O Porter: 9ac15b90
+      P Litchfield: 4e6ef14f
+      RL Haynes: d7c6b0fb
+      Roberto Howard: eec90c4b
+      S Ecclestone: cdb82f1c
+      SJ Johnson: d7b754d4
+      SL Bates: '0816fb1e'
+      SW Bates: 89bbc67a
+      TT Beaumont: b2664905
+  teams:
+  - Sydney Sixers
+  - Sydney Thunder
+  toss:
+    winner: Sydney Sixers
+    decision: bat
+  umpires:
+  - AR Hamilton
+  - Roberto Howard
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.3:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.4:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 0.5:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 0.6:
+        non_striker: SW Bates
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          kind: caught and bowled
+    - 1.2:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 1.3:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.4:
+        non_striker: EA Perry
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 1.5:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          kind: lbw
+    - 1.6:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 2.1:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 2.2:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 2.3:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 2.4:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 2.5:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 2.6:
+        non_striker: A Gardner
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.1:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 3.2:
+        non_striker: AJ Healy
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 3.3:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 3.4:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Healy
+    - 3.5:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.6:
+        non_striker: A Gardner
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.1:
+        non_striker: AJ Healy
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 4.2:
+        non_striker: AJ Healy
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 4.3:
+        non_striker: A Gardner
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 4.4:
+        non_striker: AJ Healy
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 4.5:
+        non_striker: AJ Healy
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 4.6:
+        non_striker: AJ Healy
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 5.1:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 5.2:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 5.3:
+        non_striker: AJ Healy
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 5.4:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 5.5:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 5.6:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 6.1:
+        non_striker: A Gardner
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.2:
+        non_striker: A Gardner
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 6.3:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 6.4:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 6.5:
+        non_striker: A Gardner
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 6.6:
+        non_striker: AJ Healy
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.1:
+        non_striker: AJ Healy
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 7.2:
+        non_striker: AJ Healy
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 7.3:
+        non_striker: AJ Healy
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.4:
+        non_striker: A Gardner
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.5:
+        non_striker: A Gardner
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.6:
+        non_striker: A Gardner
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.1:
+        non_striker: A Gardner
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 8.2:
+        non_striker: AJ Healy
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 8.3:
+        non_striker: A Gardner
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          kind: bowled
+    - 8.4:
+        non_striker: A Gardner
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+    - 8.5:
+        non_striker: A Gardner
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Burns
+    - 8.6:
+        non_striker: EA Burns
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 9.1:
+        non_striker: EA Burns
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 9.2:
+        non_striker: EA Burns
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 9.3:
+        non_striker: EA Burns
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 9.4:
+        non_striker: EA Burns
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.5:
+        non_striker: EA Burns
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 9.6:
+        non_striker: A Gardner
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Burns
+        wicket:
+          player_out: EA Burns
+          fielders:
+          - SL Bates
+          kind: caught
+    - 10.1:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 10.2:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 10.3:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 10.4:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 10.5:
+        non_striker: A Gardner
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Bolton
+    - 10.6:
+        non_striker: A Gardner
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 10.7:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 11.1:
+        non_striker: A Gardner
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 11.2:
+        non_striker: NE Bolton
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 11.3:
+        non_striker: A Gardner
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Bolton
+    - 11.4:
+        non_striker: A Gardner
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Bolton
+    - 11.5:
+        non_striker: A Gardner
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 11.6:
+        non_striker: NE Bolton
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 12.1:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 12.2:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 12.3:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Bolton
+    - 12.4:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 12.5:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 12.6:
+        non_striker: A Gardner
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 13.1:
+        non_striker: A Gardner
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 13.2:
+        non_striker: NE Bolton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - SJ Johnson
+          kind: caught
+    - 13.3:
+        non_striker: NE Bolton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 13.4:
+        non_striker: NE Bolton
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 13.5:
+        non_striker: M Brown
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Bolton
+    - 13.6:
+        non_striker: M Brown
+        bowler: LG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 14.1:
+        non_striker: M Brown
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 14.2:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 14.3:
+        non_striker: M Brown
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 14.4:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 14.5:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Brown
+    - 14.6:
+        non_striker: NE Bolton
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 14.7:
+        non_striker: M Brown
+        bowler: B Vakarewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 15.1:
+        non_striker: M Brown
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Bolton
+    - 15.2:
+        non_striker: M Brown
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 15.3:
+        non_striker: NE Bolton
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Brown
+    - 15.4:
+        non_striker: NE Bolton
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Brown
+    - 15.5:
+        non_striker: NE Bolton
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 15.6:
+        non_striker: NE Bolton
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 16.1:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 16.2:
+        non_striker: NE Bolton
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 16.3:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Bolton
+    - 16.4:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Bolton
+    - 16.5:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 16.6:
+        non_striker: NE Bolton
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 17.1:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Brown
+    - 17.2:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Brown
+    - 17.3:
+        non_striker: M Brown
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Bolton
+    - 17.4:
+        non_striker: M Brown
+        bowler: SJ Johnson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: NE Bolton
+    - 17.5:
+        non_striker: M Brown
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 17.6:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Brown
+    - 17.7:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Brown
+    - 17.8:
+        non_striker: NE Bolton
+        bowler: SJ Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 18.1:
+        non_striker: NE Bolton
+        bowler: HJ Darlington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Brown
+    - 18.2:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Bolton
+    - 18.3:
+        non_striker: NE Bolton
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Brown
+    - 18.4:
+        non_striker: NE Bolton
+        bowler: HJ Darlington
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Brown
+        wicket:
+          player_out: NE Bolton
+          fielders:
+          - HJ Darlington
+          - B Vakarewa
+          kind: run out
+    - 18.5:
+        non_striker: S Ecclestone
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 18.6:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 18.7:
+        non_striker: M Brown
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 19.1:
+        non_striker: M Brown
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 19.2:
+        non_striker: S Ecclestone
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Brown
+    - 19.3:
+        non_striker: M Brown
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 19.4:
+        non_striker: S Ecclestone
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Brown
+    - 19.5:
+        non_striker: S Ecclestone
+        bowler: SL Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Brown
+    - 19.6:
+        non_striker: M Brown
+        bowler: SL Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+- 2nd innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.2:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 0.3:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.4:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: TT Beaumont
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.1:
+        non_striker: TT Beaumont
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.2:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: TT Beaumont
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.4:
+        non_striker: TT Beaumont
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.5:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 1.6:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          kind: lbw
+    - 2.1:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 2.2:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 2.3:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.4:
+        non_striker: P Litchfield
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 2.5:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.6:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.7:
+        non_striker: P Litchfield
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 3.1:
+        non_striker: SJ Johnson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 3.2:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 3.5:
+        non_striker: SJ Johnson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.6:
+        non_striker: SJ Johnson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 4.2:
+        non_striker: SJ Johnson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Johnson
+    - 4.5:
+        non_striker: P Litchfield
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 4.6:
+        non_striker: SJ Johnson
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - AJ Healy
+          kind: stumped
+    - 5.1:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 5.2:
+        non_striker: SJ Johnson
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 5.3:
+        non_striker: SJ Johnson
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 5.4:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Johnson
+    - 5.5:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 5.6:
+        non_striker: SJ Johnson
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 6.1:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 6.2:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 6.3:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 6.4:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Johnson
+    - 6.5:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 6.6:
+        non_striker: SJ Johnson
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 7.1:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 7.2:
+        non_striker: SJ Johnson
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 7.3:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 7.4:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 7.5:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 7.6:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 8.1:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 8.2:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+    - 8.3:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 8.4:
+        non_striker: SJ Johnson
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 8.5:
+        non_striker: SJ Johnson
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 8.6:
+        non_striker: SJ Johnson
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 9.1:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Johnson
+    - 9.2:
+        non_striker: SJ Johnson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 9.3:
+        non_striker: SJ Johnson
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 9.4:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Johnson
+        wicket:
+          player_out: SJ Johnson
+          fielders:
+          - A Gardner
+          kind: caught
+    - 9.5:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 9.6:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 10.1:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 10.2:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 10.3:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 10.4:
+        non_striker: CL Tryon
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 10.5:
+        non_striker: CL Tryon
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 10.6:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 11.1:
+        non_striker: CL Tryon
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 11.2:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 11.3:
+        non_striker: CL Tryon
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 11.4:
+        non_striker: CL Tryon
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 11.5:
+        non_striker: RL Haynes
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 11.6:
+        non_striker: CL Tryon
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 12.1:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 12.2:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 12.3:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 12.4:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 12.5:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 12.6:
+        non_striker: RL Haynes
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 13.1:
+        non_striker: CL Tryon
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 13.2:
+        non_striker: RL Haynes
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 13.3:
+        non_striker: RL Haynes
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 13.4:
+        non_striker: CL Tryon
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.5:
+        non_striker: CL Tryon
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.6:
+        non_striker: CL Tryon
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 14.1:
+        non_striker: CL Tryon
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 14.2:
+        non_striker: CL Tryon
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 14.3:
+        non_striker: CL Tryon
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 14.4:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 14.5:
+        non_striker: RL Haynes
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 14.6:
+        non_striker: CL Tryon
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 15.1:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 15.2:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.3:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.4:
+        non_striker: CL Tryon
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 15.5:
+        non_striker: RL Haynes
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.6:
+        non_striker: CL Tryon
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+        wicket:
+          player_out: RL Haynes
+          fielders:
+          - K Peterson
+          kind: caught
+    - 16.1:
+        non_striker: O Porter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          fielders:
+          - SW Bates
+          kind: caught
+    - 16.2:
+        non_striker: O Porter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 16.3:
+        non_striker: O Porter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Smith
+    - 16.4:
+        non_striker: O Porter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+    - 16.5:
+        non_striker: O Porter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Smith
+        wicket:
+          player_out: LG Smith
+          fielders:
+          - EA Perry
+          kind: caught
+    - 16.6:
+        non_striker: O Porter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Darlington
+    - 17.1:
+        non_striker: HJ Darlington
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Porter
+    - 17.2:
+        non_striker: O Porter
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 17.3:
+        non_striker: HJ Darlington
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Porter
+    - 17.4:
+        non_striker: O Porter
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 17.5:
+        non_striker: HJ Darlington
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Porter
+    - 17.6:
+        non_striker: O Porter
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 18.1:
+        non_striker: O Porter
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 18.2:
+        non_striker: HJ Darlington
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Porter
+    - 18.3:
+        non_striker: HJ Darlington
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Porter
+    - 18.4:
+        non_striker: HJ Darlington
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Porter
+    - 18.5:
+        non_striker: HJ Darlington
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Porter
+    - 18.6:
+        non_striker: O Porter
+        bowler: M Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Darlington
+    - 19.1:
+        non_striker: HJ Darlington
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Porter
+        wicket:
+          player_out: O Porter
+          kind: bowled
+    - 19.2:
+        non_striker: HJ Darlington
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Vakarewa
+    - 19.3:
+        non_striker: B Vakarewa
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Darlington
+    - 19.4:
+        non_striker: B Vakarewa
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Darlington
+    - 19.5:
+        non_striker: B Vakarewa
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Darlington
+    - 19.6:
+        non_striker: HJ Darlington
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Vakarewa

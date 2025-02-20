@@ -1,0 +1,2165 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-10-31'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Lions
+    by:
+      runs: 32
+  overs: 20
+  players:
+    Lions:
+    - RD Rickelton
+    - CS Delport
+    - DA Hendricks
+    - M Van Buuren
+    - PWA Mulder
+    - Evan Jones
+    - MP Siboto
+    - G Adams
+    - T Bokako
+    - A Myoli
+    - Codi Yusuf
+    Western Province:
+    - G Kaplan
+    - Daniel Smith
+    - M Mpongwana
+    - K Verreynne
+    - A Mgijima
+    - GF Linde
+    - Abdullah Bayoumy
+    - BE Hendricks
+    - TL Moreki
+    - N Burger
+    - J Dawood
+  registry:
+    people:
+      A Mgijima: 955e8e86
+      A Myoli: c50bfbc2
+      Abdullah Bayoumy: 8ab49ad2
+      BE Hendricks: b56dc5f7
+      BP Jele: 7bb1331e
+      CS Delport: afa78c3a
+      Codi Yusuf: f2397e48
+      D Smith: 5d69930d
+      DA Hendricks: f66f5343
+      E Jones: fbfea9c2
+      G Adams: 70fb2cc8
+      G Kaplan: a5c3d564
+      GF Linde: e5437608
+      J Dawood: a2316f90
+      K Verreynne: bf814547
+      LB Gcuma: 02ba88e3
+      M Mpongwana: 547c5509
+      M Van Buuren: 46e4a4e0
+      MP Siboto: 9d50c7e1
+      N Burger: 465aa633
+      PWA Mulder: c96f6ac5
+      RD Rickelton: e66732f8
+      S Wadvalla: c1a1acf3
+      Siphelele Gasa: e50baa87
+      Stephen Harris: fdcfd4aa
+      T Bokako: 032e4384
+      TL Moreki: 36ea17c1
+  teams:
+  - Lions
+  - Western Province
+  toss:
+    winner: Western Province
+    decision: field
+  umpires:
+  - BP Jele
+  - Siphelele Gasa
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.2:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.4:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - J Dawood
+          kind: caught
+    - 0.5:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 0.6:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 1.1:
+        non_striker: DA Hendricks
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 1.2:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Hendricks
+    - 1.3:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 1.4:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 1.5:
+        non_striker: DA Hendricks
+        bowler: BE Hendricks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CS Delport
+    - 1.6:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 2.1:
+        non_striker: DA Hendricks
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 2.2:
+        non_striker: DA Hendricks
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 2.3:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 2.4:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 2.5:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Hendricks
+    - 2.6:
+        non_striker: CS Delport
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 3.1:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 3.2:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 3.3:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 3.4:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CS Delport
+    - 3.5:
+        non_striker: CS Delport
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 3.6:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 4.1:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 4.2:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 4.3:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Hendricks
+    - 4.4:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 4.5:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Hendricks
+    - 4.6:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 5.1:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - N Burger
+          kind: caught
+    - 5.2:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 5.3:
+        non_striker: M Van Buuren
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 5.4:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 5.5:
+        non_striker: DA Hendricks
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Van Buuren
+    - 5.6:
+        non_striker: M Van Buuren
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 6.1:
+        non_striker: DA Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 6.2:
+        non_striker: DA Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 6.3:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 6.4:
+        non_striker: DA Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 6.5:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Hendricks
+    - 6.6:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 7.1:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 7.2:
+        non_striker: DA Hendricks
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 7.3:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Hendricks
+    - 7.4:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 7.5:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DA Hendricks
+    - 7.6:
+        non_striker: DA Hendricks
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Van Buuren
+    - 8.1:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 8.2:
+        non_striker: DA Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 8.3:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 8.4:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 8.5:
+        non_striker: DA Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 8.6:
+        non_striker: DA Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 9.1:
+        non_striker: DA Hendricks
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 9.2:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+        wicket:
+          player_out: DA Hendricks
+          kind: bowled
+    - 9.3:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 9.4:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 9.5:
+        non_striker: PWA Mulder
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 9.6:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 10.1:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 10.2:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 10.3:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.4:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 10.5:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 10.6:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Van Buuren
+    - 11.1:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 11.2:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 11.3:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 11.4:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 11.5:
+        non_striker: M Van Buuren
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 11.6:
+        non_striker: PWA Mulder
+        bowler: J Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Van Buuren
+    - 12.1:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 12.2:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 12.3:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.4:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 12.5:
+        non_striker: M Van Buuren
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 12.6:
+        non_striker: PWA Mulder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+    - 13.1:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 13.2:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 13.3:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.4:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.5:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.6:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 13.7:
+        non_striker: M Van Buuren
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 14.1:
+        non_striker: M Van Buuren
+        bowler: M Mpongwana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 14.2:
+        non_striker: M Van Buuren
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 14.3:
+        non_striker: PWA Mulder
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Van Buuren
+    - 14.4:
+        non_striker: PWA Mulder
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Van Buuren
+    - 14.5:
+        non_striker: M Van Buuren
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 14.6:
+        non_striker: M Van Buuren
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 14.7:
+        non_striker: PWA Mulder
+        bowler: M Mpongwana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Van Buuren
+    - 15.1:
+        non_striker: M Van Buuren
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 15.2:
+        non_striker: M Van Buuren
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 15.3:
+        non_striker: M Van Buuren
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 15.4:
+        non_striker: M Van Buuren
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 15.5:
+        non_striker: M Van Buuren
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 15.6:
+        non_striker: PWA Mulder
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Van Buuren
+    - 16.1:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Van Buuren
+        wicket:
+          player_out: M Van Buuren
+          fielders:
+          - J Dawood
+          kind: caught
+    - 16.2:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Evan Jones
+    - 16.3:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Evan Jones
+        wicket:
+          player_out: Evan Jones
+          kind: bowled
+    - 16.4:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Siboto
+    - 16.5:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Siboto
+    - 16.6:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Siboto
+    - 16.7:
+        non_striker: PWA Mulder
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Siboto
+    - 17.1:
+        non_striker: PWA Mulder
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Siboto
+    - 17.2:
+        non_striker: MP Siboto
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 17.3:
+        non_striker: PWA Mulder
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Siboto
+    - 17.4:
+        non_striker: MP Siboto
+        bowler: BE Hendricks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 17.5:
+        non_striker: MP Siboto
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 17.6:
+        non_striker: MP Siboto
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 17.7:
+        non_striker: MP Siboto
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 18.1:
+        non_striker: MP Siboto
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - GF Linde
+          kind: caught
+    - 18.2:
+        non_striker: MP Siboto
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Adams
+    - 18.3:
+        non_striker: MP Siboto
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Adams
+    - 18.4:
+        non_striker: MP Siboto
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Adams
+    - 18.5:
+        non_striker: G Adams
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Siboto
+    - 18.6:
+        non_striker: MP Siboto
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Adams
+        wicket:
+          player_out: G Adams
+          kind: bowled
+    - 19.1:
+        non_striker: T Bokako
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Siboto
+    - 19.2:
+        non_striker: T Bokako
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Siboto
+    - 19.3:
+        non_striker: MP Siboto
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bokako
+    - 19.4:
+        non_striker: MP Siboto
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bokako
+    - 19.5:
+        non_striker: T Bokako
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Siboto
+    - 19.6:
+        non_striker: T Bokako
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Siboto
+        wicket:
+          player_out: MP Siboto
+          fielders:
+          - A Mgijima
+          kind: caught
+- 2nd innings:
+    team: Western Province
+    deliveries:
+    - 0.1:
+        non_striker: Daniel Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+    - 0.2:
+        non_striker: Daniel Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+    - 0.3:
+        non_striker: Daniel Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kaplan
+    - 0.4:
+        non_striker: G Kaplan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 0.5:
+        non_striker: G Kaplan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Daniel Smith
+    - 0.6:
+        non_striker: G Kaplan
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 1.1:
+        non_striker: G Kaplan
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 1.2:
+        non_striker: G Kaplan
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 1.3:
+        non_striker: G Kaplan
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 1.4:
+        non_striker: Daniel Smith
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kaplan
+    - 1.5:
+        non_striker: G Kaplan
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 1.6:
+        non_striker: G Kaplan
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Daniel Smith
+    - 2.1:
+        non_striker: Daniel Smith
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kaplan
+    - 2.2:
+        non_striker: Daniel Smith
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kaplan
+    - 2.3:
+        non_striker: Daniel Smith
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+    - 2.4:
+        non_striker: Daniel Smith
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kaplan
+        wicket:
+          player_out: G Kaplan
+          fielders:
+          - M Van Buuren
+          kind: caught
+    - 2.5:
+        non_striker: Daniel Smith
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 2.6:
+        non_striker: Daniel Smith
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 3.1:
+        non_striker: M Mpongwana
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Daniel Smith
+    - 3.2:
+        non_striker: M Mpongwana
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 3.3:
+        non_striker: M Mpongwana
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 3.4:
+        non_striker: Daniel Smith
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mpongwana
+    - 3.5:
+        non_striker: Daniel Smith
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mpongwana
+    - 3.6:
+        non_striker: Daniel Smith
+        bowler: Evan Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mpongwana
+    - 4.1:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 4.2:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 4.3:
+        non_striker: Daniel Smith
+        bowler: A Myoli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Mpongwana
+    - 4.4:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 4.5:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 4.6:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 5.1:
+        non_striker: M Mpongwana
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 5.2:
+        non_striker: M Mpongwana
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 5.3:
+        non_striker: M Mpongwana
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 5.4:
+        non_striker: Daniel Smith
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 5.5:
+        non_striker: Daniel Smith
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mpongwana
+    - 5.6:
+        non_striker: Daniel Smith
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 6.1:
+        non_striker: M Mpongwana
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Daniel Smith
+    - 6.2:
+        non_striker: M Mpongwana
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Daniel Smith
+    - 6.3:
+        non_striker: M Mpongwana
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Daniel Smith
+    - 6.4:
+        non_striker: M Mpongwana
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 6.5:
+        non_striker: M Mpongwana
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Daniel Smith
+    - 6.6:
+        non_striker: M Mpongwana
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 7.1:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 7.2:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 7.3:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 7.4:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+    - 7.5:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Daniel Smith
+    - 7.6:
+        non_striker: Daniel Smith
+        bowler: Codi Yusuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mpongwana
+    - 7.7:
+        non_striker: Daniel Smith
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 8.1:
+        non_striker: Daniel Smith
+        bowler: G Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 8.2:
+        non_striker: M Mpongwana
+        bowler: G Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Daniel Smith
+        wicket:
+          player_out: Daniel Smith
+          fielders:
+          - DA Hendricks
+          kind: caught
+    - 8.3:
+        non_striker: M Mpongwana
+        bowler: G Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 8.4:
+        non_striker: K Verreynne
+        bowler: G Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mpongwana
+    - 8.5:
+        non_striker: K Verreynne
+        bowler: G Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mpongwana
+    - 8.6:
+        non_striker: K Verreynne
+        bowler: G Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 9.1:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mpongwana
+    - 9.2:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 9.3:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 9.4:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 9.5:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 9.6:
+        non_striker: M Mpongwana
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 10.1:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 10.2:
+        non_striker: M Mpongwana
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 10.3:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 10.4:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 10.5:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+    - 10.6:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 11.1:
+        non_striker: K Verreynne
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 11.2:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: K Verreynne
+    - 11.3:
+        non_striker: M Mpongwana
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 11.4:
+        non_striker: K Verreynne
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mpongwana
+    - 11.5:
+        non_striker: K Verreynne
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mpongwana
+    - 11.6:
+        non_striker: K Verreynne
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Mpongwana
+    - 11.7:
+        non_striker: K Verreynne
+        bowler: A Myoli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mpongwana
+    - 12.1:
+        non_striker: K Verreynne
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mpongwana
+        wicket:
+          player_out: M Mpongwana
+          fielders:
+          - DA Hendricks
+          kind: run out
+    - 12.2:
+        non_striker: A Mgijima
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 12.3:
+        non_striker: A Mgijima
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 12.4:
+        non_striker: K Verreynne
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mgijima
+    - 12.5:
+        non_striker: A Mgijima
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 12.6:
+        non_striker: A Mgijima
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 13.1:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mgijima
+    - 13.2:
+        non_striker: A Mgijima
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 13.3:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mgijima
+    - 13.4:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mgijima
+    - 13.5:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mgijima
+        wicket:
+          player_out: A Mgijima
+          fielders:
+          - G Adams
+          kind: caught
+    - 13.6:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.1:
+        non_striker: K Verreynne
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 14.2:
+        non_striker: K Verreynne
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 14.3:
+        non_striker: K Verreynne
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.4:
+        non_striker: GF Linde
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 14.5:
+        non_striker: GF Linde
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 14.6:
+        non_striker: K Verreynne
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 14.7:
+        non_striker: K Verreynne
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 15.1:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 15.2:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 15.3:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 15.4:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 15.5:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          fielders:
+          - G Adams
+          kind: caught
+    - 15.6:
+        non_striker: K Verreynne
+        bowler: Codi Yusuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+    - 16.1:
+        non_striker: Abdullah Bayoumy
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Verreynne
+    - 16.2:
+        non_striker: Abdullah Bayoumy
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 16.3:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Bayoumy
+    - 16.4:
+        non_striker: Abdullah Bayoumy
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 16.5:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Bayoumy
+    - 16.6:
+        non_striker: K Verreynne
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+    - 17.1:
+        non_striker: Abdullah Bayoumy
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          kind: bowled
+    - 17.2:
+        non_striker: Abdullah Bayoumy
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Hendricks
+    - 17.3:
+        non_striker: BE Hendricks
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Bayoumy
+    - 17.4:
+        non_striker: Abdullah Bayoumy
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Hendricks
+    - 17.5:
+        non_striker: BE Hendricks
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Bayoumy
+        wicket:
+          player_out: Abdullah Bayoumy
+          fielders:
+          - PWA Mulder
+          kind: caught
+    - 17.6:
+        non_striker: BE Hendricks
+        bowler: T Bokako
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 18.1:
+        non_striker: TL Moreki
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Hendricks
+        wicket:
+          player_out: BE Hendricks
+          kind: bowled
+    - 18.2:
+        non_striker: TL Moreki
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Burger
+    - 18.3:
+        non_striker: TL Moreki
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Burger
+    - 18.4:
+        non_striker: TL Moreki
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 18.5:
+        non_striker: N Burger
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+    - 18.6:
+        non_striker: TL Moreki
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 19.1:
+        non_striker: TL Moreki
+        bowler: PWA Mulder
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: N Burger
+    - 19.2:
+        non_striker: TL Moreki
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 19.3:
+        non_striker: N Burger
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Moreki
+    - 19.4:
+        non_striker: N Burger
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+    - 19.5:
+        non_striker: TL Moreki
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Burger
+    - 19.6:
+        non_striker: N Burger
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+        wicket:
+          player_out: N Burger
+          fielders:
+          - PWA Mulder
+          - G Adams
+          kind: run out

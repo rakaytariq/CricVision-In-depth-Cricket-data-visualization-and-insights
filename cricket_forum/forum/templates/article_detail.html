@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+    /* Set the background color and font properties for the whole page */
+body {
+   background-color: #000; /* Black background */
+   color: #fff; /* White text color */
+   font-family: Arial, sans-serif; /* Modern sans-serif font */
+}
+
+/* Style for the navigation bar */
+.navbar {
+   background-color: #333; /* Darker black for navbar */
+   overflow: hidden; /* Ensures the navbar does not overflow */
+}
+
+/* Navigation bar links */
+.navbar a {
+   float: left; /* Align links to the left */
+   display: block; /* Style links as block elements */
+   color: #f2f2f2; /* Light grey color for links */
+   text-align: center; /* Center text inside links */
+   padding: 14px 16px; /* Padding inside links */
+   text-decoration: none; /* No underline on links */
+}
+
+/* Navigation links on hover */
+.navbar a:hover {
+   background-color: #ddd; /* Light grey background on hover */
+   color: black; /* Black text on hover */
+}
+
+/* Style for the main content title */
+.title {
+   font-size: 24px; /* Large font size for title */
+   text-align: center; /* Center align title */
+   padding: 20px; /* Padding around title */
+}
+
+/* Style for buttons */
+.button {
+   background-color: #444; /* Dark grey background */
+   border: none; /* No border */
+   color: white; /* White text */
+   padding: 10px 20px; /* Padding inside buttons */
+   text-align: center; /* Center text */
+   text-decoration: none; /* No underline */
+   display: inline-block; /* Align buttons side by side */
+   font-size: 16px; /* Text size */
+   margin: 4px 2px; /* Margin between buttons */
+   cursor: pointer; /* Pointer cursor on hover */
+   border-radius: 4px; /* Rounded corners */
+}
+
+/* Table styles if you have tables in your content */
+.table {
+   width: 100%; /* Full width */
+   border-collapse: collapse; /* Collapse borders */
+}
+
+.table th, .table td {
+   border: 1px solid #ddd; /* Light grey border */
+   padding: 8px; /* Padding in cells */
+}
+
+.table th {
+   text-align: left; /* Align header text to the left */
+   background-color: #333; /* Dark background for header */
+   color: white; /* White text for header */
+}
+
+.table tr:nth-child(even){background-color: #222;} /* Zebra striping for rows */
+
+.table tr:hover {background-color: #666;} /* Dark grey background on row hover */
+
+/* Add other specific styles as needed */
+</style>
+
+<h1>{{post.title_tag}}</h1>
+<small>By: {{post.author.username}} {{post.author.email}}</small><br/>
+<hr>
+<br/>
+{{post.body}}
+<a href="{% url 'edit-post' post.id %}">Edit</a> <a href="{% url 'delete-post' post.id %}">Delete</a>
+
+
+<br/><br/>
+<a href={% url 'home' %} class="btn btn-primary">Back</a>
+
+{%endblock%}

@@ -1,0 +1,2152 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: SA20
+  dates:
+  - '2023-02-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Joburg Super Kings
+    by:
+      runs: 24
+  overs: 20
+  player_of_match:
+  - F du Plessis
+  players:
+    Joburg Super Kings:
+    - F du Plessis
+    - RR Hendricks
+    - MS Wade
+    - D Ferreira
+    - JL du Plooy
+    - R Shepherd
+    - BS Makhanya
+    - G Coetzee
+    - KI Simmonds
+    - N Burger
+    - M Theekshana
+    Sunrisers Eastern Cape:
+    - AM Rossington
+    - T Bavuma
+    - J Hermann
+    - JT Smuts
+    - AK Markram
+    - T Stubbs
+    - M Jansen
+    - JK Fuller
+    - BA Carse
+    - RE van der Merwe
+    - SSB Magala
+  registry:
+    people:
+      AK Markram: 6a26221c
+      AM Rossington: 7bcde3fe
+      BA Carse: cad40f5e
+      BM White: 66c21d35
+      BP Jele: 7bb1331e
+      BS Makhanya: 1b42a100
+      D Ferreira: f0af99a7
+      F du Plessis: 3355b542
+      G Coetzee: 3204c99f
+      GH Pienaar: 3516e46b
+      J Hermann: e87aeca2
+      JK Fuller: dda5aae5
+      JL du Plooy: 6e6fb538
+      JT Smuts: 42172c3c
+      KI Simmonds: 3122c016
+      LB Gcuma: 02ba88e3
+      M Jansen: 81c36ee9
+      M Theekshana: f24c6701
+      MS Wade: afa7e784
+      N Burger: 465aa633
+      R Shepherd: c5aef772
+      RE van der Merwe: 05c2ca46
+      RR Hendricks: b8cc58c9
+      SSB Magala: 8361e524
+      Stephen Harris: fdcfd4aa
+      T Bavuma: 9ffd1ac1
+      T Stubbs: 85b3fab2
+  teams:
+  - Joburg Super Kings
+  - Sunrisers Eastern Cape
+  toss:
+    winner: Joburg Super Kings
+    decision: bat
+  umpires:
+  - BP Jele
+  - LB Gcuma
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Joburg Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.2:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 3.3:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: RR Hendricks
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: RR Hendricks
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.7:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.1:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.5:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.6:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.1:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.2:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.3:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.4:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.5:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.6:
+        non_striker: RR Hendricks
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 6.1:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.3:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.5:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.6:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.1:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.2:
+        non_striker: F du Plessis
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.3:
+        non_striker: F du Plessis
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.4:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.5:
+        non_striker: F du Plessis
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 7.6:
+        non_striker: F du Plessis
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.1:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.2:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 8.3:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 8.4:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 8.5:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 8.6:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.1:
+        non_striker: RR Hendricks
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 9.2:
+        non_striker: RR Hendricks
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 9.3:
+        non_striker: RR Hendricks
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 9.4:
+        non_striker: RR Hendricks
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 9.5:
+        non_striker: RR Hendricks
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 9.6:
+        non_striker: RR Hendricks
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.1:
+        non_striker: F du Plessis
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 10.2:
+        non_striker: F du Plessis
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.3:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.4:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.5:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.6:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F du Plessis
+    - 10.7:
+        non_striker: RR Hendricks
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.1:
+        non_striker: RR Hendricks
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 11.2:
+        non_striker: RR Hendricks
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 11.3:
+        non_striker: RR Hendricks
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.4:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Hendricks
+    - 11.5:
+        non_striker: RR Hendricks
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 11.6:
+        non_striker: RR Hendricks
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 12.1:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 12.2:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.3:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 12.4:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 12.5:
+        non_striker: F du Plessis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.6:
+        non_striker: RR Hendricks
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.1:
+        non_striker: RR Hendricks
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.2:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 13.3:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 13.4:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 13.5:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 13.6:
+        non_striker: F du Plessis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 14.1:
+        non_striker: F du Plessis
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 14.2:
+        non_striker: F du Plessis
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          fielders:
+          - J Hermann
+          kind: caught
+    - 14.3:
+        non_striker: F du Plessis
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Wade
+    - 14.4:
+        non_striker: F du Plessis
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 14.5:
+        non_striker: F du Plessis
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 14.6:
+        non_striker: MS Wade
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 15.1:
+        non_striker: F du Plessis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Wade
+    - 15.2:
+        non_striker: F du Plessis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+        wicket:
+          player_out: MS Wade
+          kind: bowled
+    - 15.3:
+        non_striker: F du Plessis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.4:
+        non_striker: F du Plessis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          fielders:
+          - AM Rossington
+          kind: stumped
+    - 15.5:
+        non_striker: F du Plessis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 15.6:
+        non_striker: JL du Plooy
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 16.1:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 16.2:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 16.3:
+        non_striker: JL du Plooy
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 16.4:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 16.5:
+        non_striker: JL du Plooy
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: F du Plessis
+    - 16.6:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 17.1:
+        non_striker: JL du Plooy
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 17.2:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+        wicket:
+          player_out: JL du Plooy
+          fielders:
+          - AK Markram
+          kind: caught
+    - 17.3:
+        non_striker: F du Plessis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 17.4:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 17.5:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 17.6:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 18.1:
+        non_striker: R Shepherd
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 18.2:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 18.3:
+        non_striker: R Shepherd
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 18.4:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - RE van der Merwe
+          kind: caught
+    - 18.5:
+        non_striker: F du Plessis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 18.6:
+        non_striker: BS Makhanya
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 19.1:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 19.2:
+        non_striker: BS Makhanya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 19.3:
+        non_striker: BS Makhanya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Coetzee
+    - 19.4:
+        non_striker: BS Makhanya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 19.5:
+        non_striker: BS Makhanya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 19.6:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+- 2nd innings:
+    team: Sunrisers Eastern Cape
+    deliveries:
+    - 0.1:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.2:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 0.3:
+        non_striker: AM Rossington
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 0.4:
+        non_striker: AM Rossington
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.5:
+        non_striker: AM Rossington
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.6:
+        non_striker: AM Rossington
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 1.1:
+        non_striker: AM Rossington
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 1.2:
+        non_striker: AM Rossington
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 1.3:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+        wicket:
+          player_out: AM Rossington
+          kind: bowled
+    - 1.4:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 1.5:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 1.6:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 2.1:
+        non_striker: J Hermann
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 2.2:
+        non_striker: J Hermann
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 2.3:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 2.4:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 2.5:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 2.6:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Hermann
+    - 2.7:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 3.1:
+        non_striker: J Hermann
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bavuma
+    - 3.2:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Hermann
+    - 3.3:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Hermann
+    - 3.4:
+        non_striker: T Bavuma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 3.5:
+        non_striker: J Hermann
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 3.6:
+        non_striker: J Hermann
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 4.1:
+        non_striker: T Bavuma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+        wicket:
+          player_out: J Hermann
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 4.2:
+        non_striker: T Bavuma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.3:
+        non_striker: T Bavuma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.4:
+        non_striker: T Bavuma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.5:
+        non_striker: T Bavuma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.6:
+        non_striker: T Bavuma
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - N Burger
+          kind: caught
+    - 5.1:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 5.2:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.3:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.4:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.5:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.6:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 6.1:
+        non_striker: T Bavuma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 6.2:
+        non_striker: T Bavuma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.3:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 6.4:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 6.5:
+        non_striker: T Bavuma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.6:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 7.1:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 7.2:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.3:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.4:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Bavuma
+    - 7.5:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 7.6:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.1:
+        non_striker: T Bavuma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 8.2:
+        non_striker: T Bavuma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.3:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 8.4:
+        non_striker: T Bavuma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.5:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bavuma
+    - 8.6:
+        non_striker: AK Markram
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 9.1:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 9.2:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 9.3:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.4:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Bavuma
+    - 9.5:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 9.6:
+        non_striker: T Bavuma
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 10.1:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 10.2:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.3:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bavuma
+    - 10.4:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 10.5:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.6:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 11.1:
+        non_striker: AK Markram
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.2:
+        non_striker: AK Markram
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.3:
+        non_striker: AK Markram
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 11.4:
+        non_striker: AK Markram
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 11.5:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 11.6:
+        non_striker: T Bavuma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 12.1:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 12.2:
+        non_striker: T Bavuma
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.3:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          kind: bowled
+    - 12.4:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.5:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.6:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.1:
+        non_striker: AK Markram
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.2:
+        non_striker: T Stubbs
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 13.3:
+        non_striker: T Stubbs
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.4:
+        non_striker: AK Markram
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 13.5:
+        non_striker: AK Markram
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.6:
+        non_striker: T Stubbs
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 14.1:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 14.3:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 14.4:
+        non_striker: T Stubbs
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.5:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          kind: bowled
+    - 14.6:
+        non_striker: AK Markram
+        bowler: KI Simmonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          kind: lbw
+    - 15.1:
+        non_striker: JK Fuller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - BS Makhanya
+          kind: caught
+    - 15.2:
+        non_striker: JK Fuller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 15.3:
+        non_striker: JK Fuller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 15.4:
+        non_striker: JK Fuller
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Carse
+    - 15.5:
+        non_striker: JK Fuller
+        bowler: R Shepherd
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BA Carse
+    - 15.6:
+        non_striker: JK Fuller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 15.7:
+        non_striker: BA Carse
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JK Fuller
+    - 16.1:
+        non_striker: JK Fuller
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 16.2:
+        non_striker: JK Fuller
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Carse
+    - 16.3:
+        non_striker: JK Fuller
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 16.4:
+        non_striker: BA Carse
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Fuller
+        wicket:
+          player_out: JK Fuller
+          kind: bowled
+    - 16.5:
+        non_striker: BA Carse
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 16.6:
+        non_striker: RE van der Merwe
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 17.1:
+        non_striker: BA Carse
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 17.2:
+        non_striker: BA Carse
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 17.3:
+        non_striker: BA Carse
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 17.4:
+        non_striker: BA Carse
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 17.5:
+        non_striker: BA Carse
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 17.6:
+        non_striker: BA Carse
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 18.1:
+        non_striker: RE van der Merwe
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Carse
+    - 18.2:
+        non_striker: RE van der Merwe
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Carse
+    - 18.3:
+        non_striker: RE van der Merwe
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 18.4:
+        non_striker: BA Carse
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 18.5:
+        non_striker: BA Carse
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 18.6:
+        non_striker: BA Carse
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RE van der Merwe
+    - 18.7:
+        non_striker: BA Carse
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 18.8:
+        non_striker: BA Carse
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 19.1:
+        non_striker: RE van der Merwe
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 19.2:
+        non_striker: RE van der Merwe
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+        wicket:
+          player_out: BA Carse
+          fielders:
+          - MS Wade
+          kind: caught
+    - 19.3:
+        non_striker: RE van der Merwe
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSB Magala
+    - 19.4:
+        non_striker: RE van der Merwe
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSB Magala
+    - 19.5:
+        non_striker: SSB Magala
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RE van der Merwe
+    - 19.6:
+        non_striker: SSB Magala
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 19.7:
+        non_striker: SSB Magala
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe

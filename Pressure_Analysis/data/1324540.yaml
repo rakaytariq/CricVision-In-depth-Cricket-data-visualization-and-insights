@@ -1,0 +1,1945 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-21'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Colombo Stars
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - RS Bopara
+  players:
+    Galle Gladiators:
+    - Asad Shafiq
+    - BKG Mendis
+    - LU Igalagamage
+    - SSD Arachchige
+    - MNK Fernando
+    - Iftikhar Ahmed
+    - Imad Wasim
+    - Wahab Riaz
+    - PADLR Sandakan
+    - N Pradeep
+    - N Thushara
+    Colombo Stars:
+    - KNM Fernando
+    - LD Chandimal
+    - KIC Asalanka
+    - RS Bopara
+    - AD Mathews
+    - RAS Lakmal
+    - Mohammad Nabi
+    - DC Drakes
+    - BAC Howell
+    - JDF Vandersay
+    - CAK Rajitha
+  registry:
+    people:
+      AD Mathews: 896d78ad
+      Asad Shafiq: '50250426'
+      BAC Howell: 0bec3a6c
+      BKG Mendis: 5d1e7582
+      CAK Rajitha: 8012d0b8
+      DC Drakes: 34b332d3
+      GF Labrooy: 8e088dbc
+      IC Soysa: 717a7971
+      Iftikhar Ahmed: 29e253dd
+      Imad Wasim: 9cb8d7a6
+      JDF Vandersay: aceb7654
+      KIC Asalanka: 732c038e
+      KNM Fernando: d2a2bb1a
+      LD Chandimal: 8dd02a98
+      LE Hannibal: 3c04e91a
+      LU Igalagamage: 07b6c3c1
+      MNK Fernando: ba603555
+      Mohammad Nabi: 62af8546
+      N Pradeep: 2af838ee
+      N Thushara: ee1b6c27
+      PADLR Sandakan: 79aad751
+      RAS Lakmal: 2f28dc94
+      RMPJ Rambukwella: 13fa6ffc
+      RS Bopara: 7ca5e05d
+      RSA Palliyaguruge: 4339c19d
+      SSD Arachchige: c05f9d20
+      Wahab Riaz: b3118300
+  teams:
+  - Galle Gladiators
+  - Colombo Stars
+  toss:
+    winner: Colombo Stars
+    decision: field
+  umpires:
+  - LE Hannibal
+  - RMPJ Rambukwella
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Galle Gladiators
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 0.2:
+        non_striker: Asad Shafiq
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 0.5:
+        non_striker: Asad Shafiq
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.6:
+        non_striker: Asad Shafiq
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.1:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 1.2:
+        non_striker: Asad Shafiq
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 1.5:
+        non_striker: Asad Shafiq
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.6:
+        non_striker: Asad Shafiq
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+        wicket:
+          player_out: Asad Shafiq
+          fielders:
+          - AD Mathews
+          kind: caught
+    - 2.2:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 2.3:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 2.5:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 2.6:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 3.1:
+        non_striker: LU Igalagamage
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 3.3:
+        non_striker: LU Igalagamage
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.4:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 3.5:
+        non_striker: BKG Mendis
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 3.6:
+        non_striker: LU Igalagamage
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LU Igalagamage
+    - 4.2:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 4.4:
+        non_striker: LU Igalagamage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: LU Igalagamage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: LU Igalagamage
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LU Igalagamage
+    - 5.2:
+        non_striker: LU Igalagamage
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.3:
+        non_striker: LU Igalagamage
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - KNM Fernando
+          kind: caught
+    - 5.4:
+        non_striker: LU Igalagamage
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSD Arachchige
+    - 5.5:
+        non_striker: LU Igalagamage
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 5.6:
+        non_striker: LU Igalagamage
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 6.1:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+        wicket:
+          player_out: LU Igalagamage
+          fielders:
+          - RAS Lakmal
+          kind: caught
+    - 6.2:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 6.3:
+        non_striker: MNK Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 6.4:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MNK Fernando
+    - 6.5:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 6.6:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 7.1:
+        non_striker: SSD Arachchige
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 7.2:
+        non_striker: MNK Fernando
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SSD Arachchige
+    - 7.3:
+        non_striker: SSD Arachchige
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 7.4:
+        non_striker: MNK Fernando
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSD Arachchige
+    - 7.5:
+        non_striker: MNK Fernando
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 7.6:
+        non_striker: MNK Fernando
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 8.1:
+        non_striker: SSD Arachchige
+        bowler: JDF Vandersay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MNK Fernando
+    - 8.2:
+        non_striker: SSD Arachchige
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 8.3:
+        non_striker: MNK Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSD Arachchige
+    - 8.4:
+        non_striker: MNK Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SSD Arachchige
+    - 8.5:
+        non_striker: SSD Arachchige
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 8.6:
+        non_striker: SSD Arachchige
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 8.7:
+        non_striker: MNK Fernando
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 9.1:
+        non_striker: MNK Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 9.2:
+        non_striker: MNK Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 9.3:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+        wicket:
+          player_out: MNK Fernando
+          fielders:
+          - KIC Asalanka
+          kind: caught
+    - 9.4:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 9.5:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 9.6:
+        non_striker: Iftikhar Ahmed
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 10.1:
+        non_striker: Iftikhar Ahmed
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 10.2:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 10.3:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.4:
+        non_striker: Iftikhar Ahmed
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSD Arachchige
+    - 10.5:
+        non_striker: Iftikhar Ahmed
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 10.6:
+        non_striker: Iftikhar Ahmed
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SSD Arachchige
+    - 10.7:
+        non_striker: Iftikhar Ahmed
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SSD Arachchige
+    - 10.8:
+        non_striker: Iftikhar Ahmed
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 11.1:
+        non_striker: Iftikhar Ahmed
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 11.2:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 11.3:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 11.4:
+        non_striker: Iftikhar Ahmed
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 11.5:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 11.6:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 12.1:
+        non_striker: SSD Arachchige
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 12.2:
+        non_striker: Iftikhar Ahmed
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSD Arachchige
+    - 12.3:
+        non_striker: Iftikhar Ahmed
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSD Arachchige
+    - 12.4:
+        non_striker: Iftikhar Ahmed
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 12.5:
+        non_striker: SSD Arachchige
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+        wicket:
+          player_out: Iftikhar Ahmed
+          fielders:
+          - Mohammad Nabi
+          kind: caught
+    - 12.6:
+        non_striker: SSD Arachchige
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Imad Wasim
+    - 12.7:
+        non_striker: SSD Arachchige
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.1:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.2:
+        non_striker: Imad Wasim
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 13.3:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.4:
+        non_striker: Imad Wasim
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSD Arachchige
+    - 13.5:
+        non_striker: Imad Wasim
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 13.6:
+        non_striker: SSD Arachchige
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.1:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.2:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.3:
+        non_striker: SSD Arachchige
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.4:
+        non_striker: Imad Wasim
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSD Arachchige
+    - 14.5:
+        non_striker: Imad Wasim
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSD Arachchige
+    - 14.6:
+        non_striker: Imad Wasim
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 15.1:
+        non_striker: Imad Wasim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSD Arachchige
+    - 15.2:
+        non_striker: Imad Wasim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+        wicket:
+          player_out: SSD Arachchige
+          fielders:
+          - KIC Asalanka
+          kind: caught
+    - 15.3:
+        non_striker: Imad Wasim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 15.4:
+        non_striker: Imad Wasim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 15.5:
+        non_striker: Imad Wasim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 15.6:
+        non_striker: Imad Wasim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+        wicket:
+          player_out: Wahab Riaz
+          kind: bowled
+    - 16.1:
+        non_striker: PADLR Sandakan
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.2:
+        non_striker: Imad Wasim
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PADLR Sandakan
+    - 16.3:
+        non_striker: Imad Wasim
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PADLR Sandakan
+    - 16.4:
+        non_striker: PADLR Sandakan
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 16.5:
+        non_striker: Imad Wasim
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PADLR Sandakan
+        wicket:
+          player_out: PADLR Sandakan
+          kind: bowled
+    - 16.6:
+        non_striker: Imad Wasim
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pradeep
+    - 17.1:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imad Wasim
+    - 17.2:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 17.3:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 17.4:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 17.5:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 17.6:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - KIC Asalanka
+          kind: caught
+    - 17.7:
+        non_striker: N Pradeep
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Thushara
+- 2nd innings:
+    team: Colombo Stars
+    deliveries:
+    - 0.1:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KNM Fernando
+    - 0.2:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 0.3:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KNM Fernando
+    - 0.4:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 0.5:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 0.6:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 0.7:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 0.8:
+        non_striker: LD Chandimal
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 1.1:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 1.2:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 1.3:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 1.4:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 1.5:
+        non_striker: LD Chandimal
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 1.6:
+        non_striker: LD Chandimal
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 2.1:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 2.2:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LD Chandimal
+    - 2.3:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 2.4:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LD Chandimal
+    - 2.5:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+        wicket:
+          player_out: LD Chandimal
+          fielders:
+          - MNK Fernando
+          kind: caught
+    - 2.6:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 2.7:
+        non_striker: KNM Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 3.1:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 3.2:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 3.3:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 3.4:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 3.5:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 3.6:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 3.7:
+        non_striker: KNM Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 4.1:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNM Fernando
+    - 4.2:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KNM Fernando
+    - 4.3:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.4:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.5:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.6:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 4.7:
+        non_striker: KIC Asalanka
+        bowler: N Pradeep
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: KNM Fernando
+    - 5.1:
+        non_striker: KNM Fernando
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 5.2:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 5.3:
+        non_striker: KNM Fernando
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 5.4:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 5.5:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 5.6:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNM Fernando
+    - 6.1:
+        non_striker: KNM Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 6.2:
+        non_striker: KIC Asalanka
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KNM Fernando
+    - 6.3:
+        non_striker: KNM Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 6.4:
+        non_striker: KIC Asalanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 6.5:
+        non_striker: KIC Asalanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNM Fernando
+    - 6.6:
+        non_striker: KIC Asalanka
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 7.1:
+        non_striker: KNM Fernando
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 7.2:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 7.3:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+    - 7.4:
+        non_striker: KIC Asalanka
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 7.5:
+        non_striker: KNM Fernando
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - MNK Fernando
+          kind: run out
+    - 7.6:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNM Fernando
+    - 8.1:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNM Fernando
+        wicket:
+          player_out: KNM Fernando
+          fielders:
+          - PADLR Sandakan
+          kind: caught
+    - 8.2:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 8.3:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 8.4:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.5:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 8.6:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 9.1:
+        non_striker: AD Mathews
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 9.2:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 9.3:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 9.4:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Mathews
+    - 9.5:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Mathews
+    - 9.6:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 10.1:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 10.2:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 10.3:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 10.4:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 10.5:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 10.6:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 11.1:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 11.2:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 11.3:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 11.4:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 11.5:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 11.6:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 12.1:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 12.2:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 12.3:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 12.4:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 12.5:
+        non_striker: RS Bopara
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 12.6:
+        non_striker: AD Mathews
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.1:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.2:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 13.3:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 13.4:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.5:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.6:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 14.1:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 14.2:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 14.3:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 14.4:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 14.5:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 14.6:
+        non_striker: AD Mathews
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.7:
+        non_striker: RS Bopara
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Mathews
+    - 15.1:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 15.2:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.3:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 15.4:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 15.5:
+        non_striker: AD Mathews
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.6:
+        non_striker: RS Bopara
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 16.1:
+        non_striker: AD Mathews
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.2:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 16.3:
+        non_striker: AD Mathews
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 16.4:
+        non_striker: AD Mathews
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.5:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 16.6:
+        non_striker: RS Bopara
+        bowler: Wahab Riaz
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AD Mathews

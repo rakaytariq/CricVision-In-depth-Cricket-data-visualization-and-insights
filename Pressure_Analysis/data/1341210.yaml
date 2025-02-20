@@ -1,0 +1,1602 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2023-01-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Central Districts
+    by:
+      runs: 29
+    method: D/L
+  overs: 20
+  players:
+    Auckland:
+    - GH Worker
+    - CJ Briggs
+    - WT O'Donnell
+    - RR O'Donnell
+    - SM Solia
+    - BJ Horne
+    - RM ter Braak
+    - L Delport
+    - DK Ferns
+    - A Ashok
+    - BG Lister
+    Central Districts:
+    - BL Wiggins
+    - BS Smith
+    - WA Young
+    - D Cleaver
+    - W Clark
+    - BG Randell
+    - JR Lennox
+    - RL Toole
+    - AY Patel
+    - AR Schaw
+    - JA Clarkson
+  registry:
+    people:
+      A Ashok: 321be7e3
+      AR Schaw: 118e6f66
+      AY Patel: fbd4f01f
+      BF Bowden: efc0a862
+      BG Lister: 79f5bc26
+      BG Randell: dbeb6733
+      BJ Horne: 5d99a16a
+      BL Wiggins: d4320277
+      BS Smith: 556df4f9
+      CJ Briggs: 6c3dd24e
+      CM Brown: 448f4f1c
+      D Cleaver: e3a949be
+      DK Ferns: f28c7456
+      GH Worker: 51a36d3e
+      Glen Walklin: 0070ed27
+      JA Clarkson: bed90114
+      JR Lennox: '07793daf'
+      L Delport: 2c1438ef
+      RL Toole: 2fef3b0c
+      RM ter Braak: ac3e5a31
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      SRM Morris: 74b402c6
+      T Semmens: 3b471aa4
+      W Clark: 4f78497c
+      WA Young: 8afe73e2
+      WT O'Donnell: 730b57de
+  teams:
+  - Auckland
+  - Central Districts
+  toss:
+    winner: Central Districts
+    decision: field
+  umpires:
+  - CM Brown
+  - Glen Walklin
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: CJ Briggs
+        batsman: GH Worker
+    - 0.2:
+        bowler: AR Schaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CJ Briggs
+        batsman: GH Worker
+    - 0.3:
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Briggs
+        batsman: GH Worker
+    - 0.4:
+        non_striker: GH Worker
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 0.5:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 0.6:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 0.7:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 0.8:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GH Worker
+    - 1.1:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.2:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Worker
+    - 1.3:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.4:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 1.5:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 1.6:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          kind: bowled
+    - 2.1:
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WT O'Donnell
+        batsman: CJ Briggs
+    - 2.2:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 2.3:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 2.4:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT O'Donnell
+    - 2.5:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 2.6:
+        non_striker: WT O'Donnell
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 3.1:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 3.2:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 3.3:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 3.4:
+        non_striker: WT O'Donnell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 3.5:
+        non_striker: WT O'Donnell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 3.6:
+        non_striker: WT O'Donnell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 4.1:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 4.2:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 4.3:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 4.4:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 4.5:
+        non_striker: CJ Briggs
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 4.6:
+        non_striker: WT O'Donnell
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 5.1:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 5.2:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 5.3:
+        non_striker: WT O'Donnell
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 5.4:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 5.5:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT O'Donnell
+    - 5.6:
+        non_striker: CJ Briggs
+        bowler: AR Schaw
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 6.1:
+        non_striker: WT O'Donnell
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 6.2:
+        non_striker: WT O'Donnell
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 6.3:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 6.4:
+        non_striker: WT O'Donnell
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 6.5:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          fielders:
+          - JA Clarkson
+          kind: caught
+    - 6.6:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.1:
+        non_striker: RR O'Donnell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 7.2:
+        non_striker: CJ Briggs
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.3:
+        non_striker: CJ Briggs
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.4:
+        non_striker: RR O'Donnell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 7.5:
+        non_striker: RR O'Donnell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 7.6:
+        non_striker: RR O'Donnell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 8.1:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 8.2:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 8.3:
+        non_striker: SM Solia
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 8.4:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 8.5:
+        non_striker: SM Solia
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 8.6:
+        non_striker: SM Solia
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 9.1:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 9.2:
+        non_striker: CJ Briggs
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.3:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 9.4:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 9.5:
+        non_striker: CJ Briggs
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.6:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 10.1:
+        non_striker: CJ Briggs
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.2:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 10.3:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 10.4:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 10.5:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 10.6:
+        non_striker: CJ Briggs
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 11.1:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Briggs
+    - 11.2:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Briggs
+    - 11.3:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 11.4:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 11.5:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 11.6:
+        non_striker: CJ Briggs
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.1:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.2:
+        non_striker: SM Solia
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 12.3:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 12.4:
+        non_striker: CJ Briggs
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.5:
+        non_striker: SM Solia
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+        wicket:
+          player_out: CJ Briggs
+          fielders:
+          - BG Randell
+          kind: caught
+    - 12.6:
+        non_striker: SM Solia
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.1:
+        non_striker: BJ Horne
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.2:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.3:
+        non_striker: BJ Horne
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.4:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 13.5:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.6:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 14.1:
+        non_striker: BJ Horne
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 14.2:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 14.3:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 14.4:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.5:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.6:
+        non_striker: SM Solia
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 14.7:
+        non_striker: BJ Horne
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 15.1:
+        non_striker: BJ Horne
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 15.2:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 15.3:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 15.4:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 15.5:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 15.6:
+        non_striker: SM Solia
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 16.1:
+        non_striker: BJ Horne
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 16.2:
+        non_striker: SM Solia
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 16.3:
+        non_striker: SM Solia
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 16.4:
+        non_striker: SM Solia
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 16.5:
+        non_striker: SM Solia
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 16.6:
+        non_striker: SM Solia
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 17.1:
+        non_striker: BJ Horne
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 17.2:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 17.3:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - AY Patel
+          kind: caught
+    - 17.4:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM ter Braak
+    - 17.5:
+        non_striker: RM ter Braak
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 17.6:
+        non_striker: SM Solia
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM ter Braak
+    - 18.1:
+        non_striker: RM ter Braak
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 18.2:
+        non_striker: RM ter Braak
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 18.3:
+        non_striker: RM ter Braak
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 18.4:
+        non_striker: RM ter Braak
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - BL Wiggins
+          kind: caught
+    - 18.5:
+        non_striker: RM ter Braak
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delport
+    - 18.6:
+        non_striker: RM ter Braak
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 19.1:
+        non_striker: RM ter Braak
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delport
+    - 19.2:
+        non_striker: RM ter Braak
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+        wicket:
+          player_out: L Delport
+          fielders:
+          - AR Schaw
+          kind: caught
+    - 19.3:
+        non_striker: RM ter Braak
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DK Ferns
+    - 19.4:
+        non_striker: RM ter Braak
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+    - 19.5:
+        non_striker: RM ter Braak
+        bowler: RL Toole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+        wicket:
+          player_out: DK Ferns
+          fielders:
+          - AY Patel
+          kind: caught
+    - 19.6:
+        non_striker: RM ter Braak
+        bowler: RL Toole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Ashok
+- 2nd innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BS Smith
+        batsman: BL Wiggins
+    - 0.2:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Wiggins
+        wicket:
+          player_out: BL Wiggins
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 0.3:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 0.4:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 0.5:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 0.6:
+        non_striker: WA Young
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 1.1:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 1.2:
+        non_striker: WA Young
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 1.3:
+        non_striker: WA Young
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 1.4:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.5:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.6:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.1:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 2.2:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.3:
+        non_striker: WA Young
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 2.4:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.5:
+        non_striker: WA Young
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 2.6:
+        non_striker: BS Smith
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 3.1:
+        non_striker: WA Young
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Smith
+    - 3.2:
+        non_striker: WA Young
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 3.3:
+        non_striker: WA Young
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 3.4:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 3.5:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 3.6:
+        non_striker: BS Smith
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 4.1:
+        non_striker: WA Young
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 4.2:
+        non_striker: BS Smith
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 4.3:
+        non_striker: WA Young
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 4.4:
+        non_striker: BS Smith
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 4.5:
+        non_striker: BS Smith
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 4.6:
+        non_striker: WA Young
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Smith
+    - 5.1:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 5.2:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 5.3:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 5.4:
+        non_striker: WA Young
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 5.5:
+        non_striker: WA Young
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 5.6:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 6.1:
+        non_striker: BS Smith
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 6.2:
+        non_striker: BS Smith
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 6.3:
+        non_striker: BS Smith
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 6.4:
+        non_striker: BS Smith
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 6.5:
+        non_striker: BS Smith
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 6.6:
+        non_striker: BS Smith
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - DK Ferns
+          kind: caught
+    - 7.1:
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Cleaver
+        batsman: BS Smith
+    - 7.2:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 7.3:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Cleaver
+    - 7.4:
+        non_striker: D Cleaver
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Smith
+    - 7.5:
+        non_striker: D Cleaver
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 7.6:
+        non_striker: D Cleaver
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 7.7:
+        non_striker: BS Smith
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 8.1:
+        non_striker: D Cleaver
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 8.2:
+        non_striker: BS Smith
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 8.3:
+        non_striker: BS Smith
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.4:
+        non_striker: D Cleaver
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Smith
+    - 8.5:
+        non_striker: D Cleaver
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 8.6:
+        non_striker: D Cleaver
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 8.7:
+        non_striker: BS Smith
+        bowler: SM Solia
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: D Cleaver
+    - 9.1:
+        non_striker: D Cleaver
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Smith
+    - 9.2:
+        non_striker: D Cleaver
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith

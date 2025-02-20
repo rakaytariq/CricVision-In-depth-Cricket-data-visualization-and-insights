@@ -1,0 +1,2231 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kowloon
+  competition: FairBreak Invitational Tournament
+  dates:
+  - '2023-04-09'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Barmy Army
+    by:
+      runs: 17
+  overs: 20
+  player_of_match:
+  - DJS Dottin
+  players:
+    Barmy Army:
+    - L Winfield
+    - L Wolvaardt
+    - KKN Egodage
+    - DJS Dottin
+    - Rumana Ahmed
+    - SA Campbelle
+    - Nigar Sultana
+    - RMAM Avery
+    - Fatima Sana
+    - TG Norris
+    - RC Belbashi
+    - Iqra Sahar
+    Warriors:
+    - HK Matthews
+    - E Johnston
+    - T Ruma
+    - Yasmeen Khan
+    - P Litchfield
+    - S Sriharsha
+    - A Wellington
+    - KE Bryce
+    - M Martinez
+    - SS Connell
+    - M Wai Siu
+  registry:
+    people:
+      A Wellington: 9b3bcca4
+      CA Polosak: 26a360d2
+      DJS Dottin: 53bee17f
+      E Johnston: 3785e30d
+      Fatima Sana: ea9c54de
+      HK Matthews: d32cf49a
+      Humaira Farah: 6b6d6623
+      Iqra Sahar: aaccb8ca
+      John Prakash: b5f3d429
+      KE Bryce: f13d3eba
+      KKN Egodage: 5bb904d4
+      L Winfield: 5230a33d
+      L Wolvaardt: e60f81c9
+      M Martinez: f0ddeafb
+      M Wai Siu: 74eecff4
+      Nigar Sultana: 3827f6a2
+      P Litchfield: 4e6ef14f
+      RC Belbashi: dfdaca74
+      RMAM Avery: 4cf645c9
+      Rumana Ahmed: a92763ea
+      S Sriharsha: 89f6c26f
+      SA Campbelle: a7cd72b2
+      SR Bernard: 800187dc
+      SS Connell: 2f9a6bd1
+      T Ruma: 3697a0ff
+      TG Norris: 8ae7bb3e
+      V Kalidas: 42d76418
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Barmy Army
+  - Warriors
+  toss:
+    winner: Warriors
+    decision: field
+  umpires:
+  - CA Polosak
+  - Humaira Farah
+  venue: Kowloon Cricket Club
+innings:
+- 1st innings:
+    team: Barmy Army
+    deliveries:
+    - 0.1:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Wolvaardt
+        batsman: L Winfield
+    - 0.2:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wolvaardt
+        batsman: L Winfield
+    - 0.3:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wolvaardt
+        batsman: L Winfield
+        wicket:
+          player_out: L Winfield
+          kind: retired hurt
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 1.1:
+        non_striker: KKN Egodage
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: KKN Egodage
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: KE Bryce
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: KKN Egodage
+    - 1.5:
+        non_striker: L Wolvaardt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 1.7:
+        non_striker: KKN Egodage
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 2.5:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 3.1:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.7:
+        non_striker: KKN Egodage
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - P Litchfield
+          kind: caught
+    - 4.1:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.2:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.3:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.4:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.5:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJS Dottin
+        batsman: KKN Egodage
+    - 4.6:
+        non_striker: DJS Dottin
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+        wicket:
+          player_out: KKN Egodage
+          fielders:
+          - E Johnston
+          kind: caught
+    - 5.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rumana Ahmed
+        batsman: DJS Dottin
+    - 5.2:
+        bowler: KE Bryce
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Rumana Ahmed
+        batsman: DJS Dottin
+    - 5.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rumana Ahmed
+        batsman: DJS Dottin
+    - 5.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rumana Ahmed
+        batsman: DJS Dottin
+    - 5.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rumana Ahmed
+        batsman: DJS Dottin
+    - 5.6:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rumana Ahmed
+        batsman: DJS Dottin
+    - 5.7:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.1:
+        non_striker: Rumana Ahmed
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 6.2:
+        non_striker: Rumana Ahmed
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.3:
+        non_striker: DJS Dottin
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rumana Ahmed
+    - 6.4:
+        non_striker: DJS Dottin
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 6.5:
+        non_striker: Rumana Ahmed
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.6:
+        non_striker: Rumana Ahmed
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 6.7:
+        non_striker: Rumana Ahmed
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 6.8:
+        non_striker: Rumana Ahmed
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.1:
+        non_striker: DJS Dottin
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 7.2:
+        non_striker: DJS Dottin
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 7.3:
+        non_striker: DJS Dottin
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 7.4:
+        non_striker: DJS Dottin
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 7.5:
+        non_striker: DJS Dottin
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 7.6:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 8.1:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DJS Dottin
+    - 8.2:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 8.3:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 8.4:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: DJS Dottin
+    - 8.5:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJS Dottin
+    - 8.6:
+        non_striker: DJS Dottin
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 9.1:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 9.2:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.3:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.4:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.5:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 9.6:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.1:
+        non_striker: Rumana Ahmed
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 10.2:
+        non_striker: Rumana Ahmed
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.3:
+        non_striker: DJS Dottin
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 10.4:
+        non_striker: DJS Dottin
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 10.5:
+        non_striker: DJS Dottin
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 10.6:
+        non_striker: DJS Dottin
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 11.1:
+        non_striker: DJS Dottin
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 11.2:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.3:
+        non_striker: DJS Dottin
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Rumana Ahmed
+    - 11.4:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 11.5:
+        non_striker: Rumana Ahmed
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.6:
+        non_striker: DJS Dottin
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 11.7:
+        non_striker: DJS Dottin
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 12.1:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 12.2:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 12.3:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJS Dottin
+    - 12.4:
+        non_striker: DJS Dottin
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 12.5:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 12.6:
+        non_striker: DJS Dottin
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 13.1:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 13.2:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 13.3:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.4:
+        non_striker: DJS Dottin
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 13.5:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 13.6:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 13.7:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 14.1:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 14.2:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 14.3:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 14.4:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 14.5:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 14.6:
+        non_striker: Rumana Ahmed
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 15.1:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 15.2:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 15.3:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 15.4:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 15.5:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - S Sriharsha
+          kind: caught
+    - 15.6:
+        non_striker: Rumana Ahmed
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 16.1:
+        non_striker: Rumana Ahmed
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 16.2:
+        non_striker: Rumana Ahmed
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 16.3:
+        non_striker: Rumana Ahmed
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 16.4:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rumana Ahmed
+    - 16.5:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rumana Ahmed
+    - 16.6:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 17.1:
+        non_striker: Rumana Ahmed
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.2:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 17.3:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 17.4:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 17.5:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 17.6:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 18.1:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 18.2:
+        non_striker: Rumana Ahmed
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 18.3:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+        wicket:
+          player_out: Rumana Ahmed
+          fielders:
+          - E Johnston
+          kind: caught
+    - 18.4:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        replacements:
+          match:
+          - in: Nigar Sultana
+            out: L Winfield
+            team: Barmy Army
+            reason: concussion_substitute
+        batsman: Nigar Sultana
+    - 18.5:
+        non_striker: SA Campbelle
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 18.6:
+        non_striker: Nigar Sultana
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Campbelle
+    - 18.7:
+        non_striker: Nigar Sultana
+        bowler: Yasmeen Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.1:
+        non_striker: Nigar Sultana
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 19.2:
+        non_striker: Nigar Sultana
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.3:
+        non_striker: SA Campbelle
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.4:
+        non_striker: SA Campbelle
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          kind: caught and bowled
+    - 19.5:
+        non_striker: SA Campbelle
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          fielders:
+          - P Litchfield
+          kind: run out
+    - 19.6:
+        non_striker: SA Campbelle
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+- 2nd innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E Johnston
+        batsman: HK Matthews
+    - 0.2:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Johnston
+        batsman: HK Matthews
+    - 0.3:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: E Johnston
+        batsman: HK Matthews
+    - 0.4:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Johnston
+        batsman: HK Matthews
+    - 0.5:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Johnston
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Johnston
+    - 0.7:
+        non_striker: E Johnston
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Johnston
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+    - 1.3:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Johnston
+        wicket:
+          player_out: E Johnston
+          kind: bowled
+    - 1.4:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 2.1:
+        non_striker: T Ruma
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          kind: bowled
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 3.1:
+        non_striker: Yasmeen Khan
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.6:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 4.1:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.2:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 4.5:
+        non_striker: HK Matthews
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 4.6:
+        non_striker: HK Matthews
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 5.1:
+        non_striker: Yasmeen Khan
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: Yasmeen Khan
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: Yasmeen Khan
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.4:
+        non_striker: Yasmeen Khan
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 5.5:
+        non_striker: Yasmeen Khan
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 5.6:
+        non_striker: Yasmeen Khan
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 6.1:
+        non_striker: HK Matthews
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 6.2:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: lbw
+    - 6.3:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 6.4:
+        non_striker: Yasmeen Khan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.5:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 6.6:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 6.7:
+        non_striker: P Litchfield
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 7.1:
+        non_striker: P Litchfield
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.2:
+        non_striker: P Litchfield
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.3:
+        non_striker: P Litchfield
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.4:
+        non_striker: P Litchfield
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 7.5:
+        non_striker: P Litchfield
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 7.6:
+        non_striker: Yasmeen Khan
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.1:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 8.2:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 8.3:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasmeen Khan
+    - 8.4:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+        wicket:
+          player_out: Yasmeen Khan
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 8.5:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 8.6:
+        non_striker: P Litchfield
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 9.1:
+        non_striker: P Litchfield
+        bowler: KKN Egodage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sriharsha
+    - 9.2:
+        non_striker: P Litchfield
+        bowler: KKN Egodage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sriharsha
+    - 9.3:
+        non_striker: P Litchfield
+        bowler: KKN Egodage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sriharsha
+    - 9.4:
+        non_striker: P Litchfield
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 9.5:
+        non_striker: S Sriharsha
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 9.6:
+        non_striker: S Sriharsha
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+    - 9.7:
+        non_striker: S Sriharsha
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 9.8:
+        non_striker: S Sriharsha
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Wellington
+    - 9.9:
+        non_striker: S Sriharsha
+        bowler: KKN Egodage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Wellington
+    - 10.1:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 10.2:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 10.3:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+    - 10.4:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Wellington
+        wicket:
+          player_out: A Wellington
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 10.5:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.6:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.1:
+        non_striker: S Sriharsha
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.2:
+        non_striker: KE Bryce
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 11.3:
+        non_striker: S Sriharsha
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.4:
+        non_striker: KE Bryce
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 11.5:
+        non_striker: S Sriharsha
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 11.6:
+        non_striker: S Sriharsha
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.1:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.2:
+        non_striker: KE Bryce
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 12.3:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 12.4:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.5:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.6:
+        non_striker: S Sriharsha
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.1:
+        non_striker: KE Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 13.2:
+        non_striker: S Sriharsha
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 13.3:
+        non_striker: S Sriharsha
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 13.4:
+        non_striker: S Sriharsha
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.5:
+        non_striker: S Sriharsha
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 13.6:
+        non_striker: KE Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 14.1:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 14.2:
+        non_striker: S Sriharsha
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 14.3:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sriharsha
+    - 14.4:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 14.5:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 14.6:
+        non_striker: S Sriharsha
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Bryce
+    - 15.1:
+        non_striker: KE Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 15.2:
+        non_striker: S Sriharsha
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 15.3:
+        non_striker: KE Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+        wicket:
+          player_out: S Sriharsha
+          fielders:
+          - TG Norris
+          kind: caught
+    - 15.4:
+        non_striker: KE Bryce
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 15.5:
+        non_striker: M Martinez
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 15.6:
+        non_striker: M Martinez
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 16.1:
+        non_striker: M Martinez
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Bryce
+    - 16.2:
+        non_striker: M Martinez
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 16.3:
+        non_striker: M Martinez
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 16.4:
+        non_striker: KE Bryce
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 16.5:
+        non_striker: M Martinez
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 16.6:
+        non_striker: M Martinez
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 17.1:
+        non_striker: KE Bryce
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 17.2:
+        non_striker: M Martinez
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          fielders:
+          - Fatima Sana
+          kind: run out
+    - 17.3:
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SS Connell
+        batsman: M Martinez
+    - 17.4:
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SS Connell
+        batsman: M Martinez
+    - 17.5:
+        non_striker: M Martinez
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+    - 17.6:
+        non_striker: M Martinez
+        bowler: Rumana Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+    - 18.1:
+        non_striker: SS Connell
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 18.2:
+        non_striker: SS Connell
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 18.3:
+        non_striker: SS Connell
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 18.4:
+        non_striker: SS Connell
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 18.5:
+        non_striker: M Martinez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+        wicket:
+          player_out: SS Connell
+          kind: caught and bowled
+    - 18.6:
+        non_striker: M Martinez
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 19.1:
+        non_striker: M Martinez
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 19.2:
+        non_striker: M Wai Siu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 19.3:
+        non_striker: M Martinez
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Wai Siu
+    - 19.4:
+        non_striker: M Martinez
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Wai Siu
+    - 19.5:
+        non_striker: M Wai Siu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 19.6:
+        non_striker: M Wai Siu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+        wicket:
+          player_out: M Wai Siu
+          fielders:
+          - Iqra Sahar
+          - Fatima Sana
+          kind: run out

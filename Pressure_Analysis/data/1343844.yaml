@@ -1,0 +1,3598 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-12-13'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Canada
+    by:
+      runs: 189
+  overs: 50
+  player_of_match:
+  - Kaleem Sana
+  players:
+    Canada:
+    - A Johnson
+    - Pargat Singh
+    - SA Wijeratne
+    - NR Kirton
+    - Ravinderpal Singh
+    - H Thaker
+    - D Heyliger
+    - Saad Bin Zafar
+    - N Dutta
+    - Kaleem Sana
+    - JOA Gordon
+    Malaysia:
+    - Zubaidi Zulkifle
+    - Muhammad Amir
+    - Virandeep Singh
+    - Syed Aziz
+    - S Muniandy
+    - Ahmed Faiz Mohammad Noor
+    - S Vijay Unni
+    - Khizar Hayat
+    - Pavandeep Singh
+    - Syed Rehmatullah
+    - Rizwan Haider
+  registry:
+    people:
+      A Johnson: a28a7fba
+      Ahmed Faiz: f6b4f746
+      D Heyliger: f8c72766
+      H Thaker: c01d7726
+      JOA Gordon: bb9b51f4
+      Kaleem Sana: 14810ee7
+      Khizar Hayat: 78bbeba1
+      Muhammad Amir: 60bec5c3
+      N Dutta: e258a603
+      NR Kirton: 6b75c2b1
+      Pargat Singh: d2e67105
+      Pavandeep Singh: 78fcc740
+      Rahul Asher: 4956b0bf
+      Ramasamy Venkatesh: 8ad68ea7
+      Ravinderpal Singh: f80682f8
+      Rizwan Haider: dc60abdc
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      SA Wijeratne: 5fbd0632
+      Saad Bin Zafar: f28a60e0
+      Sarika Prasad: 8ff397fa
+      Syed Aziz: 6667067e
+      Syed Rehmatullah: fcbdc2b0
+      V Narayan Kutty: 4bacee3d
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Canada
+  - Malaysia
+  toss:
+    winner: Canada
+    decision: bat
+  umpires:
+  - Ramasamy Venkatesh
+  - Sarika Prasad
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pargat Singh
+        batsman: A Johnson
+    - 0.2:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Pargat Singh
+        batsman: A Johnson
+    - 0.3:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pargat Singh
+        batsman: A Johnson
+    - 0.4:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Pargat Singh
+        batsman: A Johnson
+    - 0.5:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Pargat Singh
+        batsman: A Johnson
+    - 0.6:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 1.1:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Pargat Singh
+    - 1.2:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 1.3:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 1.4:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 1.5:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Johnson
+    - 1.6:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 2.1:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 2.2:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 2.3:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 2.4:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 2.5:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 2.6:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 3.1:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 3.2:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Pargat Singh
+    - 3.3:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 3.4:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 3.5:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 3.6:
+        non_striker: A Johnson
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 4.1:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 4.2:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 4.3:
+        non_striker: A Johnson
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 4.4:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 4.5:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+        wicket:
+          player_out: A Johnson
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 4.6:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 5.1:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pargat Singh
+    - 5.2:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 5.3:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 5.4:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 5.5:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 5.6:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 5.7:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 6.1:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 6.2:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 6.3:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 6.4:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 6.5:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 6.6:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 7.1:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pargat Singh
+    - 7.2:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 7.3:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 7.4:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 7.5:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 7.6:
+        non_striker: Pargat Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 7.7:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pargat Singh
+    - 7.8:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pargat Singh
+    - 8.1:
+        non_striker: Pargat Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 8.2:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 8.3:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 8.4:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 8.5:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 8.6:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 9.1:
+        non_striker: Pargat Singh
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 9.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 9.3:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 9.4:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 9.5:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 9.6:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 10.1:
+        non_striker: Pargat Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 10.2:
+        non_striker: Pargat Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 10.3:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 10.4:
+        non_striker: Pargat Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 10.5:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 10.6:
+        non_striker: Pargat Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 11.1:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 11.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+        wicket:
+          player_out: Pargat Singh
+          fielders:
+          - Ahmed Faiz Mohammad Noor
+          kind: caught
+    - 11.3:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 11.4:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 11.5:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.6:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 12.1:
+        non_striker: NR Kirton
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 12.2:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 12.3:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 12.4:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 12.5:
+        non_striker: NR Kirton
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 12.6:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 13.1:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 13.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 13.3:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 13.4:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 13.5:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 13.6:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.1:
+        non_striker: NR Kirton
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 14.2:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.3:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 14.4:
+        non_striker: NR Kirton
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 14.5:
+        non_striker: NR Kirton
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 14.6:
+        non_striker: SA Wijeratne
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 15.1:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 15.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 15.3:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 15.4:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 15.5:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 15.6:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 16.1:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 16.2:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 16.3:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 16.4:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 16.5:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 16.6:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 17.1:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 17.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 17.3:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 17.4:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 17.5:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 17.6:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 18.1:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 18.2:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 18.3:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 18.4:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 18.5:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 18.6:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 19.1:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 19.2:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 19.3:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 19.4:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 19.5:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 19.6:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 20.1:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 20.2:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 20.3:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 20.4:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 20.5:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 20.6:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 21.1:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 21.2:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 21.3:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 21.4:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 21.5:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 21.6:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 22.1:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 22.2:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 22.3:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 22.4:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 22.5:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Wijeratne
+    - 22.6:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 23.1:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 23.2:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 23.3:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 23.4:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 23.5:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wijeratne
+    - 23.6:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 24.1:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 24.2:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 24.3:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 24.4:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 24.5:
+        non_striker: NR Kirton
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 24.6:
+        non_striker: SA Wijeratne
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 25.1:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 25.2:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 25.3:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 25.4:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Kirton
+    - 25.5:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 25.6:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 26.1:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 26.2:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 26.3:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 26.4:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 26.5:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 26.6:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 27.1:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 27.2:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 27.3:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 27.4:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 27.5:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 27.6:
+        non_striker: NR Kirton
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 28.1:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 28.2:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 28.3:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Kirton
+    - 28.4:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Kirton
+    - 28.5:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 28.6:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 28.7:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 28.8:
+        non_striker: NR Kirton
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 29.1:
+        non_striker: NR Kirton
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 29.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          fielders:
+          - S Vijay Unni
+          kind: caught
+    - 29.3:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 29.4:
+        non_striker: Ravinderpal Singh
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 29.5:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 29.6:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 30.1:
+        non_striker: Ravinderpal Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 30.2:
+        non_striker: Ravinderpal Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 30.3:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 30.4:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 30.5:
+        non_striker: Ravinderpal Singh
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 30.6:
+        non_striker: SA Wijeratne
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 31.1:
+        non_striker: Ravinderpal Singh
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 31.2:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ravinderpal Singh
+    - 31.3:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 31.4:
+        non_striker: SA Wijeratne
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 31.5:
+        non_striker: Ravinderpal Singh
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wijeratne
+    - 31.6:
+        non_striker: Ravinderpal Singh
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wijeratne
+    - 32.1:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 32.2:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 32.3:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 32.4:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 32.5:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ravinderpal Singh
+    - 32.6:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ravinderpal Singh
+    - 32.7:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 33.1:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 33.2:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 33.3:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 33.4:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 33.5:
+        non_striker: SA Wijeratne
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 33.6:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 34.1:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ravinderpal Singh
+    - 34.2:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 34.3:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wijeratne
+    - 34.4:
+        non_striker: SA Wijeratne
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 34.5:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+    - 34.6:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wijeratne
+        wicket:
+          player_out: SA Wijeratne
+          kind: bowled
+    - 35.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Thaker
+        batsman: Ravinderpal Singh
+    - 35.2:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 35.3:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 35.4:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 35.5:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 35.6:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 36.1:
+        non_striker: H Thaker
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 36.2:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 36.3:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 36.4:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Thaker
+    - 36.5:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 36.6:
+        non_striker: Ravinderpal Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Thaker
+    - 37.1:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 37.2:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 37.3:
+        non_striker: Ravinderpal Singh
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 37.4:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 37.5:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 37.6:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 38.1:
+        non_striker: Ravinderpal Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 38.2:
+        non_striker: Ravinderpal Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 38.3:
+        non_striker: H Thaker
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 38.4:
+        non_striker: H Thaker
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ravinderpal Singh
+    - 38.5:
+        non_striker: H Thaker
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+        wicket:
+          player_out: Ravinderpal Singh
+          fielders:
+          - Pavandeep Singh
+          kind: caught
+    - 38.6:
+        non_striker: H Thaker
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 39.1:
+        non_striker: D Heyliger
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 39.2:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 39.3:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+        wicket:
+          player_out: D Heyliger
+          kind: bowled
+    - 39.4:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 39.5:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 39.6:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 40.1:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 40.2:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 40.3:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 40.4:
+        non_striker: H Thaker
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 40.5:
+        non_striker: H Thaker
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 40.6:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 41.1:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 41.2:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 41.3:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saad Bin Zafar
+    - 41.4:
+        non_striker: H Thaker
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 41.5:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+        wicket:
+          player_out: H Thaker
+          fielders:
+          - S Vijay Unni
+          kind: caught
+    - 41.6:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dutta
+    - 42.1:
+        non_striker: N Dutta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 42.2:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dutta
+    - 42.3:
+        non_striker: N Dutta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 42.4:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dutta
+    - 42.5:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dutta
+    - 42.6:
+        non_striker: N Dutta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 43.1:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Dutta
+    - 43.2:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dutta
+    - 43.3:
+        non_striker: N Dutta
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 43.4:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dutta
+    - 43.5:
+        non_striker: N Dutta
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 43.6:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dutta
+    - 43.7:
+        non_striker: Saad Bin Zafar
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dutta
+    - 44.1:
+        non_striker: N Dutta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saad Bin Zafar
+    - 44.2:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dutta
+    - 44.3:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dutta
+    - 44.4:
+        non_striker: N Dutta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 44.5:
+        non_striker: N Dutta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 44.6:
+        non_striker: Saad Bin Zafar
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Dutta
+    - 45.1:
+        non_striker: N Dutta
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saad Bin Zafar
+    - 45.2:
+        non_striker: N Dutta
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saad Bin Zafar
+    - 45.3:
+        non_striker: N Dutta
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 45.4:
+        non_striker: N Dutta
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 45.5:
+        non_striker: N Dutta
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 45.6:
+        non_striker: Saad Bin Zafar
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dutta
+    - 45.7:
+        non_striker: N Dutta
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 46.1:
+        non_striker: N Dutta
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 46.2:
+        non_striker: Saad Bin Zafar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dutta
+    - 46.3:
+        non_striker: Saad Bin Zafar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dutta
+        wicket:
+          player_out: N Dutta
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 46.4:
+        non_striker: Saad Bin Zafar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleem Sana
+    - 46.5:
+        non_striker: Kaleem Sana
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 46.6:
+        non_striker: Saad Bin Zafar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleem Sana
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Amir
+        batsman: Zubaidi Zulkifle
+    - 0.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Amir
+        batsman: Zubaidi Zulkifle
+    - 0.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 0.4:
+        non_striker: Muhammad Amir
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 0.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 0.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 1.1:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubaidi Zulkifle
+    - 1.2:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          kind: bowled
+    - 1.3:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.4:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.5:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.6:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.7:
+        non_striker: Muhammad Amir
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.1:
+        non_striker: Virandeep Singh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+        wicket:
+          player_out: Muhammad Amir
+          kind: bowled
+    - 2.2:
+        non_striker: Virandeep Singh
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 2.3:
+        non_striker: Virandeep Singh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.4:
+        non_striker: Virandeep Singh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.5:
+        non_striker: Virandeep Singh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          fielders:
+          - SA Wijeratne
+          kind: caught
+    - 2.6:
+        non_striker: Virandeep Singh
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Muniandy
+    - 2.7:
+        non_striker: S Muniandy
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          fielders:
+          - Ravinderpal Singh
+          kind: caught
+    - 3.1:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: S Muniandy
+    - 3.2:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: S Muniandy
+    - 3.3:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: S Muniandy
+    - 3.4:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: S Muniandy
+    - 3.5:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz Mohammad Noor
+        batsman: S Muniandy
+    - 3.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 4.1:
+        non_striker: S Muniandy
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.2:
+        non_striker: S Muniandy
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.3:
+        non_striker: S Muniandy
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.4:
+        non_striker: S Muniandy
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.5:
+        non_striker: S Muniandy
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+        wicket:
+          player_out: S Muniandy
+          fielders:
+          - A Johnson
+          kind: caught
+    - 4.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vijay Unni
+        wicket:
+          player_out: S Vijay Unni
+          kind: bowled
+    - 5.1:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khizar Hayat
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.2:
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Khizar Hayat
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 5.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 5.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 5.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 6.1:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.2:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.3:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.4:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.5:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.6:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 7.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 7.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 7.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 7.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 7.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 7.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 8.1:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.2:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.3:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.4:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.5:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.6:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 9.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 9.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 9.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 9.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Khizar Hayat
+    - 9.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizar Hayat
+    - 9.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 9.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 9.8:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 10.1:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 10.2:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 10.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 10.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 10.5:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 10.6:
+        non_striker: Khizar Hayat
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 11.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 11.2:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 11.3:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 11.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 11.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 11.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 12.1:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 12.2:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 12.3:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+        wicket:
+          player_out: Ahmed Faiz Mohammad Noor
+          fielders:
+          - A Johnson
+          kind: caught
+    - 12.4:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 12.5:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 12.6:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 12.7:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 13.1:
+        non_striker: Pavandeep Singh
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 13.2:
+        non_striker: Pavandeep Singh
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 13.3:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 13.4:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 13.5:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 13.6:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 14.1:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.2:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.3:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.4:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 14.5:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 14.6:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 15.1:
+        non_striker: Pavandeep Singh
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizar Hayat
+    - 15.2:
+        non_striker: Pavandeep Singh
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 15.3:
+        non_striker: Pavandeep Singh
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 15.4:
+        non_striker: Pavandeep Singh
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 15.5:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 15.6:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 16.1:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 16.2:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizar Hayat
+    - 16.3:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizar Hayat
+    - 16.4:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 16.5:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 16.6:
+        non_striker: Pavandeep Singh
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 17.1:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 17.2:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 17.3:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 17.4:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+    - 17.5:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pavandeep Singh
+    - 17.6:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pavandeep Singh
+        wicket:
+          player_out: Pavandeep Singh
+          kind: lbw
+    - 18.1:
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Syed Rehmatullah
+        batsman: Khizar Hayat
+    - 18.2:
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Syed Rehmatullah
+        batsman: Khizar Hayat
+    - 18.3:
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Syed Rehmatullah
+        batsman: Khizar Hayat
+    - 18.4:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 18.5:
+        non_striker: Khizar Hayat
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Rehmatullah
+    - 18.6:
+        non_striker: Syed Rehmatullah
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 19.1:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 19.2:
+        non_striker: Khizar Hayat
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Rehmatullah
+    - 19.3:
+        non_striker: Syed Rehmatullah
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 19.4:
+        non_striker: Syed Rehmatullah
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 19.5:
+        non_striker: Syed Rehmatullah
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+        wicket:
+          player_out: Khizar Hayat
+          kind: bowled
+    - 19.6:
+        non_striker: Syed Rehmatullah
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Haider
+    - 20.1:
+        non_striker: Rizwan Haider
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 20.2:
+        non_striker: Rizwan Haider
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 20.3:
+        non_striker: Rizwan Haider
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 20.4:
+        non_striker: Rizwan Haider
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 20.5:
+        non_striker: Rizwan Haider
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Rehmatullah
+    - 20.6:
+        non_striker: Syed Rehmatullah
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Haider
+    - 21.1:
+        non_striker: Rizwan Haider
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 21.2:
+        non_striker: Rizwan Haider
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 21.3:
+        non_striker: Rizwan Haider
+        bowler: N Dutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+        wicket:
+          player_out: Rizwan Haider
+          fielders:
+          - SA Wijeratne
+          - Kaleem Sana
+          kind: run out

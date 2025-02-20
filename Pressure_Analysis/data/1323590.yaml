@@ -1,0 +1,639 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-10'
+  gender: female
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Melbourne Renegades:
+    - HK Matthews
+    - AC Jayangani
+    - E Kershaw
+    - JE Dooley
+    - S Molineux
+    - C Webb
+    - C Leeson
+    - SJ Coyte
+    - RK O'Donnell
+    - G Prestwidge
+    - E Hayward
+    Sydney Sixers:
+    - AJ Healy
+    - SW Bates
+    - EA Perry
+    - A Gardner
+    - EA Burns
+    - NE Bolton
+    - S Ecclestone
+    - K Peterson
+    - A Genford
+    - L Cheatle
+    - J Allen
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Genford: 52b45daa
+      AC Jayangani: ac56b5a7
+      AJ Healy: 321644de
+      C Grant: 876ed858
+      C Leeson: d71e33bb
+      C Webb: 1f4a8a2a
+      E Hayward: eacd9bb1
+      E Kershaw: 8eeebce2
+      EA Burns: 2e0b6638
+      EA Perry: be150fc8
+      G Prestwidge: c218e4e7
+      Greg Azzopardi: e950350e
+      HK Matthews: d32cf49a
+      J Allen: 20e02728
+      JE Dooley: 6f7e30d6
+      K Peterson: 5f377534
+      L Cheatle: 275dff85
+      NE Bolton: dd883071
+      RK O'Donnell: 2ec8a400
+      RW Stratford: '85489579'
+      S Ecclestone: cdb82f1c
+      S Molineux: 99e23670
+      SJ Coyte: a5f488bc
+      SW Bates: 89bbc67a
+  teams:
+  - Melbourne Renegades
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - C Grant
+  - Greg Azzopardi
+  venue: Junction Oval, Melbourne
+innings:
+- 1st innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.7:
+        non_striker: HK Matthews
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.6:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 3.6:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 4.5:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 4.6:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 4.7:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.5:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.1:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: HK Matthews
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.4:
+        non_striker: HK Matthews
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.5:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.6:
+        non_striker: AC Jayangani
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.1:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.3:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.4:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Jayangani
+    - 7.5:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 7.6:
+        non_striker: AC Jayangani
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 8.1:
+        non_striker: HK Matthews
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.2:
+        non_striker: HK Matthews
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.3:
+        non_striker: HK Matthews
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 8.4:
+        non_striker: AC Jayangani
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.5:
+        non_striker: HK Matthews
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.6:
+        non_striker: HK Matthews
+        bowler: NE Bolton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 9.1:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.3:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.4:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.5:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.6:
+        non_striker: HK Matthews
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 10.1:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 10.2:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 10.3:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 10.4:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 10.5:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - SW Bates
+          kind: caught
+    - 10.6:
+        non_striker: AC Jayangani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kershaw

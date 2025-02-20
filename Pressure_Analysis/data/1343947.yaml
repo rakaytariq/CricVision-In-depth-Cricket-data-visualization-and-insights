@@ -1,0 +1,2023 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cape Town
+  competition: SA20
+  dates:
+  - '2023-01-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Cape Town
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - K Rabada
+  players:
+    Joburg Super Kings:
+    - JN Malan
+    - RR Hendricks
+    - F du Plessis
+    - K Verreynne
+    - JL du Plooy
+    - D Ferreira
+    - R Shepherd
+    - GHS Garton
+    - AS Joseph
+    - G Coetzee
+    - AM Phangiso
+    MI Cape Town:
+    - D Brevis
+    - RD Rickelton
+    - HE van der Dussen
+    - G Roelofsen
+    - SM Curran
+    - D Potgieter
+    - OF Smith
+    - GF Linde
+    - Rashid Khan
+    - K Rabada
+    - Waqar Salamkheil
+  registry:
+    people:
+      AM Phangiso: 7f8ecc51
+      AS Joseph: b0946605
+      AT Holdstock: 6fa3258c
+      D Brevis: 844e79d1
+      D Ferreira: f0af99a7
+      D Potgieter: 60fbf53a
+      F du Plessis: 3355b542
+      G Coetzee: 3204c99f
+      G Roelofsen: ac688e55
+      GF Linde: e5437608
+      GHS Garton: be869ccf
+      HE van der Dussen: 9948e262
+      JL du Plooy: 6e6fb538
+      JN Malan: f76d7466
+      K Rabada: e62dd25d
+      K Verreynne: bf814547
+      LB Gcuma: 02ba88e3
+      LH Matroos: 6fa18157
+      M Erasmus: 15d3c895
+      OF Smith: 23cca426
+      R Shepherd: c5aef772
+      RD Rickelton: e66732f8
+      RR Hendricks: b8cc58c9
+      Rashid Khan: 5f547c8b
+      S George: 6d9e5a54
+      SM Curran: e94915e6
+      Waqar Salamkheil: 3f1066d0
+  teams:
+  - Joburg Super Kings
+  - MI Cape Town
+  toss:
+    winner: MI Cape Town
+    decision: field
+  umpires:
+  - AT Holdstock
+  - M Erasmus
+  venue: Newlands, Cape Town
+innings:
+- 1st innings:
+    team: Joburg Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.2:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Malan
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.1:
+        non_striker: JN Malan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JN Malan
+    - 1.3:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Malan
+    - 1.4:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JN Malan
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.6:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.7:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.8:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.1:
+        non_striker: JN Malan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.2:
+        non_striker: JN Malan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JN Malan
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.7:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 3.1:
+        non_striker: RR Hendricks
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 3.2:
+        non_striker: JN Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.3:
+        non_striker: JN Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.4:
+        non_striker: JN Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: bowled
+    - 3.5:
+        non_striker: JN Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: JN Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: JN Malan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+        wicket:
+          player_out: JN Malan
+          fielders:
+          - Rashid Khan
+          kind: caught
+    - 4.5:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 4.6:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          fielders:
+          - D Potgieter
+          kind: caught
+    - 5.1:
+        non_striker: JL du Plooy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.2:
+        non_striker: JL du Plooy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.3:
+        non_striker: F du Plessis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 5.4:
+        non_striker: F du Plessis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 5.5:
+        non_striker: JL du Plooy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.6:
+        non_striker: F du Plessis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 6.1:
+        non_striker: JL du Plooy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.2:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 6.3:
+        non_striker: JL du Plooy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.4:
+        non_striker: JL du Plooy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.5:
+        non_striker: JL du Plooy
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.6:
+        non_striker: F du Plessis
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 7.1:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.2:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.3:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 7.4:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          kind: bowled
+    - 7.5:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 7.6:
+        non_striker: D Ferreira
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.1:
+        non_striker: D Ferreira
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 8.2:
+        non_striker: D Ferreira
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.3:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.4:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.5:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.6:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 9.1:
+        non_striker: D Ferreira
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 9.2:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 9.3:
+        non_striker: D Ferreira
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 9.4:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 9.5:
+        non_striker: D Ferreira
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 9.6:
+        non_striker: D Ferreira
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.1:
+        non_striker: D Ferreira
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.2:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          kind: bowled
+    - 10.3:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 10.4:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 10.5:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.6:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 11.1:
+        non_striker: R Shepherd
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 11.2:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 11.3:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 11.4:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 11.5:
+        non_striker: R Shepherd
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 11.6:
+        non_striker: R Shepherd
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 12.1:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 12.2:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JL du Plooy
+    - 12.3:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 12.4:
+        non_striker: JL du Plooy
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 12.5:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 12.6:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 12.7:
+        non_striker: R Shepherd
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 13.1:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Shepherd
+    - 13.2:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 13.3:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 13.4:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 13.5:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 13.6:
+        non_striker: R Shepherd
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 13.7:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 14.1:
+        non_striker: R Shepherd
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+        wicket:
+          player_out: JL du Plooy
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 14.2:
+        non_striker: R Shepherd
+        bowler: OF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GHS Garton
+    - 14.3:
+        non_striker: R Shepherd
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 14.4:
+        non_striker: GHS Garton
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 14.5:
+        non_striker: R Shepherd
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 14.6:
+        non_striker: GHS Garton
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 14.7:
+        non_striker: GHS Garton
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 15.1:
+        non_striker: AS Joseph
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 15.2:
+        non_striker: AS Joseph
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 15.3:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 15.4:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Joseph
+    - 15.5:
+        non_striker: AS Joseph
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 15.6:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Joseph
+    - 16.1:
+        non_striker: GHS Garton
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+    - 16.2:
+        non_striker: GHS Garton
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+        wicket:
+          player_out: AS Joseph
+          fielders:
+          - D Brevis
+          kind: caught
+    - 16.3:
+        non_striker: GHS Garton
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 16.4:
+        non_striker: GHS Garton
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 16.5:
+        non_striker: GHS Garton
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 16.6:
+        non_striker: G Coetzee
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 17.1:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+        wicket:
+          player_out: G Coetzee
+          fielders:
+          - G Roelofsen
+          kind: caught
+    - 17.2:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 17.3:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 17.4:
+        non_striker: AM Phangiso
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 17.5:
+        non_striker: AM Phangiso
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 17.6:
+        non_striker: GHS Garton
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 18.1:
+        non_striker: GHS Garton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 18.2:
+        non_striker: GHS Garton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Phangiso
+    - 18.3:
+        non_striker: GHS Garton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 18.4:
+        non_striker: AM Phangiso
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 18.5:
+        non_striker: AM Phangiso
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 18.6:
+        non_striker: GHS Garton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Phangiso
+    - 19.1:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 19.2:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GHS Garton
+    - 19.3:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GHS Garton
+    - 19.4:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 19.5:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 19.6:
+        non_striker: GHS Garton
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 19.7:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 19.8:
+        non_striker: AM Phangiso
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+- 2nd innings:
+    team: MI Cape Town
+    deliveries:
+    - 0.1:
+        non_striker: RD Rickelton
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 0.2:
+        non_striker: RD Rickelton
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.3:
+        non_striker: RD Rickelton
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.4:
+        non_striker: D Brevis
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.5:
+        non_striker: D Brevis
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 0.6:
+        non_striker: D Brevis
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 1.5:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.6:
+        non_striker: D Brevis
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 1.7:
+        non_striker: D Brevis
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 1.8:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 2.1:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: RD Rickelton
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.3:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.4:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.5:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 2.6:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.2:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.3:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.4:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 3.5:
+        non_striker: D Brevis
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.6:
+        non_striker: RD Rickelton
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.1:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.2:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.3:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.4:
+        non_striker: RD Rickelton
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 4.5:
+        non_striker: RD Rickelton
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.6:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RD Rickelton
+    - 5.1:
+        non_striker: D Brevis
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.2:
+        non_striker: D Brevis
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.3:
+        non_striker: D Brevis
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.4:
+        non_striker: RD Rickelton
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 5.5:
+        non_striker: D Brevis
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.6:
+        non_striker: D Brevis
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.1:
+        non_striker: D Brevis
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.2:
+        non_striker: RD Rickelton
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.3:
+        non_striker: RD Rickelton
+        bowler: RR Hendricks
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: D Brevis
+    - 6.4:
+        non_striker: RD Rickelton
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.5:
+        non_striker: RD Rickelton
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.6:
+        non_striker: RD Rickelton
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.1:
+        non_striker: RD Rickelton
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.3:
+        non_striker: D Brevis
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.4:
+        non_striker: RD Rickelton
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.5:
+        non_striker: RD Rickelton
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 7.6:
+        non_striker: RD Rickelton
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.2:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.3:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.4:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - AS Joseph
+          kind: caught
+    - 8.5:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.6:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.1:
+        non_striker: HE van der Dussen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.2:
+        non_striker: D Brevis
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.3:
+        non_striker: HE van der Dussen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.4:
+        non_striker: D Brevis
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.5:
+        non_striker: D Brevis
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.6:
+        non_striker: HE van der Dussen
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 9.7:
+        non_striker: HE van der Dussen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 10.1:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 10.2:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.3:
+        non_striker: HE van der Dussen
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Brevis
+    - 10.4:
+        non_striker: D Brevis
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.6:
+        non_striker: HE van der Dussen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - AM Phangiso
+          kind: caught
+    - 11.1:
+        non_striker: G Roelofsen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 11.2:
+        non_striker: G Roelofsen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.3:
+        non_striker: HE van der Dussen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 11.4:
+        non_striker: HE van der Dussen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 11.5:
+        non_striker: G Roelofsen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 11.6:
+        non_striker: G Roelofsen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.1:
+        non_striker: HE van der Dussen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 12.2:
+        non_striker: G Roelofsen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.3:
+        non_striker: G Roelofsen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.4:
+        non_striker: G Roelofsen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 12.5:
+        non_striker: G Roelofsen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.6:
+        non_striker: G Roelofsen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 13.1:
+        non_striker: HE van der Dussen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 13.2:
+        non_striker: HE van der Dussen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 13.3:
+        non_striker: HE van der Dussen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 13.4:
+        non_striker: HE van der Dussen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 13.5:
+        non_striker: G Roelofsen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.6:
+        non_striker: G Roelofsen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+        wicket:
+          player_out: G Roelofsen
+          fielders:
+          - JN Malan
+          kind: caught
+    - 14.2:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 14.3:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 14.4:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.5:
+        non_striker: SM Curran
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 14.6:
+        non_striker: SM Curran
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.7:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.1:
+        non_striker: HE van der Dussen
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.2:
+        non_striker: SM Curran
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.3:
+        non_striker: HE van der Dussen
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 15.4:
+        non_striker: HE van der Dussen
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.5:
+        non_striker: SM Curran
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.6:
+        non_striker: HE van der Dussen
+        bowler: GHS Garton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 15.7:
+        non_striker: HE van der Dussen
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.1:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 16.2:
+        non_striker: HE van der Dussen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran

@@ -1,0 +1,1966 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-06'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Adelaide Strikers
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - ML Schutt
+  players:
+    Perth Scorchers:
+    - SFM Devine
+    - BL Mooney
+    - C Piparo
+    - ML Green
+    - M Kapp
+    - M Carmichael
+    - AL Edgar
+    - A King
+    - P Cleary
+    - L Mills
+    - T Peschel
+    Adelaide Strikers:
+    - DJS Dottin
+    - KM Mack
+    - L Wolvaardt
+    - BE Patterson
+    - M Penna
+    - A O'Neil
+    - A Wellington
+    - TJ McPharlin
+    - JL Barsby
+    - ML Schutt
+    - D Brown
+  registry:
+    people:
+      A King: '83558266'
+      A O'Neil: 4f2cf3ed
+      A Wellington: 9b3bcca4
+      AL Edgar: 795ff893
+      BE Patterson: 7dfbcfff
+      BL Mooney: 52d1dbc8
+      C Piparo: 276f3dde
+      D Brown: 2e81be88
+      DJS Dottin: 53bee17f
+      J Buscall: abc082bf
+      JL Barsby: 47bcaf7a
+      KM Mack: ef13bd20
+      L Mills: c35a0b8a
+      L Wolvaardt: e60f81c9
+      M Carmichael: 4b546c04
+      M Kapp: 63e3b6b3
+      M Penna: 36453b99
+      ML Green: 865eae1f
+      ML Schutt: 17608a6f
+      P Cleary: 507acf2e
+      SFM Devine: de69af96
+      SR Bernard: 800187dc
+      T Peschel: 923402d8
+      T Steenholdt: 715959cd
+      TJ McPharlin: 595e1ee7
+  teams:
+  - Perth Scorchers
+  - Adelaide Strikers
+  toss:
+    winner: Perth Scorchers
+    decision: bat
+  umpires:
+  - J Buscall
+  - T Steenholdt
+  venue: Lilac Hill Park, Perth
+innings:
+- 1st innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: BL Mooney
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 0.2:
+        non_striker: SFM Devine
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - D Brown
+          kind: caught
+    - 0.3:
+        non_striker: SFM Devine
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 0.4:
+        non_striker: SFM Devine
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+        wicket:
+          player_out: C Piparo
+          fielders:
+          - A Wellington
+          kind: caught
+    - 0.5:
+        non_striker: SFM Devine
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 1.1:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 1.2:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 1.3:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.4:
+        non_striker: SFM Devine
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 1.5:
+        non_striker: SFM Devine
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 1.6:
+        non_striker: SFM Devine
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 1.7:
+        non_striker: SFM Devine
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 1.8:
+        non_striker: SFM Devine
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 2.1:
+        non_striker: SFM Devine
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.2:
+        non_striker: SFM Devine
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 2.3:
+        non_striker: SFM Devine
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.4:
+        non_striker: SFM Devine
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 2.5:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.6:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 3.1:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.2:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.3:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 3.4:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 3.5:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.6:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 4.1:
+        non_striker: SFM Devine
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Green
+    - 4.2:
+        non_striker: SFM Devine
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.3:
+        non_striker: SFM Devine
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.4:
+        non_striker: SFM Devine
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 4.5:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 4.6:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 4.7:
+        non_striker: SFM Devine
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 5.1:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 5.2:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 5.3:
+        non_striker: SFM Devine
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 5.4:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 5.5:
+        non_striker: SFM Devine
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 5.6:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 6.1:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 6.2:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 6.3:
+        non_striker: SFM Devine
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 6.4:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.5:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.6:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 7.1:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 7.2:
+        non_striker: SFM Devine
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 7.3:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 7.4:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 7.5:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 7.6:
+        non_striker: ML Green
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 8.1:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.2:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.3:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 8.4:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.5:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 8.6:
+        non_striker: SFM Devine
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 9.1:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 9.2:
+        non_striker: SFM Devine
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.3:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - BE Patterson
+          kind: caught
+    - 9.4:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - DJS Dottin
+          kind: caught
+    - 9.5:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 9.6:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 10.1:
+        non_striker: M Carmichael
+        bowler: M Penna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.2:
+        non_striker: M Carmichael
+        bowler: M Penna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 10.3:
+        non_striker: M Carmichael
+        bowler: M Penna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 10.4:
+        non_striker: M Carmichael
+        bowler: M Penna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.5:
+        non_striker: M Carmichael
+        bowler: M Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.6:
+        non_striker: ML Green
+        bowler: M Penna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 11.1:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 11.2:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 11.3:
+        non_striker: M Carmichael
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.4:
+        non_striker: M Carmichael
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.5:
+        non_striker: M Carmichael
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 11.6:
+        non_striker: M Carmichael
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.1:
+        non_striker: M Carmichael
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.2:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 12.3:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 12.4:
+        non_striker: M Carmichael
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.5:
+        non_striker: ML Green
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 12.6:
+        non_striker: M Carmichael
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.1:
+        non_striker: M Carmichael
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.2:
+        non_striker: M Carmichael
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.3:
+        non_striker: M Carmichael
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.4:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Carmichael
+    - 13.5:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 13.6:
+        non_striker: M Carmichael
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - JL Barsby
+          kind: caught
+    - 14.1:
+        non_striker: AL Edgar
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 14.2:
+        non_striker: M Carmichael
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 14.3:
+        non_striker: AL Edgar
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 14.4:
+        non_striker: M Carmichael
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 14.5:
+        non_striker: AL Edgar
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 14.6:
+        non_striker: M Carmichael
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 15.1:
+        non_striker: AL Edgar
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 15.2:
+        non_striker: AL Edgar
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 15.3:
+        non_striker: M Carmichael
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 15.4:
+        non_striker: M Carmichael
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 15.5:
+        non_striker: M Carmichael
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 15.6:
+        non_striker: M Carmichael
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 16.1:
+        non_striker: M Carmichael
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 16.2:
+        non_striker: AL Edgar
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Carmichael
+    - 16.3:
+        non_striker: AL Edgar
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Carmichael
+    - 16.4:
+        non_striker: AL Edgar
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 16.5:
+        non_striker: M Carmichael
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 16.6:
+        non_striker: AL Edgar
+        bowler: JL Barsby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+        wicket:
+          player_out: M Carmichael
+          fielders:
+          - BE Patterson
+          kind: caught
+    - 17.1:
+        non_striker: A King
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+        wicket:
+          player_out: AL Edgar
+          fielders:
+          - ML Schutt
+          kind: caught
+    - 17.2:
+        non_striker: A King
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 17.3:
+        non_striker: P Cleary
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King
+    - 17.4:
+        non_striker: P Cleary
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 17.5:
+        non_striker: A King
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 17.6:
+        non_striker: A King
+        bowler: A Wellington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 18.1:
+        non_striker: A King
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 18.2:
+        non_striker: P Cleary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 18.3:
+        non_striker: A King
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Cleary
+    - 18.4:
+        non_striker: A King
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 18.5:
+        non_striker: P Cleary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+        wicket:
+          player_out: A King
+          fielders:
+          - D Brown
+          kind: caught
+    - 18.6:
+        non_striker: P Cleary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mills
+    - 18.7:
+        non_striker: L Mills
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 19.1:
+        non_striker: L Mills
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cleary
+    - 19.2:
+        non_striker: L Mills
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cleary
+    - 19.3:
+        non_striker: L Mills
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 19.4:
+        non_striker: L Mills
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 19.5:
+        non_striker: P Cleary
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mills
+    - 19.6:
+        non_striker: P Cleary
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mills
+        wicket:
+          player_out: L Mills
+          fielders:
+          - TJ McPharlin
+          kind: caught
+- 2nd innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: KM Mack
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 0.2:
+        non_striker: KM Mack
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 0.3:
+        non_striker: KM Mack
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 0.4:
+        non_striker: KM Mack
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 0.5:
+        non_striker: KM Mack
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 0.6:
+        non_striker: KM Mack
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 1.1:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.2:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.3:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 1.4:
+        non_striker: KM Mack
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 1.5:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 1.6:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 2.1:
+        non_striker: KM Mack
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.2:
+        non_striker: KM Mack
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 2.3:
+        non_striker: KM Mack
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.4:
+        non_striker: KM Mack
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 2.5:
+        non_striker: KM Mack
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 2.6:
+        non_striker: DJS Dottin
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 3.1:
+        non_striker: KM Mack
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 3.2:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 3.3:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 3.4:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 3.5:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 3.6:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 4.1:
+        non_striker: KM Mack
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 4.2:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 4.3:
+        non_striker: KM Mack
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJS Dottin
+    - 4.4:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KM Mack
+    - 4.5:
+        non_striker: KM Mack
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 4.6:
+        non_striker: KM Mack
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 4.7:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 5.1:
+        non_striker: KM Mack
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 5.2:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 5.3:
+        non_striker: KM Mack
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 5.4:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 5.5:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+    - 5.6:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Mack
+    - 6.1:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Mack
+    - 6.2:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KM Mack
+    - 6.3:
+        non_striker: KM Mack
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 6.4:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Mack
+        wicket:
+          player_out: KM Mack
+          fielders:
+          - ML Green
+          kind: caught
+    - 6.5:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 7.1:
+        non_striker: L Wolvaardt
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.2:
+        non_striker: L Wolvaardt
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.3:
+        non_striker: L Wolvaardt
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 7.4:
+        non_striker: L Wolvaardt
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 7.5:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 7.6:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.1:
+        non_striker: L Wolvaardt
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 8.2:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.3:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - C Piparo
+          kind: caught
+    - 8.4:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BE Patterson
+    - 8.5:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 8.6:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 9.1:
+        non_striker: BE Patterson
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.2:
+        non_striker: BE Patterson
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 9.3:
+        non_striker: BE Patterson
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 9.4:
+        non_striker: BE Patterson
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 9.5:
+        non_striker: BE Patterson
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 9.6:
+        non_striker: BE Patterson
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.1:
+        non_striker: BE Patterson
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.2:
+        non_striker: DJS Dottin
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 10.3:
+        non_striker: BE Patterson
+        bowler: T Peschel
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: DJS Dottin
+    - 10.4:
+        non_striker: BE Patterson
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 10.5:
+        non_striker: BE Patterson
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 10.6:
+        non_striker: BE Patterson
+        bowler: T Peschel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DJS Dottin
+    - 10.7:
+        non_striker: BE Patterson
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 10.8:
+        non_striker: DJS Dottin
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 11.1:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 11.2:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BE Patterson
+    - 11.3:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BE Patterson
+    - 11.4:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 11.5:
+        non_striker: BE Patterson
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.6:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 12.1:
+        non_striker: BE Patterson
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJS Dottin
+    - 12.2:
+        non_striker: BE Patterson
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 12.3:
+        non_striker: DJS Dottin
+        bowler: P Cleary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BE Patterson
+    - 12.4:
+        non_striker: BE Patterson
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 12.5:
+        non_striker: BE Patterson
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 12.6:
+        non_striker: BE Patterson
+        bowler: P Cleary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 12.7:
+        non_striker: BE Patterson
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJS Dottin
+    - 13.1:
+        non_striker: BE Patterson
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 13.2:
+        non_striker: BE Patterson
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 13.3:
+        non_striker: BE Patterson
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.4:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 13.5:
+        non_striker: DJS Dottin
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BE Patterson
+    - 13.6:
+        non_striker: BE Patterson
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 14.1:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 14.2:
+        non_striker: BE Patterson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 14.3:
+        non_striker: BE Patterson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJS Dottin
+    - 14.4:
+        non_striker: BE Patterson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - A King
+          kind: caught
+    - 14.5:
+        non_striker: BE Patterson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 14.6:
+        non_striker: BE Patterson
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Penna
+    - 15.1:
+        non_striker: M Penna
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 15.2:
+        non_striker: M Penna
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BE Patterson
+    - 15.3:
+        non_striker: M Penna
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BE Patterson
+    - 15.4:
+        non_striker: M Penna
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BE Patterson
+    - 15.5:
+        non_striker: M Penna
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BE Patterson
+    - 15.6:
+        non_striker: BE Patterson
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Penna

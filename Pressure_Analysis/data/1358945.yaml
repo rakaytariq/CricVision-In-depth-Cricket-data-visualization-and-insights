@@ -1,0 +1,2099 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: Women's Premier League
+  dates:
+  - '2023-03-20'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: UP Warriorz
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - GM Harris
+  players:
+    Gujarat Giants:
+    - SIR Dunkley
+    - L Wolvaardt
+    - H Deol
+    - D Hemalatha
+    - A Gardner
+    - S Verma
+    - Ashwani Kumari
+    - KJ Garth
+    - MC Patel
+    - Sneh Rana
+    - TP Kanwar
+    UP Warriorz:
+    - DP Vaidya
+    - AJ Healy
+    - KP Navgire
+    - TM McGrath
+    - GM Harris
+    - DB Sharma
+    - S Ecclestone
+    - Simran Shaikh
+    - K Anjali Sarvani
+    - PG Chopra
+    - RS Gayakwad
+  registry:
+    people:
+      A Gardner: bc969efb
+      AJ Healy: 321644de
+      Ashwani Kumari: '09298aca'
+      D Hemalatha: 1d6ff329
+      DB Sharma: 201fef33
+      DP Vaidya: f9ded29b
+      GM Harris: '72166006'
+      GS Lakshmi: ba8d5615
+      H Deol: 3664712e
+      K Anjali Sarvani: fa0bf9d9
+      KJ Garth: 0b69a844
+      KP Navgire: 617a0b79
+      L Wolvaardt: e60f81c9
+      M Kuppuraj: aa4063d0
+      MC Patel: d1f0f514
+      N Janani: d06a665d
+      PG Chopra: 0dc28b3f
+      RS Gayakwad: 237ec05b
+      S Ecclestone: cdb82f1c
+      S Rana: c4c374d9
+      S Verma: 185e6c0c
+      SIR Dunkley: 3a9e9cb2
+      Sanjay Kumar Singh: ccb9d6a6
+      Saurabh Dhote: afe4ec5a
+      Simran Shaikh: 4961601c
+      TM McGrath: ca5acfa4
+      TP Kanwar: 443c122f
+  teams:
+  - Gujarat Giants
+  - UP Warriorz
+  toss:
+    winner: Gujarat Giants
+    decision: bat
+  umpires:
+  - Sanjay Kumar Singh
+  - Saurabh Dhote
+  venue: Brabourne Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Gujarat Giants
+    deliveries:
+    - 0.1:
+        non_striker: L Wolvaardt
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.2:
+        non_striker: L Wolvaardt
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 0.3:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SIR Dunkley
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: SIR Dunkley
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: SIR Dunkley
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: SIR Dunkley
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SIR Dunkley
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 2.4:
+        non_striker: SIR Dunkley
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: SIR Dunkley
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: SIR Dunkley
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 3.3:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: SIR Dunkley
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: bowled
+    - 4.2:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.3:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 4.4:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.5:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.6:
+        non_striker: SIR Dunkley
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 5.1:
+        non_striker: H Deol
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          fielders:
+          - K Anjali Sarvani
+          kind: caught
+    - 5.2:
+        non_striker: H Deol
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 5.3:
+        non_striker: H Deol
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 5.4:
+        non_striker: H Deol
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 5.5:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 5.6:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+        wicket:
+          player_out: H Deol
+          fielders:
+          - Simran Shaikh
+          kind: caught
+    - 6.1:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 6.2:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 6.3:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 6.4:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 6.5:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 6.6:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.1:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 7.2:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.3:
+        non_striker: A Gardner
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 7.4:
+        non_striker: A Gardner
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 7.5:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 7.6:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 8.1:
+        non_striker: A Gardner
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 8.2:
+        non_striker: A Gardner
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 8.3:
+        non_striker: A Gardner
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 8.4:
+        non_striker: D Hemalatha
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 8.5:
+        non_striker: A Gardner
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 8.6:
+        non_striker: D Hemalatha
+        bowler: K Anjali Sarvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.1:
+        non_striker: A Gardner
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 9.2:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.3:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.4:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 9.5:
+        non_striker: A Gardner
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 9.6:
+        non_striker: A Gardner
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Hemalatha
+    - 10.1:
+        non_striker: D Hemalatha
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 10.2:
+        non_striker: D Hemalatha
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 10.3:
+        non_striker: A Gardner
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 10.4:
+        non_striker: A Gardner
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 10.5:
+        non_striker: A Gardner
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 10.6:
+        non_striker: A Gardner
+        bowler: GM Harris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Hemalatha
+    - 11.1:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 11.2:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 11.3:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 11.4:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 11.5:
+        non_striker: D Hemalatha
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 11.6:
+        non_striker: A Gardner
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 12.1:
+        non_striker: D Hemalatha
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 12.2:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 12.3:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Hemalatha
+    - 12.4:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 12.5:
+        non_striker: D Hemalatha
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Gardner
+    - 12.6:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 13.1:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 13.2:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 13.3:
+        non_striker: A Gardner
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 13.4:
+        non_striker: A Gardner
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 13.5:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 13.6:
+        non_striker: D Hemalatha
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 14.1:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 14.2:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 14.3:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 14.4:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 14.5:
+        non_striker: D Hemalatha
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 14.6:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 15.1:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 15.2:
+        non_striker: D Hemalatha
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 15.3:
+        non_striker: D Hemalatha
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 15.4:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Hemalatha
+    - 15.5:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 15.6:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Hemalatha
+    - 15.7:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 16.1:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+        wicket:
+          player_out: D Hemalatha
+          fielders:
+          - TM McGrath
+          kind: caught
+    - 16.2:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+    - 16.3:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 16.4:
+        non_striker: S Verma
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 16.5:
+        non_striker: S Verma
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 16.6:
+        non_striker: A Gardner
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+    - 17.1:
+        non_striker: S Verma
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 17.2:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 17.3:
+        non_striker: S Verma
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 17.4:
+        non_striker: S Verma
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 17.5:
+        non_striker: S Verma
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 17.6:
+        non_striker: S Verma
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 18.1:
+        non_striker: S Verma
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - AJ Healy
+          kind: stumped
+    - 18.2:
+        non_striker: S Verma
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashwani Kumari
+    - 18.3:
+        non_striker: S Verma
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwani Kumari
+    - 18.4:
+        non_striker: Ashwani Kumari
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+    - 18.5:
+        non_striker: Ashwani Kumari
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 18.6:
+        non_striker: S Verma
+        bowler: PG Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwani Kumari
+    - 19.1:
+        non_striker: S Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwani Kumari
+    - 19.2:
+        non_striker: Ashwani Kumari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Verma
+    - 19.3:
+        non_striker: Ashwani Kumari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 19.4:
+        non_striker: S Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwani Kumari
+        wicket:
+          player_out: Ashwani Kumari
+          kind: lbw
+    - 19.5:
+        non_striker: S Verma
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 19.6:
+        non_striker: KJ Garth
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+- 2nd innings:
+    team: UP Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: AJ Healy
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 0.2:
+        non_striker: AJ Healy
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 0.3:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.4:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.5:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.6:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 1.2:
+        non_striker: DP Vaidya
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 1.3:
+        non_striker: DP Vaidya
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 1.4:
+        non_striker: DP Vaidya
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.5:
+        non_striker: DP Vaidya
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - H Deol
+          kind: caught
+    - 1.6:
+        non_striker: DP Vaidya
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 2.1:
+        non_striker: KP Navgire
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 2.2:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+    - 2.3:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Navgire
+    - 2.4:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Navgire
+        wicket:
+          player_out: KP Navgire
+          fielders:
+          - L Wolvaardt
+          kind: caught
+    - 2.5:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 2.6:
+        non_striker: DP Vaidya
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.1:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 3.2:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Vaidya
+    - 3.3:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DP Vaidya
+    - 3.4:
+        non_striker: DP Vaidya
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 3.5:
+        non_striker: DP Vaidya
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.6:
+        non_striker: DP Vaidya
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 3.7:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 4.1:
+        non_striker: DP Vaidya
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 4.2:
+        non_striker: DP Vaidya
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 4.3:
+        non_striker: DP Vaidya
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 4.4:
+        non_striker: DP Vaidya
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 4.5:
+        non_striker: TM McGrath
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+        wicket:
+          player_out: DP Vaidya
+          fielders:
+          - S Verma
+          kind: caught
+    - 4.6:
+        non_striker: TM McGrath
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 5.1:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 5.2:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 5.3:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 5.4:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 5.5:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 5.6:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 6.1:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 6.2:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 6.3:
+        non_striker: TM McGrath
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 6.4:
+        non_striker: TM McGrath
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 6.5:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 6.6:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 7.1:
+        non_striker: TM McGrath
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 7.2:
+        non_striker: GM Harris
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 7.3:
+        non_striker: TM McGrath
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 7.4:
+        non_striker: TM McGrath
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 7.5:
+        non_striker: TM McGrath
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 7.6:
+        non_striker: TM McGrath
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 8.1:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 8.2:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 8.3:
+        non_striker: TM McGrath
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 8.4:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 8.5:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 8.6:
+        non_striker: TM McGrath
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Harris
+    - 9.1:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 9.2:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 9.3:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.4:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 9.5:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 9.6:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Harris
+    - 10.1:
+        non_striker: GM Harris
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 10.2:
+        non_striker: GM Harris
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.3:
+        non_striker: TM McGrath
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 10.4:
+        non_striker: TM McGrath
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 10.5:
+        non_striker: GM Harris
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.6:
+        non_striker: TM McGrath
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 11.1:
+        non_striker: GM Harris
+        bowler: H Deol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 11.2:
+        non_striker: TM McGrath
+        bowler: H Deol
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Harris
+    - 11.3:
+        non_striker: TM McGrath
+        bowler: H Deol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 11.4:
+        non_striker: TM McGrath
+        bowler: H Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 11.5:
+        non_striker: TM McGrath
+        bowler: H Deol
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Harris
+    - 11.6:
+        non_striker: TM McGrath
+        bowler: H Deol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 12.1:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.2:
+        non_striker: TM McGrath
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 12.3:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 12.4:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 12.5:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 12.6:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 13.1:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 13.2:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 13.3:
+        non_striker: TM McGrath
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 13.4:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          fielders:
+          - Sneh Rana
+          kind: caught
+    - 13.5:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 13.6:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.1:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.2:
+        non_striker: DB Sharma
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 14.3:
+        non_striker: DB Sharma
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Harris
+    - 14.4:
+        non_striker: DB Sharma
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 14.5:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 14.6:
+        non_striker: GM Harris
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - A Gardner
+          kind: caught
+    - 15.1:
+        non_striker: S Ecclestone
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 15.2:
+        non_striker: S Ecclestone
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 15.3:
+        non_striker: GM Harris
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 15.4:
+        non_striker: S Ecclestone
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 15.5:
+        non_striker: S Ecclestone
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 15.6:
+        non_striker: GM Harris
+        bowler: MC Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 16.1:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 16.2:
+        non_striker: S Ecclestone
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 16.3:
+        non_striker: S Ecclestone
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Harris
+    - 16.4:
+        non_striker: S Ecclestone
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 16.5:
+        non_striker: GM Harris
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 16.6:
+        non_striker: S Ecclestone
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+    - 17.1:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.2:
+        non_striker: S Ecclestone
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 17.3:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ecclestone
+    - 17.4:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.5:
+        non_striker: S Ecclestone
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Harris
+    - 17.6:
+        non_striker: S Ecclestone
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 17.7:
+        non_striker: GM Harris
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 18.1:
+        non_striker: S Ecclestone
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Harris
+    - 18.2:
+        non_striker: GM Harris
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 18.3:
+        non_striker: GM Harris
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 18.4:
+        non_striker: S Ecclestone
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Harris
+    - 18.5:
+        non_striker: S Ecclestone
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Harris
+        wicket:
+          player_out: GM Harris
+          fielders:
+          - H Deol
+          kind: caught
+    - 18.6:
+        non_striker: S Ecclestone
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simran Shaikh
+    - 19.1:
+        non_striker: Simran Shaikh
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 19.2:
+        non_striker: Simran Shaikh
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 19.3:
+        non_striker: S Ecclestone
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simran Shaikh
+    - 19.4:
+        non_striker: Simran Shaikh
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+        wicket:
+          player_out: Simran Shaikh
+          fielders:
+          - A Gardner
+          - Sneh Rana
+          kind: run out
+    - 19.5:
+        non_striker: K Anjali Sarvani
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone

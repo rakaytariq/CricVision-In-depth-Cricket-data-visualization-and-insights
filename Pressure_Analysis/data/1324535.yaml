@@ -1,0 +1,2159 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Jaffna Kings
+    by:
+      runs: 16
+  overs: 20
+  player_of_match:
+  - Afif Hossain
+  players:
+    Jaffna Kings:
+    - Rahmanullah Gurbaz
+    - WIA Fernando
+    - Afif Hossain
+    - S Samarawickrama
+    - Shoaib Malik
+    - NLTC Perera
+    - JK Fuller
+    - DN Wellalage
+    - M Theekshana
+    - V Viyaskanth
+    - B Fernando
+    Galle Gladiators:
+    - PTM Dabare
+    - BKG Mendis
+    - LU Igalagamage
+    - Asad Shafiq
+    - MNK Fernando
+    - Iftikhar Ahmed
+    - Imad Wasim
+    - Wahab Riaz
+    - N Pradeep
+    - PADLR Sandakan
+    - N Thushara
+  registry:
+    people:
+      Afif Hossain: '37138918'
+      Anwar Ali: eb2d5fe7
+      Asad Shafiq: '50250426'
+      B Fernando: dabbd0ae
+      BKG Mendis: 5d1e7582
+      DN Wellalage: 736123bb
+      GF Labrooy: 8e088dbc
+      HDPK Dharmasena: 323e4c16
+      Iftikhar Ahmed: 29e253dd
+      Imad Wasim: 9cb8d7a6
+      JK Fuller: dda5aae5
+      LE Hannibal: 3c04e91a
+      LU Igalagamage: 07b6c3c1
+      M Theekshana: f24c6701
+      MNK Fernando: ba603555
+      N Pradeep: 2af838ee
+      N Thushara: ee1b6c27
+      NLTC Perera: 0f12f9df
+      PADLR Sandakan: 79aad751
+      PTM Dabare: a97fbc2c
+      RA Kottahachchi: 808f2939
+      RMPJ Rambukwella: 13fa6ffc
+      Rahmanullah Gurbaz: 0bacade8
+      S Samarawickrama: 9ab2914d
+      Shoaib Malik: 64c34cd0
+      V Viyaskanth: 03a83c50
+      WIA Fernando: 9550470d
+      Wahab Riaz: b3118300
+  teams:
+  - Jaffna Kings
+  - Galle Gladiators
+  toss:
+    winner: Jaffna Kings
+    decision: bat
+  umpires:
+  - HDPK Dharmasena
+  - RA Kottahachchi
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Jaffna Kings
+    deliveries:
+    - 0.1:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.1:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.1:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.3:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 2.5:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 2.6:
+        non_striker: WIA Fernando
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 3.5:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - Imad Wasim
+          kind: caught
+    - 3.6:
+        non_striker: WIA Fernando
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 4.1:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.3:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.4:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.5:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.6:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 5.1:
+        non_striker: Afif Hossain
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 5.2:
+        non_striker: Afif Hossain
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 5.3:
+        non_striker: Afif Hossain
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 5.4:
+        non_striker: WIA Fernando
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 5.5:
+        non_striker: Afif Hossain
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - Iftikhar Ahmed
+          kind: caught
+    - 5.6:
+        non_striker: Afif Hossain
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 6.1:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 6.2:
+        non_striker: S Samarawickrama
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 6.3:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 6.4:
+        non_striker: S Samarawickrama
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 6.5:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 6.6:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 7.1:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 7.2:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 7.3:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 7.4:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 7.5:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 7.6:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 8.1:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 8.2:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 8.3:
+        non_striker: S Samarawickrama
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 8.4:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 8.5:
+        non_striker: S Samarawickrama
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 8.6:
+        non_striker: S Samarawickrama
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 9.1:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 9.2:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 9.3:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 9.4:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 9.5:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 9.6:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 10.1:
+        non_striker: Afif Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 10.2:
+        non_striker: S Samarawickrama
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 10.3:
+        non_striker: Afif Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 10.4:
+        non_striker: S Samarawickrama
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 10.5:
+        non_striker: Afif Hossain
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Samarawickrama
+    - 10.6:
+        non_striker: S Samarawickrama
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.1:
+        non_striker: S Samarawickrama
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 11.2:
+        non_striker: S Samarawickrama
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 11.3:
+        non_striker: S Samarawickrama
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 11.4:
+        non_striker: S Samarawickrama
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.5:
+        non_striker: Afif Hossain
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 11.6:
+        non_striker: S Samarawickrama
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 12.1:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 12.2:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 12.3:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 12.4:
+        non_striker: S Samarawickrama
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 12.5:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 12.6:
+        non_striker: Afif Hossain
+        bowler: PADLR Sandakan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 13.1:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 13.2:
+        non_striker: S Samarawickrama
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 13.3:
+        non_striker: S Samarawickrama
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 13.4:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 13.5:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          fielders:
+          - PTM Dabare
+          kind: caught
+    - 13.6:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          kind: hit wicket
+    - 14.1:
+        non_striker: NLTC Perera
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 14.2:
+        non_striker: Afif Hossain
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 14.3:
+        non_striker: NLTC Perera
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 14.4:
+        non_striker: NLTC Perera
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Afif Hossain
+    - 14.5:
+        non_striker: NLTC Perera
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.6:
+        non_striker: NLTC Perera
+        bowler: Iftikhar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 15.1:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 15.2:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 15.3:
+        non_striker: NLTC Perera
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 15.4:
+        non_striker: NLTC Perera
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 15.5:
+        non_striker: NLTC Perera
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 15.6:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 16.1:
+        non_striker: NLTC Perera
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 16.2:
+        non_striker: Afif Hossain
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLTC Perera
+    - 16.3:
+        non_striker: Afif Hossain
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 16.4:
+        non_striker: NLTC Perera
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 16.5:
+        non_striker: Afif Hossain
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 16.6:
+        non_striker: Afif Hossain
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 16.7:
+        non_striker: NLTC Perera
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 17.1:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 17.2:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLTC Perera
+    - 17.3:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLTC Perera
+    - 17.4:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLTC Perera
+    - 17.5:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 17.6:
+        non_striker: Afif Hossain
+        bowler: Wahab Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          fielders:
+          - MNK Fernando
+          kind: caught
+    - 18.1:
+        non_striker: JK Fuller
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 18.2:
+        non_striker: JK Fuller
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - Iftikhar Ahmed
+          kind: caught
+    - 18.3:
+        non_striker: JK Fuller
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 18.4:
+        non_striker: JK Fuller
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 18.5:
+        non_striker: DN Wellalage
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Fuller
+    - 18.6:
+        non_striker: DN Wellalage
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 19.1:
+        non_striker: DN Wellalage
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Fuller
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - N Pradeep
+          kind: run out
+    - 19.2:
+        non_striker: JK Fuller
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 19.3:
+        non_striker: JK Fuller
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 19.4:
+        non_striker: JK Fuller
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 19.5:
+        non_striker: M Theekshana
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+        wicket:
+          player_out: JK Fuller
+          fielders:
+          - Anwar Ali (sub)
+          - BKG Mendis
+          kind: run out
+    - 19.6:
+        non_striker: M Theekshana
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+- 2nd innings:
+    team: Galle Gladiators
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 0.2:
+        non_striker: PTM Dabare
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.3:
+        non_striker: PTM Dabare
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 0.4:
+        non_striker: PTM Dabare
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.5:
+        non_striker: PTM Dabare
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+    - 1.1:
+        non_striker: PTM Dabare
+        bowler: B Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 1.2:
+        non_striker: PTM Dabare
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PTM Dabare
+    - 1.4:
+        non_striker: PTM Dabare
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.5:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PTM Dabare
+        wicket:
+          player_out: PTM Dabare
+          fielders:
+          - NLTC Perera
+          kind: caught
+    - 1.6:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LU Igalagamage
+        wicket:
+          player_out: LU Igalagamage
+          fielders:
+          - S Samarawickrama
+          kind: caught
+    - 1.7:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 2.1:
+        non_striker: Asad Shafiq
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.2:
+        non_striker: Asad Shafiq
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 2.3:
+        non_striker: Asad Shafiq
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 2.5:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asad Shafiq
+    - 2.6:
+        non_striker: BKG Mendis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 3.1:
+        non_striker: Asad Shafiq
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 3.2:
+        non_striker: Asad Shafiq
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.3:
+        non_striker: Asad Shafiq
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.4:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asad Shafiq
+    - 3.5:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 3.6:
+        non_striker: Asad Shafiq
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 4.2:
+        non_striker: Asad Shafiq
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: Asad Shafiq
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.4:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 4.5:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+        wicket:
+          player_out: Asad Shafiq
+          fielders:
+          - V Viyaskanth
+          kind: caught
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 5.1:
+        non_striker: MNK Fernando
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.2:
+        non_striker: MNK Fernando
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MNK Fernando
+    - 5.4:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: MNK Fernando
+    - 5.5:
+        non_striker: MNK Fernando
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: MNK Fernando
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 6.2:
+        non_striker: MNK Fernando
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.3:
+        non_striker: MNK Fernando
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.4:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MNK Fernando
+    - 6.5:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 6.6:
+        non_striker: MNK Fernando
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: MNK Fernando
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.2:
+        non_striker: MNK Fernando
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MNK Fernando
+    - 7.4:
+        non_striker: MNK Fernando
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.5:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MNK Fernando
+    - 7.6:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+    - 8.1:
+        non_striker: MNK Fernando
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.2:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MNK Fernando
+    - 8.3:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MNK Fernando
+        wicket:
+          player_out: MNK Fernando
+          fielders:
+          - S Samarawickrama
+          kind: stumped
+    - 8.4:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 8.5:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 8.6:
+        non_striker: Iftikhar Ahmed
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.1:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 9.2:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 9.3:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 9.4:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 9.5:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 9.6:
+        non_striker: BKG Mendis
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.1:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.2:
+        non_striker: Iftikhar Ahmed
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 10.3:
+        non_striker: Iftikhar Ahmed
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.4:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.5:
+        non_striker: Iftikhar Ahmed
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 10.6:
+        non_striker: Iftikhar Ahmed
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.1:
+        non_striker: Iftikhar Ahmed
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 11.2:
+        non_striker: Iftikhar Ahmed
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.3:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 11.4:
+        non_striker: Iftikhar Ahmed
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 11.5:
+        non_striker: Iftikhar Ahmed
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 11.6:
+        non_striker: Iftikhar Ahmed
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 12.1:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 12.2:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iftikhar Ahmed
+    - 12.3:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 12.4:
+        non_striker: Iftikhar Ahmed
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.5:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 12.6:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 13.1:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 13.2:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iftikhar Ahmed
+    - 13.3:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+        wicket:
+          player_out: Iftikhar Ahmed
+          kind: caught and bowled
+    - 13.4:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 13.5:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 13.6:
+        non_striker: BKG Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.1:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.2:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.3:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 14.4:
+        non_striker: Imad Wasim
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 14.5:
+        non_striker: Imad Wasim
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.6:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Imad Wasim
+    - 15.1:
+        non_striker: Imad Wasim
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.2:
+        non_striker: Imad Wasim
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 15.3:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 15.4:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 15.5:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - S Samarawickrama
+          kind: caught
+    - 15.6:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 16.1:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 16.2:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 16.3:
+        non_striker: Wahab Riaz
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.4:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 16.5:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 16.6:
+        non_striker: BKG Mendis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wahab Riaz
+    - 17.1:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wahab Riaz
+    - 17.2:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 17.3:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 17.4:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 17.5:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 17.6:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 17.7:
+        non_striker: BKG Mendis
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+    - 18.1:
+        non_striker: Wahab Riaz
+        bowler: JK Fuller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BKG Mendis
+    - 18.2:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wahab Riaz
+    - 18.3:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wahab Riaz
+    - 18.4:
+        non_striker: BKG Mendis
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahab Riaz
+        wicket:
+          player_out: Wahab Riaz
+          fielders:
+          - S Samarawickrama
+          - JK Fuller
+          kind: run out
+    - 18.5:
+        non_striker: N Pradeep
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 18.6:
+        non_striker: N Pradeep
+        bowler: JK Fuller
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: BKG Mendis
+    - 18.7:
+        non_striker: N Pradeep
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 19.1:
+        non_striker: PADLR Sandakan
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pradeep
+    - 19.2:
+        non_striker: PADLR Sandakan
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pradeep
+        wicket:
+          player_out: N Pradeep
+          kind: bowled
+    - 19.3:
+        non_striker: PADLR Sandakan
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Thushara
+    - 19.4:
+        non_striker: PADLR Sandakan
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thushara
+    - 19.5:
+        non_striker: N Thushara
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PADLR Sandakan
+    - 19.6:
+        non_striker: PADLR Sandakan
+        bowler: B Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Thushara

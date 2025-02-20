@@ -1,0 +1,2203 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  competition: SA20
+  dates:
+  - '2023-02-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Durban's Super Giants
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Q de Kock
+  players:
+    MI Cape Town:
+    - D Brevis
+    - G Roelofsen
+    - HE van der Dussen
+    - GF Linde
+    - TH David
+    - OF Smith
+    - D Potgieter
+    - Duan Jansen
+    - Rashid Khan
+    - BE Hendricks
+    - K Rabada
+    Durban's Super Giants:
+    - Q de Kock
+    - BR McDermott
+    - MP Breetzke
+    - KMA Paul
+    - H Klaasen
+    - PWA Mulder
+    - DJ Willey
+    - D Pretorius
+    - SR Harmer
+    - KA Maharaj
+    - RJW Topley
+  registry:
+    people:
+      A Jacobs: 70d117de
+      BE Hendricks: b56dc5f7
+      BR McDermott: c41043e6
+      D Brevis: 844e79d1
+      D Jansen: 8dc152d1
+      D Potgieter: 60fbf53a
+      D Pretorius: 11614d87
+      DJ Smith: d17bec15
+      DJ Willey: 7f048519
+      G Roelofsen: ac688e55
+      GF Linde: e5437608
+      H Klaasen: 235c2bb6
+      HE van der Dussen: 9948e262
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      KMA Paul: 75224f22
+      MP Breetzke: 35f173a0
+      OF Smith: 23cca426
+      PWA Mulder: c96f6ac5
+      Q de Kock: 372455c4
+      RJW Topley: 8db7f47f
+      Rashid Khan: 5f547c8b
+      S George: 6d9e5a54
+      SR Harmer: '23638956'
+      Stephen Harris: fdcfd4aa
+      TH David: f1f99156
+      ZTA Ndamane: 545cc6db
+  teams:
+  - MI Cape Town
+  - Durban's Super Giants
+  toss:
+    winner: Durban's Super Giants
+    decision: field
+  umpires:
+  - A Jacobs
+  - S George
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: MI Cape Town
+    deliveries:
+    - 0.1:
+        non_striker: G Roelofsen
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 0.2:
+        non_striker: G Roelofsen
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.3:
+        non_striker: G Roelofsen
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 0.4:
+        non_striker: G Roelofsen
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 0.5:
+        non_striker: G Roelofsen
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.6:
+        non_striker: G Roelofsen
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.7:
+        non_striker: D Brevis
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 1.1:
+        non_striker: D Brevis
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 1.2:
+        non_striker: D Brevis
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 1.3:
+        non_striker: G Roelofsen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.4:
+        non_striker: D Brevis
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 1.5:
+        non_striker: D Brevis
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 1.6:
+        non_striker: D Brevis
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 2.1:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.2:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 2.3:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.4:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.5:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.6:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 3.1:
+        non_striker: D Brevis
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+        wicket:
+          player_out: G Roelofsen
+          fielders:
+          - KMA Paul
+          kind: caught
+    - 3.2:
+        non_striker: D Brevis
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 3.3:
+        non_striker: HE van der Dussen
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 3.4:
+        non_striker: HE van der Dussen
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 3.5:
+        non_striker: D Brevis
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 3.6:
+        non_striker: D Brevis
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 3.7:
+        non_striker: HE van der Dussen
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.1:
+        non_striker: D Brevis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.2:
+        non_striker: HE van der Dussen
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.3:
+        non_striker: HE van der Dussen
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - PWA Mulder
+          kind: caught
+    - 4.4:
+        non_striker: HE van der Dussen
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 4.6:
+        non_striker: GF Linde
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.1:
+        non_striker: HE van der Dussen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 5.2:
+        non_striker: HE van der Dussen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 5.3:
+        non_striker: GF Linde
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 5.4:
+        non_striker: GF Linde
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 5.5:
+        non_striker: GF Linde
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 5.6:
+        non_striker: GF Linde
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 6.2:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 6.4:
+        non_striker: GF Linde
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.5:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 6.6:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 7.1:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 7.2:
+        non_striker: GF Linde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.3:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          fielders:
+          - H Klaasen
+          kind: stumped
+    - 7.6:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 7.7:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 8.1:
+        non_striker: TH David
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.2:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 8.3:
+        non_striker: TH David
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 8.5:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 8.6:
+        non_striker: TH David
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.1:
+        non_striker: TH David
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.2:
+        non_striker: TH David
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.3:
+        non_striker: TH David
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.4:
+        non_striker: TH David
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.5:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 9.6:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.1:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 10.2:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 10.3:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.4:
+        non_striker: TH David
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.6:
+        non_striker: TH David
+        bowler: SR Harmer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 10.7:
+        non_striker: TH David
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.8:
+        non_striker: HE van der Dussen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.1:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 11.2:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 11.3:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.4:
+        non_striker: TH David
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 11.5:
+        non_striker: TH David
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.6:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 11.7:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.1:
+        non_striker: TH David
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 12.2:
+        non_striker: TH David
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 12.3:
+        non_striker: TH David
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 12.4:
+        non_striker: TH David
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.5:
+        non_striker: HE van der Dussen
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.6:
+        non_striker: TH David
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.1:
+        non_striker: TH David
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.2:
+        non_striker: TH David
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.3:
+        non_striker: TH David
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.4:
+        non_striker: TH David
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.5:
+        non_striker: HE van der Dussen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.6:
+        non_striker: TH David
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.2:
+        non_striker: TH David
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - SR Harmer
+          kind: caught
+    - 14.3:
+        non_striker: TH David
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 14.4:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 14.5:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 14.6:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 15.1:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 15.2:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 15.3:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 15.4:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 15.5:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 15.6:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 15.7:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 15.8:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 15.9:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 15.10:
+        non_striker: D Potgieter
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 16.1:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 16.2:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 16.3:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 16.4:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 16.5:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Potgieter
+    - 16.6:
+        non_striker: OF Smith
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 17.1:
+        non_striker: D Potgieter
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 17.2:
+        non_striker: D Potgieter
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 17.3:
+        non_striker: D Potgieter
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 17.4:
+        non_striker: OF Smith
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 17.5:
+        non_striker: D Potgieter
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OF Smith
+    - 17.6:
+        non_striker: D Potgieter
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 18.1:
+        non_striker: OF Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Potgieter
+    - 18.2:
+        non_striker: D Potgieter
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OF Smith
+    - 18.3:
+        non_striker: D Potgieter
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 18.4:
+        non_striker: OF Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 18.5:
+        non_striker: OF Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 18.6:
+        non_striker: OF Smith
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 19.1:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 19.2:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.3:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Potgieter
+    - 19.4:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 19.5:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 19.6:
+        non_striker: OF Smith
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 19.7:
+        non_striker: D Potgieter
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OF Smith
+- 2nd innings:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.1:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: BR McDermott
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 3.6:
+        non_striker: BR McDermott
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 4.1:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 4.2:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          fielders:
+          - BE Hendricks
+          kind: caught
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 4.4:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 4.5:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Breetzke
+    - 4.7:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 5.1:
+        non_striker: MP Breetzke
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.2:
+        non_striker: MP Breetzke
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.3:
+        non_striker: MP Breetzke
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: Q de Kock
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 6.1:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 6.4:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 6.6:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 7.5:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 7.6:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 8.2:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 8.4:
+        non_striker: Q de Kock
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Breetzke
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 8.6:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 9.2:
+        non_striker: MP Breetzke
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 9.3:
+        non_striker: MP Breetzke
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: Q de Kock
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 9.5:
+        non_striker: MP Breetzke
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.6:
+        non_striker: Q de Kock
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 10.1:
+        non_striker: Q de Kock
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 10.2:
+        non_striker: MP Breetzke
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: MP Breetzke
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.4:
+        non_striker: Q de Kock
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 10.5:
+        non_striker: Q de Kock
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 10.6:
+        non_striker: MP Breetzke
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 11.1:
+        non_striker: Q de Kock
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 11.2:
+        non_striker: MP Breetzke
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.3:
+        non_striker: Q de Kock
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 11.4:
+        non_striker: MP Breetzke
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - Duan Jansen
+          kind: caught
+    - 11.5:
+        non_striker: MP Breetzke
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 11.6:
+        non_striker: KMA Paul
+        bowler: TH David
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Breetzke
+    - 12.1:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.2:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.3:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KMA Paul
+    - 12.4:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 12.5:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 12.6:
+        non_striker: KMA Paul
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 12.7:
+        non_striker: KMA Paul
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 13.1:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 13.2:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 13.3:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 13.4:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 13.5:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.6:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Breetzke
+    - 14.1:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul
+    - 14.2:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 14.3:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 14.4:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KMA Paul
+    - 14.5:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 14.6:
+        non_striker: MP Breetzke
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.1:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KMA Paul
+    - 15.2:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 15.3:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.4:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Breetzke
+    - 15.5:
+        non_striker: MP Breetzke
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.6:
+        non_striker: KMA Paul
+        bowler: Rashid Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MP Breetzke
+    - 16.1:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 16.2:
+        non_striker: KMA Paul
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 16.3:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          fielders:
+          - TH David
+          kind: caught
+    - 16.4:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 16.5:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - D Brevis
+          kind: caught
+    - 16.6:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 17.1:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 17.2:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 17.3:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 17.4:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 17.5:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 17.6:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Breetzke
+    - 17.7:
+        non_striker: PWA Mulder
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Breetzke
+    - 18.1:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 18.2:
+        non_striker: PWA Mulder
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 18.3:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 18.4:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - TH David
+          kind: caught
+    - 18.5:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 18.6:
+        non_striker: MP Breetzke
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 19.1:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 19.2:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 19.3:
+        non_striker: DJ Willey
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Breetzke
+    - 19.4:
+        non_striker: MP Breetzke
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJ Willey
+    - 19.5:
+        non_striker: DJ Willey
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Breetzke

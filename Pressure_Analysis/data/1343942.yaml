@@ -1,0 +1,2180 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  competition: SA20
+  dates:
+  - '2023-01-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Joburg Super Kings
+    by:
+      runs: 16
+  overs: 20
+  player_of_match:
+  - D Ferreira
+  players:
+    Joburg Super Kings:
+    - JN Malan
+    - RR Hendricks
+    - F du Plessis
+    - K Verreynne
+    - L Gregory
+    - D Ferreira
+    - R Shepherd
+    - GHS Garton
+    - AS Joseph
+    - MP Siboto
+    - AM Phangiso
+    Durban's Super Giants:
+    - KR Mayers
+    - Q de Kock
+    - H Klaasen
+    - PWA Mulder
+    - JO Holder
+    - D Pretorius
+    - KMA Paul
+    - MP Breetzke
+    - P Subrayen
+    - KA Maharaj
+    - A Dananjaya
+  registry:
+    people:
+      A Dananjaya: 5b16a806
+      AM Phangiso: 7f8ecc51
+      AS Joseph: b0946605
+      AT Holdstock: 6fa3258c
+      D Ferreira: f0af99a7
+      D Pretorius: 11614d87
+      DJ Smith: d17bec15
+      F du Plessis: 3355b542
+      GHS Garton: be869ccf
+      H Klaasen: 235c2bb6
+      JN Malan: f76d7466
+      JO Holder: 0f721006
+      K Verreynne: bf814547
+      KA Maharaj: 0b60eb09
+      KMA Paul: 75224f22
+      KR Mayers: 73c18486
+      L Gregory: 06c2de82
+      LB Gcuma: 02ba88e3
+      MP Breetzke: 35f173a0
+      MP Siboto: 9d50c7e1
+      P Subrayen: 7ec9711d
+      PWA Mulder: c96f6ac5
+      Q de Kock: 372455c4
+      R Shepherd: c5aef772
+      RR Hendricks: b8cc58c9
+      S George: 6d9e5a54
+      S Wadvalla: c1a1acf3
+  teams:
+  - Joburg Super Kings
+  - Durban's Super Giants
+  toss:
+    winner: Joburg Super Kings
+    decision: bat
+  umpires:
+  - AT Holdstock
+  - LB Gcuma
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: Joburg Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 0.2:
+        non_striker: JN Malan
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: JN Malan
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 1.2:
+        non_striker: JN Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: caught and bowled
+    - 1.3:
+        non_striker: JN Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.5:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 2.1:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.2:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+    - 2.3:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Malan
+    - 2.4:
+        non_striker: JN Malan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Malan
+        wicket:
+          player_out: JN Malan
+          fielders:
+          - PWA Mulder
+          kind: caught
+    - 2.6:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 3.1:
+        non_striker: K Verreynne
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.2:
+        non_striker: K Verreynne
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.3:
+        non_striker: K Verreynne
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: K Verreynne
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 3.6:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 4.1:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Verreynne
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+    - 4.5:
+        non_striker: F du Plessis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Verreynne
+    - 4.6:
+        non_striker: K Verreynne
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.1:
+        non_striker: K Verreynne
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.2:
+        non_striker: K Verreynne
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.3:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Verreynne
+        wicket:
+          player_out: K Verreynne
+          fielders:
+          - KA Maharaj
+          kind: caught
+    - 5.4:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Gregory
+    - 5.5:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 5.6:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          fielders:
+          - KA Maharaj
+          kind: caught
+    - 6.1:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.2:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.3:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 6.4:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 6.5:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 6.6:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.1:
+        non_striker: D Ferreira
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.2:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 7.3:
+        non_striker: D Ferreira
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 7.4:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 7.5:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 7.6:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.1:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 8.2:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.3:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 8.4:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 8.5:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 8.6:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.1:
+        non_striker: D Ferreira
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 9.2:
+        non_striker: D Ferreira
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 9.3:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 9.4:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 9.5:
+        non_striker: F du Plessis
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 9.6:
+        non_striker: D Ferreira
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 10.1:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 10.2:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 10.3:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 10.4:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 10.5:
+        non_striker: F du Plessis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 10.6:
+        non_striker: D Ferreira
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.1:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.2:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 11.3:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 11.4:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.5:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 11.6:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 12.1:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 12.2:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.3:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.4:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.5:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 12.6:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 12.7:
+        non_striker: F du Plessis
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 13.1:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 13.2:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 13.3:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 13.4:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.5:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.6:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - KR Mayers
+          kind: caught
+    - 14.1:
+        non_striker: R Shepherd
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 14.2:
+        non_striker: R Shepherd
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 14.3:
+        non_striker: R Shepherd
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.4:
+        non_striker: D Ferreira
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 14.5:
+        non_striker: R Shepherd
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 14.6:
+        non_striker: R Shepherd
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 14.7:
+        non_striker: R Shepherd
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 15.1:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 15.2:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 15.3:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 15.4:
+        non_striker: R Shepherd
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 15.5:
+        non_striker: R Shepherd
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 15.6:
+        non_striker: D Ferreira
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 16.1:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 16.2:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Shepherd
+    - 16.3:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 16.4:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 16.5:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 16.6:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 16.7:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 16.8:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 17.1:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 17.2:
+        non_striker: R Shepherd
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.3:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Shepherd
+    - 17.4:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 17.5:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Shepherd
+    - 17.6:
+        non_striker: R Shepherd
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.7:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 18.1:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 18.2:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 18.3:
+        non_striker: D Ferreira
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 18.4:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 18.5:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 18.6:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 18.7:
+        non_striker: R Shepherd
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 19.1:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 19.2:
+        non_striker: R Shepherd
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 19.3:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 19.4:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 19.5:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          kind: bowled
+    - 19.6:
+        non_striker: D Ferreira
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+- 2nd innings:
+    team: Durban's Super Giants
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 0.3:
+        non_striker: KR Mayers
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 1.1:
+        non_striker: KR Mayers
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KR Mayers
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 1.4:
+        non_striker: KR Mayers
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: KR Mayers
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: KR Mayers
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 1.7:
+        non_striker: KR Mayers
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KR Mayers
+    - 3.2:
+        non_striker: KR Mayers
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: KR Mayers
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: KR Mayers
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: KR Mayers
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 4.1:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 4.4:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.1:
+        non_striker: KR Mayers
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 5.4:
+        non_striker: KR Mayers
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: KR Mayers
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KR Mayers
+    - 5.7:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 6.1:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 6.4:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.6:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 7.1:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 7.2:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 7.5:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 7.6:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.2:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 8.4:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 8.6:
+        non_striker: KR Mayers
+        bowler: RR Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.1:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 9.2:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 9.3:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 9.5:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 9.6:
+        non_striker: KR Mayers
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.1:
+        non_striker: KR Mayers
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 10.2:
+        non_striker: KR Mayers
+        bowler: AM Phangiso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: Q de Kock
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 10.4:
+        non_striker: KR Mayers
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.5:
+        non_striker: KR Mayers
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.6:
+        non_striker: Q de Kock
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - K Verreynne
+          kind: stumped
+    - 11.1:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.2:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.3:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.4:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.5:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 11.6:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.1:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 12.2:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 12.3:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 12.4:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.5:
+        non_striker: Q de Kock
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 12.6:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 13.1:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 13.2:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 13.3:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.4:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 13.5:
+        non_striker: Q de Kock
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 13.6:
+        non_striker: H Klaasen
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: caught and bowled
+    - 14.1:
+        non_striker: PWA Mulder
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.2:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 14.3:
+        non_striker: PWA Mulder
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.4:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 14.5:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 14.6:
+        non_striker: PWA Mulder
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.1:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 15.2:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.3:
+        non_striker: H Klaasen
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 15.4:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.5:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.6:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 16.1:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 16.2:
+        non_striker: PWA Mulder
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 16.3:
+        non_striker: PWA Mulder
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.4:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PWA Mulder
+    - 16.5:
+        non_striker: PWA Mulder
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.6:
+        non_striker: H Klaasen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 17.1:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 17.2:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 17.3:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 17.4:
+        non_striker: H Klaasen
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PWA Mulder
+    - 17.5:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 17.6:
+        non_striker: PWA Mulder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 18.1:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - AM Phangiso
+          kind: caught
+    - 18.2:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Pretorius
+    - 18.3:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Pretorius
+    - 18.4:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Pretorius
+    - 18.5:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Pretorius
+    - 18.6:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 18.7:
+        non_striker: D Pretorius
+        bowler: MP Siboto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Holder
+    - 18.8:
+        non_striker: D Pretorius
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.9:
+        non_striker: JO Holder
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 19.1:
+        non_striker: D Pretorius
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 19.2:
+        non_striker: D Pretorius
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.3:
+        non_striker: JO Holder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 19.4:
+        non_striker: D Pretorius
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JO Holder
+    - 19.5:
+        non_striker: JO Holder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+        wicket:
+          player_out: D Pretorius
+          kind: lbw
+    - 19.6:
+        non_striker: JO Holder
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul

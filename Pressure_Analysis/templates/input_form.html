@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <title>Pressure Analysis</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: black; /* Set background color to black */
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: black;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+        }
+        
+        h1 {
+            margin-bottom: 20px;
+            color: white; /* Set heading text color to white */
+        }
+
+        .form-column {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .form-column label,
+        .form-column input[type="submit"] {
+            color: white; /* Set label and submit button text color to white */
+        }
+        
+        .form-column .form-control {
+            color: black; /* Set input text color to black */
+        }
+        
+        .form-column .form-control:focus {
+            color: black; /* Set input text color to black when focused */
+        }
+        
+        .form-column .form-label {
+            color: white; /* Set label text color to white */
+        }
+        
+        .form-column .textarea-label {
+            color: white; /* Set textarea label text color to black */
+        }
+
+        .lead {
+            color: #fff; /* Set lead text color to white */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row featurette" style="padding: 20px;">
+                    <div class="col-md-12 text-center">
+                        <h2 class="featurette-heading">Pressure Analysis <span class="text-muted">Determine the best option batsman for the situation</span></h2>
+                        <p class="lead">CricVision Insights and Visualization is a cutting-edge platform that provides comprehensive analysis and visual representations of cricket matches. It leverages advanced data analytics and interactive visuals to offer valuable insights into player performance, team strategies, and match outcomes, enhancing the viewing experience for cricket enthusiasts and professionals alike.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="container">
+                    <form action="{{ url_for('get_prediction') }}" method="POST" class="form-column">
+                        <label for="team1">Team 1:</label>
+                        <select id="team1" name="team1" required onchange="updateTeam2Options()">
+                            <option value="">Select Team 1</option>
+                            <option value="India">India</option>
+                            <option value="Australia">Australia</option>
+                            <option value="England">England</option>
+                            <option value="New Zealand">New Zealand</option>
+                            <option value="South Africa">South Africa</option>
+                            <option value="Pakistan">Pakistan</option>
+                            <!-- Add more options for different cricket teams -->
+                        </select>
+                        <label for="team2">Team 2:</label>
+                        <select id="team2" name="team2" required>
+                            <option value="">Select Team 2</option>
+                        </select>
+                        <label for="balls_remaining">Balls Remaining:</label>
+                        <input type="number" id="balls_remaining" name="balls_remaining" required class="form-control">
+                        <label for="runs_required">Runs Required:</label>
+                        <input type="number" id="runs_required" name="runs_required" required class="form-control">
+                        <label for="players_remaining" class="textarea-label">Players Remaining to Bat (one per line):</label>
+                        <textarea id="players_remaining" name="players_remaining" rows="5" required class="form-control"></textarea>
+                        <input type="submit" value="Submit" class="btn btn-dark">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Include jQuery and Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script>
+        function updateTeam2Options() {
+            const team1Select = document.getElementById("team1");
+            const team2Select = document.getElementById("team2");
+            const selectedTeam = team1Select.value;
+            
+            // Clear existing options
+            team2Select.innerHTML = '<option value="">Select Team 2</option>';
+
+            // Add options for remaining teams
+            const teams = ["India", "Australia", "England", "New Zealand", "South Africa", "Pakistan"];
+            for (let i = 0; i < teams.length; i++) {
+                if (teams[i] !== selectedTeam) {
+                    const option = document.createElement("option");
+                    option.value = teams[i];
+                    option.text = teams[i];
+                    team2Select.appendChild(option);
+                }
+            }
+        }
+    </script>
+</body>
+</html>

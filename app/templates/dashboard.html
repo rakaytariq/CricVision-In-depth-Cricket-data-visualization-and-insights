@@ -1,0 +1,693 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="//cdn.muicss.com/mui-latest/css/mui.min.css" rel="stylesheet" type="text/css" />
+    <!-- <link href="./static/dash_style.css" rel="stylesheet" type="text/css" /> -->
+    <script src="//cdn.muicss.com/mui-latest/js/mui.min.js"></script>
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <!-- <script src="./static/dash_script.js"></script> -->
+    <style>
+    /**
+ * Body CSS
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #eee;
+}
+
+html,
+body,
+input,
+textarea,
+buttons {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+}
+
+
+/**
+ * Layout CSS
+ */
+
+#header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+  transition: left 0.2s;
+}
+
+#sidedrawer {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 200px;
+  left: -200px;
+  overflow: auto;
+  z-index: 2;
+  background-color: #fff;
+  transition: transform 0.2s;
+}
+
+#content-wrapper {
+  min-height: 100%;
+  overflow-x: hidden;
+  margin-left: 0px;
+  transition: margin-left 0.2s;
+  
+  /* sticky bottom */
+  box-sizing: border-box;
+  margin-bottom: -160px;
+  padding-bottom: 160px;
+}
+
+#footer {
+  box-sizing: border-box;
+  height: 160px;
+  margin-left: 0px;
+  transition: margin-left 0.2s;
+}
+
+@media (min-width: 768px) {
+  #header {
+    left: 200px;
+  }
+  
+  #sidedrawer {
+    transform: translate(200px);
+  }
+  
+  #content-wrapper {
+    margin-left: 200px;
+  }
+  
+  #footer {
+    margin-left: 200px;
+  }
+  
+  body.hide-sidedrawer #header {
+    left: 0;
+  }
+  
+  body.hide-sidedrawer #sidedrawer {
+    transform: translate(0px);
+  }
+  
+  body.hide-sidedrawer #content-wrapper {
+    margin-left: 0;
+  }
+  
+  body.hide-sidedrawer #footer {
+    margin-left: 0;
+  }
+}
+
+
+/**
+ * Toggle Sidedrawer
+ */
+#sidedrawer.active {
+  transform: translate(200px);
+}
+
+
+/**
+ * Header CSS
+ */
+
+.sidedrawer-toggle {
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 20px;
+  margin-right: 10px;
+}
+
+.sidedrawer-toggle:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+/**
+ * Sidedrawer CSS
+ */
+
+#sidedrawer-brand {
+  padding-left: 20px;
+}
+
+#sidedrawer ul {
+  list-style: none;
+}
+
+#sidedrawer > ul {
+  padding-left: 0px;
+}
+
+#sidedrawer > ul > li:first-child {
+  padding-top: 15px;
+}
+
+#sidedrawer strong {
+  display: block;
+  padding: 15px 22px;
+  cursor: pointer;
+}
+
+#sidedrawer strong:hover {
+  background-color: #E0E0E0;
+}
+
+#sidedrawer strong + ul > li {
+  padding: 6px 0px;
+}
+
+
+/**
+ * Footer CSS
+ */
+
+#footer {
+  background-color: #0288D1;
+  color: #fff;
+}
+
+#footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+</style>
+<script>
+jQuery(function($) {
+  var $bodyEl = $('body'),
+      $sidedrawerEl = $('#sidedrawer');
+  
+  
+  // ==========================================================================
+  // Toggle Sidedrawer
+  // ==========================================================================
+  function showSidedrawer() {
+    // show overlay
+    var options = {
+      onclose: function() {
+        $sidedrawerEl
+          .removeClass('active')
+          .appendTo(document.body);
+      }
+    };
+    
+    var $overlayEl = $(mui.overlay('on', options));
+    
+    // show element
+    $sidedrawerEl.appendTo($overlayEl);
+    setTimeout(function() {
+      $sidedrawerEl.addClass('active');
+    }, 20);
+  }
+  
+  
+  function hideSidedrawer() {
+    $bodyEl.toggleClass('hide-sidedrawer');
+  }
+  
+  
+  $('.js-show-sidedrawer').on('click', showSidedrawer);
+  $('.js-hide-sidedrawer').on('click', hideSidedrawer);
+  
+  
+  // ==========================================================================
+  // Animate menu
+  // ==========================================================================
+  var $titleEls = $('strong', $sidedrawerEl);
+  
+  $titleEls
+    .next()
+    .hide();
+  
+  $titleEls.on('click', function() {
+    $(this).next().slideToggle(200);
+  });
+});
+
+</script>
+  </head>
+  <body>
+    <div id="sidedrawer" class="mui--no-user-select">
+      <div id="sidedrawer-brand" class="mui--appbar-line-height">
+        <span class="mui--text-title">Statistics</span>
+      </div>
+      <div class="mui-divider"></div>
+      <ul>
+        <li>
+          <strong>Tests</strong>
+          <ul>
+            <li><a href="/test/indian-batting/stats">INDIA</a>
+              <ul>
+                <li><a href="/test/indian-batting/stats">Stats</a></li>
+                <li><a href="/test/ind-batting/graph">Visualize</a></li>
+              </ul></li>
+            <li><a href="/test/aus-batting/stats">AUSTRALIA</a>
+              <ul>
+                  <li><a href="/test/aus-batting/stats">Stats</a></li>
+                  <li><a href="/test/aus-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/sa-batting/stats">SOUTH AFRICA</a>
+              <ul>
+                  <li><a href="/test/sa-batting/stats">Stats</a></li>
+                  <li><a href="/test/sa-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/pak-batting/stats">PAKISTAN</a>
+              <ul>
+                  <li><a href="/test/pak-batting/stats">Stats</a></li>
+                  <li><a href="/test/pak-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/wi-batting/stats">WI</a>
+              <ul>
+                  <li><a href="/test/wi-batting/stats">Stats</a></li>
+                  <li><a href="/test/wi-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/zim-batting/stats">ZIM</a>
+              <ul>
+                  <li><a href="/test/zim-batting/stats">Stats</a></li>
+                  <li><a href="/test/zim-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/eng-batting/stats">ENGLAND</a>
+              <ul>
+                  <li><a href="/test/eng-batting/stats">Stats</a></li>
+                  <li><a href="/test/eng-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/nz-batting/stats">NEW ZEALAND</a>
+              <ul>
+                  <li><a href="/test/nz-batting/stats">Stats</a></li>
+                  <li><a href="/test/nz-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/bdesh-batting/stats">BDESH</a>
+              <ul>
+                  <li><a href="/test/bdesh-batting/stats">Stats</a></li>
+                  <li><a href="/test/bdesh-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/sl-batting/stats">SRILANKA</a>
+              <ul>
+                  <li><a href="/test/sl-batting/stats">Stats</a></li>
+                  <li><a href="/test/sl-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/afg-batting/stats">AFG</a>
+              <ul>
+                  <li><a href="/test/afg-batting/stats">Stats</a></li>
+                  <li><a href="/test/afg-batting/graph">Visualize</a></li>
+                </ul></li></li>
+            <li><a href="/test/ire-batting/stats">IRE</a>
+              <ul>
+                  <li><a href="/test/ire-batting/stats">Stats</a></li>
+                  <li><a href="/test/ire-batting/graph">Visualize</a></li>
+                </ul></li></li>
+          </ul>
+        </li>
+        <li>
+          <strong>ODI</strong>
+          <ul>
+              <li><a href="/odi/indian-batting/stats">INDIA</a>
+                <ul>
+                  <li><a href="/odi/indian-batting/stats">Stats</a></li>
+                  <li><a href="/odi/ind-batting/graph">Visualize</a></li>
+                </ul></li>
+              <li><a href="/odi/aus-batting/stats">AUSTRALIA</a>
+                <ul>
+                    <li><a href="/odi/aus-batting/stats">Stats</a></li>
+                    <li><a href="/odi/aus-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/sa-batting/stats">SOUTH AFRICA</a>
+                <ul>
+                    <li><a href="/odi/sa-batting/stats">Stats</a></li>
+                    <li><a href="/odi/sa-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/pak-batting/stats">PAKISTAN</a>
+                <ul>
+                    <li><a href="/odi/pak-batting/stats">Stats</a></li>
+                    <li><a href="/odi/pak-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/wi-batting/stats">WI</a>
+                <ul>
+                    <li><a href="/odi/wi-batting/stats">Stats</a></li>
+                    <li><a href="/odi/wi-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/zim-batting/stats">ZIM</a>
+                <ul>
+                    <li><a href="/odi/zim-batting/stats">Stats</a></li>
+                    <li><a href="/odi/zim-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/eng-batting/stats">ENGLAND</a>
+                <ul>
+                    <li><a href="/odi/eng-batting/stats">Stats</a></li>
+                    <li><a href="/odi/eng-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/nz-batting/stats">NEW ZEALAND</a>
+                <ul>
+                    <li><a href="/odi/nz-batting/stats">Stats</a></li>
+                    <li><a href="/odi/nz-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/bdesh-batting/stats">BDESH</a>
+                <ul>
+                    <li><a href="/odi/bdesh-batting/stats">Stats</a></li>
+                    <li><a href="/odi/bdesh-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/sl-batting/stats">SRILANKA</a>
+                <ul>
+                    <li><a href="/odi/sl-batting/stats">Stats</a></li>
+                    <li><a href="/odi/sl-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/afg-batting/stats">AFG</a>
+                <ul>
+                    <li><a href="/odi/afg-batting/stats">Stats</a></li>
+                    <li><a href="/odi/afg-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/odi/ire-batting/stats">IRE</a>
+                <ul>
+                    <li><a href="/odi/ire-batting/stats">Stats</a></li>
+                    <li><a href="/odi/ire-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+            </ul>
+        </li>
+        <li>
+          <strong>Twenty20</strong>
+          <ul>
+              <li><a href="/T20/indian-batting/stats">INDIA</a>
+                <ul>
+                  <li><a href="/T20/indian-batting/stats">Stats</a></li>
+                  <li><a href="/T20/ind-batting/graph">Visualize</a></li>
+                </ul></li>
+              <li><a href="/T20/aus-batting/stats">AUSTRALIA</a>
+                <ul>
+                    <li><a href="/T20/aus-batting/stats">Stats</a></li>
+                    <li><a href="/T20/aus-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/sa-batting/stats">SOUTH AFRICA</a>
+                <ul>
+                    <li><a href="/T20/sa-batting/stats">Stats</a></li>
+                    <li><a href="/T20/sa-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/pak-batting/stats">PAKISTAN</a>
+                <ul>
+                    <li><a href="/T20/pak-batting/stats">Stats</a></li>
+                    <li><a href="/T20/pak-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/wi-batting/stats">WI</a>
+                <ul>
+                    <li><a href="/T20/wi-batting/stats">Stats</a></li>
+                    <li><a href="/T20/wi-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/zim-batting/stats">ZIM</a>
+                <ul>
+                    <li><a href="/T20/zim-batting/stats">Stats</a></li>
+                    <li><a href="/T20/zim-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/eng-batting/stats">ENGLAND</a>
+                <ul>
+                    <li><a href="/T20/eng-batting/stats">Stats</a></li>
+                    <li><a href="/T20/eng-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/nz-batting/stats">NEW ZEALAND</a>
+                <ul>
+                    <li><a href="/T20/nz-batting/stats">Stats</a></li>
+                    <li><a href="/T20/nz-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/bdesh-batting/stats">BDESH</a>
+                <ul>
+                    <li><a href="/T20/bdesh-batting/stats">Stats</a></li>
+                    <li><a href="/T20/bdesh-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/sl-batting/stats">SRILANKA</a>
+                <ul>
+                    <li><a href="/T20/sl-batting/stats">Stats</a></li>
+                    <li><a href="/T20/sl-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/afg-batting/stats">AFG</a>
+                <ul>
+                    <li><a href="/T20/afg-batting/stats">Stats</a></li>
+                    <li><a href="/T20/afg-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/T20/ire-batting/stats">IRE</a>
+                <ul>
+                    <li><a href="/T20/ire-batting/stats">Stats</a></li>
+                    <li><a href="/T20/ire-batting/graph">Visualize</a></li>
+                  </ul></li></li>
+            </ul>
+        </li>
+        <li>
+            <strong>Bowling Test Statistics</strong>
+            <ul>
+              <li><a href="/test/indian-bowling/stats">INDIA</a>
+                <ul>
+                  <li><a href="/test/indian-bowling/stats">Stats</a></li>
+                  <li><a href="/test/indian-bowling/graph">Visualize</a></li>
+                </ul></li>
+              <li><a href="/test/aus-bowling/stats">AUSTRALIA</a>
+                <ul>
+                    <li><a href="/test/aus-bowling/stats">Stats</a></li>
+                    <li><a href="/test/aus-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/sa-bowling/stats">SOUTH AFRICA</a>
+                <ul>
+                    <li><a href="/test/sa-bowling/stats">Stats</a></li>
+                    <li><a href="/test/sa-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/pak-bowling/stats">PAKISTAN</a>
+                <ul>
+                    <li><a href="/test/pak-bowling/stats">Stats</a></li>
+                    <li><a href="/test/pak-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/wi-bowling/stats">WI</a>
+                <ul>
+                    <li><a href="/test/wi-bowling/stats">Stats</a></li>
+                    <li><a href="/test/wi-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/zim-bowling/stats">ZIM</a>
+                <ul>
+                    <li><a href="/test/zim-bowling/stats">Stats</a></li>
+                    <li><a href="/test/zim-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/eng-bowling/stats">ENGLAND</a>
+                <ul>
+                    <li><a href="/test/eng-bowling/stats">Stats</a></li>
+                    <li><a href="/test/eng-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/nz-bowling/stats">NEW ZEALAND</a>
+                <ul>
+                    <li><a href="/test/nz-bowling/stats">Stats</a></li>
+                    <li><a href="/test/nz-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/bdesh-bowling/stats">BDESH</a>
+                <ul>
+                    <li><a href="/test/bdesh-bowling/stats">Stats</a></li>
+                    <li><a href="/test/bdesh-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/sl-bowling/stats">SRILANKA</a>
+                <ul>
+                    <li><a href="/test/sl-bowling/stats">Stats</a></li>
+                    <li><a href="/test/sl-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/afg-bowling/stats">AFG</a>
+                <ul>
+                    <li><a href="/test/afg-bowling/stats">Stats</a></li>
+                    <li><a href="/test/afg-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+              <li><a href="/test/ire-bowling/stats">IRE</a>
+                <ul>
+                    <li><a href="/test/ire-bowling/stats">Stats</a></li>
+                    <li><a href="/test/ire-bowling/graph">Visualize</a></li>
+                  </ul></li></li>
+            </ul>
+          </li>
+          <li>
+              <li>
+                  <strong>Bowling ODI Statistics</strong>
+                  <ul>
+                    <li><a href="/odi/indian-bowling/stats">INDIA</a>
+                      <ul>
+                        <li><a href="/odi/indian-bowling/stats">Stats</a></li>
+                        <li><a href="/odi/ind-bowling/graph">Visualize</a></li>
+                      </ul></li>
+                    <li><a href="/odi/aus-bowling/stats">AUSTRALIA</a>
+                      <ul>
+                          <li><a href="/odi/aus-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/aus-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/sa-bowling/stats">SOUTH AFRICA</a>
+                      <ul>
+                          <li><a href="/odi/sa-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/sa-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/pak-bowling/stats">PAKISTAN</a>
+                      <ul>
+                          <li><a href="/odi/pak-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/pak-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/wi-bowling/stats">WI</a>
+                      <ul>
+                          <li><a href="/odi/wi-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/wi-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/zim-bowling/stats">ZIM</a>
+                      <ul>
+                          <li><a href="/odi/zim-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/zim-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/eng-bowling/stats">ENGLAND</a>
+                      <ul>
+                          <li><a href="/odi/eng-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/eng-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/nz-bowling/stats">NEW ZEALAND</a>
+                      <ul>
+                          <li><a href="/odi/nz-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/nz-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/bdesh-bowling/stats">BDESH</a>
+                      <ul>
+                          <li><a href="/odi/bdesh-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/bdesh-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/sl-bowling/stats">SRILANKA</a>
+                      <ul>
+                          <li><a href="/odi/sl-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/sl-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/afg-bowling/stats">AFG</a>
+                      <ul>
+                          <li><a href="/odi/afg-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/afg-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                    <li><a href="/odi/ire-bowling/stats">IRE</a>
+                      <ul>
+                          <li><a href="/odi/ire-bowling/stats">Stats</a></li>
+                          <li><a href="/odi/ire-bowling/graph">Visualize</a></li>
+                        </ul></li></li>
+                  </ul>
+                </li>
+                <li>
+                    <li>
+                        <strong>Bowling T20 Statistics</strong>
+                        <ul>
+                          <li><a href="/t20/indian-bowling/stats">INDIA</a>
+                            <ul>
+                              <li><a href="/t20/indian-bowling/stats">Stats</a></li>
+                              <li><a href="/t20/ind-bowling/graph">Visualize</a></li>
+                            </ul></li>
+                          <li><a href="/t20/aus-bowling/stats">AUSTRALIA</a>
+                            <ul>
+                                <li><a href="/t20/aus-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/aus-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/sa-bowling/stats">SOUTH AFRICA</a>
+                            <ul>
+                                <li><a href="/t20/sa-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/sa-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/pak-bowling/stats">PAKISTAN</a>
+                            <ul>
+                                <li><a href="/t20/pak-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/pak-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/wi-bowling/stats">WI</a>
+                            <ul>
+                                <li><a href="/t20/wi-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/wi-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/zim-bowling/stats">ZIM</a>
+                            <ul>
+                                <li><a href="/t20/zim-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/zim-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/eng-bowling/stats">ENGLAND</a>
+                            <ul>
+                                <li><a href="/t20/eng-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/eng-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/nz-bowling/stats">NEW ZEALAND</a>
+                            <ul>
+                                <li><a href="/t20/nz-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/nz-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/bdesh-bowling/stats">BDESH</a>
+                            <ul>
+                                <li><a href="/t20/bdesh-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/bdesh-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/sl-bowling/stats">SRILANKA</a>
+                            <ul>
+                                <li><a href="/t20/sl-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/sl-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/afg-bowling/stats">AFG</a>
+                            <ul>
+                                <li><a href="/t20/afg-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/afg-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                          <li><a href="/t20/ire-bowling/stats">IRE</a>
+                            <ul>
+                                <li><a href="/t20/ire-bowling/stats">Stats</a></li>
+                                <li><a href="/t20/ire-bowling/graph">Visualize</a></li>
+                              </ul></li></li>
+                        </ul>
+                      </li>
+                      <li>
+      </ul>
+    </div>
+    <header id="header">
+      <div class="mui-appbar mui--appbar-line-height">
+        <div class="mui-container-fluid">
+          <a class="sidedrawer-toggle mui--visible-xs-inline-block mui--visible-sm-inline-block js-show-sidedrawer">☰</a>
+          <a class="sidedrawer-toggle mui--hidden-xs mui--hidden-sm js-hide-sidedrawer">☰</a>
+          <span class="mui--text-title mui--visible-xs-inline-block mui--visible-sm-inline-block">Brand.io</span>
+        </div>
+      </div>
+    </header>
+    <div id="content-wrapper">
+      <div class="mui--appbar-height"></div>
+      <div class="mui-container-fluid">
+        <br>
+        <h1>Data Analysis & Visualization</h1>
+        <div class="mui-divider"></div>
+        <p> Cricket is a sport that generates a variety of statistics.</p>
+        <p>Statistics are recorded for each player during a match, and aggregated over a career. At the professional level, statistics for Test cricket, one-day internationals, and first-class cricket are recorded separately. However, since Test matches are a form of first-class cricket, a player's first-class statistics will include their Test match statistics – but not vice versa. Nowadays records are also maintained for List A and Twenty20 limited over matches. These matches are normally limited over games played domestically at the national level by leading Test nations. Since one-day internationals are a form of List A limited over matches, a player's List A statistics will include their ODI match statistics – but not vice versa. </p>
+        <p>We provide the web's most comprehensive collection of cricket records, statistics and graphs relating to every facet of international cricket in all forms - Test Cricket, One Day Internationals (ODIs) and Twenty20 Internationals (T20s).</p>
+    <h2>Batting statistics</h2>
+    <ul>
+    <li>Innings (I): The number of innings in which the batsman actually batted.</li>
+    <li>Not outs (NO): The number of times the batsman was not out at the conclusion of an innings they batted in.1</li>
+    <li>Runs (R): The number of runs scored.</li>
+    <li>Highest score (HS/Best): The highest score ever made by the batsman.</li>
+    <li>Batting average (Ave): The total number of runs divided by the total number of innings in which the batsman was out. Ave = Runs/[I – NO] (also Avge or Avg.)</li>
+    <li>Centuries (100): The number of innings in which the batsman scored one hundred runs or more.</li>
+    <li>Half-centuries (50): The number of innings in which the batsman scored fifty to ninety-nine runs (centuries do not count as half-centuries as well).</li>
+    <li>Strike rate (SR): The average number of runs scored per 100 balls faced. (SR = [100 * Runs]/BF)  </li>
+</ul>
+    <h2>Bowling statistics</h2>
+    <ul>
+    <li>Overs (O): The number of overs bowled.</li>
+    <li>Balls (B): The number of balls bowled. Overs is more traditional, but balls is a more useful statistic because the number of balls per over has varied historically.</li>
+    <li>Runs (R): The number of runs conceded.</li>
+    <li>Wickets (W): The number of wickets taken.</li>
+    <li>Bowling analysis (BA or OMRW): A shorthand notation consisting of a bowler's Overs, Maidens, Runs conceded and Wickets taken (in that order), usually for a single innings but sometimes for other periods. For example, an analysis of 10–3–27–2 would indicate that the player bowled ten overs, of which three were maidens, conceded 27 runs and took two wickets.</li>
+    <li>Bowling average (Ave): The average number of runs conceded per wicket. (Ave = Runs/W)</li>
+    <li>Strike rate (SR): The average number of balls bowled per wicket taken. (SR = Balls/W)</li>
+    <li>Economy rate (Econ): The average number of runs conceded per over. (Econ = Runs/Overs bowled).</li>
+    <li>Best bowling (BB): The bowler's best bowling performance, defined as firstly the greatest number of wickets, secondly the fewest runs conceded for that number of wickets. (Thus, a performance of 7 for 102 is considered better than one of 6 for 19.)</li>
+      <li>  BBI stands for Best Bowling in Innings and only gives the score for one innings. (If only the BB rate is given it's considered the BBI rate.)</li>
+       <li> BBM stands for Best Bowling in Match and gives the combined score over 2 or more innings in one match. (For limited-overs matches with one innings per side, this score is equal to the BBI or BB.)</li>
+    <li>Five wickets in an innings (5w): The number of innings in which the bowler took at least five wickets. Four wickets in an innings (4w), the number of innings in which the bowler took exactly four wickets, is sometimes recorded alongside five wickets, especially in limited overs cricket.</li>
+    <li>Ten wickets in a match (10w): The number of matches in which the bowler took at least ten wickets; recorded for Tests and first-class matches only.</li>
+    </ul>
+      </div>
+    </div>
+  </body>
+</html>

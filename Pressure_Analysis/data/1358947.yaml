@@ -1,0 +1,2001 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Navi Mumbai
+  competition: Women's Premier League
+  dates:
+  - '2023-03-21'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - AC Kerr
+  players:
+    Royal Challengers Bangalore:
+    - S Mandhana
+    - SFM Devine
+    - EA Perry
+    - HC Knight
+    - KS Ahuja
+    - RM Ghosh
+    - Shreyanka Patil
+    - ML Schutt
+    - DD Kasat
+    - S Asha
+    - Preeti Bose
+    Mumbai Indians:
+    - HK Matthews
+    - YH Bhatia
+    - NR Sciver
+    - H Kaur
+    - AC Kerr
+    - P Vastrakar
+    - IECM Wong
+    - AB Kaur
+    - HY Kazi
+    - JN Kalita
+    - S Ishaque
+  registry:
+    people:
+      AB Kaur: 9565fda6
+      AC Kerr: 7673c908
+      AV Narvekar: a7c9f985
+      DD Kasat: fc0155d9
+      EA Perry: be150fc8
+      H Kaur: 53cd8da6
+      HC Knight: 4ba0289e
+      HK Matthews: d32cf49a
+      HY Kazi: 16954a36
+      IECM Wong: e5b17517
+      JN Kalita: 4c3bbf03
+      KS Ahuja: '58593620'
+      M Kuppuraj: aa4063d0
+      ML Schutt: 17608a6f
+      N Janani: d06a665d
+      NR Sciver: f3a18a0c
+      P Vastrakar: 8026ea72
+      Preeti Bose: ca1a3105
+      RM Ghosh: 721e0199
+      Ranjeev Sharma: d334aee7
+      S Asha: '77143581'
+      S Ishaque: f2c1f0e5
+      S Mandhana: 5d2eda89
+      SFM Devine: de69af96
+      SR Patil: 33946d69
+      Saurabh Dhote: afe4ec5a
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - Royal Challengers Bangalore
+  - Mumbai Indians
+  toss:
+    winner: Mumbai Indians
+    decision: field
+  umpires:
+  - M Kuppuraj
+  - N Janani
+  venue: Dr DY Patil Sports Academy, Mumbai
+innings:
+- 1st innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: SFM Devine
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - YH Bhatia
+          - AC Kerr
+          kind: run out
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 1.1:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 1.3:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.5:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.1:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.1:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 3.4:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.6:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.1:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.7:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: S Mandhana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.2:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.3:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.5:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.6:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.1:
+        non_striker: S Mandhana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 6.2:
+        non_striker: S Mandhana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.3:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - YH Bhatia
+          kind: caught
+    - 6.5:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 6.6:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 7.1:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 7.2:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 7.3:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.4:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.5:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.6:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.1:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.2:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.3:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.4:
+        non_striker: HC Knight
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.5:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.6:
+        non_striker: HC Knight
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 9.1:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.2:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.3:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 9.4:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 9.5:
+        non_striker: HC Knight
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 9.6:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 10.1:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.2:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.3:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.4:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.5:
+        non_striker: HC Knight
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.6:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - IECM Wong
+          kind: caught
+    - 11.1:
+        non_striker: KS Ahuja
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.2:
+        non_striker: KS Ahuja
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.3:
+        non_striker: KS Ahuja
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.4:
+        non_striker: KS Ahuja
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 11.5:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Ahuja
+    - 11.6:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 12.1:
+        non_striker: KS Ahuja
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.2:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 12.3:
+        non_striker: KS Ahuja
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 12.4:
+        non_striker: KS Ahuja
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.5:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 12.6:
+        non_striker: KS Ahuja
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.7:
+        non_striker: EA Perry
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 13.1:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 13.2:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 13.3:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Ahuja
+    - 13.4:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 13.5:
+        non_striker: KS Ahuja
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.6:
+        non_striker: EA Perry
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 14.1:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 14.2:
+        non_striker: KS Ahuja
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 14.3:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 14.4:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+        wicket:
+          player_out: KS Ahuja
+          fielders:
+          - YH Bhatia
+          kind: stumped
+    - 14.5:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 14.6:
+        non_striker: RM Ghosh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 15.1:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 15.2:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 15.3:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 15.4:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 15.5:
+        non_striker: RM Ghosh
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 15.6:
+        non_striker: EA Perry
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 16.1:
+        non_striker: RM Ghosh
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          kind: lbw
+    - 16.2:
+        non_striker: RM Ghosh
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shreyanka Patil
+    - 16.3:
+        non_striker: RM Ghosh
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shreyanka Patil
+    - 16.4:
+        non_striker: RM Ghosh
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shreyanka Patil
+        wicket:
+          player_out: Shreyanka Patil
+          kind: bowled
+    - 16.5:
+        non_striker: RM Ghosh
+        bowler: NR Sciver
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: ML Schutt
+    - 16.6:
+        non_striker: RM Ghosh
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 17.1:
+        non_striker: RM Ghosh
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 17.2:
+        non_striker: RM Ghosh
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 17.3:
+        non_striker: ML Schutt
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 17.4:
+        non_striker: ML Schutt
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 17.5:
+        non_striker: RM Ghosh
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+        wicket:
+          player_out: ML Schutt
+          kind: lbw
+    - 17.6:
+        non_striker: RM Ghosh
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Kasat
+    - 18.1:
+        non_striker: DD Kasat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 18.2:
+        non_striker: DD Kasat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 18.3:
+        non_striker: RM Ghosh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Kasat
+    - 18.4:
+        non_striker: RM Ghosh
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Kasat
+    - 18.5:
+        non_striker: DD Kasat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 18.6:
+        non_striker: DD Kasat
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 19.1:
+        non_striker: DD Kasat
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 19.2:
+        non_striker: DD Kasat
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Asha
+    - 19.3:
+        non_striker: S Asha
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Kasat
+    - 19.4:
+        non_striker: DD Kasat
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Asha
+    - 19.5:
+        non_striker: DD Kasat
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Asha
+    - 19.6:
+        non_striker: DD Kasat
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Asha
+    - 19.7:
+        non_striker: S Asha
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Kasat
+        wicket:
+          player_out: DD Kasat
+          kind: bowled
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: YH Bhatia
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: YH Bhatia
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: YH Bhatia
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 1.3:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 1.7:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.8:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HK Matthews
+    - 1.9:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: YH Bhatia
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.1:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 3.6:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.2:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 4.3:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.4:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 4.5:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 4.6:
+        non_striker: HK Matthews
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.1:
+        non_striker: YH Bhatia
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: YH Bhatia
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.4:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.5:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 6.1:
+        non_striker: NR Sciver
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: NR Sciver
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: HK Matthews
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 6.4:
+        non_striker: NR Sciver
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 6.5:
+        non_striker: NR Sciver
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 7.1:
+        non_striker: NR Sciver
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 7.2:
+        non_striker: NR Sciver
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.3:
+        non_striker: NR Sciver
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.4:
+        non_striker: NR Sciver
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.5:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 7.6:
+        non_striker: H Kaur
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.1:
+        non_striker: H Kaur
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Sciver
+    - 8.2:
+        non_striker: H Kaur
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.3:
+        non_striker: NR Sciver
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.4:
+        non_striker: H Kaur
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+        wicket:
+          player_out: NR Sciver
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 8.5:
+        non_striker: H Kaur
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.6:
+        non_striker: H Kaur
+        bowler: S Asha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 8.7:
+        non_striker: H Kaur
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          kind: bowled
+    - 9.2:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 9.3:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 9.4:
+        non_striker: P Vastrakar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.5:
+        non_striker: P Vastrakar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: P Vastrakar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: P Vastrakar
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: P Vastrakar
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 10.5:
+        non_striker: P Vastrakar
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: P Vastrakar
+        bowler: S Asha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Vastrakar
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Vastrakar
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 11.5:
+        non_striker: P Vastrakar
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.6:
+        non_striker: P Vastrakar
+        bowler: Shreyanka Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.1:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 12.4:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 13.2:
+        non_striker: P Vastrakar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: P Vastrakar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: P Vastrakar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 14.2:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: AC Kerr
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 14.4:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 14.5:
+        non_striker: P Vastrakar
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: Preeti Bose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: KS Ahuja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 15.2:
+        non_striker: P Vastrakar
+        bowler: KS Ahuja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: P Vastrakar
+        bowler: KS Ahuja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: KS Ahuja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 15.5:
+        non_striker: P Vastrakar
+        bowler: KS Ahuja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: KS Ahuja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+        wicket:
+          player_out: P Vastrakar
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 15.7:
+        non_striker: AC Kerr
+        bowler: KS Ahuja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+        wicket:
+          player_out: IECM Wong
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 16.1:
+        non_striker: AB Kaur
+        bowler: S Mandhana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 16.2:
+        non_striker: AB Kaur
+        bowler: S Mandhana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: AB Kaur
+        bowler: S Mandhana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: AB Kaur
+        bowler: S Mandhana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AC Kerr

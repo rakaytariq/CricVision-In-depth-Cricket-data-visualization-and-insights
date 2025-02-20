@@ -1,0 +1,2179 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cape Town
+  competition: SA20
+  dates:
+  - '2023-01-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Eastern Cape
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - M Jansen
+  players:
+    MI Cape Town:
+    - D Brevis
+    - RD Rickelton
+    - G Roelofsen
+    - GF Linde
+    - HE van der Dussen
+    - SM Curran
+    - D Potgieter
+    - OF Smith
+    - Rashid Khan
+    - K Rabada
+    - JC Archer
+    Sunrisers Eastern Cape:
+    - AM Rossington
+    - JT Smuts
+    - SJ Erwee
+    - AK Markram
+    - T Stubbs
+    - JM Cox
+    - M Jansen
+    - BA Carse
+    - RE van der Merwe
+    - SSB Magala
+    - OEG Baartman
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Paleker: 634b11ac
+      A Steenkamp: 89c62cf5
+      AK Markram: 6a26221c
+      AM Rossington: 7bcde3fe
+      BA Carse: cad40f5e
+      BP Jele: 7bb1331e
+      D Brevis: 844e79d1
+      D Potgieter: 60fbf53a
+      G Roelofsen: ac688e55
+      GF Linde: e5437608
+      HE van der Dussen: 9948e262
+      JC Archer: 5574750c
+      JM Cox: ff154ecd
+      JT Smuts: 42172c3c
+      K Rabada: e62dd25d
+      M Jansen: 81c36ee9
+      OEG Baartman: 6b9eb501
+      OF Smith: 23cca426
+      RD Rickelton: e66732f8
+      RE van der Merwe: 05c2ca46
+      Rashid Khan: 5f547c8b
+      S Wadvalla: c1a1acf3
+      SJ Erwee: a3ce3d1d
+      SM Curran: e94915e6
+      SSB Magala: 8361e524
+      T Stubbs: 85b3fab2
+  teams:
+  - MI Cape Town
+  - Sunrisers Eastern Cape
+  toss:
+    winner: Sunrisers Eastern Cape
+    decision: field
+  umpires:
+  - A Jacobs
+  - BP Jele
+  venue: Newlands, Cape Town
+innings:
+- 1st innings:
+    team: MI Cape Town
+    deliveries:
+    - 0.1:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 0.2:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.3:
+        non_striker: D Brevis
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 0.4:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.5:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 0.6:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.1:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 1.2:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 1.3:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 1.4:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - JT Smuts
+          kind: caught
+    - 1.5:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 1.6:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.1:
+        non_striker: G Roelofsen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.2:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.3:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 2.4:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 2.5:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 3.1:
+        non_striker: G Roelofsen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.2:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 3.3:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 3.4:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 3.5:
+        non_striker: G Roelofsen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 3.6:
+        non_striker: G Roelofsen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 4.1:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 4.3:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 4.4:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.5:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 4.6:
+        non_striker: RD Rickelton
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 5.1:
+        non_striker: G Roelofsen
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.2:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 5.3:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 5.4:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 5.5:
+        non_striker: G Roelofsen
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.6:
+        non_striker: G Roelofsen
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 6.1:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 6.2:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 6.3:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.4:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 6.6:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 7.1:
+        non_striker: G Roelofsen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: G Roelofsen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.3:
+        non_striker: RD Rickelton
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 7.4:
+        non_striker: G Roelofsen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 7.5:
+        non_striker: G Roelofsen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 7.6:
+        non_striker: G Roelofsen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 8.2:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.3:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.4:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 8.5:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.6:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 9.1:
+        non_striker: RD Rickelton
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 9.2:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 9.3:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 9.4:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 9.5:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 9.6:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.1:
+        non_striker: G Roelofsen
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.2:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Roelofsen
+    - 10.3:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+    - 10.4:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Roelofsen
+    - 10.5:
+        non_striker: RD Rickelton
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 10.6:
+        non_striker: G Roelofsen
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 11.1:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 11.2:
+        non_striker: G Roelofsen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 11.3:
+        non_striker: G Roelofsen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.4:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 11.5:
+        non_striker: G Roelofsen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.6:
+        non_striker: RD Rickelton
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Roelofsen
+    - 12.1:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 12.2:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Roelofsen
+    - 12.3:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 12.4:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 12.5:
+        non_striker: G Roelofsen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 12.6:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Roelofsen
+    - 12.7:
+        non_striker: RD Rickelton
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Roelofsen
+    - 13.1:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - RE van der Merwe
+          kind: caught
+    - 13.2:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 13.3:
+        non_striker: G Roelofsen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.4:
+        non_striker: GF Linde
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Roelofsen
+        wicket:
+          player_out: G Roelofsen
+          fielders:
+          - JM Cox
+          kind: caught
+    - 13.5:
+        non_striker: GF Linde
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.6:
+        non_striker: HE van der Dussen
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.2:
+        non_striker: GF Linde
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.3:
+        non_striker: HE van der Dussen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 14.4:
+        non_striker: HE van der Dussen
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.5:
+        non_striker: GF Linde
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.6:
+        non_striker: HE van der Dussen
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GF Linde
+    - 15.1:
+        non_striker: HE van der Dussen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          kind: caught and bowled
+    - 15.2:
+        non_striker: HE van der Dussen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - AK Markram
+          kind: caught
+    - 15.3:
+        non_striker: HE van der Dussen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 15.4:
+        non_striker: D Potgieter
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.5:
+        non_striker: HE van der Dussen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 15.6:
+        non_striker: HE van der Dussen
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 16.1:
+        non_striker: D Potgieter
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          kind: bowled
+    - 16.2:
+        non_striker: D Potgieter
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OF Smith
+    - 16.3:
+        non_striker: D Potgieter
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 16.4:
+        non_striker: D Potgieter
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 16.5:
+        non_striker: OF Smith
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 16.6:
+        non_striker: D Potgieter
+        bowler: AK Markram
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: OF Smith
+    - 16.7:
+        non_striker: OF Smith
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 17.1:
+        non_striker: D Potgieter
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 17.2:
+        non_striker: OF Smith
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 17.3:
+        non_striker: D Potgieter
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 17.4:
+        non_striker: D Potgieter
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OF Smith
+    - 17.5:
+        non_striker: D Potgieter
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OF Smith
+    - 17.6:
+        non_striker: D Potgieter
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OF Smith
+    - 17.7:
+        non_striker: D Potgieter
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OF Smith
+    - 18.1:
+        non_striker: OF Smith
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.2:
+        non_striker: D Potgieter
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OF Smith
+    - 18.3:
+        non_striker: D Potgieter
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 18.4:
+        non_striker: OF Smith
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 18.5:
+        non_striker: D Potgieter
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 18.6:
+        non_striker: OF Smith
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.1:
+        non_striker: D Potgieter
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OF Smith
+    - 19.2:
+        non_striker: D Potgieter
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OF Smith
+    - 19.3:
+        non_striker: OF Smith
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 19.4:
+        non_striker: OF Smith
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Potgieter
+    - 19.5:
+        non_striker: OF Smith
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+    - 19.6:
+        non_striker: OF Smith
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Potgieter
+- 2nd innings:
+    team: Sunrisers Eastern Cape
+    deliveries:
+    - 0.1:
+        non_striker: JT Smuts
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Rossington
+    - 0.2:
+        non_striker: JT Smuts
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rossington
+    - 0.3:
+        non_striker: JT Smuts
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rossington
+    - 0.4:
+        non_striker: JT Smuts
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 0.5:
+        non_striker: JT Smuts
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 0.6:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 0.7:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.1:
+        non_striker: JT Smuts
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 1.2:
+        non_striker: JT Smuts
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - JC Archer
+          kind: run out
+    - 1.3:
+        non_striker: AM Rossington
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Erwee
+    - 1.4:
+        non_striker: AM Rossington
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Erwee
+    - 1.5:
+        non_striker: AM Rossington
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 1.6:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 1.7:
+        non_striker: AM Rossington
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 1.8:
+        non_striker: AM Rossington
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 2.1:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Erwee
+    - 2.2:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Erwee
+    - 2.3:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Erwee
+    - 2.4:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Erwee
+    - 2.5:
+        non_striker: AM Rossington
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 2.6:
+        non_striker: SJ Erwee
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 3.1:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+        wicket:
+          player_out: AM Rossington
+          fielders:
+          - GF Linde
+          kind: caught
+    - 3.2:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.3:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.4:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.5:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 3.6:
+        non_striker: SJ Erwee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 3.7:
+        non_striker: AK Markram
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 4.1:
+        non_striker: SJ Erwee
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 4.2:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 4.3:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 4.4:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Erwee
+    - 4.5:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+    - 4.6:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+        wicket:
+          player_out: SJ Erwee
+          kind: lbw
+    - 5.1:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.2:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.3:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.4:
+        non_striker: AK Markram
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Stubbs
+    - 5.5:
+        non_striker: AK Markram
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 5.6:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.7:
+        non_striker: AK Markram
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.1:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.2:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Stubbs
+    - 6.3:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.4:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.5:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 6.6:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 6.7:
+        non_striker: AK Markram
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.1:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.2:
+        non_striker: AK Markram
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.3:
+        non_striker: AK Markram
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 7.4:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 7.5:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 7.6:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.1:
+        non_striker: T Stubbs
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          kind: bowled
+    - 8.2:
+        non_striker: T Stubbs
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 8.3:
+        non_striker: T Stubbs
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 8.4:
+        non_striker: T Stubbs
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 8.5:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.6:
+        non_striker: T Stubbs
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 9.1:
+        non_striker: JM Cox
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.2:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 9.3:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 9.4:
+        non_striker: JM Cox
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.5:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 9.6:
+        non_striker: T Stubbs
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 10.1:
+        non_striker: T Stubbs
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 10.2:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 10.3:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 10.4:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 10.5:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 10.6:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 11.1:
+        non_striker: T Stubbs
+        bowler: OF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Cox
+    - 11.2:
+        non_striker: T Stubbs
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 11.3:
+        non_striker: T Stubbs
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 11.4:
+        non_striker: JM Cox
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.5:
+        non_striker: T Stubbs
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 11.6:
+        non_striker: JM Cox
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.7:
+        non_striker: T Stubbs
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.1:
+        non_striker: JM Cox
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 12.2:
+        non_striker: JM Cox
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 12.3:
+        non_striker: M Jansen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.4:
+        non_striker: M Jansen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.5:
+        non_striker: M Jansen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 12.6:
+        non_striker: JM Cox
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen
+    - 13.1:
+        non_striker: M Jansen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 13.2:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 13.3:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 13.4:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 13.5:
+        non_striker: M Jansen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 13.6:
+        non_striker: JM Cox
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 14.1:
+        non_striker: JM Cox
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - OF Smith
+          kind: run out
+    - 14.2:
+        non_striker: M Jansen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 14.3:
+        non_striker: BA Carse
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 14.4:
+        non_striker: M Jansen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 14.5:
+        non_striker: M Jansen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 14.6:
+        non_striker: BA Carse
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 15.1:
+        non_striker: BA Carse
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 15.2:
+        non_striker: BA Carse
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen
+    - 15.3:
+        non_striker: BA Carse
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 15.4:
+        non_striker: BA Carse
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 15.5:
+        non_striker: BA Carse
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 15.6:
+        non_striker: BA Carse
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 16.1:
+        non_striker: M Jansen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 16.2:
+        non_striker: M Jansen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 16.3:
+        non_striker: BA Carse
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Jansen
+    - 16.4:
+        non_striker: BA Carse
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Jansen
+    - 16.5:
+        non_striker: BA Carse
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 16.6:
+        non_striker: BA Carse
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen
+    - 16.7:
+        non_striker: BA Carse
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 17.1:
+        non_striker: M Jansen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 17.2:
+        non_striker: BA Carse
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Jansen
+    - 17.3:
+        non_striker: BA Carse
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Jansen
+    - 17.4:
+        non_striker: BA Carse
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 17.5:
+        non_striker: M Jansen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 17.6:
+        non_striker: BA Carse
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 18.1:
+        non_striker: M Jansen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+        wicket:
+          player_out: BA Carse
+          fielders:
+          - JC Archer
+          kind: caught
+    - 18.2:
+        non_striker: M Jansen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 18.3:
+        non_striker: RE van der Merwe
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 18.4:
+        non_striker: RE van der Merwe
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 18.5:
+        non_striker: RE van der Merwe
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 18.6:
+        non_striker: RE van der Merwe
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Jansen
+    - 18.7:
+        non_striker: RE van der Merwe
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          kind: bowled
+    - 19.1:
+        non_striker: SSB Magala
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 19.2:
+        non_striker: SSB Magala
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 19.3:
+        non_striker: RE van der Merwe
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSB Magala
+    - 19.4:
+        non_striker: RE van der Merwe
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SSB Magala

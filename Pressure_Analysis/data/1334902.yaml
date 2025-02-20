@@ -1,0 +1,2044 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: CSA T20 Challenge
+  dates:
+  - '2022-10-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      wickets: 5
+  overs: 20
+  players:
+    North West:
+    - WB Marshall
+    - HG Kuhn
+    - L Senokwane
+    - TG Mokoena
+    - D Potgieter
+    - S Muthusamy
+    - Duan Jansen
+    - H Coetzer
+    - R Meyer
+    - C Seleka
+    - K Mungroo
+    Titans:
+    - D Brevis
+    - J Pillay
+    - TB de Bruyn
+    - M Twala
+    - N Brand
+    - D Ferreira
+    - Dayyaan Galiem
+    - CJ Dala
+    - A Gqamane
+    - SR Harmer
+    - AM Phangiso
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      A Jacobs: 70d117de
+      A Paleker: 634b11ac
+      AM Phangiso: 7f8ecc51
+      C Seleka: be8b147b
+      CJ Dala: 1cb14aa4
+      D Brevis: 844e79d1
+      D Ferreira: f0af99a7
+      D Jansen: 8dc152d1
+      D Potgieter: 60fbf53a
+      Dayyaan Galiem: 47c449c5
+      H Coetzer: bd25d145
+      HG Kuhn: ede05b97
+      J Pillay: 230f5cea
+      K Mungroo: 56feceb0
+      L Senokwane: 7d9b4224
+      M Twala: 73c25704
+      MN Gampu: '41597619'
+      N Brand: 68790da2
+      R Meyer: 64f55c74
+      S George: 6d9e5a54
+      S Muthusamy: 7dfb8890
+      SR Harmer: '23638956'
+      TB de Bruyn: 90d6cdea
+      TG Mokoena: '0827b38d'
+      WB Marshall: 2d7f2ba0
+      ZTA Ndamane: 545cc6db
+  teams:
+  - North West
+  - Titans
+  toss:
+    winner: North West
+    decision: bat
+  umpires:
+  - A Jacobs
+  - MN Gampu
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: North West
+    deliveries:
+    - 0.1:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 0.2:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+    - 0.3:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Marshall
+        wicket:
+          player_out: WB Marshall
+          kind: bowled
+    - 0.4:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 0.5:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 0.6:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Senokwane
+    - 1.1:
+        non_striker: L Senokwane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 1.2:
+        non_striker: L Senokwane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 1.3:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 1.4:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 1.5:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 1.6:
+        non_striker: L Senokwane
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 2.1:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Senokwane
+    - 2.2:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 2.3:
+        non_striker: L Senokwane
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 2.4:
+        non_striker: L Senokwane
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 2.5:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Senokwane
+    - 2.6:
+        non_striker: HG Kuhn
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 3.1:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 3.2:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 3.3:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Senokwane
+    - 3.4:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 3.5:
+        non_striker: L Senokwane
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Kuhn
+    - 3.6:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 3.7:
+        non_striker: HG Kuhn
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 4.1:
+        non_striker: L Senokwane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 4.2:
+        non_striker: L Senokwane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 4.3:
+        non_striker: L Senokwane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 4.4:
+        non_striker: L Senokwane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 4.5:
+        non_striker: L Senokwane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 4.6:
+        non_striker: L Senokwane
+        bowler: Dayyaan Galiem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 5.1:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 5.2:
+        non_striker: L Senokwane
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 5.3:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Senokwane
+    - 5.4:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 5.5:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Senokwane
+    - 5.6:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 6.1:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 6.2:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 6.3:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 6.4:
+        non_striker: L Senokwane
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 6.5:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 6.6:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Senokwane
+    - 7.1:
+        non_striker: HG Kuhn
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 7.2:
+        non_striker: L Senokwane
+        bowler: SR Harmer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Kuhn
+    - 7.3:
+        non_striker: L Senokwane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.4:
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HG Kuhn
+        batsman: L Senokwane
+    - 7.5:
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Senokwane
+        batsman: HG Kuhn
+    - 7.6:
+        non_striker: L Senokwane
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.7:
+        non_striker: HG Kuhn
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 8.1:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 8.2:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 8.3:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Senokwane
+    - 8.4:
+        non_striker: L Senokwane
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 8.5:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Senokwane
+    - 8.6:
+        non_striker: L Senokwane
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Kuhn
+    - 9.1:
+        non_striker: HG Kuhn
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+    - 9.2:
+        non_striker: HG Kuhn
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Senokwane
+        wicket:
+          player_out: L Senokwane
+          fielders:
+          - M Twala
+          kind: caught
+    - 9.3:
+        non_striker: HG Kuhn
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Mokoena
+    - 9.4:
+        non_striker: HG Kuhn
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 9.5:
+        non_striker: HG Kuhn
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Mokoena
+    - 9.6:
+        non_striker: HG Kuhn
+        bowler: D Brevis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Mokoena
+    - 10.1:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 10.2:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 10.3:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 10.4:
+        non_striker: HG Kuhn
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+        wicket:
+          player_out: HG Kuhn
+          fielders:
+          - D Brevis
+          - M Twala
+          kind: run out
+    - 10.5:
+        non_striker: TG Mokoena
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Potgieter
+    - 10.6:
+        non_striker: D Potgieter
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 11.1:
+        non_striker: TG Mokoena
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+    - 11.2:
+        non_striker: TG Mokoena
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+        wicket:
+          player_out: TG Mokoena
+          fielders:
+          - N Brand
+          - SR Harmer
+          kind: run out
+    - 11.3:
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Muthusamy
+        batsman: D Potgieter
+    - 11.4:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Potgieter
+        wicket:
+          player_out: D Potgieter
+          fielders:
+          - TB de Bruyn
+          kind: caught
+    - 11.5:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 11.6:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 12.1:
+        non_striker: S Muthusamy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 12.2:
+        non_striker: Duan Jansen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 12.3:
+        non_striker: S Muthusamy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 12.4:
+        non_striker: S Muthusamy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 12.5:
+        non_striker: S Muthusamy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 12.6:
+        non_striker: Duan Jansen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 13.1:
+        non_striker: Duan Jansen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 13.2:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 13.3:
+        non_striker: Duan Jansen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 13.4:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 13.5:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 13.6:
+        non_striker: Duan Jansen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.1:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muthusamy
+    - 14.2:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 14.3:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 14.4:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 14.5:
+        non_striker: S Muthusamy
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 14.6:
+        non_striker: S Muthusamy
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Duan Jansen
+    - 15.1:
+        non_striker: Duan Jansen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 15.2:
+        non_striker: Duan Jansen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 15.3:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 15.4:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+    - 15.5:
+        non_striker: S Muthusamy
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 15.6:
+        non_striker: Duan Jansen
+        bowler: SR Harmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 16.1:
+        non_striker: S Muthusamy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 16.2:
+        non_striker: Duan Jansen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 16.3:
+        non_striker: S Muthusamy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 16.4:
+        non_striker: Duan Jansen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 16.5:
+        non_striker: Duan Jansen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muthusamy
+    - 16.6:
+        non_striker: Duan Jansen
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+    - 17.1:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Duan Jansen
+    - 17.2:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 17.3:
+        non_striker: Duan Jansen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muthusamy
+    - 17.4:
+        non_striker: S Muthusamy
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 17.5:
+        non_striker: Duan Jansen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muthusamy
+        wicket:
+          player_out: S Muthusamy
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 17.6:
+        non_striker: Duan Jansen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Coetzer
+    - 18.1:
+        non_striker: H Coetzer
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Duan Jansen
+    - 18.2:
+        non_striker: H Coetzer
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 18.3:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Coetzer
+    - 18.4:
+        non_striker: H Coetzer
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Duan Jansen
+    - 18.5:
+        non_striker: H Coetzer
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Duan Jansen
+    - 18.6:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Coetzer
+    - 18.7:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Coetzer
+    - 18.8:
+        non_striker: Duan Jansen
+        bowler: N Brand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Coetzer
+        wicket:
+          player_out: H Coetzer
+          fielders:
+          - D Brevis
+          kind: caught
+    - 19.1:
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: R Meyer
+        batsman: Duan Jansen
+    - 19.2:
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Meyer
+        batsman: Duan Jansen
+    - 19.3:
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Meyer
+        batsman: Duan Jansen
+    - 19.4:
+        non_striker: Duan Jansen
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Meyer
+    - 19.5:
+        non_striker: R Meyer
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Duan Jansen
+        wicket:
+          player_out: Duan Jansen
+          fielders:
+          - M Twala
+          kind: caught
+    - 19.6:
+        non_striker: R Meyer
+        bowler: CJ Dala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Seleka
+- 2nd innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Pillay
+        batsman: D Brevis
+    - 0.2:
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Pillay
+        batsman: D Brevis
+    - 0.3:
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Pillay
+        batsman: D Brevis
+    - 0.4:
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Pillay
+        batsman: D Brevis
+    - 0.5:
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Pillay
+        batsman: D Brevis
+    - 0.6:
+        non_striker: J Pillay
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 1.1:
+        non_striker: J Pillay
+        bowler: Duan Jansen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: D Brevis
+    - 1.2:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.3:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.4:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.5:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 1.6:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 1.7:
+        non_striker: J Pillay
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 2.1:
+        non_striker: D Brevis
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 2.2:
+        non_striker: D Brevis
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 2.3:
+        non_striker: D Brevis
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 2.4:
+        non_striker: D Brevis
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 2.5:
+        non_striker: J Pillay
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 2.6:
+        non_striker: J Pillay
+        bowler: K Mungroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.1:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 3.2:
+        non_striker: D Brevis
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Pillay
+    - 3.3:
+        non_striker: J Pillay
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.4:
+        non_striker: J Pillay
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 3.5:
+        non_striker: J Pillay
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 3.6:
+        non_striker: J Pillay
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.1:
+        non_striker: J Pillay
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.2:
+        non_striker: D Brevis
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pillay
+    - 4.3:
+        non_striker: D Brevis
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 4.4:
+        non_striker: D Brevis
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pillay
+    - 4.5:
+        non_striker: J Pillay
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.6:
+        non_striker: J Pillay
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 5.1:
+        non_striker: J Pillay
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 5.2:
+        non_striker: J Pillay
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 5.3:
+        non_striker: D Brevis
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 5.4:
+        non_striker: D Brevis
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+    - 5.5:
+        non_striker: D Brevis
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pillay
+        wicket:
+          player_out: J Pillay
+          fielders:
+          - HG Kuhn
+          kind: caught
+    - 5.6:
+        non_striker: D Brevis
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 6.1:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 6.2:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 6.3:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.4:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.5:
+        non_striker: D Brevis
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.6:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.1:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.2:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.3:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.4:
+        non_striker: D Brevis
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 7.5:
+        non_striker: D Brevis
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 7.6:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 8.1:
+        non_striker: D Brevis
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 8.2:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - H Coetzer
+          kind: caught
+    - 8.3:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Twala
+        wicket:
+          player_out: M Twala
+          fielders:
+          - Duan Jansen
+          kind: caught
+    - 8.4:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Brand
+    - 8.5:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 8.6:
+        non_striker: N Brand
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 8.7:
+        non_striker: N Brand
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 9.1:
+        non_striker: N Brand
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 9.2:
+        non_striker: N Brand
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 9.3:
+        non_striker: N Brand
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TB de Bruyn
+    - 9.4:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 9.5:
+        non_striker: N Brand
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 9.6:
+        non_striker: N Brand
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 10.1:
+        non_striker: N Brand
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 10.2:
+        non_striker: N Brand
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB de Bruyn
+    - 10.3:
+        non_striker: N Brand
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 10.4:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 10.5:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 10.6:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+    - 11.1:
+        non_striker: N Brand
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 11.2:
+        non_striker: N Brand
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 11.3:
+        non_striker: TB de Bruyn
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Brand
+    - 11.4:
+        non_striker: TB de Bruyn
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Brand
+    - 11.5:
+        non_striker: N Brand
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 11.6:
+        non_striker: TB de Bruyn
+        bowler: D Potgieter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 12.1:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Brand
+    - 12.2:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Brand
+    - 12.3:
+        non_striker: N Brand
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 12.4:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Brand
+        wicket:
+          player_out: N Brand
+          fielders:
+          - L Senokwane
+          kind: caught
+    - 12.5:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 12.6:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.1:
+        non_striker: TB de Bruyn
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 13.2:
+        non_striker: TB de Bruyn
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 13.3:
+        non_striker: TB de Bruyn
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 13.4:
+        non_striker: TB de Bruyn
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 13.5:
+        non_striker: TB de Bruyn
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.6:
+        non_striker: D Ferreira
+        bowler: Duan Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TB de Bruyn
+    - 13.7:
+        non_striker: TB de Bruyn
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 13.8:
+        non_striker: D Ferreira
+        bowler: Duan Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 14.1:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 14.2:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB de Bruyn
+    - 14.3:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 14.4:
+        non_striker: TB de Bruyn
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.5:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 14.6:
+        non_striker: D Ferreira
+        bowler: C Seleka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 15.1:
+        non_striker: D Ferreira
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 15.2:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.3:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ferreira
+    - 15.4:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          fielders:
+          - C Seleka
+          kind: caught
+    - 15.5:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 15.6:
+        non_striker: TB de Bruyn
+        bowler: R Meyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dayyaan Galiem
+    - 16.1:
+        non_striker: Dayyaan Galiem
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 16.2:
+        non_striker: Dayyaan Galiem
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 16.3:
+        non_striker: TB de Bruyn
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 16.4:
+        non_striker: Dayyaan Galiem
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 16.5:
+        non_striker: TB de Bruyn
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dayyaan Galiem
+    - 16.6:
+        non_striker: Dayyaan Galiem
+        bowler: S Muthusamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 17.1:
+        non_striker: Dayyaan Galiem
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 17.2:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem
+    - 17.3:
+        non_striker: TB de Bruyn
+        bowler: H Coetzer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dayyaan Galiem

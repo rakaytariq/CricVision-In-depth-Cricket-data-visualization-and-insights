@@ -1,0 +1,3862 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  competition: Rachael Heyhoe Flint Trophy
+  dates:
+  - '2023-04-22'
+  gender: female
+  match_type: ODM
+  outcome:
+    winner: Northern Diamonds
+    by:
+      runs: 105
+  overs: 50
+  players:
+    Northern Diamonds:
+    - L Winfield
+    - SL Kalis
+    - HJ Armitage
+    - PE Turner
+    - BAM Heath
+    - CL Tryon
+    - A Glen
+    - LE Scott
+    - EK Marlow
+    - KA Levick
+    - JA Woolston
+    Western Storm:
+    - A Griffiths
+    - E Corney
+    - SN Luff
+    - FC Wilson
+    - DR Gibson
+    - NAJ Wraith
+    - N Holland
+    - Sophia Smale
+    - L Filer
+    - C Skelton
+    - I Thomson
+  registry:
+    people:
+      A Glen: 9da0d1e5
+      A Griffiths: '091001f8'
+      BAM Heath: 3b5a9438
+      C Skelton: db362015
+      CL Tryon: 4d4605e6
+      DR Gibson: d2763568
+      E Corney: 2406424c
+      EK Marlow: ac574559
+      FC Wilson: a28132bd
+      HJ Armitage: f05167d2
+      I Thomson: '091cd172'
+      JA Woolston: c1f3ae44
+      KA Levick: 8f30d191
+      L Filer: 31adb911
+      L Winfield: 5230a33d
+      LE Scott: ab6573dc
+      N Holland: aefd0567
+      NAJ Wraith: 1ec1998e
+      PE Turner: 53e25aa3
+      PR Pollard: 85d884bb
+      R Dovey: 7cb5c205
+      SL Kalis: 2b150c6b
+      SN Luff: e19307f3
+      Sophia Smale: c296dba1
+      Wayne Noon: 736e1761
+  teams:
+  - Northern Diamonds
+  - Western Storm
+  toss:
+    winner: Western Storm
+    decision: field
+  umpires:
+  - PR Pollard
+  - R Dovey
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: Northern Diamonds
+    deliveries:
+    - 0.1:
+        non_striker: SL Kalis
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 0.2:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 0.3:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 0.4:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 0.5:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 0.6:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 1.1:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SL Kalis
+    - 1.2:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SL Kalis
+    - 1.3:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.4:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          kind: bowled
+    - 1.5:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Armitage
+    - 1.6:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Armitage
+    - 1.7:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HJ Armitage
+    - 1.8:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 1.9:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 1.10:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 1.11:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 2.1:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 2.2:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Armitage
+    - 2.3:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 2.4:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 2.5:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 2.6:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 3.1:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 3.2:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 3.3:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 3.4:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 3.5:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Winfield
+    - 3.6:
+        non_striker: HJ Armitage
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 3.7:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 3.8:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 4.1:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 4.2:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 4.3:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 4.4:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 4.5:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 4.6:
+        non_striker: HJ Armitage
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.1:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 5.2:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 5.3:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 5.4:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+    - 5.5:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Armitage
+        wicket:
+          player_out: HJ Armitage
+          kind: bowled
+    - 5.6:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Turner
+    - 6.1:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 6.2:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 6.3:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 6.4:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 6.5:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 6.6:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 6.7:
+        non_striker: L Winfield
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Turner
+    - 7.1:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 7.2:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 7.3:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 7.4:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 7.5:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 7.6:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 7.7:
+        non_striker: PE Turner
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Winfield
+    - 8.1:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 8.2:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 8.3:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 8.4:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Winfield
+    - 8.5:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 8.6:
+        non_striker: PE Turner
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 9.1:
+        non_striker: L Winfield
+        bowler: N Holland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PE Turner
+    - 9.2:
+        non_striker: L Winfield
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Turner
+    - 9.3:
+        non_striker: PE Turner
+        bowler: N Holland
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Winfield
+    - 9.4:
+        non_striker: L Winfield
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Turner
+    - 9.5:
+        non_striker: L Winfield
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Turner
+    - 9.6:
+        non_striker: PE Turner
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 9.7:
+        non_striker: PE Turner
+        bowler: N Holland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 9.8:
+        non_striker: PE Turner
+        bowler: N Holland
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Winfield
+    - 9.9:
+        non_striker: PE Turner
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 9.10:
+        non_striker: PE Turner
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 10.1:
+        non_striker: PE Turner
+        bowler: A Griffiths
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 10.2:
+        non_striker: PE Turner
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 10.3:
+        non_striker: PE Turner
+        bowler: A Griffiths
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 10.4:
+        non_striker: PE Turner
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 10.5:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Turner
+    - 10.6:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Turner
+    - 10.7:
+        non_striker: PE Turner
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+        wicket:
+          player_out: PE Turner
+          fielders:
+          - SN Luff
+          kind: run out
+    - 10.8:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.1:
+        non_striker: L Winfield
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 11.2:
+        non_striker: L Winfield
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.3:
+        non_striker: BAM Heath
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 11.4:
+        non_striker: BAM Heath
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 11.5:
+        non_striker: BAM Heath
+        bowler: N Holland
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Winfield
+    - 11.6:
+        non_striker: BAM Heath
+        bowler: N Holland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 11.7:
+        non_striker: BAM Heath
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 12.1:
+        non_striker: BAM Heath
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 12.2:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 12.3:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 12.4:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BAM Heath
+    - 12.5:
+        non_striker: BAM Heath
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 12.6:
+        non_striker: BAM Heath
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 13.1:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 13.2:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 13.3:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 13.4:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 13.5:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 13.6:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 14.1:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 14.2:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 14.3:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 14.4:
+        non_striker: BAM Heath
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 14.5:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 14.6:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAM Heath
+    - 15.1:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 15.2:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAM Heath
+    - 15.3:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 15.4:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 15.5:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 15.6:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 16.1:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 16.2:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 16.3:
+        non_striker: BAM Heath
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 16.4:
+        non_striker: BAM Heath
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 16.5:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 16.6:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 17.1:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 17.2:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 17.3:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 17.4:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 17.5:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 17.6:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 18.1:
+        non_striker: BAM Heath
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 18.2:
+        non_striker: BAM Heath
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 18.3:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 18.4:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 18.5:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAM Heath
+    - 18.6:
+        non_striker: L Winfield
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 19.1:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 19.2:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 19.3:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 19.4:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 19.5:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 19.6:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 20.1:
+        non_striker: BAM Heath
+        bowler: I Thomson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 20.2:
+        non_striker: BAM Heath
+        bowler: I Thomson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 20.3:
+        non_striker: L Winfield
+        bowler: I Thomson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 20.4:
+        non_striker: L Winfield
+        bowler: I Thomson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAM Heath
+    - 20.5:
+        non_striker: L Winfield
+        bowler: I Thomson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAM Heath
+    - 20.6:
+        non_striker: L Winfield
+        bowler: I Thomson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 20.7:
+        non_striker: BAM Heath
+        bowler: I Thomson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 21.1:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BAM Heath
+    - 21.2:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 21.3:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 21.4:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAM Heath
+    - 21.5:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 21.6:
+        non_striker: BAM Heath
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 21.7:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 21.8:
+        non_striker: L Winfield
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+        wicket:
+          player_out: BAM Heath
+          fielders:
+          - NAJ Wraith
+          kind: caught
+    - 22.1:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 22.2:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 22.3:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 22.4:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 22.5:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 22.6:
+        non_striker: L Winfield
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 23.1:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 23.2:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 23.3:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 23.4:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 23.5:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 23.6:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 23.7:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CL Tryon
+    - 23.8:
+        non_striker: L Winfield
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 24.1:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+        wicket:
+          player_out: L Winfield
+          kind: bowled
+    - 24.2:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Glen
+    - 24.3:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Glen
+    - 24.4:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Glen
+    - 24.5:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Glen
+        wicket:
+          player_out: A Glen
+          kind: bowled
+    - 24.6:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+    - 25.1:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 25.2:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+    - 25.3:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LE Scott
+    - 25.4:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 25.5:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 25.6:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+    - 26.1:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 26.2:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 26.3:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 26.4:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 26.5:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 26.6:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+    - 27.1:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 27.2:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+    - 27.3:
+        non_striker: CL Tryon
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LE Scott
+    - 27.4:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 27.5:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 27.6:
+        non_striker: LE Scott
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 28.1:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+    - 28.2:
+        non_striker: CL Tryon
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LE Scott
+    - 28.3:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 28.4:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 28.5:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 28.6:
+        non_striker: LE Scott
+        bowler: A Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 29.1:
+        non_striker: LE Scott
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 29.2:
+        non_striker: LE Scott
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 29.3:
+        non_striker: CL Tryon
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LE Scott
+    - 29.4:
+        non_striker: LE Scott
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 29.5:
+        non_striker: CL Tryon
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LE Scott
+    - 29.6:
+        non_striker: CL Tryon
+        bowler: C Skelton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LE Scott
+        wicket:
+          player_out: LE Scott
+          kind: bowled
+    - 30.1:
+        non_striker: EK Marlow
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 30.2:
+        non_striker: EK Marlow
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 30.3:
+        non_striker: EK Marlow
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 30.4:
+        non_striker: EK Marlow
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 30.5:
+        non_striker: EK Marlow
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 30.6:
+        non_striker: CL Tryon
+        bowler: N Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 31.1:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 31.2:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 31.3:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 31.4:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 31.5:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 31.6:
+        non_striker: CL Tryon
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 32.1:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 32.2:
+        non_striker: CL Tryon
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 32.3:
+        non_striker: CL Tryon
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Marlow
+    - 32.4:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          kind: bowled
+    - 32.5:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Levick
+    - 32.6:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Levick
+    - 32.7:
+        non_striker: KA Levick
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 33.1:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Levick
+    - 33.2:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Marlow
+    - 33.3:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Levick
+    - 33.4:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Levick
+    - 33.5:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Levick
+    - 33.6:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 34.1:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Levick
+    - 34.2:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Levick
+    - 34.3:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Levick
+    - 34.4:
+        non_striker: EK Marlow
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Levick
+    - 34.5:
+        non_striker: KA Levick
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 34.6:
+        non_striker: KA Levick
+        bowler: Sophia Smale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EK Marlow
+    - 35.1:
+        non_striker: EK Marlow
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KA Levick
+    - 35.2:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EK Marlow
+    - 35.3:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Marlow
+    - 35.4:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EK Marlow
+    - 35.5:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EK Marlow
+    - 35.6:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EK Marlow
+    - 35.7:
+        non_striker: KA Levick
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Marlow
+- 2nd innings:
+    team: Western Storm
+    deliveries:
+    - 0.1:
+        non_striker: E Corney
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Griffiths
+    - 0.2:
+        non_striker: E Corney
+        bowler: LE Scott
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Griffiths
+    - 0.3:
+        non_striker: A Griffiths
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Corney
+    - 0.4:
+        non_striker: A Griffiths
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Corney
+    - 0.5:
+        non_striker: A Griffiths
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Corney
+    - 0.6:
+        non_striker: A Griffiths
+        bowler: LE Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Corney
+    - 0.7:
+        non_striker: A Griffiths
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Corney
+    - 0.8:
+        non_striker: A Griffiths
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Corney
+        wicket:
+          player_out: E Corney
+          kind: bowled
+    - 1.1:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Griffiths
+    - 1.2:
+        non_striker: A Griffiths
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 1.3:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Griffiths
+        wicket:
+          player_out: A Griffiths
+          kind: bowled
+    - 1.4:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 1.5:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 1.6:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 1.7:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 2.1:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SN Luff
+    - 2.2:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FC Wilson
+    - 2.3:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Luff
+    - 2.4:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 2.5:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 2.6:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 3.1:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 3.2:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 3.3:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: FC Wilson
+    - 3.4:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Luff
+    - 3.5:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 3.6:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SN Luff
+    - 3.7:
+        non_striker: SN Luff
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 4.1:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 4.2:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 4.3:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 4.4:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 4.5:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 4.6:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SN Luff
+    - 4.7:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 5.1:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.2:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.3:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.4:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.5:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 5.6:
+        non_striker: FC Wilson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 6.1:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 6.2:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 6.3:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 6.4:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 6.5:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 6.6:
+        non_striker: SN Luff
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 7.1:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SN Luff
+    - 7.2:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 7.3:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 7.4:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 7.5:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 7.6:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 7.7:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 8.1:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 8.2:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SN Luff
+    - 8.3:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 8.4:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SN Luff
+    - 8.5:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 8.6:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Luff
+    - 8.7:
+        non_striker: FC Wilson
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 9.1:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 9.2:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 9.3:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 9.4:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 9.5:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Wilson
+    - 9.6:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 9.7:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 10.1:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 10.2:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 10.3:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 10.4:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 10.5:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 10.6:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 11.1:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Luff
+    - 11.2:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 11.3:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 11.4:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 11.5:
+        non_striker: SN Luff
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 11.6:
+        non_striker: FC Wilson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 12.1:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 12.2:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 12.3:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 12.4:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 12.5:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 12.6:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 13.1:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 13.2:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 13.3:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Luff
+    - 13.4:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 13.5:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 13.6:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 14.1:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 14.2:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 14.3:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 14.4:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 14.5:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 14.6:
+        non_striker: SN Luff
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 15.1:
+        non_striker: SN Luff
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Wilson
+    - 15.2:
+        non_striker: SN Luff
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 15.3:
+        non_striker: SN Luff
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 15.4:
+        non_striker: SN Luff
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Wilson
+    - 15.5:
+        non_striker: SN Luff
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Wilson
+    - 15.6:
+        non_striker: FC Wilson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Luff
+    - 16.1:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Luff
+    - 16.2:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 16.3:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 16.4:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+    - 16.5:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Luff
+    - 16.6:
+        non_striker: FC Wilson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Luff
+        wicket:
+          player_out: SN Luff
+          fielders:
+          - L Winfield
+          kind: stumped
+    - 17.1:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+    - 17.2:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Wilson
+        wicket:
+          player_out: FC Wilson
+          fielders:
+          - JA Woolston
+          kind: caught
+    - 17.3:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 17.4:
+        non_striker: NAJ Wraith
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 17.5:
+        non_striker: NAJ Wraith
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 17.6:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 18.1:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 18.2:
+        non_striker: DR Gibson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 18.3:
+        non_striker: DR Gibson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 18.4:
+        non_striker: DR Gibson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 18.5:
+        non_striker: DR Gibson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 18.6:
+        non_striker: DR Gibson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 19.1:
+        non_striker: NAJ Wraith
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 19.2:
+        non_striker: NAJ Wraith
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 19.3:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 19.4:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 19.5:
+        non_striker: DR Gibson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 19.6:
+        non_striker: NAJ Wraith
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 20.1:
+        non_striker: DR Gibson
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 20.2:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 20.3:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Gibson
+    - 20.4:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+        wicket:
+          player_out: DR Gibson
+          kind: lbw
+    - 20.5:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Holland
+    - 20.6:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Holland
+    - 21.1:
+        non_striker: N Holland
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 21.2:
+        non_striker: N Holland
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 21.3:
+        non_striker: N Holland
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 21.4:
+        non_striker: NAJ Wraith
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Holland
+    - 21.5:
+        non_striker: NAJ Wraith
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Holland
+    - 21.6:
+        non_striker: N Holland
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 22.1:
+        non_striker: N Holland
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 22.2:
+        non_striker: N Holland
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 22.3:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Holland
+    - 22.4:
+        non_striker: NAJ Wraith
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Holland
+    - 22.5:
+        non_striker: N Holland
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 22.6:
+        non_striker: N Holland
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 23.1:
+        non_striker: NAJ Wraith
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Holland
+        wicket:
+          player_out: N Holland
+          fielders:
+          - LE Scott
+          kind: run out
+    - 23.2:
+        non_striker: Sophia Smale
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NAJ Wraith
+    - 23.3:
+        non_striker: Sophia Smale
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 23.4:
+        non_striker: NAJ Wraith
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sophia Smale
+    - 23.5:
+        non_striker: NAJ Wraith
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+    - 23.6:
+        non_striker: NAJ Wraith
+        bowler: CL Tryon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Sophia Smale
+    - 23.7:
+        non_striker: Sophia Smale
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 23.8:
+        non_striker: Sophia Smale
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NAJ Wraith
+    - 23.9:
+        non_striker: Sophia Smale
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NAJ Wraith
+    - 24.1:
+        non_striker: Sophia Smale
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+    - 24.2:
+        non_striker: Sophia Smale
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NAJ Wraith
+        wicket:
+          player_out: NAJ Wraith
+          fielders:
+          - L Winfield
+          kind: stumped
+    - 24.3:
+        non_striker: Sophia Smale
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Filer
+    - 24.4:
+        non_striker: L Filer
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sophia Smale
+        wicket:
+          player_out: Sophia Smale
+          kind: lbw
+    - 24.5:
+        non_striker: L Filer
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 24.6:
+        non_striker: L Filer
+        bowler: KA Levick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 25.1:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 25.2:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 25.3:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 25.4:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Filer
+    - 25.5:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Filer
+    - 25.6:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Filer
+    - 26.1:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 26.2:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 26.3:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 26.4:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 26.5:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 26.6:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 27.1:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 27.2:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 27.3:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Filer
+    - 27.4:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Filer
+    - 27.5:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 27.6:
+        non_striker: L Filer
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 28.1:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 28.2:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 28.3:
+        non_striker: L Filer
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 28.4:
+        non_striker: C Skelton
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Filer
+        wicket:
+          player_out: L Filer
+          kind: bowled
+    - 28.5:
+        non_striker: C Skelton
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 28.6:
+        non_striker: C Skelton
+        bowler: LE Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 29.1:
+        non_striker: I Thomson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 29.2:
+        non_striker: I Thomson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 29.3:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 29.4:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 29.5:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Thomson
+    - 29.6:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 30.1:
+        non_striker: I Thomson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 30.2:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 30.3:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 30.4:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Thomson
+    - 30.5:
+        non_striker: I Thomson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 30.6:
+        non_striker: I Thomson
+        bowler: JA Woolston
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C Skelton
+    - 30.7:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Thomson
+    - 31.1:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Thomson
+    - 31.2:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 31.3:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Thomson
+    - 31.4:
+        non_striker: I Thomson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 31.5:
+        non_striker: I Thomson
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 31.6:
+        non_striker: C Skelton
+        bowler: EK Marlow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Thomson
+    - 32.1:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 32.2:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Thomson
+    - 32.3:
+        non_striker: I Thomson
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Skelton
+    - 32.4:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 32.5:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Thomson
+    - 32.6:
+        non_striker: C Skelton
+        bowler: JA Woolston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Thomson
+    - 33.1:
+        non_striker: I Thomson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Skelton
+    - 33.2:
+        non_striker: I Thomson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+    - 33.3:
+        non_striker: I Thomson
+        bowler: A Glen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Skelton
+        wicket:
+          player_out: C Skelton
+          fielders:
+          - CL Tryon
+          kind: caught

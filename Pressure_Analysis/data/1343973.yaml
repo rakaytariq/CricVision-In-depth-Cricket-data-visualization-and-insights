@@ -1,0 +1,1990 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: SA20
+  dates:
+  - '2023-02-11'
+  - '2023-02-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Eastern Cape
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - RE van der Merwe
+  players:
+    Pretoria Capitals:
+    - PD Salt
+    - BKG Mendis
+    - TB de Bruyn
+    - RR Rossouw
+    - CA Ingram
+    - JDS Neesham
+    - E Bosch
+    - WD Parnell
+    - M Pretorius
+    - AU Rashid
+    - A Nortje
+    Sunrisers Eastern Cape:
+    - AM Rossington
+    - T Bavuma
+    - J Hermann
+    - AK Markram
+    - T Stubbs
+    - JM Cox
+    - M Jansen
+    - BA Carse
+    - RE van der Merwe
+    - SSB Magala
+    - OEG Baartman
+  registry:
+    people:
+      A Nortje: acdc62f5
+      A Paleker: 634b11ac
+      AK Markram: 6a26221c
+      AM Rossington: 7bcde3fe
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      BA Carse: cad40f5e
+      BKG Mendis: 5d1e7582
+      BP Jele: 7bb1331e
+      CA Ingram: c995d726
+      E Bosch: 28d6c44d
+      GH Pienaar: 3516e46b
+      J Hermann: e87aeca2
+      JDS Neesham: 9219eff0
+      JM Cox: ff154ecd
+      M Erasmus: 15d3c895
+      M Jansen: 81c36ee9
+      M Pretorius: 54c2b697
+      OEG Baartman: 6b9eb501
+      PD Salt: 3d284ca3
+      RE van der Merwe: 05c2ca46
+      RR Rossouw: cad00a4d
+      SSB Magala: 8361e524
+      T Bavuma: 9ffd1ac1
+      T Stubbs: 85b3fab2
+      TB de Bruyn: 90d6cdea
+      WD Parnell: 3a60e0b5
+  teams:
+  - Pretoria Capitals
+  - Sunrisers Eastern Cape
+  toss:
+    winner: Sunrisers Eastern Cape
+    decision: field
+  umpires:
+  - AT Holdstock
+  - M Erasmus
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Pretoria Capitals
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.2:
+        non_striker: BKG Mendis
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PD Salt
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.4:
+        non_striker: PD Salt
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BKG Mendis
+    - 0.5:
+        non_striker: BKG Mendis
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Salt
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.7:
+        non_striker: PD Salt
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 0.8:
+        non_striker: PD Salt
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.1:
+        non_striker: PD Salt
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 1.2:
+        non_striker: PD Salt
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.3:
+        non_striker: PD Salt
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.4:
+        non_striker: PD Salt
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.5:
+        non_striker: PD Salt
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.6:
+        non_striker: PD Salt
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: PD Salt
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.2:
+        non_striker: PD Salt
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.3:
+        non_striker: PD Salt
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.5:
+        non_striker: PD Salt
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: PD Salt
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.2:
+        non_striker: PD Salt
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 3.3:
+        non_striker: PD Salt
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.4:
+        non_striker: PD Salt
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: PD Salt
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: PD Salt
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 3.7:
+        non_striker: PD Salt
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - AK Markram
+          kind: caught
+    - 4.1:
+        non_striker: TB de Bruyn
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          kind: bowled
+    - 4.2:
+        non_striker: TB de Bruyn
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 4.3:
+        non_striker: TB de Bruyn
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 4.4:
+        non_striker: TB de Bruyn
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 4.5:
+        non_striker: TB de Bruyn
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 4.6:
+        non_striker: RR Rossouw
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 5.1:
+        non_striker: TB de Bruyn
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 5.2:
+        non_striker: TB de Bruyn
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 5.3:
+        non_striker: TB de Bruyn
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Rossouw
+    - 5.4:
+        non_striker: RR Rossouw
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 5.5:
+        non_striker: RR Rossouw
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 5.6:
+        non_striker: RR Rossouw
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB de Bruyn
+    - 5.7:
+        non_striker: RR Rossouw
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 6.1:
+        non_striker: TB de Bruyn
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 6.2:
+        non_striker: RR Rossouw
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.3:
+        non_striker: TB de Bruyn
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 6.4:
+        non_striker: RR Rossouw
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 6.5:
+        non_striker: TB de Bruyn
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 6.6:
+        non_striker: TB de Bruyn
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - BA Carse
+          kind: caught
+    - 7.1:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 7.2:
+        non_striker: TB de Bruyn
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.3:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+        wicket:
+          player_out: TB de Bruyn
+          kind: bowled
+    - 7.4:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 7.5:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 7.6:
+        non_striker: JDS Neesham
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 8.1:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 8.2:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 8.3:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 8.4:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 8.5:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 8.6:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 9.1:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 9.2:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 9.3:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 9.4:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 9.5:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 9.6:
+        non_striker: CA Ingram
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 10.1:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 10.2:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 10.3:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 10.4:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 10.5:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 10.6:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 11.1:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 11.2:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 11.3:
+        non_striker: CA Ingram
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 11.4:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 11.5:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 11.6:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 11.7:
+        non_striker: JDS Neesham
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 12.1:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 12.2:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 12.3:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Ingram
+    - 12.4:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 12.5:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 12.6:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 13.1:
+        non_striker: CA Ingram
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 13.2:
+        non_striker: CA Ingram
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 13.3:
+        non_striker: CA Ingram
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 13.4:
+        non_striker: JDS Neesham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 13.5:
+        non_striker: CA Ingram
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 13.6:
+        non_striker: CA Ingram
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 14.1:
+        non_striker: CA Ingram
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 14.2:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 14.3:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          kind: bowled
+    - 14.4:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+    - 14.5:
+        non_striker: JDS Neesham
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 14.6:
+        non_striker: E Bosch
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 15.1:
+        non_striker: E Bosch
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 15.2:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Bosch
+    - 15.3:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+    - 15.4:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Bosch
+    - 15.5:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+    - 15.6:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Bosch
+    - 15.7:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 16.1:
+        non_striker: JDS Neesham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 16.2:
+        non_striker: E Bosch
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - AM Rossington
+          kind: caught
+    - 16.3:
+        non_striker: E Bosch
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 16.4:
+        non_striker: E Bosch
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 16.5:
+        non_striker: WD Parnell
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 16.6:
+        non_striker: E Bosch
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WD Parnell
+    - 17.1:
+        non_striker: WD Parnell
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+    - 17.2:
+        non_striker: WD Parnell
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Bosch
+    - 17.3:
+        non_striker: WD Parnell
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Bosch
+    - 17.4:
+        non_striker: E Bosch
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 17.5:
+        non_striker: WD Parnell
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Bosch
+        wicket:
+          player_out: E Bosch
+          fielders:
+          - AM Rossington
+          kind: stumped
+    - 17.6:
+        non_striker: WD Parnell
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+        wicket:
+          player_out: M Pretorius
+          kind: bowled
+    - 18.1:
+        non_striker: AU Rashid
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+        wicket:
+          player_out: WD Parnell
+          fielders:
+          - AM Rossington
+          kind: caught
+    - 18.2:
+        non_striker: AU Rashid
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 18.3:
+        non_striker: AU Rashid
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Nortje
+    - 18.4:
+        non_striker: AU Rashid
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 18.5:
+        non_striker: AU Rashid
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nortje
+    - 18.6:
+        non_striker: A Nortje
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 19.1:
+        non_striker: A Nortje
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AU Rashid
+    - 19.2:
+        non_striker: A Nortje
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+    - 19.3:
+        non_striker: A Nortje
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+        wicket:
+          player_out: AU Rashid
+          fielders:
+          - AM Rossington
+          kind: caught
+- 2nd innings:
+    team: Sunrisers Eastern Cape
+    deliveries:
+    - 0.1:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rossington
+    - 0.2:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.3:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 0.4:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.5:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.6:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.7:
+        non_striker: T Bavuma
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 1.1:
+        non_striker: AM Rossington
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 1.2:
+        non_striker: AM Rossington
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          kind: bowled
+    - 1.3:
+        non_striker: AM Rossington
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 1.4:
+        non_striker: AM Rossington
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Hermann
+    - 1.5:
+        non_striker: AM Rossington
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Hermann
+    - 1.6:
+        non_striker: AM Rossington
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Hermann
+    - 2.1:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 2.2:
+        non_striker: AM Rossington
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 2.3:
+        non_striker: AM Rossington
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 2.4:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 2.5:
+        non_striker: AM Rossington
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 2.6:
+        non_striker: AM Rossington
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Hermann
+    - 3.1:
+        non_striker: J Hermann
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 3.2:
+        non_striker: J Hermann
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rossington
+    - 3.3:
+        non_striker: J Hermann
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rossington
+    - 3.4:
+        non_striker: J Hermann
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 3.5:
+        non_striker: J Hermann
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 3.6:
+        non_striker: J Hermann
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 4.1:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 4.2:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Hermann
+    - 4.3:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 4.4:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 4.5:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 4.6:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 5.1:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 5.2:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 5.3:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 5.4:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 5.5:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 5.6:
+        non_striker: J Hermann
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 6.1:
+        non_striker: AM Rossington
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Hermann
+    - 6.2:
+        non_striker: J Hermann
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 6.3:
+        non_striker: AM Rossington
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+    - 6.4:
+        non_striker: AM Rossington
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Hermann
+        wicket:
+          player_out: J Hermann
+          fielders:
+          - PD Salt
+          kind: stumped
+    - 6.5:
+        non_striker: AM Rossington
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 6.6:
+        non_striker: AM Rossington
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 7.1:
+        non_striker: AK Markram
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 7.2:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.3:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.4:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 7.5:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 7.6:
+        non_striker: AM Rossington
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 8.1:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 8.2:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 8.3:
+        non_striker: AM Rossington
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.4:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 8.5:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 8.6:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 9.1:
+        non_striker: AK Markram
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 9.2:
+        non_striker: AK Markram
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 9.3:
+        non_striker: AM Rossington
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 9.4:
+        non_striker: AM Rossington
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 9.5:
+        non_striker: AM Rossington
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 9.6:
+        non_striker: AM Rossington
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 10.1:
+        non_striker: AK Markram
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+        wicket:
+          player_out: AM Rossington
+          fielders:
+          - PD Salt
+          kind: caught
+    - 10.2:
+        non_striker: AK Markram
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 10.3:
+        non_striker: AK Markram
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 10.4:
+        non_striker: AK Markram
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.5:
+        non_striker: T Stubbs
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.6:
+        non_striker: AK Markram
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Stubbs
+    - 10.7:
+        non_striker: T Stubbs
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 11.1:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 11.2:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.3:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 11.4:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 11.5:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.6:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 12.1:
+        non_striker: T Stubbs
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.2:
+        non_striker: AK Markram
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.3:
+        non_striker: T Stubbs
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - RR Rossouw
+          kind: caught
+    - 12.4:
+        non_striker: T Stubbs
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.5:
+        non_striker: T Stubbs
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 12.6:
+        non_striker: T Stubbs
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 13.1:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Cox
+    - 13.2:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 13.3:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - PD Salt
+          kind: caught
+    - 13.4:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 13.5:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 13.6:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 13.7:
+        non_striker: T Stubbs
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 14.1:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 14.3:
+        non_striker: M Jansen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 14.4:
+        non_striker: M Jansen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.5:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Jansen
+    - 14.6:
+        non_striker: M Jansen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.1:
+        non_striker: T Stubbs
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 15.2:
+        non_striker: T Stubbs
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 15.3:
+        non_striker: M Jansen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 15.4:
+        non_striker: M Jansen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 15.5:
+        non_striker: M Jansen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 15.6:
+        non_striker: M Jansen
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Carse
+    - 15.7:
+        non_striker: M Jansen
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 16.1:
+        non_striker: BA Carse
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jansen
+    - 16.2:
+        non_striker: BA Carse
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen

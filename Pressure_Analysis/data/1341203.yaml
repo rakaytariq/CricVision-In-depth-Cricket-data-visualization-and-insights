@@ -1,0 +1,2221 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2023-01-02'
+  gender: male
+  match_type: T20
+  outcome:
+    result: tie
+  overs: 20
+  players:
+    Otago:
+    - HD Rutherford
+    - DN Phillips
+    - D Foxcroft
+    - JL Finnie
+    - TK Parkes
+    - LC Johnson
+    - JM Gibson
+    - JA Duffy
+    - MD Rae
+    - BNJ Lockrose
+    - MB Bacon
+    Auckland:
+    - GH Worker
+    - CJ Briggs
+    - MS Chapman
+    - RR O'Donnell
+    - SM Solia
+    - BJ Horne
+    - WT O'Donnell
+    - L Delport
+    - LH Ferguson
+    - A Ashok
+    - BG Lister
+  registry:
+    people:
+      A Ashok: 321be7e3
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      BNJ Lockrose: aa8914ad
+      CJ Briggs: 6c3dd24e
+      D Foxcroft: ed6894af
+      DN Phillips: be0c9f5b
+      ED Sanders: 25c6d6af
+      GB Troup: 94f0e744
+      GH Worker: 51a36d3e
+      Glen Walklin: 0070ed27
+      HD Rutherford: 0605de92
+      JA Duffy: dadbdb68
+      JL Finnie: 1ccf9e7e
+      JM Gibson: e3aa97a2
+      L Delport: 2c1438ef
+      LC Johnson: a573ad7a
+      LH Ferguson: 2f9d0389
+      MB Bacon: '90701232'
+      MD Rae: 1c06d60a
+      MS Chapman: 7fa12533
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      TK Parkes: 343407f3
+      WR Knights: 63cbf8d8
+      WT O'Donnell: 730b57de
+  teams:
+  - Otago
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - Glen Walklin
+  - WR Knights
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DN Phillips
+        batsman: HD Rutherford
+    - 0.2:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 0.3:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 0.4:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+    - 0.5:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Phillips
+    - 0.6:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Phillips
+    - 0.7:
+        non_striker: DN Phillips
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 1.1:
+        non_striker: HD Rutherford
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Phillips
+    - 1.2:
+        non_striker: HD Rutherford
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Phillips
+        wicket:
+          player_out: DN Phillips
+          kind: lbw
+    - 1.3:
+        non_striker: HD Rutherford
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 1.4:
+        non_striker: HD Rutherford
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 1.5:
+        non_striker: HD Rutherford
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 1.6:
+        non_striker: D Foxcroft
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+    - 2.1:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 2.2:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Rutherford
+    - 2.3:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Rutherford
+    - 2.4:
+        non_striker: HD Rutherford
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 2.5:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Rutherford
+    - 2.6:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Rutherford
+    - 2.7:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+        wicket:
+          player_out: HD Rutherford
+          fielders:
+          - A Ashok
+          kind: caught
+    - 3.1:
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JL Finnie
+        batsman: D Foxcroft
+    - 3.2:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 3.3:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Finnie
+    - 3.4:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 3.5:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Finnie
+    - 3.6:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 4.1:
+        non_striker: JL Finnie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 4.2:
+        non_striker: JL Finnie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 4.3:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 4.4:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 4.5:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Finnie
+    - 4.6:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Finnie
+    - 5.1:
+        non_striker: JL Finnie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 5.2:
+        non_striker: JL Finnie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.3:
+        non_striker: D Foxcroft
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 5.4:
+        non_striker: D Foxcroft
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 5.5:
+        non_striker: D Foxcroft
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 5.6:
+        non_striker: JL Finnie
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 6.1:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+        wicket:
+          player_out: JL Finnie
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 6.2:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Parkes
+    - 6.3:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Parkes
+    - 6.4:
+        non_striker: TK Parkes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.5:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Parkes
+        wicket:
+          player_out: TK Parkes
+          kind: bowled
+    - 6.6:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 7.1:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 7.2:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.3:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 7.4:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 7.5:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 7.6:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 8.1:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 8.2:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Johnson
+    - 8.3:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Johnson
+    - 8.4:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 8.5:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 8.6:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 9.1:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 9.2:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.3:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LC Johnson
+    - 9.4:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Johnson
+    - 9.5:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 9.6:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 9.7:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 10.1:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 10.2:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 10.3:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LC Johnson
+    - 10.4:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 10.5:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 10.6:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 11.1:
+        non_striker: D Foxcroft
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Johnson
+    - 11.2:
+        non_striker: D Foxcroft
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 11.3:
+        non_striker: LC Johnson
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 11.4:
+        non_striker: LC Johnson
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 11.5:
+        non_striker: D Foxcroft
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 11.6:
+        non_striker: LC Johnson
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 12.1:
+        non_striker: LC Johnson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 12.2:
+        non_striker: LC Johnson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 12.3:
+        non_striker: LC Johnson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 12.4:
+        non_striker: LC Johnson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 12.5:
+        non_striker: LC Johnson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 12.6:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 13.1:
+        non_striker: LC Johnson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 13.2:
+        non_striker: D Foxcroft
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 13.3:
+        non_striker: LC Johnson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 13.4:
+        non_striker: D Foxcroft
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 13.5:
+        non_striker: LC Johnson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 13.6:
+        non_striker: LC Johnson
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Foxcroft
+    - 13.7:
+        non_striker: LC Johnson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 14.1:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Johnson
+    - 14.2:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Johnson
+    - 14.3:
+        non_striker: D Foxcroft
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 14.4:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 14.5:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 14.6:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Foxcroft
+    - 14.7:
+        non_striker: LC Johnson
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.1:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 15.2:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.3:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 15.4:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 15.5:
+        non_striker: LC Johnson
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.6:
+        non_striker: D Foxcroft
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Johnson
+    - 16.1:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+        wicket:
+          player_out: LC Johnson
+          fielders:
+          - CJ Briggs
+          kind: caught
+    - 16.2:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 16.3:
+        non_striker: JM Gibson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 16.4:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 16.5:
+        non_striker: JM Gibson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 16.6:
+        non_striker: JM Gibson
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Foxcroft
+    - 16.7:
+        non_striker: JM Gibson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 17.1:
+        non_striker: JM Gibson
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Foxcroft
+    - 17.2:
+        non_striker: JM Gibson
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 17.3:
+        non_striker: JM Gibson
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Foxcroft
+    - 17.4:
+        non_striker: JM Gibson
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 17.5:
+        non_striker: JM Gibson
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 17.6:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Gibson
+    - 17.7:
+        non_striker: JM Gibson
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 17.8:
+        non_striker: D Foxcroft
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Gibson
+    - 18.1:
+        non_striker: JM Gibson
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 18.2:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Gibson
+        wicket:
+          player_out: JM Gibson
+          fielders:
+          - GH Worker
+          kind: caught
+    - 18.3:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Duffy
+    - 18.4:
+        non_striker: JA Duffy
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 18.5:
+        non_striker: D Foxcroft
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Duffy
+    - 18.6:
+        non_striker: JA Duffy
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 19.1:
+        non_striker: JA Duffy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 19.2:
+        non_striker: JA Duffy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 19.3:
+        non_striker: JA Duffy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+        wicket:
+          player_out: D Foxcroft
+          fielders:
+          - MS Chapman
+          kind: caught
+    - 19.4:
+        non_striker: JA Duffy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rae
+    - 19.5:
+        non_striker: MD Rae
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Duffy
+    - 19.6:
+        non_striker: MD Rae
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Duffy
+        wicket:
+          player_out: JA Duffy
+          fielders:
+          - SM Solia
+          kind: run out
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Briggs
+        batsman: GH Worker
+    - 0.2:
+        non_striker: GH Worker
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 0.3:
+        non_striker: GH Worker
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 0.4:
+        non_striker: GH Worker
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 0.5:
+        non_striker: GH Worker
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Briggs
+    - 0.6:
+        non_striker: GH Worker
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 1.1:
+        non_striker: CJ Briggs
+        bowler: MD Rae
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 1.2:
+        non_striker: CJ Briggs
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 1.3:
+        non_striker: CJ Briggs
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          kind: bowled
+    - 1.4:
+        non_striker: CJ Briggs
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 1.5:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Briggs
+    - 1.6:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 1.7:
+        non_striker: MS Chapman
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 2.1:
+        non_striker: MS Chapman
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 2.2:
+        non_striker: MS Chapman
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CJ Briggs
+    - 2.3:
+        non_striker: CJ Briggs
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Briggs
+    - 2.5:
+        non_striker: MS Chapman
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 2.6:
+        non_striker: MS Chapman
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 2.7:
+        non_striker: MS Chapman
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 3.2:
+        non_striker: CJ Briggs
+        bowler: BNJ Lockrose
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 3.3:
+        non_striker: CJ Briggs
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.4:
+        non_striker: CJ Briggs
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.5:
+        non_striker: CJ Briggs
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 3.7:
+        non_striker: MS Chapman
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+        wicket:
+          player_out: CJ Briggs
+          fielders:
+          - TK Parkes
+          kind: caught
+    - 4.1:
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR O'Donnell
+        batsman: MS Chapman
+    - 4.2:
+        non_striker: MS Chapman
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR O'Donnell
+    - 4.3:
+        non_striker: MS Chapman
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.4:
+        non_striker: MS Chapman
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 4.6:
+        non_striker: MS Chapman
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.7:
+        non_striker: MS Chapman
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 5.1:
+        non_striker: RR O'Donnell
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 5.2:
+        non_striker: RR O'Donnell
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 5.3:
+        non_striker: RR O'Donnell
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.4:
+        non_striker: MS Chapman
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.1:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.2:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 6.4:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.6:
+        non_striker: MS Chapman
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.1:
+        non_striker: RR O'Donnell
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 7.2:
+        non_striker: RR O'Donnell
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 7.3:
+        non_striker: RR O'Donnell
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.4:
+        non_striker: RR O'Donnell
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.5:
+        non_striker: RR O'Donnell
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.6:
+        non_striker: RR O'Donnell
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.1:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.2:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 8.3:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.4:
+        non_striker: MS Chapman
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.6:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          kind: bowled
+    - 9.1:
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Solia
+        batsman: RR O'Donnell
+    - 9.2:
+        non_striker: RR O'Donnell
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.3:
+        non_striker: SM Solia
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR O'Donnell
+    - 9.4:
+        non_striker: SM Solia
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 9.5:
+        non_striker: RR O'Donnell
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 9.6:
+        non_striker: RR O'Donnell
+        bowler: BNJ Lockrose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.1:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.2:
+        non_striker: SM Solia
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.3:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 10.4:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 10.5:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 10.6:
+        non_striker: RR O'Donnell
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.1:
+        non_striker: RR O'Donnell
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.2:
+        non_striker: SM Solia
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 11.3:
+        non_striker: SM Solia
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.4:
+        non_striker: RR O'Donnell
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 11.5:
+        non_striker: SM Solia
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 11.6:
+        non_striker: SM Solia
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 12.1:
+        non_striker: RR O'Donnell
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 12.2:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - D Foxcroft
+          kind: caught
+    - 12.3:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 12.4:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 12.5:
+        non_striker: BJ Horne
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 12.6:
+        non_striker: BJ Horne
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.1:
+        non_striker: BJ Horne
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.2:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.3:
+        non_striker: BJ Horne
+        bowler: JM Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Solia
+    - 13.4:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.5:
+        non_striker: BJ Horne
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 13.6:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 14.1:
+        non_striker: SM Solia
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 14.2:
+        non_striker: BJ Horne
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 14.3:
+        non_striker: BJ Horne
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 14.4:
+        non_striker: SM Solia
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 14.5:
+        non_striker: BJ Horne
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 14.6:
+        non_striker: BJ Horne
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 15.1:
+        non_striker: BJ Horne
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 15.2:
+        non_striker: BJ Horne
+        bowler: JA Duffy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SM Solia
+    - 15.3:
+        non_striker: BJ Horne
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Solia
+    - 15.4:
+        non_striker: SM Solia
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 15.5:
+        non_striker: BJ Horne
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 15.6:
+        non_striker: BJ Horne
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 16.1:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Horne
+    - 16.2:
+        non_striker: BJ Horne
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 16.3:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 16.4:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 16.5:
+        non_striker: SM Solia
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 16.6:
+        non_striker: BJ Horne
+        bowler: JM Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 17.1:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 17.2:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 17.3:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 17.4:
+        non_striker: SM Solia
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 17.5:
+        non_striker: BJ Horne
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 17.6:
+        non_striker: BJ Horne
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          kind: lbw
+    - 18.1:
+        non_striker: WT O'Donnell
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - LC Johnson
+          kind: caught
+    - 18.2:
+        non_striker: WT O'Donnell
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 18.3:
+        non_striker: L Delport
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WT O'Donnell
+    - 18.4:
+        non_striker: WT O'Donnell
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 18.5:
+        non_striker: L Delport
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 18.6:
+        non_striker: WT O'Donnell
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+        wicket:
+          player_out: L Delport
+          fielders:
+          - JM Gibson
+          kind: caught
+    - 19.1:
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LH Ferguson
+        batsman: WT O'Donnell
+    - 19.2:
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: LH Ferguson
+        batsman: WT O'Donnell
+    - 19.3:
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: LH Ferguson
+        batsman: WT O'Donnell
+    - 19.4:
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Ferguson
+        batsman: WT O'Donnell
+    - 19.5:
+        non_striker: WT O'Donnell
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 19.6:
+        non_striker: WT O'Donnell
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LH Ferguson
+    - 19.7:
+        non_striker: LH Ferguson
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          fielders:
+          - LC Johnson
+          - JA Duffy
+          kind: run out

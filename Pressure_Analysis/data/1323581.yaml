@@ -1,0 +1,2045 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hobart
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-03'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Hobart Hurricanes
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - ML Gibson
+  players:
+    Melbourne Renegades:
+    - HK Matthews
+    - AC Jayangani
+    - JE Dooley
+    - S Molineux
+    - C Webb
+    - E Falconer
+    - C Leeson
+    - SJ Coyte
+    - E Hayward
+    - RK O'Donnell
+    - S Ismail
+    Hobart Hurricanes:
+    - EJ Villani
+    - L Lee
+    - R Trenaman
+    - M du Preez
+    - H Graham
+    - NJ Carey
+    - R Johnston
+    - NE Stalenberg
+    - HNK Jensen
+    - ML Gibson
+    - M Strano
+  registry:
+    people:
+      AC Jayangani: ac56b5a7
+      C Leeson: d71e33bb
+      C Webb: 1f4a8a2a
+      David Johnston: 92cef862
+      E Falconer: be50addf
+      E Hayward: eacd9bb1
+      EJ Villani: cde96d97
+      Eloise Sheridan: d8d43840
+      H Graham: 99812d10
+      HK Matthews: d32cf49a
+      HNK Jensen: b8cce99f
+      JE Dooley: 6f7e30d6
+      L Lee: 7b01ce83
+      M Qureshi: cf34fbef
+      M Strano: f57d5dbb
+      M du Preez: e219f17a
+      ML Gibson: 27fa592f
+      NE Stalenberg: 609c519e
+      NJ Carey: dff806f4
+      R Johnston: 3cd107a7
+      R Trenaman: 877dd709
+      RK O'Donnell: 2ec8a400
+      S Ismail: 108c4c09
+      S Molineux: 99e23670
+      SJ Coyte: a5f488bc
+      Troy Penman: 0aa42c26
+  teams:
+  - Melbourne Renegades
+  - Hobart Hurricanes
+  toss:
+    winner: Hobart Hurricanes
+    decision: field
+  umpires:
+  - M Qureshi
+  - Troy Penman
+  venue: Bellerive Oval, Hobart
+innings:
+- 1st innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.7:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.5:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.4:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 3.6:
+        non_striker: HK Matthews
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.1:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.2:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: HK Matthews
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.1:
+        non_striker: HK Matthews
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.2:
+        non_striker: HK Matthews
+        bowler: ML Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 5.3:
+        non_striker: HK Matthews
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - L Lee
+          kind: caught
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dooley
+    - 5.6:
+        non_striker: JE Dooley
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 5.7:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dooley
+        wicket:
+          player_out: JE Dooley
+          kind: caught and bowled
+    - 6.1:
+        non_striker: S Molineux
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: S Molineux
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Molineux
+    - 6.4:
+        non_striker: S Molineux
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.5:
+        non_striker: S Molineux
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.6:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+    - 7.1:
+        non_striker: S Molineux
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 7.2:
+        non_striker: S Molineux
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 7.3:
+        non_striker: S Molineux
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 7.4:
+        non_striker: S Molineux
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 7.5:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Molineux
+        wicket:
+          player_out: S Molineux
+          fielders:
+          - R Johnston
+          kind: caught
+    - 7.6:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 8.1:
+        non_striker: C Webb
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.2:
+        non_striker: C Webb
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 8.3:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 8.4:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 8.5:
+        non_striker: AC Jayangani
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 8.6:
+        non_striker: C Webb
+        bowler: R Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 9.1:
+        non_striker: C Webb
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 9.2:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 9.3:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 9.4:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 9.5:
+        non_striker: C Webb
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 9.6:
+        non_striker: C Webb
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 10.1:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 10.2:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 10.3:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 10.4:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 10.5:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 10.6:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 11.1:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 11.2:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 11.3:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 11.4:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 11.5:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 11.6:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 12.1:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 12.2:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 12.3:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 12.4:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 12.5:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 12.6:
+        non_striker: C Webb
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 13.1:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 13.2:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 13.3:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 13.4:
+        non_striker: C Webb
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 13.5:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Webb
+    - 13.6:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+    - 14.1:
+        non_striker: C Webb
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 14.2:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 14.3:
+        non_striker: C Webb
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 14.4:
+        non_striker: C Webb
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 14.5:
+        non_striker: AC Jayangani
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 14.6:
+        non_striker: C Webb
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 15.1:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Webb
+    - 15.2:
+        non_striker: C Webb
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 15.3:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Webb
+    - 15.4:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Webb
+        wicket:
+          player_out: C Webb
+          fielders:
+          - NE Stalenberg
+          kind: caught
+    - 15.5:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Falconer
+        wicket:
+          player_out: E Falconer
+          kind: bowled
+    - 15.6:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Leeson
+    - 16.1:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 16.2:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Leeson
+    - 16.3:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+    - 16.4:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 16.5:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 16.6:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+    - 17.1:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Leeson
+    - 17.2:
+        non_striker: C Leeson
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 17.3:
+        non_striker: C Leeson
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 17.4:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Leeson
+    - 17.5:
+        non_striker: AC Jayangani
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+    - 17.6:
+        non_striker: C Leeson
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 18.1:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+    - 18.2:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 18.3:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 18.4:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Leeson
+    - 18.5:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 18.6:
+        non_striker: C Leeson
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 18.7:
+        non_striker: AC Jayangani
+        bowler: H Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+    - 19.1:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+    - 19.2:
+        non_striker: C Leeson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 19.3:
+        non_striker: C Leeson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 19.4:
+        non_striker: C Leeson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 19.5:
+        non_striker: C Leeson
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 19.6:
+        non_striker: AC Jayangani
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Leeson
+- 2nd innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 0.2:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 0.3:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 0.4:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.5:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.6:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.1:
+        non_striker: L Lee
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 1.2:
+        non_striker: L Lee
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 1.3:
+        non_striker: L Lee
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 1.4:
+        non_striker: L Lee
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 1.5:
+        non_striker: EJ Villani
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 1.6:
+        non_striker: EJ Villani
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.1:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 2.2:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJ Villani
+    - 2.3:
+        non_striker: EJ Villani
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 2.4:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 2.5:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 2.6:
+        non_striker: L Lee
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 3.1:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 3.2:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 3.3:
+        non_striker: L Lee
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 3.4:
+        non_striker: L Lee
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 3.5:
+        non_striker: L Lee
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 3.6:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.1:
+        non_striker: L Lee
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 4.2:
+        non_striker: EJ Villani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 4.3:
+        non_striker: L Lee
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 4.4:
+        non_striker: L Lee
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 4.5:
+        non_striker: EJ Villani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 4.6:
+        non_striker: L Lee
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 5.1:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 5.2:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          kind: bowled
+    - 5.3:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 5.4:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 5.5:
+        non_striker: R Trenaman
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.6:
+        non_striker: EJ Villani
+        bowler: E Hayward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Trenaman
+    - 6.1:
+        non_striker: EJ Villani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 6.2:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.3:
+        non_striker: EJ Villani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 6.4:
+        non_striker: EJ Villani
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 6.5:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 6.6:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.1:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.2:
+        non_striker: EJ Villani
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 7.3:
+        non_striker: EJ Villani
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 7.4:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 7.5:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.6:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          kind: bowled
+    - 8.1:
+        non_striker: M du Preez
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 8.2:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M du Preez
+    - 8.3:
+        non_striker: M du Preez
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Trenaman
+    - 8.4:
+        non_striker: M du Preez
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Trenaman
+    - 8.5:
+        non_striker: M du Preez
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 8.6:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          kind: bowled
+    - 8.7:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 8.8:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 9.1:
+        non_striker: R Trenaman
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 9.2:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 9.3:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 9.4:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Trenaman
+    - 9.5:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 9.6:
+        non_striker: R Trenaman
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 9.7:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 10.1:
+        non_striker: R Trenaman
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 10.2:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 10.3:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 10.4:
+        non_striker: R Trenaman
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 10.5:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 10.6:
+        non_striker: R Trenaman
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 11.1:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 11.2:
+        non_striker: H Graham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 11.3:
+        non_striker: H Graham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 11.4:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 11.5:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Graham
+    - 11.6:
+        non_striker: R Trenaman
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 12.1:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 12.2:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 12.3:
+        non_striker: R Trenaman
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Graham
+    - 12.4:
+        non_striker: R Trenaman
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 12.5:
+        non_striker: R Trenaman
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 12.6:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Trenaman
+    - 13.1:
+        non_striker: H Graham
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Trenaman
+    - 13.2:
+        non_striker: H Graham
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 13.3:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Graham
+    - 13.4:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Graham
+    - 13.5:
+        non_striker: R Trenaman
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 13.6:
+        non_striker: H Graham
+        bowler: S Ismail
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: R Trenaman
+    - 13.7:
+        non_striker: H Graham
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 14.1:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Graham
+    - 14.2:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Graham
+    - 14.3:
+        non_striker: R Trenaman
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 14.4:
+        non_striker: H Graham
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+        wicket:
+          player_out: R Trenaman
+          kind: lbw
+    - 14.5:
+        non_striker: H Graham
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Carey
+    - 14.6:
+        non_striker: H Graham
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 15.1:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 15.2:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 15.3:
+        non_striker: H Graham
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 15.4:
+        non_striker: NJ Carey
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Graham
+    - 15.5:
+        non_striker: NJ Carey
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 15.6:
+        non_striker: NJ Carey
+        bowler: E Hayward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 16.1:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Graham
+    - 16.2:
+        non_striker: NJ Carey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 16.3:
+        non_striker: H Graham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          fielders:
+          - SJ Coyte
+          kind: caught
+    - 16.4:
+        non_striker: H Graham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 16.5:
+        non_striker: H Graham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+    - 16.6:
+        non_striker: H Graham
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Johnston
+    - 17.1:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Johnston
+    - 17.2:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Johnston
+    - 17.3:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Johnston
+        wicket:
+          player_out: R Johnston
+          fielders:
+          - S Molineux
+          kind: caught
+    - 17.4:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 17.5:
+        non_striker: NE Stalenberg
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Graham
+    - 17.6:
+        non_striker: H Graham
+        bowler: SJ Coyte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 18.1:
+        non_striker: H Graham
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Stalenberg

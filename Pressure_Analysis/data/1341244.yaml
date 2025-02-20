@@ -1,0 +1,2131 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Women's Super Smash
+  dates:
+  - '2023-01-20'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 26
+  overs: 20
+  players:
+    Wellington:
+    - TMM Newton
+    - RM Burns
+    - AC Kerr
+    - ML Green
+    - LM Kasperek
+    - JM Kerr
+    - JT McFadyen
+    - CR King
+    - OA Boivin
+    - XA Jetly
+    - N Baird
+    Auckland:
+    - S Shahri
+    - P Catton
+    - LR Down
+    - BG Armstrong
+    - KT Perkins
+    - AN Kelly
+    - HR Huddleston
+    - AT Hucker
+    - MM Penfold
+    - SJ Carnachan
+    - MB Templeton
+  registry:
+    people:
+      A Stanley: 5a72b592
+      AC Kerr: 7673c908
+      AN Kelly: 397369e0
+      AT Hucker: 9b554bb9
+      BG Armstrong: eca08a1d
+      CM Brown: 448f4f1c
+      CR King: dd639a8c
+      DJ Walker: d4aea8ac
+      Glen Walklin: 0070ed27
+      HR Huddleston: 8d6b36e3
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      KT Perkins: 78ad3258
+      LM Kasperek: 9b73d523
+      LR Down: 19147fe0
+      MB Templeton: e1504909
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      N Baird: c0380823
+      OA Boivin: f5a175e4
+      P Catton: 22e8ba50
+      RM Burns: 94fe4708
+      S Shahri: c28355cd
+      SJ Carnachan: 3b67e117
+      SRM Morris: 74b402c6
+      TMM Newton: 93fe473e
+      XA Jetly: 57a49987
+  teams:
+  - Wellington
+  - Auckland
+  toss:
+    winner: Wellington
+    decision: bat
+  umpires:
+  - CM Brown
+  - Glen Walklin
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RM Burns
+        batsman: TMM Newton
+    - 0.2:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RM Burns
+        batsman: TMM Newton
+    - 0.3:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 0.4:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 0.5:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 0.6:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 0.7:
+        non_striker: RM Burns
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.1:
+        non_striker: TMM Newton
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.2:
+        non_striker: TMM Newton
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.3:
+        non_striker: TMM Newton
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 1.4:
+        non_striker: RM Burns
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.5:
+        non_striker: RM Burns
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 1.6:
+        non_striker: RM Burns
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 2.1:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Burns
+    - 2.2:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.3:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.4:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.5:
+        non_striker: TMM Newton
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 2.6:
+        non_striker: RM Burns
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TMM Newton
+    - 2.7:
+        non_striker: RM Burns
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+        wicket:
+          player_out: TMM Newton
+          fielders:
+          - P Catton
+          - SJ Carnachan
+          kind: run out
+    - 3.1:
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AC Kerr
+        batsman: RM Burns
+    - 3.2:
+        non_striker: RM Burns
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 3.3:
+        non_striker: RM Burns
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.4:
+        non_striker: RM Burns
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.5:
+        non_striker: AC Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 4.1:
+        non_striker: RM Burns
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.2:
+        non_striker: RM Burns
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: AC Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 4.4:
+        non_striker: AC Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 4.5:
+        non_striker: AC Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RM Burns
+    - 4.6:
+        non_striker: RM Burns
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 5.2:
+        non_striker: RM Burns
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Burns
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.4:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 6.5:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.7:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: RM Burns
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 7.3:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 7.4:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 7.5:
+        non_striker: AC Kerr
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.6:
+        non_striker: RM Burns
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 8.2:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.3:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.4:
+        non_striker: RM Burns
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 9.1:
+        non_striker: RM Burns
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: RM Burns
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: RM Burns
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 10.1:
+        non_striker: AC Kerr
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 10.2:
+        non_striker: AC Kerr
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 10.4:
+        non_striker: RM Burns
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: RM Burns
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: RM Burns
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          fielders:
+          - BG Armstrong
+          kind: caught
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 12.1:
+        non_striker: ML Green
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.4:
+        non_striker: ML Green
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - KT Perkins
+          kind: caught
+    - 12.5:
+        non_striker: ML Green
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 12.6:
+        non_striker: LM Kasperek
+        bowler: AT Hucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 13.1:
+        non_striker: ML Green
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 13.2:
+        non_striker: ML Green
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 13.3:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.4:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 13.5:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.6:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Green
+    - 13.7:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 14.1:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Kasperek
+    - 14.2:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 14.3:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 14.4:
+        non_striker: LM Kasperek
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.5:
+        non_striker: LM Kasperek
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.6:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 14.7:
+        non_striker: LM Kasperek
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.1:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.2:
+        non_striker: ML Green
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 15.3:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - LR Down
+          kind: caught
+    - 15.4:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 15.5:
+        non_striker: JM Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 15.6:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 16.1:
+        non_striker: JM Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 16.2:
+        non_striker: LM Kasperek
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 16.3:
+        non_striker: JM Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 16.4:
+        non_striker: LM Kasperek
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 16.5:
+        non_striker: JM Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 16.6:
+        non_striker: LM Kasperek
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 17.1:
+        non_striker: JM Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 17.2:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 17.3:
+        non_striker: JM Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 17.4:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 17.5:
+        non_striker: LM Kasperek
+        bowler: MB Templeton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 17.6:
+        non_striker: JM Kerr
+        bowler: MB Templeton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LM Kasperek
+    - 18.1:
+        non_striker: JM Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 18.2:
+        non_striker: LM Kasperek
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 18.3:
+        non_striker: JM Kerr
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - BG Armstrong
+          - HR Huddleston
+          kind: run out
+    - 18.4:
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JT McFadyen
+        batsman: LM Kasperek
+    - 18.5:
+        non_striker: LM Kasperek
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT McFadyen
+    - 18.6:
+        non_striker: LM Kasperek
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 19.1:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 19.2:
+        non_striker: JT McFadyen
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 19.3:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT McFadyen
+    - 19.4:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT McFadyen
+    - 19.5:
+        non_striker: JT McFadyen
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+        wicket:
+          player_out: JT McFadyen
+          fielders:
+          - MM Penfold
+          kind: run out
+    - 19.6:
+        non_striker: LM Kasperek
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR King
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: S Shahri
+    - 0.2:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Catton
+        batsman: S Shahri
+    - 0.3:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: S Shahri
+    - 0.4:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Catton
+        batsman: S Shahri
+    - 0.5:
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Catton
+        batsman: S Shahri
+    - 0.6:
+        non_striker: P Catton
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 1.1:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.2:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.3:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 1.4:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 1.5:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 1.6:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 2.1:
+        non_striker: S Shahri
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 2.2:
+        non_striker: S Shahri
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 2.3:
+        non_striker: S Shahri
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 2.4:
+        non_striker: P Catton
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Shahri
+    - 2.5:
+        non_striker: P Catton
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 2.6:
+        non_striker: P Catton
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 3.1:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Catton
+    - 3.2:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 3.3:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Catton
+    - 3.4:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 3.5:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 3.6:
+        non_striker: P Catton
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 4.1:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.2:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.3:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+    - 4.4:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Catton
+        wicket:
+          player_out: P Catton
+          kind: bowled
+    - 4.5:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.6:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.1:
+        non_striker: LR Down
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 5.2:
+        non_striker: LR Down
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 5.3:
+        non_striker: LR Down
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 5.4:
+        non_striker: LR Down
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 5.5:
+        non_striker: LR Down
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 5.6:
+        non_striker: S Shahri
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.1:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.2:
+        non_striker: LR Down
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 6.3:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 6.4:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.5:
+        non_striker: LR Down
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 6.6:
+        non_striker: S Shahri
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.1:
+        non_striker: S Shahri
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.2:
+        non_striker: S Shahri
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.3:
+        non_striker: S Shahri
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.4:
+        non_striker: LR Down
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 7.5:
+        non_striker: LR Down
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 7.6:
+        non_striker: S Shahri
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 8.1:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.2:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.3:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.4:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          kind: bowled
+    - 8.5:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 8.6:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 9.1:
+        non_striker: S Shahri
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 9.2:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 9.3:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 9.4:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 9.5:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 9.6:
+        non_striker: S Shahri
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 10.1:
+        non_striker: BG Armstrong
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 10.2:
+        non_striker: S Shahri
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 10.3:
+        non_striker: S Shahri
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 10.4:
+        non_striker: BG Armstrong
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Shahri
+    - 10.5:
+        non_striker: BG Armstrong
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 10.6:
+        non_striker: S Shahri
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 11.1:
+        non_striker: BG Armstrong
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 11.2:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 11.3:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 11.4:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 11.5:
+        non_striker: BG Armstrong
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 11.6:
+        non_striker: S Shahri
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 12.1:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 12.2:
+        non_striker: BG Armstrong
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 12.3:
+        non_striker: S Shahri
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 12.4:
+        non_striker: BG Armstrong
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 12.5:
+        non_striker: BG Armstrong
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+    - 12.6:
+        non_striker: BG Armstrong
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 13.1:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+        wicket:
+          player_out: S Shahri
+          kind: bowled
+    - 13.2:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 13.3:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 13.4:
+        non_striker: KT Perkins
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 13.5:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 13.6:
+        non_striker: BG Armstrong
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 14.1:
+        non_striker: BG Armstrong
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 14.2:
+        non_striker: BG Armstrong
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 14.3:
+        non_striker: KT Perkins
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 14.4:
+        non_striker: KT Perkins
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 14.5:
+        non_striker: BG Armstrong
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 14.6:
+        non_striker: KT Perkins
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 15.1:
+        non_striker: KT Perkins
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+        wicket:
+          player_out: BG Armstrong
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 15.2:
+        non_striker: KT Perkins
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 15.3:
+        non_striker: AN Kelly
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 15.4:
+        non_striker: KT Perkins
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 15.5:
+        non_striker: AN Kelly
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 15.6:
+        non_striker: AN Kelly
+        bowler: N Baird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 16.1:
+        non_striker: AN Kelly
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+        wicket:
+          player_out: KT Perkins
+          kind: lbw
+    - 16.2:
+        non_striker: AN Kelly
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 16.3:
+        non_striker: AN Kelly
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Huddleston
+    - 16.4:
+        non_striker: AN Kelly
+        bowler: CR King
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HR Huddleston
+    - 16.5:
+        non_striker: HR Huddleston
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 16.6:
+        non_striker: AN Kelly
+        bowler: CR King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 17.1:
+        non_striker: AN Kelly
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 17.2:
+        non_striker: HR Huddleston
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AN Kelly
+    - 17.3:
+        non_striker: AN Kelly
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 17.4:
+        non_striker: AN Kelly
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 17.5:
+        non_striker: HR Huddleston
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          fielders:
+          - JT McFadyen
+          kind: stumped
+    - 17.6:
+        non_striker: HR Huddleston
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+    - 18.1:
+        non_striker: AT Hucker
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 18.2:
+        non_striker: HR Huddleston
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Hucker
+        wicket:
+          player_out: AT Hucker
+          fielders:
+          - CR King
+          kind: caught
+    - 18.3:
+        non_striker: HR Huddleston
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 18.4:
+        non_striker: HR Huddleston
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Penfold
+    - 18.5:
+        non_striker: HR Huddleston
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 18.6:
+        non_striker: HR Huddleston
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 19.1:
+        non_striker: HR Huddleston
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 19.2:
+        non_striker: HR Huddleston
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+        wicket:
+          player_out: MM Penfold
+          fielders:
+          - N Baird
+          kind: caught
+    - 19.3:
+        non_striker: HR Huddleston
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Carnachan
+    - 19.4:
+        non_striker: SJ Carnachan
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 19.5:
+        non_striker: HR Huddleston
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Carnachan
+    - 19.6:
+        non_striker: SJ Carnachan
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston

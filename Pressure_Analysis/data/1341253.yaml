@@ -1,0 +1,2059 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Women's Super Smash
+  dates:
+  - '2023-02-04'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Otago
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Canterbury:
+    - KG Anderson
+    - AG Gerken
+    - AE Satterthwaite
+    - FC Wilson
+    - NB Cox
+    - JL Savage
+    - LEV Hughes
+    - MJ Banks
+    - GES Sullivan
+    - JA Simmons
+    - SR Asmussen
+    Otago:
+    - IR James
+    - PM Inglis
+    - KE Broadmore
+    - CG Blakely
+    - ON Gain
+    - FC Leydon-Davis
+    - LCN Smith
+    - KL Gordon
+    - EJ Black
+    - SA Oldershaw
+    - ME Loe
+  registry:
+    people:
+      AE Satterthwaite: 72b7ed1e
+      AG Gerken: a7fcf627
+      CG Blakely: 8f999ed5
+      DJ Henderson: 76e3c08f
+      Damian Morrow: 0fb1f503
+      ED Sanders: 25c6d6af
+      EJ Black: 2817e17a
+      FC Leydon-Davis: b91efad5
+      FC Wilson: a28132bd
+      GAV Baxter: cb4b3ab0
+      GES Sullivan: 165b9097
+      IR James: 57bdbc16
+      JA Simmons: 33360da1
+      JL Savage: 7938c793
+      KE Broadmore: 7c0055c1
+      KG Anderson: ae79a86f
+      KL Gordon: '00823a96'
+      LCN Smith: 340202b0
+      LEV Hughes: 5b43fe48
+      ME Loe: 37f93dc8
+      MJ Banks: 1e17a238
+      NB Cox: 219f1323
+      ON Gain: '67913804'
+      PM Inglis: e4a71d18
+      SA Oldershaw: 93b4f6f6
+      SR Asmussen: '31972229'
+      TJ Parlane: 3cfc24b0
+  teams:
+  - Canterbury
+  - Otago
+  toss:
+    winner: Otago
+    decision: field
+  umpires:
+  - ED Sanders
+  - TJ Parlane
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AG Gerken
+        batsman: KG Anderson
+    - 0.2:
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AG Gerken
+        batsman: KG Anderson
+    - 0.3:
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AG Gerken
+        batsman: KG Anderson
+    - 0.4:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 0.5:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 0.6:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 1.1:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.2:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.3:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 1.4:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 1.5:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 1.6:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.1:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 2.2:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 2.3:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.4:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.5:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.6:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.1:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.2:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 3.3:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 3.4:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 3.5:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 3.6:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 4.1:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.2:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 4.3:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.4:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 4.5:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 4.6:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.1:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 5.2:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 5.3:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 5.4:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 5.5:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 5.6:
+        non_striker: AG Gerken
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.1:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 6.2:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 6.3:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 6.4:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Gerken
+    - 6.5:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 6.6:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+    - 7.1:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 7.2:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 7.3:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 7.4:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 7.5:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AG Gerken
+    - 7.6:
+        non_striker: AG Gerken
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 8.1:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 8.2:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 8.3:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 8.4:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 8.5:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 8.6:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 9.1:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 9.2:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 9.3:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 9.4:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 9.5:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 9.6:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AG Gerken
+    - 10.1:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 10.2:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 10.3:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 10.4:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 10.5:
+        non_striker: KG Anderson
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 10.6:
+        non_striker: AG Gerken
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 11.1:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AG Gerken
+    - 11.2:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 11.3:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 11.4:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KG Anderson
+    - 11.5:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 11.6:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Gerken
+    - 11.7:
+        non_striker: AG Gerken
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.1:
+        non_striker: AG Gerken
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.2:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Gerken
+        wicket:
+          player_out: AG Gerken
+          fielders:
+          - PM Inglis
+          kind: stumped
+    - 12.3:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 12.4:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 12.5:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 12.6:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 13.1:
+        non_striker: KG Anderson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 13.2:
+        non_striker: AE Satterthwaite
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.3:
+        non_striker: KG Anderson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 13.4:
+        non_striker: AE Satterthwaite
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 13.5:
+        non_striker: KG Anderson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 13.6:
+        non_striker: KG Anderson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 14.1:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AE Satterthwaite
+    - 14.2:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 14.3:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 14.4:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KG Anderson
+    - 14.5:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Satterthwaite
+    - 14.6:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 14.7:
+        non_striker: KG Anderson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 15.1:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 15.2:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 15.3:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 15.4:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 15.5:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 15.6:
+        non_striker: KG Anderson
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 16.1:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 16.2:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 16.3:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 16.4:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 16.5:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 16.6:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          fielders:
+          - ON Gain
+          kind: caught
+    - 17.1:
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: FC Wilson
+        batsman: KG Anderson
+    - 17.2:
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: FC Wilson
+        batsman: KG Anderson
+    - 17.3:
+        non_striker: FC Wilson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: FC Wilson
+          fielders:
+          - PM Inglis
+          - LCN Smith
+          kind: run out
+    - 17.4:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NB Cox
+    - 17.5:
+        non_striker: NB Cox
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 17.6:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox
+    - 17.7:
+        non_striker: KG Anderson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 18.1:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 18.2:
+        non_striker: NB Cox
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+    - 18.3:
+        non_striker: NB Cox
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 18.4:
+        non_striker: NB Cox
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KG Anderson
+    - 18.5:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 18.6:
+        non_striker: KG Anderson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 19.1:
+        non_striker: KG Anderson
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+        wicket:
+          player_out: NB Cox
+          kind: bowled
+    - 19.2:
+        non_striker: KG Anderson
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Savage
+    - 19.3:
+        non_striker: JL Savage
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 19.4:
+        non_striker: KG Anderson
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Savage
+    - 19.5:
+        non_striker: JL Savage
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 19.6:
+        non_striker: JL Savage
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KG Anderson
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.2:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.3:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.4:
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.5:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.6:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.7:
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.8:
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.9:
+        non_striker: IR James
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.1:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 1.2:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 1.3:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 1.4:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.5:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PM Inglis
+    - 1.6:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 2.1:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.2:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.3:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.4:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.5:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.6:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.1:
+        non_striker: PM Inglis
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IR James
+    - 3.2:
+        non_striker: PM Inglis
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.3:
+        non_striker: PM Inglis
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.4:
+        non_striker: PM Inglis
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.5:
+        non_striker: PM Inglis
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 3.6:
+        non_striker: PM Inglis
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 4.1:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 4.2:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 4.3:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 4.4:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 4.5:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 4.6:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 5.1:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 5.2:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 5.3:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 5.4:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 5.5:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          kind: caught and bowled
+    - 5.6:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 6.1:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 6.2:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 6.3:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 6.4:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 6.5:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 6.6:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 7.1:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Broadmore
+    - 7.2:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 7.3:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 7.4:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.5:
+        non_striker: KE Broadmore
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 7.6:
+        non_striker: KE Broadmore
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 7.7:
+        non_striker: KE Broadmore
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 8.1:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 8.2:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 8.3:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 8.4:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 8.5:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 8.6:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 9.1:
+        non_striker: KE Broadmore
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 9.2:
+        non_striker: KE Broadmore
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 9.3:
+        non_striker: KE Broadmore
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 9.4:
+        non_striker: PM Inglis
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 9.5:
+        non_striker: KE Broadmore
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 9.6:
+        non_striker: KE Broadmore
+        bowler: KG Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 10.1:
+        non_striker: KE Broadmore
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 10.2:
+        non_striker: PM Inglis
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 10.3:
+        non_striker: KE Broadmore
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PM Inglis
+    - 10.4:
+        non_striker: KE Broadmore
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PM Inglis
+    - 10.5:
+        non_striker: KE Broadmore
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PM Inglis
+    - 10.6:
+        non_striker: PM Inglis
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 10.7:
+        non_striker: PM Inglis
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 10.8:
+        non_striker: PM Inglis
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.1:
+        non_striker: KE Broadmore
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 11.2:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.3:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 11.4:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.5:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 11.6:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 12.1:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 12.2:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 12.3:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+        wicket:
+          player_out: KE Broadmore
+          fielders:
+          - MJ Banks
+          kind: run out
+    - 12.4:
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CG Blakely
+        batsman: PM Inglis
+    - 12.5:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 12.6:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 13.1:
+        non_striker: CG Blakely
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 13.2:
+        non_striker: CG Blakely
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 13.3:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 13.4:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 13.5:
+        non_striker: CG Blakely
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 13.6:
+        non_striker: CG Blakely
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 14.1:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 14.2:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 14.3:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 14.4:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 14.5:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 14.6:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 15.1:
+        non_striker: CG Blakely
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 15.2:
+        non_striker: CG Blakely
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 15.3:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 15.4:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 15.5:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 15.6:
+        non_striker: CG Blakely
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 16.1:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 16.2:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+        wicket:
+          player_out: PM Inglis
+          fielders:
+          - MJ Banks
+          kind: caught
+    - 16.3:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 16.4:
+        non_striker: ON Gain
+        bowler: GES Sullivan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CG Blakely
+    - 16.5:
+        non_striker: ON Gain
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 16.6:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ON Gain
+    - 16.7:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 17.1:
+        non_striker: ON Gain
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.2:
+        non_striker: CG Blakely
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 17.3:
+        non_striker: ON Gain
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 17.4:
+        non_striker: ON Gain
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 17.5:
+        non_striker: ON Gain
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 17.6:
+        non_striker: CG Blakely
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ON Gain

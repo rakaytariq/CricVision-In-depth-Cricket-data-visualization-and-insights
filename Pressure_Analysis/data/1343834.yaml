@@ -1,0 +1,4698 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-12-06'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 5
+  overs: 50
+  player_of_match:
+  - Ahmed Faiz Mohammad Noor
+  players:
+    Vanuatu:
+    - N Nipiko
+    - JD Allan
+    - JP Kaltapau
+    - PK Matautaava
+    - R Tari
+    - J Rasu
+    - J Vira
+    - BA Viraliliu
+    - W Nalisa
+    - D Wotu
+    - Obed Yosef
+    Malaysia:
+    - Zubaidi Zulkifle
+    - Muhammad Amir
+    - Syed Aziz
+    - M Syahadat Ramli
+    - Ahmed Faiz Mohammad Noor
+    - Syed Rehmatullah
+    - Khizar Hayat
+    - S Muniandy
+    - Pavandeep Singh
+    - Syazrul Idrus
+    - Rizwan Haider
+  registry:
+    people:
+      Ahmed Faiz: f6b4f746
+      BA Viraliliu: 7d85b1e9
+      D Wotu: 9585854d
+      J Rasu: 1021b6e5
+      J Vira: 2090e94d
+      JD Allan: 3758028b
+      JP Kaltapau: d8dccff5
+      Khizar Hayat: 78bbeba1
+      M Syahadat Ramli: 5efa8af3
+      Muhammad Amir: 60bec5c3
+      N Nipiko: c498c510
+      Obed Yosef: a843d7a8
+      PK Matautaava: af19aa66
+      Pavandeep Singh: 78fcc740
+      R Tari: c4d19735
+      Ramasamy Venkatesh: 8ad68ea7
+      Rizwan Haider: dc60abdc
+      S Muniandy: 57fcfd3b
+      Sarika Prasad: 8ff397fa
+      Syazrul Idrus: 6dba59e0
+      Syed Aziz: 6667067e
+      Syed Rehmatullah: fcbdc2b0
+      Tabarak Dar: 2259c12d
+      V Narayan Kutty: 4bacee3d
+      W Nalisa: 673be48f
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Vanuatu
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - Ramasamy Venkatesh
+  - Sarika Prasad
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JD Allan
+        batsman: N Nipiko
+    - 0.2:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: N Nipiko
+          fielders:
+          - Syed Rehmatullah
+          kind: caught
+    - 0.3:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 0.4:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Kaltapau
+    - 0.5:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 0.6:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 1.1:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 1.2:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 1.3:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 1.4:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 1.5:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 1.6:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 2.1:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 2.2:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Allan
+    - 2.3:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 2.4:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 2.5:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 2.6:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 3.1:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.2:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.3:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.4:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.5:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.6:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 4.1:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 4.2:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Allan
+    - 4.3:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 4.4:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 4.5:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 4.6:
+        non_striker: JD Allan
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 4.7:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 5.1:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 5.2:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 5.3:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 5.4:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 5.5:
+        non_striker: JD Allan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 5.6:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 5.7:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 5.8:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 6.1:
+        non_striker: JD Allan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 6.2:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Allan
+    - 6.3:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 6.4:
+        non_striker: JD Allan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 6.5:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Allan
+    - 6.6:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 6.7:
+        non_striker: JD Allan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 7.1:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Allan
+    - 7.2:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 7.3:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 7.4:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Allan
+    - 7.5:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 7.6:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 8.1:
+        non_striker: JD Allan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 8.2:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 8.3:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 8.4:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 8.5:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+        wicket:
+          player_out: JD Allan
+          kind: bowled
+    - 8.6:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 9.1:
+        non_striker: PK Matautaava
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kaltapau
+    - 9.2:
+        non_striker: PK Matautaava
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 9.3:
+        non_striker: PK Matautaava
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 9.4:
+        non_striker: PK Matautaava
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 9.5:
+        non_striker: PK Matautaava
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 9.6:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Matautaava
+    - 10.1:
+        non_striker: PK Matautaava
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 10.2:
+        non_striker: PK Matautaava
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 10.3:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PK Matautaava
+    - 10.4:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 10.5:
+        non_striker: PK Matautaava
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 10.6:
+        non_striker: PK Matautaava
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 10.7:
+        non_striker: PK Matautaava
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 11.1:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 11.2:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Matautaava
+    - 11.3:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Matautaava
+    - 11.4:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 11.5:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+        wicket:
+          player_out: PK Matautaava
+          fielders:
+          - Syed Aziz
+          kind: caught
+    - 11.6:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 12.1:
+        non_striker: R Tari
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 12.2:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 12.3:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 12.4:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 12.5:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 12.6:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 13.1:
+        non_striker: R Tari
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 13.2:
+        non_striker: R Tari
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 13.3:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 13.4:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 13.5:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 13.6:
+        non_striker: R Tari
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 13.7:
+        non_striker: R Tari
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 14.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 14.2:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 14.3:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+        wicket:
+          player_out: R Tari
+          fielders:
+          - Syed Rehmatullah
+          kind: caught
+    - 14.4:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 14.5:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 14.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Rasu
+    - 14.7:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 15.1:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 15.2:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 15.3:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 15.4:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 15.5:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 15.6:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 16.1:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 16.2:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 16.3:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 16.4:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 16.5:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 16.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 17.1:
+        non_striker: J Rasu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 17.2:
+        non_striker: J Rasu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 17.3:
+        non_striker: J Rasu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 17.4:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 17.5:
+        non_striker: JP Kaltapau
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 17.6:
+        non_striker: J Rasu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kaltapau
+    - 18.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 18.2:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 18.3:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 18.4:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 18.5:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 18.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 19.1:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 19.2:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 19.3:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 19.4:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 19.5:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 19.6:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 20.1:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 20.2:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 20.3:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 20.4:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 20.5:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 20.6:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 21.1:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 21.2:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 21.3:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 21.4:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 21.5:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 21.6:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 22.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 22.2:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 22.3:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 22.4:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 22.5:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 22.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 23.1:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kaltapau
+    - 23.2:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 23.3:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 23.4:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 23.5:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 23.6:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 24.1:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 24.2:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Kaltapau
+    - 24.3:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 24.4:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 24.5:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 24.6:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 25.1:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 25.2:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 25.3:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 25.4:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 25.5:
+        non_striker: JP Kaltapau
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 25.6:
+        non_striker: J Rasu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 26.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Rasu
+    - 26.2:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 26.3:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 26.4:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 26.5:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 26.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 27.1:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 27.2:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 27.3:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 27.4:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 27.5:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 27.6:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 27.7:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 28.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 28.2:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 28.3:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 28.4:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 28.5:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 28.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 29.1:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 29.2:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 29.3:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 29.4:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 29.5:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 29.6:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 29.7:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 30.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 30.2:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 30.3:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 30.4:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 30.5:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 30.6:
+        non_striker: J Rasu
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 31.1:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 31.2:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JP Kaltapau
+    - 31.3:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Rasu
+    - 31.4:
+        non_striker: JP Kaltapau
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 31.5:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 31.6:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kaltapau
+    - 31.7:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 32.1:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 32.2:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 32.3:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 32.4:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 32.5:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 32.6:
+        non_striker: JP Kaltapau
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 33.1:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 33.2:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 33.3:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 33.4:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 33.5:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 33.6:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 34.1:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 34.2:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 34.3:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 34.4:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 34.5:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 34.6:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 35.1:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 35.2:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 35.3:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 35.4:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 35.5:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Rasu
+    - 35.6:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 36.1:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 36.2:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 36.3:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 36.4:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 36.5:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 36.6:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 37.1:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 37.2:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 37.3:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 37.4:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 37.5:
+        non_striker: J Rasu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 37.6:
+        non_striker: JP Kaltapau
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 38.1:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 38.2:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 38.3:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 38.4:
+        non_striker: JP Kaltapau
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 38.5:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 38.6:
+        non_striker: J Rasu
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 39.1:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 39.2:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 39.3:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+        wicket:
+          player_out: JP Kaltapau
+          fielders:
+          - Syed Aziz
+          kind: caught
+    - 39.4:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 39.5:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 39.6:
+        non_striker: J Rasu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 40.1:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+        wicket:
+          player_out: J Rasu
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 40.2:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 40.3:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 40.4:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 40.5:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 40.6:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 41.1:
+        non_striker: BA Viraliliu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 41.2:
+        non_striker: BA Viraliliu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 41.3:
+        non_striker: BA Viraliliu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 41.4:
+        non_striker: BA Viraliliu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 41.5:
+        non_striker: BA Viraliliu
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Vira
+    - 41.6:
+        non_striker: J Vira
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 42.1:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 42.2:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Vira
+    - 42.3:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 42.4:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Viraliliu
+    - 42.5:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 42.6:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 43.1:
+        non_striker: J Vira
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 43.2:
+        non_striker: J Vira
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Viraliliu
+    - 43.3:
+        non_striker: BA Viraliliu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Vira
+    - 43.4:
+        non_striker: BA Viraliliu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 43.5:
+        non_striker: BA Viraliliu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 43.6:
+        non_striker: BA Viraliliu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Vira
+    - 44.1:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Vira
+    - 44.2:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Viraliliu
+    - 44.3:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 44.4:
+        non_striker: J Vira
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Viraliliu
+    - 44.5:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Vira
+    - 44.6:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+    - 44.7:
+        non_striker: BA Viraliliu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Vira
+    - 45.1:
+        non_striker: BA Viraliliu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Vira
+    - 45.2:
+        non_striker: BA Viraliliu
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Vira
+    - 45.3:
+        non_striker: BA Viraliliu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Vira
+    - 45.4:
+        non_striker: J Vira
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+    - 45.5:
+        non_striker: J Vira
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Viraliliu
+    - 45.6:
+        non_striker: BA Viraliliu
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Vira
+    - 45.7:
+        non_striker: J Vira
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Viraliliu
+        wicket:
+          player_out: BA Viraliliu
+          kind: caught and bowled
+    - 46.1:
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: W Nalisa
+        batsman: J Vira
+    - 46.2:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Vira
+        wicket:
+          player_out: J Vira
+          fielders:
+          - Pavandeep Singh
+          kind: caught
+    - 46.3:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 46.4:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wotu
+    - 46.5:
+        non_striker: D Wotu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 46.6:
+        non_striker: D Wotu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 46.7:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 47.1:
+        non_striker: D Wotu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 47.2:
+        non_striker: W Nalisa
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wotu
+    - 47.3:
+        non_striker: D Wotu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 47.4:
+        non_striker: D Wotu
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 47.5:
+        non_striker: W Nalisa
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 47.6:
+        non_striker: W Nalisa
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 48.1:
+        non_striker: D Wotu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 48.2:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 48.3:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wotu
+    - 48.4:
+        non_striker: D Wotu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 48.5:
+        non_striker: W Nalisa
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wotu
+    - 48.6:
+        non_striker: D Wotu
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Nalisa
+    - 49.1:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 49.2:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wotu
+    - 49.3:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wotu
+    - 49.4:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+    - 49.5:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wotu
+    - 49.6:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wotu
+        wicket:
+          player_out: D Wotu
+          fielders:
+          - Khizar Hayat
+          kind: caught
+    - 49.7:
+        non_striker: W Nalisa
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Obed Yosef
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Amir
+        batsman: Zubaidi Zulkifle
+    - 0.2:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - J Vira
+          kind: caught
+    - 0.3:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 0.4:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 0.5:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 0.6:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 0.7:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 0.8:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 0.9:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.1:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Muhammad Amir
+    - 1.2:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Amir
+    - 1.3:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 1.4:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Amir
+    - 1.5:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 1.6:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 1.7:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 1.8:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.9:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Syed Aziz
+    - 1.10:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 2.1:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 2.2:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 2.3:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 2.4:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.5:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 2.6:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 3.1:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 3.2:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 3.3:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 3.4:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 3.5:
+        non_striker: Syed Aziz
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 3.6:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.1:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 4.2:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Amir
+    - 4.3:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Amir
+    - 4.4:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Amir
+    - 4.5:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Muhammad Amir
+    - 4.6:
+        non_striker: Syed Aziz
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 4.7:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.8:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.9:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          fielders:
+          - W Nalisa
+          kind: caught
+    - 5.1:
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Syahadat Ramli
+        batsman: Muhammad Amir
+    - 5.2:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Syahadat Ramli
+    - 5.3:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 5.4:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Syahadat Ramli
+    - 5.5:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 5.6:
+        non_striker: Muhammad Amir
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 6.1:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 6.2:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 6.3:
+        non_striker: M Syahadat Ramli
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 6.4:
+        non_striker: M Syahadat Ramli
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 6.5:
+        non_striker: M Syahadat Ramli
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 6.6:
+        non_striker: Muhammad Amir
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 7.1:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 7.2:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 7.3:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Amir
+    - 7.4:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 7.5:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+        wicket:
+          player_out: Muhammad Amir
+          fielders:
+          - J Vira
+          kind: caught
+    - 7.6:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 7.7:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 8.2:
+        non_striker: M Syahadat Ramli
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.3:
+        non_striker: M Syahadat Ramli
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.4:
+        non_striker: M Syahadat Ramli
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 8.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 9.1:
+        non_striker: M Syahadat Ramli
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 9.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 9.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Syahadat Ramli
+        wicket:
+          player_out: M Syahadat Ramli
+          kind: retired hurt
+    - 9.4:
+        non_striker: Syed Rehmatullah
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 9.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 9.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Rehmatullah
+    - 10.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 10.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 10.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 10.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+    - 10.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Rehmatullah
+        wicket:
+          player_out: Syed Rehmatullah
+          fielders:
+          - J Vira
+          kind: caught
+    - 10.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 11.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 11.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 11.3:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 11.4:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 11.5:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 11.6:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 12.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 12.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 12.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 12.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khizar Hayat
+    - 12.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizar Hayat
+    - 12.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 13.1:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 13.2:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 13.3:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 13.4:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 13.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Khizar Hayat
+    - 13.6:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 13.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.1:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 14.2:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 14.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 14.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 14.5:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 14.6:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 15.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 15.2:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 15.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 15.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 15.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 15.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 16.1:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 16.2:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 16.3:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 16.4:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 16.5:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 16.6:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 17.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Khizar Hayat
+    - 17.2:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 17.3:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 17.4:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 17.5:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 17.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 18.1:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.2:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.3:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.4:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.5:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 18.6:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 19.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 19.3:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.4:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 19.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 19.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 20.1:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 20.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizar Hayat
+    - 20.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 20.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 20.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 20.6:
+        non_striker: Khizar Hayat
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 20.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizar Hayat
+    - 21.1:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 21.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 21.3:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 21.4:
+        non_striker: Khizar Hayat
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 21.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizar Hayat
+    - 21.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizar Hayat
+    - 22.1:
+        non_striker: Khizar Hayat
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 22.2:
+        non_striker: Khizar Hayat
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 22.3:
+        non_striker: Khizar Hayat
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 22.4:
+        non_striker: Khizar Hayat
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 22.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 22.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 23.1:
+        non_striker: Khizar Hayat
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 23.2:
+        non_striker: Khizar Hayat
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 23.3:
+        non_striker: Khizar Hayat
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 23.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 23.5:
+        non_striker: Khizar Hayat
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 23.6:
+        non_striker: Khizar Hayat
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 24.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 24.2:
+        non_striker: Khizar Hayat
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 24.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 24.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 24.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 24.6:
+        non_striker: Khizar Hayat
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 25.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+    - 25.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizar Hayat
+        wicket:
+          player_out: Khizar Hayat
+          kind: caught and bowled
+    - 25.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 25.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 25.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 25.6:
+        non_striker: S Muniandy
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 26.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 26.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 26.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 26.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 26.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 26.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Muniandy
+    - 26.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 27.1:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 27.2:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 27.3:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 27.4:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 27.5:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 27.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 28.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 28.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 28.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 28.4:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 28.5:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 28.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 29.1:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 29.2:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 29.3:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 29.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 29.5:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 29.6:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 30.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 30.2:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 30.3:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 30.4:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 30.5:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 30.6:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 30.7:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 31.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 31.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 31.3:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 31.4:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 31.5:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 31.6:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 32.1:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 32.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 32.3:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 32.4:
+        non_striker: S Muniandy
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 32.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 32.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 33.1:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 33.2:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 33.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 33.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 33.5:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 33.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 34.1:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 34.2:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 34.3:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 34.4:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 34.5:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 34.6:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 35.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 35.2:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 35.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 35.4:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 35.5:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 35.6:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 36.1:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 36.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 36.3:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 36.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 36.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 36.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 37.1:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 37.2:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 37.3:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 37.4:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 37.5:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 37.6:
+        non_striker: S Muniandy
+        bowler: R Tari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 38.1:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 38.2:
+        non_striker: S Muniandy
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor

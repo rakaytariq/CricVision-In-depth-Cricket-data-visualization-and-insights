@@ -1,0 +1,1975 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2023-01-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Rangpur Riders
+    by:
+      runs: 55
+  overs: 20
+  player_of_match:
+  - Shoaib Malik
+  players:
+    Rangpur Riders:
+    - Mahedi Hasan
+    - Mohammad Naim
+    - Parvez Hossain Emon
+    - Shoaib Malik
+    - Azmatullah Omarzai
+    - Mohammad Nawaz (3)
+    - Shamim Hossain
+    - Rakibul Hasan (2)
+    - Nurul Hasan
+    - Hasan Mahmud
+    - Haris Rauf
+    Chattogram Challengers:
+    - Usman Khan (2)
+    - Khawaja Nafay
+    - Towfiq Khan
+    - Darwish Rasooli
+    - Shuvagata Hom
+    - Ziaur Rahman
+    - V Viyaskanth
+    - Mrittunjoy Chowdhury
+    - Mehedi Hasan Rana
+    - Taijul Islam
+    - Afif Hossain
+  registry:
+    people:
+      Aaron Jones: 17aa4f1d
+      Afif Hossain: '37138918'
+      Ali Arman: 1342d8d8
+      Azmatullah Omarzai: 8f6dd463
+      DJ Millns: 46ecfe40
+      Darwish Rasooli: 3b2114a5
+      Haris Rauf: 24bb1c2f
+      Hasan Mahmud: 80ad39ac
+      Khawaja Nafay: 3cf54e77
+      Mahedi Hasan: 9dad0f2e
+      Mehedi Hasan Rana: 0b7363da
+      Mohammad Kamruzzaman: 74eb8175
+      Mohammad Naim: 7923a51d
+      Mohammad Nawaz: 3086f7a4
+      Mrittunjoy Chowdhury: 21b97584
+      Nurul Hasan: d365d463
+      Parvez Hossain Emon: 489aaf0a
+      RMPJ Rambukwella: 13fa6ffc
+      Rakibul Hasan: 77768f72
+      Selim Shahid: b478bce3
+      Shamim Hossain: 711249d1
+      Shoaib Malik: 64c34cd0
+      Shuvagata Hom: bb01f9e0
+      Taijul Islam: 9d1d34bd
+      Towfiq Khan: 24e3c15b
+      Usman Khan: bafb9238
+      V Viyaskanth: 03a83c50
+      Ziaur Rahman: c27518d2
+  teams:
+  - Rangpur Riders
+  - Chattogram Challengers
+  toss:
+    winner: Chattogram Challengers
+    decision: field
+  umpires:
+  - Mohammad Kamruzzaman
+  - RMPJ Rambukwella
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Naim
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 0.2:
+        non_striker: Mahedi Hasan
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 0.3:
+        non_striker: Mohammad Naim
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          kind: caught and bowled
+    - 0.4:
+        non_striker: Mohammad Naim
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+    - 0.5:
+        non_striker: Mohammad Naim
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+    - 0.6:
+        non_striker: Mohammad Naim
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+    - 1.1:
+        non_striker: Parvez Hossain Emon
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 1.2:
+        non_striker: Parvez Hossain Emon
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 1.3:
+        non_striker: Mohammad Naim
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+    - 1.4:
+        non_striker: Mohammad Naim
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Parvez Hossain Emon
+    - 1.5:
+        non_striker: Parvez Hossain Emon
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 1.6:
+        non_striker: Mohammad Naim
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+    - 2.1:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 2.2:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 2.3:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 2.4:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Naim
+    - 2.5:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 2.6:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 3.1:
+        non_striker: Mohammad Naim
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Parvez Hossain Emon
+    - 3.2:
+        non_striker: Parvez Hossain Emon
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 3.3:
+        non_striker: Parvez Hossain Emon
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 3.4:
+        non_striker: Parvez Hossain Emon
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 3.5:
+        non_striker: Mohammad Naim
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Parvez Hossain Emon
+    - 3.6:
+        non_striker: Mohammad Naim
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+    - 4.1:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 4.2:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 4.3:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 4.4:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 4.5:
+        non_striker: Parvez Hossain Emon
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 4.6:
+        non_striker: Mohammad Naim
+        bowler: Shuvagata Hom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Parvez Hossain Emon
+        wicket:
+          player_out: Parvez Hossain Emon
+          fielders:
+          - Ziaur Rahman
+          kind: caught
+    - 5.1:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 5.2:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 5.3:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 5.4:
+        non_striker: Mohammad Naim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 5.5:
+        non_striker: Mohammad Naim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 5.6:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 6.1:
+        non_striker: Mohammad Naim
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 6.2:
+        non_striker: Mohammad Naim
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 6.3:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Naim
+    - 6.4:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 6.5:
+        non_striker: Mohammad Naim
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 6.6:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 7.1:
+        non_striker: Mohammad Naim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 7.2:
+        non_striker: Mohammad Naim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 7.3:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 7.4:
+        non_striker: Mohammad Naim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 7.5:
+        non_striker: Mohammad Naim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 7.6:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 8.1:
+        non_striker: Mohammad Naim
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.2:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 8.3:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+        wicket:
+          player_out: Mohammad Naim
+          fielders:
+          - Usman Khan (2)
+          kind: caught
+    - 8.4:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 8.5:
+        non_striker: Azmatullah Omarzai
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.6:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 9.1:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 9.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 9.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 9.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 9.5:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 9.6:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.1:
+        non_striker: Azmatullah Omarzai
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.2:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 10.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 10.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.5:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 10.6:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 11.1:
+        non_striker: Shoaib Malik
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 11.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 11.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 11.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 11.5:
+        non_striker: Shoaib Malik
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 11.6:
+        non_striker: Shoaib Malik
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 12.1:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 12.2:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 12.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 12.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 12.5:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 12.6:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 13.1:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 13.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 13.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 13.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 13.5:
+        non_striker: Shoaib Malik
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.6:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 13.7:
+        non_striker: Azmatullah Omarzai
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 14.1:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 14.2:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 14.3:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 14.4:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 14.5:
+        non_striker: Azmatullah Omarzai
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 14.6:
+        non_striker: Azmatullah Omarzai
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 15.1:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 15.2:
+        non_striker: Azmatullah Omarzai
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 15.3:
+        non_striker: Azmatullah Omarzai
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 15.4:
+        non_striker: Azmatullah Omarzai
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.5:
+        non_striker: Azmatullah Omarzai
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.6:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 15.7:
+        non_striker: Azmatullah Omarzai
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.1:
+        non_striker: Azmatullah Omarzai
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.2:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 16.3:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Azmatullah Omarzai
+    - 16.4:
+        non_striker: Azmatullah Omarzai
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.5:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 16.6:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azmatullah Omarzai
+    - 16.7:
+        non_striker: Shoaib Malik
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 16.8:
+        non_striker: Azmatullah Omarzai
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 17.1:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+        wicket:
+          player_out: Azmatullah Omarzai
+          fielders:
+          - Darwish Rasooli
+          kind: caught
+    - 17.2:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nawaz (3)
+    - 17.3:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 17.4:
+        non_striker: Mohammad Nawaz (3)
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 17.5:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 17.6:
+        non_striker: Mohammad Nawaz (3)
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 18.1:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 18.2:
+        non_striker: Mohammad Nawaz (3)
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 18.3:
+        non_striker: Mohammad Nawaz (3)
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 18.4:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 18.5:
+        non_striker: Mohammad Nawaz (3)
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 18.6:
+        non_striker: Shoaib Malik
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz (3)
+    - 19.1:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz (3)
+        wicket:
+          player_out: Mohammad Nawaz (3)
+          fielders:
+          - Taijul Islam
+          kind: caught
+    - 19.2:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamim Hossain
+    - 19.3:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 19.4:
+        non_striker: Shamim Hossain
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 19.5:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+        wicket:
+          player_out: Shamim Hossain
+          fielders:
+          - Shuvagata Hom
+          kind: caught
+    - 19.6:
+        non_striker: Shoaib Malik
+        bowler: Mehedi Hasan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rakibul Hasan (2)
+- 2nd innings:
+    team: Chattogram Challengers
+    absent_hurt:
+    - Afif Hossain
+    deliveries:
+    - 0.1:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+    - 0.2:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan (2)
+    - 0.3:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan (2)
+        wicket:
+          player_out: Usman Khan (2)
+          fielders:
+          - Nurul Hasan
+          kind: caught
+    - 0.4:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towfiq Khan
+    - 0.5:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towfiq Khan
+    - 0.6:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towfiq Khan
+    - 1.1:
+        non_striker: Towfiq Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khawaja Nafay
+    - 1.2:
+        non_striker: Towfiq Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 1.3:
+        non_striker: Towfiq Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 1.4:
+        non_striker: Towfiq Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 1.5:
+        non_striker: Towfiq Khan
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 1.6:
+        non_striker: Khawaja Nafay
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towfiq Khan
+        wicket:
+          player_out: Towfiq Khan
+          fielders:
+          - Haris Rauf
+          kind: caught
+    - 2.1:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 2.2:
+        non_striker: Khawaja Nafay
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 2.3:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 2.4:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+        wicket:
+          player_out: Khawaja Nafay
+          fielders:
+          - Nurul Hasan
+          kind: stumped
+    - 2.5:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 2.6:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuvagata Hom
+    - 3.1:
+        non_striker: Shuvagata Hom
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 3.2:
+        non_striker: Shuvagata Hom
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 3.3:
+        non_striker: Darwish Rasooli
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 3.4:
+        non_striker: Darwish Rasooli
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 3.5:
+        non_striker: Darwish Rasooli
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 3.6:
+        non_striker: Darwish Rasooli
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 4.1:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Darwish Rasooli
+    - 4.2:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 4.3:
+        non_striker: Darwish Rasooli
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 4.4:
+        non_striker: Darwish Rasooli
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 4.5:
+        non_striker: Darwish Rasooli
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 4.6:
+        non_striker: Darwish Rasooli
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 5.1:
+        non_striker: Shuvagata Hom
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Darwish Rasooli
+    - 5.2:
+        non_striker: Shuvagata Hom
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 5.3:
+        non_striker: Shuvagata Hom
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Darwish Rasooli
+    - 5.4:
+        non_striker: Shuvagata Hom
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Darwish Rasooli
+    - 5.5:
+        non_striker: Shuvagata Hom
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 5.6:
+        non_striker: Darwish Rasooli
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shuvagata Hom
+    - 6.1:
+        non_striker: Shuvagata Hom
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 6.2:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 6.3:
+        non_striker: Shuvagata Hom
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 6.4:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 6.5:
+        non_striker: Shuvagata Hom
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 6.6:
+        non_striker: Darwish Rasooli
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 7.1:
+        non_striker: Darwish Rasooli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 7.2:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 7.3:
+        non_striker: Darwish Rasooli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 7.4:
+        non_striker: Darwish Rasooli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuvagata Hom
+    - 7.5:
+        non_striker: Darwish Rasooli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuvagata Hom
+    - 7.6:
+        non_striker: Darwish Rasooli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 8.1:
+        non_striker: Darwish Rasooli
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shuvagata Hom
+    - 8.2:
+        non_striker: Darwish Rasooli
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 8.3:
+        non_striker: Darwish Rasooli
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shuvagata Hom
+    - 8.4:
+        non_striker: Shuvagata Hom
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 8.5:
+        non_striker: Darwish Rasooli
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 8.6:
+        non_striker: Darwish Rasooli
+        bowler: Mohammad Nawaz (3)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuvagata Hom
+    - 9.1:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 9.2:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+        wicket:
+          player_out: Darwish Rasooli
+          fielders:
+          - Mohammad Nawaz (3)
+          kind: caught
+    - 9.3:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 9.4:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 9.5:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ziaur Rahman
+    - 9.6:
+        non_striker: Shuvagata Hom
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 10.1:
+        non_striker: Ziaur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 10.2:
+        non_striker: Ziaur Rahman
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 10.3:
+        non_striker: Shuvagata Hom
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 10.4:
+        non_striker: Shuvagata Hom
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 10.5:
+        non_striker: Shuvagata Hom
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ziaur Rahman
+    - 10.6:
+        non_striker: Shuvagata Hom
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ziaur Rahman
+    - 11.1:
+        non_striker: Ziaur Rahman
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 11.2:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ziaur Rahman
+    - 11.3:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+    - 11.4:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ziaur Rahman
+    - 11.5:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ziaur Rahman
+        wicket:
+          player_out: Ziaur Rahman
+          fielders:
+          - Aaron Jones (sub)
+          kind: caught
+    - 11.6:
+        non_striker: Shuvagata Hom
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 12.1:
+        non_striker: Shuvagata Hom
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 12.2:
+        non_striker: Shuvagata Hom
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 12.3:
+        non_striker: Shuvagata Hom
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 12.4:
+        non_striker: V Viyaskanth
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shuvagata Hom
+    - 12.5:
+        non_striker: V Viyaskanth
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 12.6:
+        non_striker: V Viyaskanth
+        bowler: Rakibul Hasan (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 13.1:
+        non_striker: V Viyaskanth
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+        wicket:
+          player_out: Shuvagata Hom
+          fielders:
+          - Mohammad Nawaz (3)
+          kind: caught
+    - 13.2:
+        non_striker: V Viyaskanth
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mrittunjoy Chowdhury
+    - 13.3:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Viyaskanth
+    - 13.4:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Viyaskanth
+    - 13.5:
+        non_striker: V Viyaskanth
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 13.6:
+        non_striker: V Viyaskanth
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 13.7:
+        non_striker: V Viyaskanth
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 14.1:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 14.2:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 14.3:
+        non_striker: V Viyaskanth
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mrittunjoy Chowdhury
+    - 14.4:
+        non_striker: V Viyaskanth
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mrittunjoy Chowdhury
+    - 14.5:
+        non_striker: V Viyaskanth
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mrittunjoy Chowdhury
+    - 14.6:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 15.1:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 15.2:
+        non_striker: V Viyaskanth
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mrittunjoy Chowdhury
+    - 15.3:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+        wicket:
+          player_out: V Viyaskanth
+          fielders:
+          - Mohammad Naim
+          kind: run out
+    - 15.4:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Rana
+    - 15.5:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Rana
+        wicket:
+          player_out: Mehedi Hasan Rana
+          fielders:
+          - Nurul Hasan
+          kind: stumped
+    - 15.6:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 16.1:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 16.2:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 16.3:
+        non_striker: Mrittunjoy Chowdhury
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+        wicket:
+          player_out: Taijul Islam
+          fielders:
+          - Shoaib Malik
+          kind: caught

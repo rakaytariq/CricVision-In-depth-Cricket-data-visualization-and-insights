@@ -1,0 +1,2140 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Latrobe
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-15'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Melbourne Stars
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - A Capsey
+  players:
+    Hobart Hurricanes:
+    - R Trenaman
+    - L Lee
+    - M du Preez
+    - EJ Villani
+    - NJ Carey
+    - NE Stalenberg
+    - E Manix-Geeves
+    - HNK Jensen
+    - ML Gibson
+    - A Smith
+    - M Strano
+    Melbourne Stars:
+    - L Winfield
+    - BAM Heath
+    - A Capsey
+    - A Sutherland
+    - KJ Garth
+    - N Faltum
+    - SK Moloney
+    - S Reid
+    - T Flintoff
+    - R McKenna
+    - S Day
+  registry:
+    people:
+      A Capsey: 910dd54e
+      A Smith: b125ce63
+      A Sutherland: 65d9b6b6
+      BAM Heath: 3b5a9438
+      C Seabourne: ae32fc6f
+      E Manix-Geeves: 5c225840
+      EJ Villani: cde96d97
+      HNK Jensen: b8cce99f
+      KJ Garth: 0b69a844
+      L Lee: 7b01ce83
+      L Winfield: 5230a33d
+      M Qureshi: cf34fbef
+      M Strano: f57d5dbb
+      M du Preez: e219f17a
+      ML Gibson: 27fa592f
+      N Faltum: 9a56c670
+      NE Stalenberg: 609c519e
+      NJ Carey: dff806f4
+      R McKenna: f7e41cd8
+      R Trenaman: 877dd709
+      RW Stratford: '85489579'
+      S Day: c3d27d76
+      S Reid: 1380c4c2
+      SK Moloney: a0bc8dc1
+      T Flintoff: 5471b94a
+  teams:
+  - Hobart Hurricanes
+  - Melbourne Stars
+  toss:
+    winner: Melbourne Stars
+    decision: field
+  umpires:
+  - C Seabourne
+  - M Qureshi
+  venue: Latrobe Recreation Ground, Latrobe
+innings:
+- 1st innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: L Lee
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 0.2:
+        non_striker: L Lee
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Trenaman
+    - 0.3:
+        non_striker: R Trenaman
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.4:
+        non_striker: R Trenaman
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 0.5:
+        non_striker: L Lee
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 0.6:
+        non_striker: L Lee
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+    - 1.1:
+        non_striker: R Trenaman
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 1.2:
+        non_striker: L Lee
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 1.3:
+        non_striker: R Trenaman
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 1.4:
+        non_striker: L Lee
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trenaman
+    - 1.5:
+        non_striker: L Lee
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 1.6:
+        non_striker: R Trenaman
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 2.1:
+        non_striker: L Lee
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 2.2:
+        non_striker: R Trenaman
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lee
+    - 2.3:
+        non_striker: R Trenaman
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - N Faltum
+          kind: caught
+    - 2.4:
+        non_striker: R Trenaman
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 2.5:
+        non_striker: M du Preez
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Trenaman
+    - 2.6:
+        non_striker: M du Preez
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 2.7:
+        non_striker: R Trenaman
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 3.1:
+        non_striker: M du Preez
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Trenaman
+    - 3.2:
+        non_striker: M du Preez
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 3.3:
+        non_striker: R Trenaman
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.4:
+        non_striker: R Trenaman
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - KJ Garth
+          kind: caught
+    - 3.5:
+        non_striker: R Trenaman
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 3.6:
+        non_striker: EJ Villani
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trenaman
+    - 4.1:
+        non_striker: R Trenaman
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 4.2:
+        non_striker: R Trenaman
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 4.3:
+        non_striker: EJ Villani
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Trenaman
+    - 4.4:
+        non_striker: EJ Villani
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trenaman
+    - 4.5:
+        non_striker: R Trenaman
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJ Villani
+    - 4.6:
+        non_striker: EJ Villani
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trenaman
+        wicket:
+          player_out: R Trenaman
+          kind: lbw
+    - 5.1:
+        non_striker: NJ Carey
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 5.2:
+        non_striker: EJ Villani
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 5.3:
+        non_striker: EJ Villani
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 5.4:
+        non_striker: EJ Villani
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 5.5:
+        non_striker: EJ Villani
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 5.6:
+        non_striker: NJ Carey
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.1:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 6.2:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.3:
+        non_striker: EJ Villani
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 6.4:
+        non_striker: EJ Villani
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ Carey
+    - 6.5:
+        non_striker: EJ Villani
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 6.6:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 6.7:
+        non_striker: EJ Villani
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 7.1:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJ Villani
+    - 7.2:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.3:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 7.4:
+        non_striker: EJ Villani
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 7.5:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 7.6:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 7.7:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJ Villani
+    - 7.8:
+        non_striker: NJ Carey
+        bowler: T Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 8.1:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 8.2:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          fielders:
+          - BAM Heath
+          kind: caught
+    - 8.3:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 8.4:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 8.5:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NE Stalenberg
+    - 8.6:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 9.1:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 9.2:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 9.3:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 9.4:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 9.5:
+        non_striker: NJ Carey
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 9.6:
+        non_striker: NJ Carey
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+    - 10.1:
+        non_striker: NE Stalenberg
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.2:
+        non_striker: NJ Carey
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NE Stalenberg
+    - 10.3:
+        non_striker: NJ Carey
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 10.4:
+        non_striker: NE Stalenberg
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 10.5:
+        non_striker: NJ Carey
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NE Stalenberg
+    - 10.6:
+        non_striker: NJ Carey
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 10.7:
+        non_striker: NE Stalenberg
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 11.1:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 11.2:
+        non_striker: NJ Carey
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NE Stalenberg
+    - 11.3:
+        non_striker: NJ Carey
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 11.4:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 11.5:
+        non_striker: NJ Carey
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NE Stalenberg
+    - 11.6:
+        non_striker: NE Stalenberg
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.1:
+        non_striker: NE Stalenberg
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 12.2:
+        non_striker: NJ Carey
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NE Stalenberg
+        wicket:
+          player_out: NE Stalenberg
+          kind: bowled
+    - 12.3:
+        non_striker: NJ Carey
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 12.4:
+        non_striker: NJ Carey
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 12.5:
+        non_striker: NJ Carey
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 12.6:
+        non_striker: E Manix-Geeves
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.1:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.2:
+        non_striker: NJ Carey
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 13.3:
+        non_striker: NJ Carey
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 13.4:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 13.5:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.6:
+        non_striker: NJ Carey
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 14.1:
+        non_striker: E Manix-Geeves
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ Carey
+    - 14.2:
+        non_striker: E Manix-Geeves
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 14.3:
+        non_striker: E Manix-Geeves
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 14.4:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 14.5:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Manix-Geeves
+    - 14.6:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 14.7:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 14.8:
+        non_striker: NJ Carey
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 15.1:
+        non_striker: E Manix-Geeves
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 15.2:
+        non_striker: E Manix-Geeves
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 15.3:
+        non_striker: E Manix-Geeves
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 15.4:
+        non_striker: NJ Carey
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 15.5:
+        non_striker: E Manix-Geeves
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 15.6:
+        non_striker: NJ Carey
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Manix-Geeves
+    - 16.1:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 16.2:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 16.3:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 16.4:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          fielders:
+          - T Flintoff
+          kind: caught
+    - 16.5:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 16.6:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HNK Jensen
+    - 17.1:
+        non_striker: E Manix-Geeves
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 17.2:
+        non_striker: HNK Jensen
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 17.3:
+        non_striker: E Manix-Geeves
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 17.4:
+        non_striker: HNK Jensen
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Manix-Geeves
+    - 17.5:
+        non_striker: HNK Jensen
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 17.6:
+        non_striker: E Manix-Geeves
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+        wicket:
+          player_out: HNK Jensen
+          kind: caught and bowled
+    - 18.1:
+        non_striker: ML Gibson
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 18.2:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Gibson
+        wicket:
+          player_out: ML Gibson
+          kind: bowled
+    - 18.3:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Smith
+    - 18.4:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Smith
+    - 18.5:
+        non_striker: A Smith
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 18.6:
+        non_striker: E Manix-Geeves
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 19.1:
+        non_striker: E Manix-Geeves
+        bowler: SK Moloney
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Smith
+    - 19.2:
+        non_striker: E Manix-Geeves
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 19.3:
+        non_striker: A Smith
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Manix-Geeves
+    - 19.4:
+        non_striker: E Manix-Geeves
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Smith
+    - 19.5:
+        non_striker: A Smith
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Manix-Geeves
+    - 19.6:
+        non_striker: A Smith
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Manix-Geeves
+    - 19.7:
+        non_striker: A Smith
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Manix-Geeves
+- 2nd innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: BAM Heath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 0.2:
+        non_striker: L Winfield
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 0.3:
+        non_striker: L Winfield
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 0.4:
+        non_striker: L Winfield
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 0.5:
+        non_striker: L Winfield
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 0.6:
+        non_striker: L Winfield
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 1.1:
+        non_striker: BAM Heath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 1.2:
+        non_striker: L Winfield
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 1.3:
+        non_striker: L Winfield
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 1.4:
+        non_striker: L Winfield
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 1.5:
+        non_striker: L Winfield
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 1.6:
+        non_striker: L Winfield
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 2.1:
+        non_striker: BAM Heath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+        wicket:
+          player_out: L Winfield
+          fielders:
+          - HNK Jensen
+          kind: caught
+    - 2.2:
+        non_striker: BAM Heath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 2.3:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 2.4:
+        non_striker: BAM Heath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 2.5:
+        non_striker: BAM Heath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 2.6:
+        non_striker: BAM Heath
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 3.1:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 3.2:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 3.3:
+        non_striker: BAM Heath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 3.4:
+        non_striker: BAM Heath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 3.5:
+        non_striker: BAM Heath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 3.6:
+        non_striker: BAM Heath
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 4.1:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAM Heath
+    - 4.2:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 4.3:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+        wicket:
+          player_out: BAM Heath
+          fielders:
+          - A Smith
+          kind: caught
+    - 4.4:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 4.5:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 4.6:
+        non_striker: A Sutherland
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 5.1:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 5.2:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 5.3:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 5.4:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 5.5:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 5.6:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 6.1:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 6.2:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 6.3:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 6.4:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 6.5:
+        non_striker: A Capsey
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 6.6:
+        non_striker: A Sutherland
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 7.1:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 7.2:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 7.3:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 7.4:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 7.5:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 7.6:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 8.1:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 8.2:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 8.3:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 8.4:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 8.5:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 8.6:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 9.1:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 9.2:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 9.3:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 9.4:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 9.5:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 9.6:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 10.1:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 10.2:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Capsey
+    - 10.3:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 10.4:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 10.5:
+        non_striker: A Sutherland
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 10.6:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 11.1:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 11.2:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 11.3:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 11.4:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 11.5:
+        non_striker: A Sutherland
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 11.6:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 12.1:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 12.2:
+        non_striker: A Sutherland
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 12.3:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 12.4:
+        non_striker: A Sutherland
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 12.5:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          fielders:
+          - A Smith
+          kind: caught
+    - 12.6:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 13.1:
+        non_striker: KJ Garth
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+        wicket:
+          player_out: KJ Garth
+          fielders:
+          - EJ Villani
+          - NE Stalenberg
+          kind: run out
+    - 13.2:
+        non_striker: N Faltum
+        bowler: A Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 13.3:
+        non_striker: N Faltum
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 13.4:
+        non_striker: A Capsey
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 13.5:
+        non_striker: N Faltum
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 13.6:
+        non_striker: N Faltum
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 13.7:
+        non_striker: N Faltum
+        bowler: A Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 14.1:
+        non_striker: N Faltum
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 14.2:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 14.3:
+        non_striker: N Faltum
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 14.4:
+        non_striker: A Capsey
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 14.5:
+        non_striker: N Faltum
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Capsey
+    - 14.6:
+        non_striker: N Faltum
+        bowler: ML Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 15.1:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 15.2:
+        non_striker: N Faltum
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 15.3:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 15.4:
+        non_striker: N Faltum
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 15.5:
+        non_striker: N Faltum
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 15.6:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 16.1:
+        non_striker: N Faltum
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 16.2:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 16.3:
+        non_striker: N Faltum
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 16.4:
+        non_striker: N Faltum
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Capsey
+    - 16.5:
+        non_striker: N Faltum
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 16.6:
+        non_striker: N Faltum
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 17.1:
+        non_striker: N Faltum
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 17.2:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+        wicket:
+          player_out: N Faltum
+          fielders:
+          - ML Gibson
+          kind: caught
+    - 17.3:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Moloney
+    - 17.4:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Moloney
+        wicket:
+          player_out: SK Moloney
+          kind: lbw
+    - 17.5:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Reid
+    - 17.6:
+        non_striker: A Capsey
+        bowler: M Strano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Reid
+    - 18.1:
+        non_striker: A Capsey
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Reid
+    - 18.2:
+        non_striker: S Reid
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 18.3:
+        non_striker: S Reid
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Capsey
+    - 18.4:
+        non_striker: S Reid
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Capsey
+    - 18.5:
+        non_striker: S Reid
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 18.6:
+        non_striker: S Reid
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 18.7:
+        non_striker: S Reid
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Capsey
+    - 19.1:
+        non_striker: S Reid
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey

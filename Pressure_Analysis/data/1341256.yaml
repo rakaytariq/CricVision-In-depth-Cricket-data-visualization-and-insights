@@ -1,0 +1,1413 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dunedin
+  competition: Women's Super Smash
+  dates:
+  - '2023-02-09'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Otago:
+    - IR James
+    - ON Gain
+    - PM Inglis
+    - KE Broadmore
+    - LCN Smith
+    - FC Leydon-Davis
+    - CG Blakely
+    - KL Gordon
+    - EJ Black
+    - SA Oldershaw
+    - ME Loe
+    Canterbury:
+    - KG Anderson
+    - LEV Hughes
+    - AE Satterthwaite
+    - IG Sharp
+    - NB Cox
+    - FC Wilson
+    - AG Gerken
+    - MJ Banks
+    - GES Sullivan
+    - AG Hotton
+    - SR Asmussen
+  registry:
+    people:
+      AE Satterthwaite: 72b7ed1e
+      AG Gerken: a7fcf627
+      AG Hotton: 32c6f715
+      BF Bowden: efc0a862
+      C Black: 75b42f71
+      CG Blakely: 8f999ed5
+      EJ Black: 2817e17a
+      FC Leydon-Davis: b91efad5
+      FC Wilson: a28132bd
+      GB Troup: 94f0e744
+      GES Sullivan: 165b9097
+      IG Sharp: 4de0779a
+      IR James: 57bdbc16
+      KE Broadmore: 7c0055c1
+      KG Anderson: ae79a86f
+      KL Gordon: '00823a96'
+      LCN Smith: 340202b0
+      LEV Hughes: 5b43fe48
+      ME Loe: 37f93dc8
+      MJ Banks: 1e17a238
+      N Louw: 465c4770
+      NB Cox: 219f1323
+      ON Gain: '67913804'
+      PM Inglis: e4a71d18
+      SA Oldershaw: 93b4f6f6
+      SR Asmussen: '31972229'
+      WR Knights: 63cbf8d8
+  teams:
+  - Otago
+  - Canterbury
+  toss:
+    winner: Canterbury
+    decision: field
+  umpires:
+  - BF Bowden
+  - WR Knights
+  venue: University Oval, Dunedin
+innings:
+- 1st innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ON Gain
+        batsman: IR James
+    - 0.2:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 0.3:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 0.4:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+        wicket:
+          player_out: ON Gain
+          fielders:
+          - MJ Banks
+          kind: run out
+    - 0.5:
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.6:
+        non_striker: IR James
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 1.1:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.2:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PM Inglis
+    - 1.3:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.4:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.5:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.6:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.7:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 2.1:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 2.2:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: IR James
+    - 2.3:
+        non_striker: IR James
+        bowler: MJ Banks
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PM Inglis
+    - 2.4:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IR James
+    - 2.5:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 2.6:
+        non_striker: IR James
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.7:
+        non_striker: IR James
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 2.8:
+        non_striker: IR James
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 3.1:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 3.2:
+        non_striker: IR James
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 3.3:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 3.4:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          kind: lbw
+    - 3.5:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 3.6:
+        non_striker: PM Inglis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 4.1:
+        non_striker: KE Broadmore
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 4.2:
+        non_striker: KE Broadmore
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 4.3:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 4.4:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Broadmore
+    - 4.5:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 4.6:
+        non_striker: PM Inglis
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+    - 5.1:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 5.2:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 5.3:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 5.4:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 5.5:
+        non_striker: PM Inglis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 5.6:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 6.1:
+        non_striker: PM Inglis
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 6.2:
+        non_striker: PM Inglis
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 6.3:
+        non_striker: KE Broadmore
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 6.4:
+        non_striker: KE Broadmore
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 6.5:
+        non_striker: PM Inglis
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 6.6:
+        non_striker: PM Inglis
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.1:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.2:
+        non_striker: KE Broadmore
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+    - 7.3:
+        non_striker: KE Broadmore
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 7.4:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Broadmore
+    - 7.5:
+        non_striker: PM Inglis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Broadmore
+    - 7.6:
+        non_striker: KE Broadmore
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 8.1:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+        wicket:
+          player_out: PM Inglis
+          fielders:
+          - KG Anderson
+          kind: caught
+    - 8.2:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LCN Smith
+    - 8.3:
+        non_striker: KE Broadmore
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 8.4:
+        non_striker: LCN Smith
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Broadmore
+        wicket:
+          player_out: KE Broadmore
+          kind: lbw
+    - 8.5:
+        non_striker: LCN Smith
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 8.6:
+        non_striker: FC Leydon-Davis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LCN Smith
+    - 9.1:
+        non_striker: FC Leydon-Davis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LCN Smith
+        wicket:
+          player_out: LCN Smith
+          fielders:
+          - AE Satterthwaite
+          kind: caught
+    - 9.2:
+        non_striker: FC Leydon-Davis
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 9.3:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 9.4:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 9.5:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Leydon-Davis
+    - 9.6:
+        non_striker: CG Blakely
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 10.1:
+        non_striker: CG Blakely
+        bowler: AG Hotton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: FC Leydon-Davis
+    - 10.2:
+        non_striker: FC Leydon-Davis
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 10.3:
+        non_striker: CG Blakely
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FC Leydon-Davis
+    - 10.4:
+        non_striker: CG Blakely
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 10.5:
+        non_striker: FC Leydon-Davis
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 10.6:
+        non_striker: CG Blakely
+        bowler: AG Hotton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Leydon-Davis
+    - 11.1:
+        non_striker: FC Leydon-Davis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Blakely
+    - 11.2:
+        non_striker: FC Leydon-Davis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Blakely
+    - 11.3:
+        non_striker: CG Blakely
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Leydon-Davis
+    - 11.4:
+        non_striker: CG Blakely
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 11.5:
+        non_striker: FC Leydon-Davis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+        wicket:
+          player_out: CG Blakely
+          kind: bowled
+    - 11.6:
+        non_striker: FC Leydon-Davis
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 12.1:
+        non_striker: FC Leydon-Davis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Gordon
+    - 12.2:
+        non_striker: KL Gordon
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Leydon-Davis
+    - 12.3:
+        non_striker: FC Leydon-Davis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Gordon
+        wicket:
+          player_out: KL Gordon
+          fielders:
+          - FC Wilson
+          kind: caught
+    - 12.4:
+        non_striker: FC Leydon-Davis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black
+        wicket:
+          player_out: EJ Black
+          fielders:
+          - KG Anderson
+          kind: caught
+    - 12.5:
+        non_striker: FC Leydon-Davis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Oldershaw
+    - 12.6:
+        non_striker: FC Leydon-Davis
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Oldershaw
+        wicket:
+          player_out: SA Oldershaw
+          fielders:
+          - IG Sharp
+          kind: caught
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        non_striker: LEV Hughes
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          fielders:
+          - PM Inglis
+          kind: caught
+    - 0.2:
+        non_striker: LEV Hughes
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 0.3:
+        non_striker: LEV Hughes
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 0.4:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 0.5:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 0.6:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 1.1:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 1.2:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 1.3:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 1.4:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 1.5:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 1.6:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 2.1:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 2.2:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 2.3:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LEV Hughes
+    - 2.4:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LEV Hughes
+    - 2.5:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 2.6:
+        non_striker: LEV Hughes
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 3.1:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.2:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 3.3:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 3.4:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 3.5:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 3.6:
+        non_striker: LEV Hughes
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 4.1:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 4.2:
+        non_striker: LEV Hughes
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 4.3:
+        non_striker: LEV Hughes
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 4.4:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LEV Hughes
+    - 4.5:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LEV Hughes
+    - 4.6:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LEV Hughes
+    - 4.7:
+        non_striker: AE Satterthwaite
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LEV Hughes
+    - 5.1:
+        non_striker: LEV Hughes
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 5.2:
+        non_striker: LEV Hughes
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 5.3:
+        non_striker: LEV Hughes
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 5.4:
+        non_striker: LEV Hughes
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 5.5:
+        non_striker: LEV Hughes
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 5.6:
+        non_striker: LEV Hughes
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 6.1:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 6.2:
+        non_striker: LEV Hughes
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 6.3:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+        wicket:
+          player_out: LEV Hughes
+          fielders:
+          - FC Leydon-Davis
+          kind: caught
+    - 6.4:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 6.5:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 6.6:
+        non_striker: IG Sharp
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.1:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 7.2:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 7.3:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 7.4:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 7.5:
+        non_striker: IG Sharp
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 7.6:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 8.1:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IG Sharp
+    - 8.2:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 8.3:
+        non_striker: IG Sharp
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 8.4:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+    - 8.5:
+        non_striker: AE Satterthwaite
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Sharp
+    - 8.6:
+        non_striker: IG Sharp
+        bowler: KE Broadmore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 9.1:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          fielders:
+          - CG Blakely
+          kind: caught
+    - 9.2:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 9.3:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 9.4:
+        non_striker: NB Cox
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 9.5:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 9.6:
+        non_striker: AE Satterthwaite
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 10.1:
+        non_striker: AE Satterthwaite
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 10.2:
+        non_striker: NB Cox
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 10.3:
+        non_striker: AE Satterthwaite
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 10.4:
+        non_striker: NB Cox
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 10.5:
+        non_striker: AE Satterthwaite
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 10.6:
+        non_striker: NB Cox
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 11.1:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NB Cox
+    - 11.2:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NB Cox
+    - 11.3:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 11.4:
+        non_striker: NB Cox
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 11.5:
+        non_striker: NB Cox
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 11.6:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 12.1:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 12.2:
+        non_striker: NB Cox
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 12.3:
+        non_striker: AE Satterthwaite
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NB Cox

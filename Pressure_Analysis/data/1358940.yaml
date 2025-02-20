@@ -1,0 +1,2121 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: Women's Premier League
+  dates:
+  - '2023-03-14'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      runs: 55
+  overs: 20
+  player_of_match:
+  - H Kaur
+  players:
+    Mumbai Indians:
+    - YH Bhatia
+    - HK Matthews
+    - NR Sciver
+    - H Kaur
+    - AC Kerr
+    - IECM Wong
+    - HY Kazi
+    - DV Gujjar
+    - AB Kaur
+    - JN Kalita
+    - S Ishaque
+    Gujarat Giants:
+    - SIR Dunkley
+    - S Meghana
+    - H Deol
+    - A Sutherland
+    - A Gardner
+    - Sneh Rana
+    - D Hemalatha
+    - S Verma
+    - KJ Garth
+    - TP Kanwar
+    - M Joshi
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Sutherland: 65d9b6b6
+      AB Kaur: 9565fda6
+      AC Kerr: 7673c908
+      Chirra Ravikanthreddy: 8b680f55
+      D Hemalatha: 1d6ff329
+      DV Gujjar: 7d5f23c3
+      Gayathri Venugopal: 20e3ae99
+      H Deol: 3664712e
+      H Kaur: 53cd8da6
+      HK Matthews: d32cf49a
+      HY Kazi: 16954a36
+      IECM Wong: e5b17517
+      JN Kalita: 4c3bbf03
+      KJ Garth: 0b69a844
+      M Joshi: 47fb8d80
+      N Janani: d06a665d
+      NR Sciver: f3a18a0c
+      S Ishaque: f2c1f0e5
+      S Meghana: 302fb7ae
+      S Rana: c4c374d9
+      S Verma: 185e6c0c
+      SIR Dunkley: 3a9e9cb2
+      TP Kanwar: 443c122f
+      VG Rathi: 144e5b16
+      VR Nagre: fadaac76
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - Mumbai Indians
+  - Gujarat Giants
+  toss:
+    winner: Gujarat Giants
+    decision: field
+  umpires:
+  - Chirra Ravikanthreddy
+  - Gayathri Venugopal
+  venue: Brabourne Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 0.2:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - SIR Dunkley
+          kind: caught
+    - 0.5:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 0.6:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 1.1:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 1.2:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 1.3:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 1.4:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 1.5:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 1.6:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 2.1:
+        non_striker: NR Sciver
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 2.2:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 2.3:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 2.4:
+        non_striker: NR Sciver
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.5:
+        non_striker: NR Sciver
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.6:
+        non_striker: NR Sciver
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.1:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.2:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.3:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 3.4:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 3.5:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 3.6:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 4.1:
+        non_striker: NR Sciver
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.2:
+        non_striker: NR Sciver
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 4.3:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 4.4:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 4.5:
+        non_striker: NR Sciver
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 4.6:
+        non_striker: NR Sciver
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 5.1:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.2:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.3:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 5.4:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 5.5:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 5.6:
+        non_striker: YH Bhatia
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 6.1:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 6.2:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 6.3:
+        non_striker: YH Bhatia
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 6.4:
+        non_striker: YH Bhatia
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 6.5:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 6.6:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.1:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 7.2:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 7.3:
+        non_striker: NR Sciver
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 7.4:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 7.5:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 7.6:
+        non_striker: YH Bhatia
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.1:
+        non_striker: YH Bhatia
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.2:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 8.3:
+        non_striker: YH Bhatia
+        bowler: TP Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NR Sciver
+    - 8.4:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 8.5:
+        non_striker: YH Bhatia
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.6:
+        non_striker: NR Sciver
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 9.1:
+        non_striker: YH Bhatia
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 9.2:
+        non_striker: YH Bhatia
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 9.3:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 9.4:
+        non_striker: YH Bhatia
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 9.5:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YH Bhatia
+    - 9.6:
+        non_striker: NR Sciver
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 10.1:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 10.2:
+        non_striker: NR Sciver
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 10.3:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 10.4:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Sciver
+    - 10.5:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 10.6:
+        non_striker: YH Bhatia
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+        wicket:
+          player_out: NR Sciver
+          kind: lbw
+    - 11.1:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 11.2:
+        non_striker: YH Bhatia
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.3:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 11.4:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 11.5:
+        non_striker: YH Bhatia
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.6:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: YH Bhatia
+    - 12.1:
+        non_striker: H Kaur
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - S Meghana
+          - S Verma
+          kind: run out
+    - 12.2:
+        non_striker: H Kaur
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: H Kaur
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: AC Kerr
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: Sneh Rana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: H Kaur
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.1:
+        non_striker: H Kaur
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: H Kaur
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.4:
+        non_striker: H Kaur
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: H Kaur
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 14.3:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.4:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.6:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.3:
+        non_striker: H Kaur
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.6:
+        non_striker: H Kaur
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.1:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 16.2:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: AC Kerr
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 16.5:
+        non_striker: AC Kerr
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 16.6:
+        non_striker: AC Kerr
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 16.7:
+        non_striker: H Kaur
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - KJ Garth
+          kind: caught
+    - 17.1:
+        non_striker: IECM Wong
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 17.2:
+        non_striker: H Kaur
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IECM Wong
+        wicket:
+          player_out: IECM Wong
+          kind: caught and bowled
+    - 17.3:
+        non_striker: H Kaur
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HY Kazi
+    - 17.4:
+        non_striker: HY Kazi
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 17.5:
+        non_striker: HY Kazi
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 17.6:
+        non_striker: HY Kazi
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.1:
+        non_striker: H Kaur
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HY Kazi
+    - 18.2:
+        non_striker: HY Kazi
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.3:
+        non_striker: HY Kazi
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaur
+    - 18.4:
+        non_striker: HY Kazi
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+        wicket:
+          player_out: HY Kazi
+          fielders:
+          - H Deol
+          kind: run out
+    - 18.5:
+        non_striker: DV Gujjar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 18.6:
+        non_striker: DV Gujjar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaur
+    - 19.1:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DV Gujjar
+    - 19.2:
+        non_striker: DV Gujjar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 19.3:
+        non_striker: DV Gujjar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 19.4:
+        non_striker: DV Gujjar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - H Deol
+          kind: caught
+    - 19.5:
+        non_striker: DV Gujjar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+        wicket:
+          player_out: AB Kaur
+          fielders:
+          - SIR Dunkley
+          kind: caught
+    - 19.6:
+        non_striker: DV Gujjar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Kalita
+- 2nd innings:
+    team: Gujarat Giants
+    deliveries:
+    - 0.1:
+        non_striker: S Meghana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: lbw
+    - 0.2:
+        non_striker: S Meghana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 0.3:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 0.4:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 0.5:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 0.6:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 1.1:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 1.2:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 1.3:
+        non_striker: H Deol
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Meghana
+    - 1.4:
+        non_striker: H Deol
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 1.5:
+        non_striker: H Deol
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 1.6:
+        non_striker: H Deol
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 2.1:
+        non_striker: S Meghana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 2.2:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 2.3:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Meghana
+    - 2.4:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 2.5:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 2.6:
+        non_striker: H Deol
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Meghana
+    - 3.1:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 3.2:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 3.3:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 3.4:
+        non_striker: H Deol
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Meghana
+    - 3.5:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 3.6:
+        non_striker: S Meghana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.1:
+        non_striker: H Deol
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Meghana
+    - 4.2:
+        non_striker: H Deol
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Meghana
+    - 4.3:
+        non_striker: S Meghana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.4:
+        non_striker: S Meghana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.5:
+        non_striker: S Meghana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 4.6:
+        non_striker: S Meghana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 4.7:
+        non_striker: S Meghana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 5.1:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Meghana
+    - 5.2:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Meghana
+    - 5.3:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+        wicket:
+          player_out: S Meghana
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 5.4:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 5.5:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 5.6:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 5.7:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          kind: lbw
+    - 6.1:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 6.2:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 6.3:
+        non_striker: H Deol
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 6.4:
+        non_striker: H Deol
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 6.5:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 6.6:
+        non_striker: H Deol
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 7.1:
+        non_striker: A Gardner
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 7.2:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 7.3:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.4:
+        non_striker: A Gardner
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 7.5:
+        non_striker: H Deol
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.6:
+        non_striker: A Gardner
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 8.1:
+        non_striker: A Gardner
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 8.2:
+        non_striker: A Gardner
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 8.3:
+        non_striker: H Deol
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 8.4:
+        non_striker: H Deol
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 8.5:
+        non_striker: H Deol
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 8.6:
+        non_striker: A Gardner
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+        wicket:
+          player_out: H Deol
+          kind: lbw
+    - 9.1:
+        non_striker: D Hemalatha
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          fielders:
+          - JN Kalita
+          player_out: A Gardner
+          kind: caught
+    - 9.2:
+        non_striker: D Hemalatha
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 9.3:
+        non_striker: D Hemalatha
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 9.4:
+        non_striker: D Hemalatha
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 9.5:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Hemalatha
+        batsman: Sneh Rana
+    - 9.6:
+        non_striker: Sneh Rana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 10.1:
+        non_striker: D Hemalatha
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 10.2:
+        non_striker: D Hemalatha
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 10.3:
+        non_striker: D Hemalatha
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 10.4:
+        non_striker: Sneh Rana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 10.5:
+        non_striker: Sneh Rana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 10.6:
+        non_striker: Sneh Rana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 11.1:
+        non_striker: Sneh Rana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 11.2:
+        non_striker: D Hemalatha
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 11.3:
+        non_striker: Sneh Rana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+        wicket:
+          player_out: D Hemalatha
+          fielders:
+          - IECM Wong
+          kind: caught
+    - 11.4:
+        non_striker: Sneh Rana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 11.5:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sneh Rana
+    - 11.6:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 12.1:
+        non_striker: Sneh Rana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+    - 12.2:
+        non_striker: Sneh Rana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 12.3:
+        non_striker: S Verma
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+    - 12.4:
+        non_striker: S Verma
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 12.5:
+        non_striker: Sneh Rana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Verma
+    - 12.6:
+        non_striker: Sneh Rana
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 13.1:
+        non_striker: Sneh Rana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 13.2:
+        non_striker: S Verma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 13.3:
+        non_striker: Sneh Rana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 13.4:
+        non_striker: S Verma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 13.5:
+        non_striker: Sneh Rana
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 13.6:
+        non_striker: S Verma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 14.1:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sneh Rana
+    - 14.2:
+        non_striker: Sneh Rana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 14.3:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sneh Rana
+    - 14.4:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sneh Rana
+    - 14.5:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sneh Rana
+        wicket:
+          player_out: Sneh Rana
+          kind: lbw
+    - 14.6:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 15.1:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 15.2:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 15.3:
+        non_striker: KJ Garth
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 15.4:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 15.5:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Garth
+    - 15.6:
+        non_striker: S Verma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 16.1:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 16.2:
+        non_striker: KJ Garth
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 16.3:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+        wicket:
+          player_out: KJ Garth
+          fielders:
+          - H Kaur
+          kind: caught
+    - 16.4:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Kanwar
+    - 16.5:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Kanwar
+    - 16.6:
+        non_striker: S Verma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Kanwar
+    - 17.1:
+        non_striker: TP Kanwar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+    - 17.2:
+        non_striker: TP Kanwar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 17.3:
+        non_striker: S Verma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Kanwar
+        wicket:
+          player_out: TP Kanwar
+          fielders:
+          - YH Bhatia
+          kind: caught
+    - 17.4:
+        non_striker: S Verma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Joshi
+    - 17.5:
+        non_striker: S Verma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Joshi
+    - 17.6:
+        non_striker: M Joshi
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 18.1:
+        non_striker: M Joshi
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 18.2:
+        non_striker: S Verma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Joshi
+    - 18.3:
+        non_striker: S Verma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Joshi
+    - 18.4:
+        non_striker: M Joshi
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 18.5:
+        non_striker: S Verma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Joshi
+    - 18.6:
+        non_striker: S Verma
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Joshi
+    - 19.1:
+        non_striker: M Joshi
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma
+    - 19.2:
+        non_striker: M Joshi
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Verma
+    - 19.3:
+        non_striker: S Verma
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Joshi
+    - 19.4:
+        non_striker: S Verma
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Joshi
+    - 19.5:
+        non_striker: S Verma
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Joshi
+    - 19.6:
+        non_striker: M Joshi
+        bowler: S Ishaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Verma

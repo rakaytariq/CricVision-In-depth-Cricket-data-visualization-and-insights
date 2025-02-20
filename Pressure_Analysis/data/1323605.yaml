@@ -1,0 +1,2181 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Moe
+  competition: Women's Big Bash League
+  dates:
+  - '2022-11-19'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Melbourne Stars
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - SK Moloney
+  players:
+    Melbourne Stars:
+    - L Winfield
+    - S Reid
+    - A Capsey
+    - A Sutherland
+    - BAM Heath
+    - N Faltum
+    - KJ Garth
+    - SK Moloney
+    - U Raymond-Hoey
+    - R McKenna
+    - S Day
+    Perth Scorchers:
+    - SFM Devine
+    - BL Mooney
+    - C Piparo
+    - ML Green
+    - M Kapp
+    - AL Edgar
+    - M Carmichael
+    - A King
+    - P Cleary
+    - L Mills
+    - T Peschel
+  registry:
+    people:
+      A Capsey: 910dd54e
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      AL Edgar: 795ff893
+      BAM Heath: 3b5a9438
+      BL Mooney: 52d1dbc8
+      C Piparo: 276f3dde
+      KJ Garth: 0b69a844
+      L McCabe: 1dbc4a64
+      L Mills: c35a0b8a
+      L Winfield: 5230a33d
+      M Carmichael: 4b546c04
+      M Kapp: 63e3b6b3
+      ML Green: 865eae1f
+      Mattis van Eck: bf1a68c1
+      N Faltum: 9a56c670
+      P Cleary: 507acf2e
+      R McKenna: f7e41cd8
+      RW Stratford: '85489579'
+      S Day: c3d27d76
+      S Reid: 1380c4c2
+      SFM Devine: de69af96
+      SK Moloney: a0bc8dc1
+      T Peschel: 923402d8
+      U Raymond-Hoey: 1a510809
+  teams:
+  - Melbourne Stars
+  - Perth Scorchers
+  toss:
+    winner: Perth Scorchers
+    decision: field
+  umpires:
+  - L McCabe
+  - Mattis van Eck
+  venue: Ted Summerton Reserve, Moe
+innings:
+- 1st innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: S Reid
+        bowler: T Peschel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Winfield
+    - 0.2:
+        non_striker: S Reid
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 0.3:
+        non_striker: S Reid
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Winfield
+    - 0.4:
+        non_striker: S Reid
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 0.5:
+        non_striker: S Reid
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 0.6:
+        non_striker: L Winfield
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Reid
+    - 0.7:
+        non_striker: L Winfield
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Reid
+    - 1.1:
+        non_striker: S Reid
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 1.2:
+        non_striker: L Winfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Reid
+    - 1.3:
+        non_striker: S Reid
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Winfield
+    - 1.4:
+        non_striker: L Winfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Reid
+    - 1.5:
+        non_striker: L Winfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Reid
+    - 1.6:
+        non_striker: L Winfield
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Reid
+    - 2.1:
+        non_striker: S Reid
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Winfield
+    - 2.2:
+        non_striker: S Reid
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 2.3:
+        non_striker: S Reid
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 2.4:
+        non_striker: S Reid
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 2.5:
+        non_striker: S Reid
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 2.6:
+        non_striker: L Winfield
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Reid
+    - 3.1:
+        non_striker: S Reid
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 3.2:
+        non_striker: S Reid
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 3.3:
+        non_striker: S Reid
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 3.4:
+        non_striker: S Reid
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 3.5:
+        non_striker: S Reid
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 3.6:
+        non_striker: S Reid
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 4.1:
+        non_striker: L Winfield
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Reid
+    - 4.2:
+        non_striker: L Winfield
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Reid
+    - 4.3:
+        non_striker: S Reid
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Winfield
+    - 4.4:
+        non_striker: S Reid
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 4.5:
+        non_striker: S Reid
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 4.6:
+        non_striker: L Winfield
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Reid
+    - 5.1:
+        non_striker: L Winfield
+        bowler: A King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Reid
+    - 5.2:
+        non_striker: L Winfield
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Reid
+    - 5.3:
+        non_striker: S Reid
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.4:
+        non_striker: S Reid
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 5.5:
+        non_striker: L Winfield
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Reid
+        wicket:
+          player_out: S Reid
+          kind: bowled
+    - 5.6:
+        non_striker: L Winfield
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 6.1:
+        non_striker: A Capsey
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Winfield
+    - 6.2:
+        non_striker: L Winfield
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 6.3:
+        non_striker: A Capsey
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Winfield
+    - 6.4:
+        non_striker: A Capsey
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+        wicket:
+          player_out: L Winfield
+          kind: lbw
+    - 6.5:
+        non_striker: A Capsey
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 6.6:
+        non_striker: A Capsey
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 7.1:
+        non_striker: A Sutherland
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 7.2:
+        non_striker: A Sutherland
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 7.3:
+        non_striker: A Sutherland
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 7.4:
+        non_striker: A Sutherland
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 7.5:
+        non_striker: A Sutherland
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 7.6:
+        non_striker: A Capsey
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 8.1:
+        non_striker: A Sutherland
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 8.2:
+        non_striker: A Sutherland
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 8.3:
+        non_striker: A Capsey
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 8.4:
+        non_striker: A Sutherland
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Capsey
+    - 8.5:
+        non_striker: A Sutherland
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 8.6:
+        non_striker: A Sutherland
+        bowler: T Peschel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 9.1:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 9.2:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 9.3:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          kind: bowled
+    - 9.4:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 9.5:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 9.6:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 9.7:
+        non_striker: BAM Heath
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 10.1:
+        non_striker: BAM Heath
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 10.2:
+        non_striker: A Sutherland
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 10.3:
+        non_striker: A Sutherland
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 10.4:
+        non_striker: BAM Heath
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 10.5:
+        non_striker: BAM Heath
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 10.6:
+        non_striker: A Sutherland
+        bowler: L Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.1:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.2:
+        non_striker: BAM Heath
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 11.3:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 11.4:
+        non_striker: A Sutherland
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAM Heath
+    - 11.5:
+        non_striker: BAM Heath
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 11.6:
+        non_striker: BAM Heath
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 12.1:
+        non_striker: BAM Heath
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 12.2:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 12.3:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAM Heath
+    - 12.4:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAM Heath
+    - 12.5:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAM Heath
+    - 12.6:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAM Heath
+    - 12.7:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+    - 13.1:
+        non_striker: BAM Heath
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 13.2:
+        non_striker: BAM Heath
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 13.3:
+        non_striker: BAM Heath
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 13.4:
+        non_striker: BAM Heath
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 13.5:
+        non_striker: BAM Heath
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 13.6:
+        non_striker: BAM Heath
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 14.1:
+        non_striker: BAM Heath
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          fielders:
+          - T Peschel
+          kind: caught
+    - 14.2:
+        non_striker: BAM Heath
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+    - 14.3:
+        non_striker: BAM Heath
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Faltum
+    - 14.4:
+        non_striker: BAM Heath
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Faltum
+    - 14.5:
+        non_striker: N Faltum
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAM Heath
+    - 14.6:
+        non_striker: N Faltum
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAM Heath
+        wicket:
+          player_out: BAM Heath
+          fielders:
+          - A King
+          kind: caught
+    - 15.1:
+        non_striker: KJ Garth
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Faltum
+        wicket:
+          player_out: N Faltum
+          fielders:
+          - SFM Devine
+          kind: caught
+    - 15.2:
+        non_striker: KJ Garth
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Moloney
+    - 15.3:
+        non_striker: KJ Garth
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Moloney
+    - 15.4:
+        non_striker: KJ Garth
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Moloney
+    - 15.5:
+        non_striker: KJ Garth
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Moloney
+    - 15.6:
+        non_striker: SK Moloney
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Garth
+    - 16.1:
+        non_striker: KJ Garth
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Moloney
+    - 16.2:
+        non_striker: KJ Garth
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Moloney
+    - 16.3:
+        non_striker: SK Moloney
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 16.4:
+        non_striker: SK Moloney
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 16.5:
+        non_striker: KJ Garth
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SK Moloney
+    - 16.6:
+        non_striker: KJ Garth
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SK Moloney
+    - 17.1:
+        non_striker: SK Moloney
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 17.2:
+        non_striker: SK Moloney
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Garth
+    - 17.3:
+        non_striker: SK Moloney
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 17.4:
+        non_striker: KJ Garth
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Moloney
+    - 17.5:
+        non_striker: KJ Garth
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Moloney
+    - 17.6:
+        non_striker: KJ Garth
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Moloney
+    - 18.1:
+        non_striker: SK Moloney
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 18.2:
+        non_striker: KJ Garth
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Moloney
+    - 18.3:
+        non_striker: SK Moloney
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+        wicket:
+          player_out: KJ Garth
+          fielders:
+          - SFM Devine
+          kind: caught
+    - 18.4:
+        non_striker: SK Moloney
+        bowler: P Cleary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: U Raymond-Hoey
+    - 18.5:
+        non_striker: U Raymond-Hoey
+        bowler: P Cleary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Moloney
+    - 18.6:
+        non_striker: SK Moloney
+        bowler: P Cleary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: U Raymond-Hoey
+    - 19.1:
+        non_striker: SK Moloney
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+        wicket:
+          player_out: U Raymond-Hoey
+          kind: bowled
+    - 19.2:
+        non_striker: SK Moloney
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R McKenna
+    - 19.3:
+        non_striker: SK Moloney
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R McKenna
+    - 19.4:
+        non_striker: R McKenna
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Moloney
+    - 19.5:
+        non_striker: R McKenna
+        bowler: AL Edgar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SK Moloney
+    - 19.6:
+        non_striker: R McKenna
+        bowler: AL Edgar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SK Moloney
+- 2nd innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 0.2:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 0.3:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 0.4:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 0.5:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.1:
+        non_striker: SFM Devine
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.2:
+        non_striker: SFM Devine
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.3:
+        non_striker: BL Mooney
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 1.4:
+        non_striker: BL Mooney
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.5:
+        non_striker: SFM Devine
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.6:
+        non_striker: BL Mooney
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.1:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Mooney
+    - 2.2:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 2.3:
+        non_striker: BL Mooney
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 2.4:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          kind: lbw
+    - 2.5:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 2.6:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 3.1:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 3.2:
+        non_striker: SFM Devine
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 3.3:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 3.4:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.5:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.6:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 4.1:
+        non_striker: C Piparo
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 4.2:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 4.3:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 4.4:
+        non_striker: C Piparo
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 4.5:
+        non_striker: C Piparo
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 4.6:
+        non_striker: SFM Devine
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 5.1:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Piparo
+    - 5.2:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 5.3:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Piparo
+    - 5.4:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 5.5:
+        non_striker: C Piparo
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 5.6:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 5.7:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Piparo
+    - 6.1:
+        non_striker: C Piparo
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.2:
+        non_striker: C Piparo
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.3:
+        non_striker: C Piparo
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 6.4:
+        non_striker: C Piparo
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 6.5:
+        non_striker: SFM Devine
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 6.6:
+        non_striker: SFM Devine
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 7.1:
+        non_striker: SFM Devine
+        bowler: R McKenna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Piparo
+    - 7.2:
+        non_striker: SFM Devine
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 7.3:
+        non_striker: C Piparo
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - S Reid
+          kind: caught
+    - 7.4:
+        non_striker: C Piparo
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 7.5:
+        non_striker: C Piparo
+        bowler: R McKenna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Green
+    - 7.6:
+        non_striker: C Piparo
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.7:
+        non_striker: C Piparo
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 7.8:
+        non_striker: C Piparo
+        bowler: R McKenna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.1:
+        non_striker: ML Green
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 8.2:
+        non_striker: ML Green
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 8.3:
+        non_striker: ML Green
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 8.4:
+        non_striker: C Piparo
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 8.5:
+        non_striker: ML Green
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 8.6:
+        non_striker: C Piparo
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 9.1:
+        non_striker: ML Green
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 9.2:
+        non_striker: C Piparo
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Green
+    - 9.3:
+        non_striker: ML Green
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 9.4:
+        non_striker: C Piparo
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 9.5:
+        non_striker: ML Green
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 9.6:
+        non_striker: C Piparo
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.1:
+        non_striker: C Piparo
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 10.2:
+        non_striker: C Piparo
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 10.3:
+        non_striker: C Piparo
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.4:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+    - 10.5:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Piparo
+    - 10.6:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Piparo
+    - 11.1:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.2:
+        non_striker: ML Green
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Piparo
+    - 11.3:
+        non_striker: C Piparo
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.4:
+        non_striker: ML Green
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Piparo
+    - 11.5:
+        non_striker: ML Green
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Piparo
+        wicket:
+          player_out: C Piparo
+          fielders:
+          - S Day
+          kind: caught
+    - 11.6:
+        non_striker: ML Green
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 12.1:
+        non_striker: M Kapp
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 12.2:
+        non_striker: M Kapp
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.3:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.4:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 12.5:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.6:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kapp
+    - 13.1:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 13.2:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.3:
+        non_striker: ML Green
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 13.4:
+        non_striker: ML Green
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 13.5:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.6:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - A Sutherland
+          kind: caught
+    - 14.1:
+        non_striker: AL Edgar
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 14.2:
+        non_striker: AL Edgar
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 14.3:
+        non_striker: M Kapp
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 14.4:
+        non_striker: AL Edgar
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 14.5:
+        non_striker: M Kapp
+        bowler: S Day
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AL Edgar
+    - 14.6:
+        non_striker: AL Edgar
+        bowler: S Day
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 15.1:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AL Edgar
+    - 15.2:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Edgar
+    - 15.3:
+        non_striker: M Kapp
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 15.4:
+        non_striker: AL Edgar
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - SK Moloney
+          kind: caught
+    - 15.5:
+        non_striker: AL Edgar
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Carmichael
+    - 15.6:
+        non_striker: AL Edgar
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 15.7:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 15.8:
+        non_striker: AL Edgar
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 16.1:
+        non_striker: AL Edgar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 16.2:
+        non_striker: M Carmichael
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+    - 16.3:
+        non_striker: M Carmichael
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 16.4:
+        non_striker: AL Edgar
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Carmichael
+    - 16.5:
+        non_striker: M Carmichael
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Edgar
+    - 16.6:
+        non_striker: AL Edgar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 17.1:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Edgar
+        wicket:
+          player_out: AL Edgar
+          fielders:
+          - A Sutherland
+          kind: caught
+    - 17.2:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 17.3:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King
+    - 17.4:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 17.5:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 17.6:
+        non_striker: M Carmichael
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 18.1:
+        non_striker: A King
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael
+    - 18.2:
+        non_striker: M Carmichael
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 18.3:
+        non_striker: M Carmichael
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King
+    - 18.4:
+        non_striker: M Carmichael
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 18.5:
+        non_striker: M Carmichael
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+        wicket:
+          player_out: A King
+          fielders:
+          - L Winfield
+          kind: caught
+    - 18.6:
+        non_striker: M Carmichael
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cleary
+    - 19.1:
+        non_striker: P Cleary
+        bowler: SK Moloney
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: M Carmichael
+    - 19.2:
+        non_striker: M Carmichael
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Cleary
+    - 19.3:
+        non_striker: M Carmichael
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Cleary
+    - 19.4:
+        non_striker: M Carmichael
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Cleary
+    - 19.5:
+        non_striker: M Carmichael
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Cleary
+    - 19.6:
+        non_striker: P Cleary
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carmichael
+    - 19.7:
+        non_striker: P Cleary
+        bowler: SK Moloney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carmichael

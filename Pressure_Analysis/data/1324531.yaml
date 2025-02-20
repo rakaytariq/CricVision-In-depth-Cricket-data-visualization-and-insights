@@ -1,0 +1,2152 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  competition: Lanka Premier League
+  dates:
+  - '2022-12-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kandy Falcons
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - FA Allen
+  players:
+    Kandy Falcons:
+    - P Nissanka
+    - ADS Fletcher
+    - PHKD Mendis
+    - KNA Bandara
+    - CR Brathwaite
+    - Najibullah Zadran
+    - PWH de Silva
+    - FA Allen
+    - C Karunaratne
+    - I Udana
+    - C Wijesinghe
+    Jaffna Kings:
+    - Rahmanullah Gurbaz
+    - WIA Fernando
+    - DM de Silva
+    - S Samarawickrama
+    - Shoaib Malik
+    - NLTC Perera
+    - DN Wellalage
+    - JK Fuller
+    - V Viyaskanth
+    - D Madushanka
+    - Waqar Salamkheil
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      C Karunaratne: fb3e0d39
+      C Wijesinghe: 0a2d45b0
+      CR Brathwaite: e342e5fb
+      D Madushanka: de7d833e
+      DM de Silva: 7d608e12
+      DN Wellalage: 736123bb
+      FA Allen: b52ffbbd
+      GO Brathwaite: 1ace56d4
+      I Udana: ac5ae4af
+      IC Soysa: 717a7971
+      JK Fuller: dda5aae5
+      KNA Bandara: 585dda5d
+      NLTC Perera: 0f12f9df
+      Najibullah Zadran: 1212cbec
+      P Nissanka: 8ee36b18
+      PHKD Mendis: '08548b13'
+      PWH de Silva: a97c8ec2
+      RA Kottahachchi: 808f2939
+      RMPJ Rambukwella: 13fa6ffc
+      Rahmanullah Gurbaz: 0bacade8
+      S Samarawickrama: 9ab2914d
+      Shoaib Malik: 64c34cd0
+      V Viyaskanth: 03a83c50
+      WC Labrooy: 29d4e29b
+      WIA Fernando: 9550470d
+      Waqar Salamkheil: 3f1066d0
+  teams:
+  - Kandy Falcons
+  - Jaffna Kings
+  toss:
+    winner: Kandy Falcons
+    decision: bat
+  umpires:
+  - IC Soysa
+  - GO Brathwaite
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Kandy Falcons
+    deliveries:
+    - 0.1:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 0.7:
+        non_striker: ADS Fletcher
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.4:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.5:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: P Nissanka
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.5:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          kind: caught and bowled
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 5.2:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 5.3:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 5.4:
+        non_striker: PHKD Mendis
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 6.1:
+        non_striker: PHKD Mendis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.2:
+        non_striker: PHKD Mendis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: PHKD Mendis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.4:
+        non_striker: PHKD Mendis
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 7.1:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 7.3:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          fielders:
+          - S Samarawickrama
+          kind: caught
+    - 7.4:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNA Bandara
+    - 7.6:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.1:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 8.2:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.4:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 8.5:
+        non_striker: ADS Fletcher
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 8.6:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.1:
+        non_striker: KNA Bandara
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 9.2:
+        non_striker: KNA Bandara
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 9.3:
+        non_striker: KNA Bandara
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.4:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 9.5:
+        non_striker: KNA Bandara
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.6:
+        non_striker: ADS Fletcher
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 10.1:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 10.2:
+        non_striker: ADS Fletcher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 10.3:
+        non_striker: KNA Bandara
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 10.4:
+        non_striker: KNA Bandara
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+        wicket:
+          player_out: CR Brathwaite
+          kind: lbw
+    - 10.5:
+        non_striker: KNA Bandara
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 10.6:
+        non_striker: KNA Bandara
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.1:
+        non_striker: Najibullah Zadran
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 11.2:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.3:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          kind: bowled
+    - 11.4:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 11.5:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 11.6:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 12.1:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 12.2:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 12.3:
+        non_striker: KNA Bandara
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 12.4:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 12.5:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+    - 12.6:
+        non_striker: PWH de Silva
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 13.1:
+        non_striker: PWH de Silva
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 13.2:
+        non_striker: KNA Bandara
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - Waqar Salamkheil
+          kind: caught
+    - 13.3:
+        non_striker: KNA Bandara
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 13.4:
+        non_striker: KNA Bandara
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 13.5:
+        non_striker: KNA Bandara
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: FA Allen
+    - 13.6:
+        non_striker: FA Allen
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNA Bandara
+    - 14.1:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 14.2:
+        non_striker: FA Allen
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 14.3:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 14.4:
+        non_striker: KNA Bandara
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 14.5:
+        non_striker: FA Allen
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KNA Bandara
+    - 14.6:
+        non_striker: FA Allen
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNA Bandara
+    - 15.1:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Allen
+    - 15.2:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 15.3:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 15.4:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Allen
+    - 15.5:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 15.6:
+        non_striker: KNA Bandara
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Allen
+    - 16.1:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KNA Bandara
+    - 16.2:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KNA Bandara
+    - 16.3:
+        non_striker: KNA Bandara
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Allen
+    - 16.4:
+        non_striker: KNA Bandara
+        bowler: JK Fuller
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FA Allen
+    - 16.5:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KNA Bandara
+        wicket:
+          player_out: KNA Bandara
+          fielders:
+          - Waqar Salamkheil
+          kind: caught
+    - 16.6:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 17.1:
+        non_striker: C Karunaratne
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Allen
+    - 17.2:
+        non_striker: C Karunaratne
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 17.3:
+        non_striker: FA Allen
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 17.4:
+        non_striker: C Karunaratne
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Allen
+    - 17.5:
+        non_striker: C Karunaratne
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Allen
+    - 17.6:
+        non_striker: C Karunaratne
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 18.1:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 18.2:
+        non_striker: C Karunaratne
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 18.3:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 18.4:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Karunaratne
+    - 18.5:
+        non_striker: FA Allen
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 18.6:
+        non_striker: C Karunaratne
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Allen
+    - 19.1:
+        non_striker: FA Allen
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 19.2:
+        non_striker: C Karunaratne
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Allen
+    - 19.3:
+        non_striker: C Karunaratne
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+        wicket:
+          player_out: FA Allen
+          kind: bowled
+    - 19.4:
+        non_striker: C Karunaratne
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 19.5:
+        non_striker: I Udana
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Karunaratne
+    - 19.6:
+        non_striker: I Udana
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Karunaratne
+- 2nd innings:
+    team: Jaffna Kings
+    deliveries:
+    - 0.1:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - Najibullah Zadran
+          kind: caught
+    - 0.6:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 1.1:
+        non_striker: DM de Silva
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 1.2:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 1.3:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 1.4:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 1.5:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 1.6:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 2.1:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.2:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 2.3:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 2.4:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 2.5:
+        non_striker: WIA Fernando
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 2.6:
+        non_striker: S Samarawickrama
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.1:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 3.2:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WIA Fernando
+    - 3.3:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 3.4:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 3.5:
+        non_striker: WIA Fernando
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 3.6:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.1:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 4.3:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 4.4:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 4.5:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 4.6:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.7:
+        non_striker: WIA Fernando
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 5.1:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 5.2:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 5.3:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 5.4:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 5.5:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 5.6:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.1:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.2:
+        non_striker: WIA Fernando
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 6.3:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.4:
+        non_striker: WIA Fernando
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 6.5:
+        non_striker: WIA Fernando
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 6.6:
+        non_striker: WIA Fernando
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 7.1:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 7.2:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 7.3:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 7.4:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 7.5:
+        non_striker: WIA Fernando
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 7.6:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          kind: bowled
+    - 8.1:
+        non_striker: Shoaib Malik
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 8.2:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.3:
+        non_striker: Shoaib Malik
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 8.4:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 8.5:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 8.6:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 9.1:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 9.2:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 9.3:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 9.4:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 9.5:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 9.6:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 10.1:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 10.2:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.3:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.4:
+        non_striker: Shoaib Malik
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 10.5:
+        non_striker: S Samarawickrama
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.6:
+        non_striker: Shoaib Malik
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 10.7:
+        non_striker: Shoaib Malik
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 11.1:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 11.2:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 11.3:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 11.4:
+        non_striker: S Samarawickrama
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 11.5:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: S Samarawickrama
+    - 11.6:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 11.7:
+        non_striker: Shoaib Malik
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 12.1:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          kind: lbw
+    - 12.2:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NLTC Perera
+    - 12.3:
+        non_striker: NLTC Perera
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 12.4:
+        non_striker: NLTC Perera
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 12.5:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 12.6:
+        non_striker: S Samarawickrama
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 13.1:
+        non_striker: NLTC Perera
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 13.2:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLTC Perera
+    - 13.3:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLTC Perera
+    - 13.4:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NLTC Perera
+    - 13.5:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 13.6:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.7:
+        non_striker: DN Wellalage
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 13.8:
+        non_striker: S Samarawickrama
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 14.1:
+        non_striker: JK Fuller
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 14.2:
+        non_striker: JK Fuller
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 14.3:
+        non_striker: JK Fuller
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 14.4:
+        non_striker: JK Fuller
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 14.5:
+        non_striker: JK Fuller
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 14.6:
+        non_striker: JK Fuller
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          kind: caught and bowled
+    - 15.1:
+        non_striker: V Viyaskanth
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 15.2:
+        non_striker: JK Fuller
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 15.3:
+        non_striker: V Viyaskanth
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JK Fuller
+    - 15.4:
+        non_striker: V Viyaskanth
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JK Fuller
+    - 15.5:
+        non_striker: V Viyaskanth
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JK Fuller
+    - 15.6:
+        non_striker: V Viyaskanth
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 16.1:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 16.2:
+        non_striker: JK Fuller
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 16.3:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 16.4:
+        non_striker: JK Fuller
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 16.5:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Fuller
+    - 16.6:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 17.1:
+        non_striker: V Viyaskanth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Fuller
+    - 17.2:
+        non_striker: JK Fuller
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Viyaskanth
+    - 17.3:
+        non_striker: JK Fuller
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 17.4:
+        non_striker: V Viyaskanth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Fuller
+    - 17.5:
+        non_striker: V Viyaskanth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Fuller
+        wicket:
+          player_out: JK Fuller
+          fielders:
+          - C Karunaratne
+          kind: caught
+    - 17.6:
+        non_striker: V Viyaskanth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 18.1:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Madushanka
+    - 18.2:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 18.3:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+        wicket:
+          player_out: D Madushanka
+          fielders:
+          - I Udana
+          kind: run out
+    - 18.4:
+        non_striker: Waqar Salamkheil
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 18.5:
+        non_striker: Waqar Salamkheil
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.6:
+        non_striker: V Viyaskanth
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Salamkheil
+    - 19.1:
+        non_striker: V Viyaskanth
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Salamkheil
+    - 19.2:
+        non_striker: Waqar Salamkheil
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Viyaskanth
+    - 19.3:
+        non_striker: Waqar Salamkheil
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 19.4:
+        non_striker: V Viyaskanth
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waqar Salamkheil
+    - 19.5:
+        non_striker: V Viyaskanth
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Salamkheil
+    - 19.6:
+        non_striker: V Viyaskanth
+        bowler: C Karunaratne
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Waqar Salamkheil
